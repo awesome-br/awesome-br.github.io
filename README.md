@@ -20,6 +20,8 @@ Nossa página [http://awesome-br.github.io](http://awesome-br.github.io) contém
 
 Para participar é necessário conhecimento em git/github. Caso esteja com dificuldades, leia [este artigo](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/). Após realizar o fork deste projeto, faça suas contribuições de acordo com a tecnologia em questão, alterando o arquivo `itens.json`. Por exemplo, se você deseja adicionar um link na categoria *Laravel*, edite o arquivo `laravel/itens.json` e faça o pull request. 
 
+Se você deseja adicionar uma nova tecnologia, abra uma [nova issue](https://github.com/awesome-br/awesome-br.github.io/issues/new) requisitando a entrada da tecnologia em questão.
+
 ## Participe
 
 Se o seu link foi selecionado, adicione o badge nele apontando para o nosso diretório:
@@ -34,6 +36,12 @@ Se o seu link foi selecionado, adicione o badge nele apontando para o nosso dire
 ![](https://img.shields.io/badge/awesome--br.github.io-angular-red.svg) 
 ```html
 <a href="http://awesome-br.github.io/angular"><img src="https://img.shields.io/badge/awesome--br.github.io-angular-red.svg"/></a>
+```
+
+## PHP
+![](https://img.shields.io/badge/awesome--br.github.io-php-blue.svg) 
+```html
+<a href="http://awesome-br.github.io/php"><img src="https://img.shields.io/badge/awesome--br.github.io-php-blue.svg"/></a>
 ```
 
 
