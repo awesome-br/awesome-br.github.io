@@ -23,6 +23,19 @@
     "author": {
       "name": "DAVI FERREIRA ",
       "url": "http://www.daviferreira.com/blog"
+    },
+      
+    {
+    "name": "Guia Definitivo para Aprender AngularJS em Um Dia",
+    "url": "http://javascriptbrasil.com/2013/10/18/guia-definitivo-para-aprender-angularjs-em-um-dia/",
+    "type": "artigo",
+    "tags": [
+      "introdução",
+      "aplicação"
+    ],
+    "author": {
+      "name": "Eric Oliveira",
+      "url": "http://javascriptbrasil.com/author/eric-oliveira/"
     }
   }
 ]
