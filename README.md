@@ -12,7 +12,10 @@
     - [Angular](#angular)
     - [PHP](#php)
     - [Vue](#vue)
+    - [React](#react)
+    - [Android](#android)
   - [Contribua como revisor](#contribua-como-revisor)
+  - [Como testar o awesome no seu computador](#como-testar-o-awesome-no-seu-computador)
 
 
 
@@ -108,5 +111,20 @@ Se o seu link foi selecionado, adicione o badge nele apontando para o nosso dire
 
 Você pode nos ajudar também como revisor, recebendo os pull requests e verificando se está tudo OK, inclusive  validando o formato JSON. Quanto mais revisores/colaboradores, melhor! Se quiser contribuir envie email para `danieljfa at gmail dot com` com o seu login do github.
 
+## Como testar o awesome no seu computador
 
+Antes de enviar o pull request para o nosso repositório central, recomendamos testar a execução do site no seu computador. Isso pode ser feito através de um servidor web simples, como o `http-server` provido pelo `node`. Para isso, é preciso instalar o `node` e `npm` no seu sistema operacional, o que pode ser facilmente feito através do [site oficial](https://nodejs.org/en/) para Windows, ou através do `sudo apt-get install npm` no linux (debian). 
+
+Após instalar o `node` e o `npm`, instale o `http-server` através do comando `npm install -g http-server`, e após a instalação, navegue até o diretório `awesome-br.github.io` e execute o comando `http-server`.
+
+A resposta que terá é algo semelhante a:
+
+```
+Starting up http-server, serving ./
+Available on:
+  http:127.0.0.1:8081
+  http:192.168.0.132:8081
+```
+
+Copie a URL, juntamente com a porta, e abra o site no navegador. 
 
