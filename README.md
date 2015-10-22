@@ -11,6 +11,7 @@
     - [Laravel](#laravel)
     - [Angular](#angular)
     - [PHP](#php)
+    - [Vue](#vue)
   - [Contribua como revisor](#contribua-como-revisor)
 
 
@@ -82,7 +83,7 @@ Se o seu link foi selecionado, adicione o badge nele apontando para o nosso dire
 ### VUE
 ![](https://img.shields.io/badge/awesome--br.github.io-vue-pink.svg) 
 ```html
-<a href="http://awesome-br.github.io/php">
+<a href="http://awesome-br.github.io/vue">
     <img src="https://img.shields.io/badge/awesome--br.github.io-vue-pink.svg"/>
 </a>
 ```
