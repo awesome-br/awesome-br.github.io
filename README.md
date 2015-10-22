@@ -3,7 +3,6 @@
 ![](https://avatars2.githubusercontent.com/u/15239593?v=3&s=100)
 <br/>
 <a href="http://awesome-br.github.io" target="_blank">awesome-br.github.io</a>
-</h1>
 
 ## Nossa Proposta
 
