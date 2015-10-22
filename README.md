@@ -11,6 +11,7 @@
     - [Laravel](#laravel)
     - [Angular](#angular)
     - [PHP](#php)
+  - [Contribua como revisor](#contribua-como-revisor)
 
 
 
@@ -78,7 +79,9 @@ Se o seu link foi selecionado, adicione o badge nele apontando para o nosso dire
 </a>
 ```
 
+## Contribua como revisor
 
+Você pode nos ajudar também como revisor, recebendo os pull requests e verificando se está tudo OK, inclusive  validando o formato JSON. Quanto mais revisores/colaboradores, melhor! Se quiser contribuir envie email para `danieljfa at gmail dot com` com o seu login do github.
 
 
 
