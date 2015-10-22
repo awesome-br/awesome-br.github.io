@@ -6,6 +6,16 @@
 <img src="https://cloud.githubusercontent.com/assets/1509692/10661390/79f3033a-788c-11e5-97df-a90e5e5a4f49.png"/>
 </h1>
 
+  - [Nossa Proposta](#nossa-proposta)
+  - [Como funciona](#como-funciona)
+  - [Como Participar](#como-participar)
+  - [Adicione no seu site também!](#adicione-no-seu-site-tamb%C3%A9m)
+    - [Laravel](#laravel)
+    - [Angular](#angular)
+    - [PHP](#php)
+
+
+
 ## Nossa Proposta
 
 Awesome BR possui um formato aberto a comunidade que deseja compartilhar conteúdo de qualidade frente às tecnologias mais atuais do mercado. 
@@ -62,7 +72,7 @@ Se o seu link foi selecionado, adicione o badge nele apontando para o nosso dire
 </a>
 ```
 
-## PHP
+### PHP
 ![](https://img.shields.io/badge/awesome--br.github.io-php-blue.svg) 
 ```html
 <a href="http://awesome-br.github.io/php">
