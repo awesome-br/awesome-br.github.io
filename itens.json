@@ -19,5 +19,12 @@
     "type": "Javascript Framework",
     "tags": [
     ]
+  } ,
+  {
+    "name": "Vue",
+    "url": "/vue",
+    "type": "Javascript Framework",
+    "tags": [
+    ]
   }  
 ]
