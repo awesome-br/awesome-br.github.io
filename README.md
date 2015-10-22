@@ -22,7 +22,27 @@ Para participar é necessário conhecimento em git/github. Caso esteja com dific
 
 Se você deseja adicionar uma nova tecnologia, abra uma [nova issue](https://github.com/awesome-br/awesome-br.github.io/issues/new) requisitando a entrada da tecnologia em questão.
 
-## Participe
+O formato para um novo item em qualquer tecnologia é:
+
+```javascript
+  {
+    "name": "Título do link",
+    "url": "Url do link",
+    "type": "Tipo",
+    "tags": [
+      "tags",
+      "tags"
+    ],
+    "author": {
+      "name": "Nome do autor",
+      "url": "Url do site do autor"
+    }
+  }
+``` 
+O tipo pode ser: artigo, tutorial, dica, livro, vídeo, screencast,código etc
+
+
+## Adicione no seu site também!
 
 Se o seu link foi selecionado, adicione o badge nele apontando para o nosso diretório:
 
