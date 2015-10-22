@@ -1,0 +1,28 @@
+[
+  {
+    "name": "AngularJS na prática",
+    "url": "https://leanpub.com/livro-angularJS",
+    "type": "livros",
+    "tags": [
+      "introdução",
+      "ebook"
+    ],
+    "author": {
+      "name": "Daniel Pace Schmitz",
+      "url": "https://leanpub.com/u/danielschmitz"
+    }
+  },  
+    {
+    "name": "Criando uma aplicação simples com AngularJS",
+    "url": "http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/",
+    "type": "artigo",
+    "tags": [
+      "introdução",
+      "aplicação"
+    ],
+    "author": {
+      "name": "DAVI FERREIRA ",
+      "url": "http://www.daviferreira.com/blog"
+    }
+  }
+]
