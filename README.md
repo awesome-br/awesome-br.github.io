@@ -1,10 +1,9 @@
 
 <h1 align="center">
-![](https://avatars2.githubusercontent.com/u/15239593?v=3&s=100)
+<img src="https://avatars2.githubusercontent.com/u/15239593?v=3&s=100"/>
 <br/>
 <a href="http://awesome-br.github.io" target="_blank">awesome-br.github.io</a>
-
-## Nossa Proposta
+</h1>
 
 Awesome BR possui um formato aberto a comunidade que deseja compartilhar conteúdo de qualidade frente às tecnologias mais atuais do mercado. 
 
