@@ -1,9 +1,23 @@
 [
   {
-    "name": "PHP",
-    "url": "http://php.net",
+    "name": "Documentação oficial em português",
+    "url": "http://php.net/manual/pt_BR/",
     "type": "Url",
     "tags": [
+    	"documentação"
     ]
-  }
+  },
+ {
+    "name": "7 funções essenciais do PHP que você deve conhecer",
+    "url": "http://tableless.com.br/7-funcoes-essenciais-php-que-voce-deve-conhecer/",
+    "type": "artigo",
+    "tags": [
+      "funções",
+      "api"
+    ],
+    "author": {
+      "name": "ADRIANO DOS SANTOS JÚNIOR",
+      "url": "http://www.adrianojr.com/"
+    }
+  },  
 ]
