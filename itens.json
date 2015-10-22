@@ -26,5 +26,12 @@
     "type": "Javascript Framework",
     "tags": [
     ]
-  }  
+  },
+    {
+    "name": "React",
+    "url": "/react",
+    "type": "Javascript Framework",
+    "tags": [
+    ]
+  }    
 ]
