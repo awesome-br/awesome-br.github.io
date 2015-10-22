@@ -96,7 +96,7 @@ Se o seu link foi selecionado, adicione o badge nele apontando para o nosso dire
 </a>
 ```
 
-### React
+### Android
 ![](https://img.shields.io/badge/awesome--br.github.io-android-red.svg) 
 ```html
 <a href="http://awesome-br.github.io/android">
