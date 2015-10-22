@@ -11,5 +11,19 @@
       "name": "Dani Guerrato",
       "url": "https://twitter.com/daniguerrato"
     }
+  },
+ {
+    "name": "Como inserir máscara em um EditText",
+    "url": "http://jansenfelipe.com.br/2015/05/08/android-como-inserir-mascara-em-um-edittext/",
+    "type": "artigo",
+    "tags": [
+      "package",
+      "edittext",
+      "mascara"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "https://jansenfelipe.com.br"
+    }
   }
 ]
