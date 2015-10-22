@@ -1,6 +1,5 @@
 
 <h1 align="center">
-<img src="https://avatars2.githubusercontent.com/u/15239593?v=3&s=100"/>
 <br/>
 <a href="http://awesome-br.github.io" target="_blank">awesome-br.github.io</a>
 <img src="https://cloud.githubusercontent.com/assets/1509692/10661390/79f3033a-788c-11e5-97df-a90e5e5a4f49.png"/>
