@@ -79,6 +79,14 @@ Se o seu link foi selecionado, adicione o badge nele apontando para o nosso dire
 </a>
 ```
 
+### VUE
+![](https://img.shields.io/badge/awesome--br.github.io-vue-pink.svg) 
+```html
+<a href="http://awesome-br.github.io/php">
+    <img src="https://img.shields.io/badge/awesome--br.github.io-vue-pink.svg"/>
+</a>
+```
+
 ## Contribua como revisor
 
 Você pode nos ajudar também como revisor, recebendo os pull requests e verificando se está tudo OK, inclusive  validando o formato JSON. Quanto mais revisores/colaboradores, melhor! Se quiser contribuir envie email para `danieljfa at gmail dot com` com o seu login do github.
