@@ -20,13 +20,13 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="">Awesome BR</a>
+                <a class="navbar-brand" href=""><b>PHP</b></a> 
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="nav navbar-nav navbar-right" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav ">
                     <li>
-                    	
+                    	<a href="/index.html">Voltar</a>
                     </li>
                 </ul>
             </div>
@@ -36,13 +36,17 @@
     </nav>
     <div class="container" ng-controller="filterFormController">
     	<div class="row">
-    		<form class="col-md-12" id="form-filter">
 
+    		<form class="col-md-12" id="form-filter">
+    <ol class="breadcrumb">
+                      <li><a href="/">Home</a></li>
+                      <li>PHP</li>
+                  </ol> 
                 <div class="form-group has-feedback">
                         <input type="search"
                                ng-model="query"
                                class="form-control input-lg"
-                               placeholder="Pesquise pelas tecnologias disponíveis">
+                               placeholder="Pesquise por títulos, tags ou categorias...">
 
                         <span ng-show="query" ng-click="setFilter('')" class="clear-filter form-control-feedback">Limpar</span>
                 </div>
