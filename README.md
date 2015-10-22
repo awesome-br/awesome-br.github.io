@@ -96,6 +96,14 @@ Se o seu link foi selecionado, adicione o badge nele apontando para o nosso dire
 </a>
 ```
 
+### React
+![](https://img.shields.io/badge/awesome--br.github.io-android-red.svg) 
+```html
+<a href="http://awesome-br.github.io/android">
+    <img src="https://img.shields.io/badge/awesome--br.github.io-android-red.svg"/>
+</a>
+```
+
 ## Contribua como revisor
 
 Você pode nos ajudar também como revisor, recebendo os pull requests e verificando se está tudo OK, inclusive  validando o formato JSON. Quanto mais revisores/colaboradores, melhor! Se quiser contribuir envie email para `danieljfa at gmail dot com` com o seu login do github.
