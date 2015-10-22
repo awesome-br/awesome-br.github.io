@@ -49,19 +49,25 @@ Se o seu link foi selecionado, adicione o badge nele apontando para o nosso dire
 ### Laravel
 ![](https://img.shields.io/badge/awesome--br.github.io-laravel-orange.svg) 
 ```html
-<a href="http://awesome-br.github.io/laravel"><img src="https://img.shields.io/badge/awesome--br.github.io-laravel-orange.svg"/></a>
+<a href="http://awesome-br.github.io/laravel">
+    <img src="https://img.shields.io/badge/awesome--br.github.io-laravel-orange.svg"/>
+</a>
 ```
 
 ### Angular
 ![](https://img.shields.io/badge/awesome--br.github.io-angular-red.svg) 
 ```html
-<a href="http://awesome-br.github.io/angular"><img src="https://img.shields.io/badge/awesome--br.github.io-angular-red.svg"/></a>
+<a href="http://awesome-br.github.io/angular">
+    <img src="https://img.shields.io/badge/awesome--br.github.io-angular-red.svg"/>
+</a>
 ```
 
 ## PHP
 ![](https://img.shields.io/badge/awesome--br.github.io-php-blue.svg) 
 ```html
-<a href="http://awesome-br.github.io/php"><img src="https://img.shields.io/badge/awesome--br.github.io-php-blue.svg"/></a>
+<a href="http://awesome-br.github.io/php">
+    <img src="https://img.shields.io/badge/awesome--br.github.io-php-blue.svg"/>
+</a>
 ```
 
 
