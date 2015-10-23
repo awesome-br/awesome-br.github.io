@@ -1,0 +1,31 @@
+[{
+  "name": "PHP",
+  "url": "#/php",
+  "type": "Server Side Language",
+  "tags": []
+}, {
+  "name": "Laravel",
+  "url": "#/laravel",
+  "type": "PHP Framework",
+  "tags": []
+}, {
+  "name": "Angular",
+  "url": "#/angular",
+  "type": "Javascript Framework",
+  "tags": []
+}, {
+  "name": "Vue",
+  "url": "#/vue",
+  "type": "Javascript Framework",
+  "tags": []
+}, {
+  "name": "React",
+  "url": "#/react",
+  "type": "Javascript Framework",
+  "tags": []
+}, {
+  "name": "Android",
+  "url": "#/android",
+  "type": "Plataforma Mobile",
+  "tags": []
+}]

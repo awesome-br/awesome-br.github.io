@@ -3,10 +3,7 @@
     "name": "React: JavaScript reativo",
     "url": "http://tableless.com.br/react-javascript-reativo/",
     "type": "artigo",
-    "tags": [
-      "",
-      ""
-    ],
+    "tags": [],
     "author": {
       "name": "DAVI FERREIRA",
       "url": "http://www.daviferreira.com/posts"
@@ -16,10 +13,7 @@
     "name": "Flux: Entenda como funciona a arquitetura Flux com React",
     "url": "http://tableless.com.br/flux-entenda-como-funciona-arquitetura-flux-com-react/",
     "type": "artigo",
-    "tags": [
-      "",
-      ""
-    ],
+    "tags": [],
     "author": {
       "name": "Macgyver Martins",
       "url": "http://macgyvermartins.com.br/"
