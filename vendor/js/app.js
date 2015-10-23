@@ -17,7 +17,7 @@
         templateUrl: 'views/home.html',
         controller: 'homeController'
       })
-			.when('/:sectionName', {
+      .when('/:sectionName', {
         templateUrl: 'views/section.html',
         controller: 'sectionController'
       });
@@ -33,7 +33,7 @@
 
   }])
 
-	.controller('homeController', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
+  .controller('homeController', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
     var init = function() {
       $http.get('sections.json')
         .then(function(_response) {
@@ -42,6 +42,8 @@
     };
 
     $scope.itens = [];
+
+    $scope.formPlaceholder = 'Pesquise pelas tecnologias disponíveis';
 
     init();
   }])
@@ -57,6 +59,8 @@
     };
 
     $scope.itens = [];
+
+    $scope.formPlaceholder = 'Pesquise por títulos, tags ou categorias...';
 
     $scope.setFilter = function(_value) {
       $scope.query = _value;
