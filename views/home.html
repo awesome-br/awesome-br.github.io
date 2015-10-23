@@ -5,35 +5,8 @@
       <p>Awesome BR é uma coleção de links nas mais diversas tecnologias, mantido pela comunidade e para a comunidade. Você pode contribuir livremente com novos links, basta seguir as <a href="https://github.com/awesome-br/awesome-br.github.io" target="_blank">instruções aqui</a></p>
     </div>
 
-    <form class="col-md-12" id="form-filter">
-
-      <div class="form-group has-feedback">
-        <input type="search" ng-model="query" class="form-control input-lg" placeholder="Pesquise pelas tecnologias disponíveis">
-
-        <span ng-show="query" ng-click="setFilter('')" class="clear-filter form-control-feedback">Limpar</span>
-      </div>
-
-    </form>
+    <ng-include src="'/views/parts/form.html'"></ng-include>
   </div>
 
-  <div class="row" ng-show="filteredItens.length" isotope-container="isotope-container">
-    <div class="col-md-4" ng-repeat="item in filteredItens = (itens | filter:query)" isotope-item="isotope-item">
-      <div class="widget">
-        <a class="label label-default" title="Clique para filtrar" ng-click="setFilter(item.type)">
-          {{ item.type }}
-      </a>
-        <!-- /.label -->
-        <a href="{{ item.url }}" class="title">{{ item.name }}</a>
-        <footer>
-          <a class="label label-warning" title="Clique para filtrar" ng-click="setFilter(tag)" ng-repeat="tag in item.tags">
-          {{ tag }}
-      </a>
-        </footer>
-      </div>
-      <!-- /.widget -->
-    </div>
-  </div>
-  <div ng-hide="filteredItens.length" class="text-center">
-    Oops, nada encontrado.
-  </div>
+   <ng-include src="'/views/parts/loop-itens.html'"></ng-include>
 </div>
