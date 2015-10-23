@@ -1,17 +1,23 @@
 (function() {
-  angular.module('awesome', ['iso.directives', 'ngRoute'])
-    .directive('widget', function() {
-      return {
-        restrict: 'C',
-        link: function(scope, elem, attrs) {
-          $(elem).geopattern(scope.item.name, {
-            generator: 'squares'
-          });
-        }
-      };
-    })
+  var app = angular.module('awesome', ['iso.directives', 'ngRoute']);
+  /**
+   * widget class directive
+   */
+  app.directive('widget', function() {
+    return {
+      restrict: 'C',
+      link: function(scope, elem, attrs) {
+        $(elem).geopattern(scope.item.name, {
+          generator: 'squares'
+        });
+      }
+    };
+  });
 
-  .config(['$routeProvider', function($routeProvider) {
+  /**
+   * Configs (routes)
+   */
+  app.config(['$routeProvider', function($routeProvider) {
     $routeProvider
       .when('/', {
         templateUrl: 'views/home.html',
@@ -21,19 +27,28 @@
         templateUrl: 'views/section.html',
         controller: 'sectionController'
       });
-  }])
+  }]);
 
-  .run(['$rootScope', function($rootScope) {
+  /**
+   * Run (events)
+   */
+  app.run(['$rootScope', function($rootScope) {
     $rootScope.$on('$routeChangeSuccess', function(scope, data) {
       $rootScope.currentController = data.controller;
     });
-  }])
+  }]);
 
-  .controller('mainController', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
+  /**
+   * Main Controller
+   */
+  app.controller('mainController', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
 
-  }])
+  }]);
 
-  .controller('homeController', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
+ /**
+  * Home Controller
+  */
+  app.controller('homeController', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
     var init = function() {
       $http.get('sections.json')
         .then(function(_response) {
@@ -48,7 +63,10 @@
     init();
   }])
 
-  .controller('sectionController', ['$scope', '$http', '$timeout', '$routeParams', function($scope, $http, $timeout, $routeParams) {
+  /**
+   * Section Controller
+   */
+  app.controller('sectionController', ['$scope', '$http', '$timeout', '$routeParams', function($scope, $http, $timeout, $routeParams) {
     var init = function() {
       var file = 'sections/' + $routeParams.sectionName + '.json';
 
