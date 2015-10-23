@@ -1,5 +1,6 @@
 (function() {
   var app = angular.module('awesome', ['iso.directives', 'ngRoute']);
+  
   /**
    * widget class directive
    */
@@ -14,7 +15,9 @@
     };
   });
 
-
+ /**
+  * loop-itens directive
+  */
   app.directive('loopItens', function() {
     return {
       restrict: 'E',
@@ -24,7 +27,7 @@
         itens: '=',
         query: '='
       },
-      controller: ['$scope', '$timeout', function($scope, $timeout){
+      controller: ['$scope', '$timeout', function($scope, $timeout) {
         $scope.setFilter = function(_value) {
           $scope.query = _value;
         };
@@ -41,6 +44,9 @@
     };
   });
 
+  /**
+   * filter-form directive
+   */
   app.directive('filterForm', function() {
     return {
       restrict: 'E',
@@ -50,7 +56,7 @@
         planceholder: '=',
         query: '='
       },
-      controller: ['$scope', function($scope){
+      controller: ['$scope', function($scope) {
         $scope.clearFilter = function() {
           $scope.query = '';
         }
@@ -89,9 +95,9 @@
 
   }]);
 
- /**
-  * Home Controller
-  */
+  /**
+   * Home Controller
+   */
   app.controller('homeController', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
     var init = function() {
       $http.get('sections.json')
