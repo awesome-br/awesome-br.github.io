@@ -14,6 +14,50 @@
     };
   });
 
+
+  app.directive('loopItens', function() {
+    return {
+      restrict: 'E',
+      templateUrl: '/views/parts/loop-itens.html',
+      require: '^itens',
+      scope: {
+        itens: '=',
+        query: '='
+      },
+      controller: ['$scope', '$timeout', function($scope, $timeout){
+        $scope.setFilter = function(_value) {
+          $scope.query = _value;
+        };
+
+        $scope.$watch('query', function(a) {
+          $timeout(function() {
+            $scope.$emit('iso-method', {
+              name: 'arrange',
+              params: null
+            });
+          }, 600);
+        });
+      }]
+    };
+  });
+
+  app.directive('filterForm', function() {
+    return {
+      restrict: 'E',
+      templateUrl: '/views/parts/form.html',
+      require: '^planceholder',
+      scope: {
+        planceholder: '=',
+        query: '='
+      },
+      controller: ['$scope', function($scope){
+        $scope.clearFilter = function() {
+          $scope.query = '';
+        }
+      }]
+    };
+  });
+
   /**
    * Configs (routes)
    */
@@ -59,7 +103,6 @@
 
     $scope.itens = [];
     $scope.spinner = true;
-    $scope.formPlaceholder = 'Pesquise pelas tecnologias disponíveis';
 
     init();
   }])
@@ -67,7 +110,7 @@
   /**
    * Section Controller
    */
-  app.controller('sectionController', ['$scope', '$http', '$timeout', '$routeParams', function($scope, $http, $timeout, $routeParams) {
+  app.controller('sectionController', ['$rootScope', '$scope', '$http', '$timeout', '$routeParams', function($rootScope, $scope, $http, $timeout, $routeParams) {
     var init = function() {
       var file = 'sections/' + $routeParams.sectionName + '.json';
 
@@ -80,20 +123,6 @@
 
     $scope.itens = [];
     $scope.spinner = true;
-    $scope.formPlaceholder = 'Pesquise por títulos, tags ou categorias...';
-
-    $scope.setFilter = function(_value) {
-      $scope.query = _value;
-    }
-
-    $scope.$watch('query', function() {
-      $timeout(function() {
-        $scope.$emit('iso-method', {
-          name: 'arrange',
-          params: null
-        })
-      }, 600);
-    });
 
     init();
   }]);
