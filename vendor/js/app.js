@@ -53,11 +53,12 @@
       $http.get('sections.json')
         .then(function(_response) {
           $scope.itens = _response.data;
+          $scope.spinner = false;
         });
     };
 
     $scope.itens = [];
-
+    $scope.spinner = true;
     $scope.formPlaceholder = 'Pesquise pelas tecnologias disponíveis';
 
     init();
@@ -73,11 +74,12 @@
       $http.get(file)
         .then(function(_response) {
           $scope.itens = _response.data;
+          $scope.spinner = false;
         });
     };
 
     $scope.itens = [];
-
+    $scope.spinner = true;
     $scope.formPlaceholder = 'Pesquise por títulos, tags ou categorias...';
 
     $scope.setFilter = function(_value) {
