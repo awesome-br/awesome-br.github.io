@@ -1,0 +1,14 @@
+[
+ {
+    "name": "O que há de novo no Rails 5",
+    "url": "http://tableless.com.br/novidades-do-rails-5/",
+    "type": "artigo",
+    "tags": [
+      "iniciante"      
+    ],
+    "author": {
+      "name": "João Almeida",
+      "url": "http://twitter.com/joaorsalmeida"
+    }
+  }
+]

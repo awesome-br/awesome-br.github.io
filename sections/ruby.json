@@ -1,0 +1,14 @@
+[
+ {
+    "name": "Aprenda a programar",
+    "url": "http://www.jmonteiro.com/aprendaaprogramar/",
+    "type": "tutorial",
+    "tags": [
+      "iniciante"      
+    ],
+    "author": {
+      "name": "Diversos",
+      "url": ""
+    }
+  }
+]

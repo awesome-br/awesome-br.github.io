@@ -1,31 +1,111 @@
-[{
+[
+{
   "name": "PHP",
   "url": "#/php",
-  "type": "Server Side Language",
+  "type": "Linguagem de programação",
   "tags": []
-}, {
+}, 
+{
+  "name": "Javascript",
+  "url": "#/javascript",
+  "type": "Linguagem de programação",
+  "tags": []
+},
+{
+  "name": "Python",
+  "url": "#/python",
+  "type": "Linguagem de programação",
+  "tags": []
+},
+{
+  "name": "Ruby",
+  "url": "#/ruby",
+  "type": "Linguagem de programação",
+  "tags": []
+},
+{
   "name": "Laravel",
   "url": "#/laravel",
   "type": "PHP Framework",
   "tags": []
-}, {
+}, 
+{
   "name": "Angular",
   "url": "#/angular",
-  "type": "Javascript Framework",
+  "type": "Framework Javascript",
   "tags": []
-}, {
+}, 
+{
   "name": "Vue",
   "url": "#/vue",
-  "type": "Javascript Framework",
+  "type": "Framework Javascript",
   "tags": []
-}, {
+}, 
+{
   "name": "React",
   "url": "#/react",
-  "type": "Javascript Framework",
+  "type": "Framework Javascript",
   "tags": []
-}, {
+}, 
+{
+  "name": "Ember.JS",
+  "url": "#/ember",
+  "type": "Framework Javascript",
+  "tags": []
+},
+{
   "name": "Android",
   "url": "#/android",
   "type": "Plataforma Mobile",
   "tags": []
-}]
+}
+, 
+{
+  "name": "Java",
+  "url": "#/java",
+  "type": "Plataforma de desenvolvimento",
+  "tags": []
+}, 
+{
+  "name": "CSS",
+  "url": "#/css",
+  "type": "Folha de Estilo",
+  "tags": []
+},
+{
+  "name": "Grunt",
+  "url": "#/grunt",
+  "type": "Ferramenta de Automação",
+  "tags": []
+},
+{
+  "name": "Gulp",
+  "url": "#/gulp",
+  "type": "Ferramenta de Automação",
+  "tags": []
+},
+{
+  "name": "Node",
+  "url": "#/node",
+  "type": "Javascript runtime",
+  "tags": []
+},
+{
+  "name": "Ruby on Rails",
+  "url": "#/rails",
+  "type": "Ruby Framework",
+  "tags": []
+},
+{
+  "name": "Git",
+  "url": "#/git",
+  "type": "Controle de versão",
+  "tags": []
+}, 
+{
+  "name": "HTML",
+  "url": "#/html",
+  "type": "Marcação de texto",
+  "tags": []
+}
+]

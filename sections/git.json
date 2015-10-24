@@ -1,0 +1,14 @@
+[
+ {
+    "name": "Tudo que você queria saber sobre Git e GitHub",
+    "url": "http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/",
+    "type": "artigo",
+    "tags": [
+      "iniciante","github"      
+    ],
+    "author": {
+      "name": "Daniel Schmitz",
+      "url": "http://www.danielschmitz.com.br"
+    }
+  }
+]

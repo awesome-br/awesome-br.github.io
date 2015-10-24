@@ -1,0 +1,39 @@
+[
+ {
+    "name": "Aprenda a programar em Python",
+    "url": "http://wiki.python.org.br/AprendaProgramar",
+    "type": "curso",
+    "tags": [
+      "introdução","curso","básico"      
+    ],
+    "author": {
+      "name": "Python Brasil",
+      "url": "http://wiki.python.org.br/"
+    }
+  },
+   {
+    "name": "Curso Básico Python",
+    "url": "https://www.codecademy.com/pt-BR/tracks/python",
+    "type": "curso",
+    "tags": [
+      "introdução","curso","básico"      
+    ],
+    "author": {
+      "name": "CodeAcademy",
+      "url": "https://www.codecademy.com"
+    }
+  },
+{
+    "name": "Tutorial de Python",
+    "url": "http://turing.com.br/pydoc/2.7/tutorial/",
+    "type": "curso",
+    "tags": [
+      "introdução","tutorial"      
+    ],
+    "author": {
+      "name": "Rodrigo Senra e outros",
+      "url": "http://code.google.com/p/pydoc-br/source/browse/CREDITOS.txt"
+    }
+  }  
+]
+

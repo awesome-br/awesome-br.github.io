@@ -1,0 +1,27 @@
+[
+ {
+    "name": "Informações gerais sobre Javascript",
+    "url": "http://pt.stackoverflow.com/tags/javascript/info",
+    "type": "documentação",
+    "tags": [
+      "introdução",
+      "definição"
+    ],
+    "author": {
+      "name": "stackoverflow",
+      "url": "http://pt.stackoverflow.com/tags/javascript/info"
+    }
+  },
+{
+    "name": "Curso básico Javascript",
+    "url": "https://www.codecademy.com/pt-BR/tracks/javascript",
+    "type": "curso",
+    "tags": [
+      "introdução","curso"      
+    ],
+    "author": {
+      "name": "CodeAcademy",
+      "url": "https://www.codecademy.com/pt-BR/tracks/javascript"
+    }
+  }  
+]
