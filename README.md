@@ -10,8 +10,6 @@
   - [Contribua como revisor](#contribua-como-revisor)
   - [Como testar o awesome no seu computador](#como-testar-o-awesome-no-seu-computador)
 
-
-
 ## Nossa Proposta
 
 Awesome BR possui um formato aberto a comunidade que deseja compartilhar conteúdo de qualidade frente às tecnologias mais atuais do mercado. 
@@ -67,4 +65,6 @@ Available on:
 ```
 
 Copie a URL, juntamente com a porta, e abra o site no navegador. 
+
+**Dica**: Use `ctrl+shift+r` para atualizar o cache após alterar os arquivos .json.
 
