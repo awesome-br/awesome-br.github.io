@@ -107,5 +107,17 @@
   "url": "#/html",
   "type": "Marcação de texto",
   "tags": []
+},
+{
+  "name": "Vagrant",
+  "url": "#/vagrant",
+  "type": "Virtualização",
+  "tags": []
+},
+{
+  "name": "Docker",
+  "url": "#/docker",
+  "type": "Virtualização",
+  "tags": []
 }
 ]
