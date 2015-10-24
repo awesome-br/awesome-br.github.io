@@ -20,7 +20,7 @@ Awesome BR possui um formato aberto a comunidade que deseja compartilhar conteú
 
 ## Como funciona
 
-Nossa página [http://awesome-br.github.io](http://awesome-br.github.io) contém uma lista buscável de tecnologias, e cada tecnologia possui uma lista de links apontando para o melhor conteúdo em português da web. Todas as contribuições são feitas pela comunidade, todos podem participar. 
+Nossa página [http://awesome-br.github.io](http://awesome-br.github.io) contém uma lista buscável de tecnologias, e cada tecnologia possui uma lista de links apontando para o melhor conteúdo em português da web. Todas as contribuições são feitas pela comunidade, todos podem participar.
 
 ## Como Participar
 
@@ -49,7 +49,7 @@ O tipo pode ser: artigo, tutorial, dica, livro, vídeo, screencast,código etc
 
 ## Contribua como revisor
 
-Você pode nos ajudar também como revisor, recebendo os pull requests e verificando se está tudo OK, inclusive  validando o formato JSON. Quanto mais revisores/colaboradores, melhor! Se quiser contribuir envie email para `danieljfa at gmail dot com` com o seu login do github.
+Você pode nos ajudar também como revisor, recebendo os pull requests e verificando se está tudo OK, inclusive  validando o formato JSON. Quanto mais revisores/colaboradores, melhor! Se quiser contribuir abra uma issue requisitando.
 
 ## Como testar o awesome no seu computador
 
