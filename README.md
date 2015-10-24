@@ -7,13 +7,6 @@
   - [Nossa Proposta](#nossa-proposta)
   - [Como funciona](#como-funciona)
   - [Como Participar](#como-participar)
-  - [Adicione no seu site também!](#adicione-no-seu-site-tamb%C3%A9m)
-    - [Laravel](#laravel)
-    - [Angular](#angular)
-    - [PHP](#php)
-    - [Vue](#vue)
-    - [React](#react)
-    - [Android](#android)
   - [Contribua como revisor](#contribua-como-revisor)
   - [Como testar o awesome no seu computador](#como-testar-o-awesome-no-seu-computador)
 
@@ -53,59 +46,6 @@ O formato para um novo item em qualquer tecnologia é:
   }
 ``` 
 O tipo pode ser: artigo, tutorial, dica, livro, vídeo, screencast,código etc
-
-
-## Adicione no seu site também!
-
-Se o seu link foi selecionado, adicione o badge nele apontando para o nosso diretório:
-
-### Laravel
-![](https://img.shields.io/badge/awesome--br.github.io-laravel-orange.svg) 
-```html
-<a href="http://awesome-br.github.io/laravel">
-    <img src="https://img.shields.io/badge/awesome--br.github.io-laravel-orange.svg"/>
-</a>
-```
-
-### Angular
-![](https://img.shields.io/badge/awesome--br.github.io-angular-red.svg) 
-```html
-<a href="http://awesome-br.github.io/angular">
-    <img src="https://img.shields.io/badge/awesome--br.github.io-angular-red.svg"/>
-</a>
-```
-
-### PHP
-![](https://img.shields.io/badge/awesome--br.github.io-php-blue.svg) 
-```html
-<a href="http://awesome-br.github.io/php">
-    <img src="https://img.shields.io/badge/awesome--br.github.io-php-blue.svg"/>
-</a>
-```
-
-### VUE
-![](https://img.shields.io/badge/awesome--br.github.io-vue-pink.svg) 
-```html
-<a href="http://awesome-br.github.io/vue">
-    <img src="https://img.shields.io/badge/awesome--br.github.io-vue-pink.svg"/>
-</a>
-```
-
-### React
-![](https://img.shields.io/badge/awesome--br.github.io-react-blue.svg) 
-```html
-<a href="http://awesome-br.github.io/react">
-    <img src="https://img.shields.io/badge/awesome--br.github.io-react-blue.svg"/>
-</a>
-```
-
-### Android
-![](https://img.shields.io/badge/awesome--br.github.io-android-red.svg) 
-```html
-<a href="http://awesome-br.github.io/android">
-    <img src="https://img.shields.io/badge/awesome--br.github.io-android-red.svg"/>
-</a>
-```
 
 ## Contribua como revisor
 
