@@ -4,11 +4,37 @@
     "url": "http://tableless.com.br/sass-um-outro-metodo-de-escrever-css/",
     "type": "artigo",
     "tags": [
-      "sass"      
+      "sass"
     ],
     "author": {
       "name": "Thaiana Poplade",
       "url": "http://about.me/thaianapoplade"
+    }
+  },
+  {
+    "name": "Visão Geral sobre LESS",
+    "url": "https://codecasts.com.br/lesson/visao-geral-less",
+    "type": "screencast",
+    "tags": [
+      "less",
+      "preprocessor"
+    ],
+    "author": {
+      "name": "Vinicius Reis",
+      "url": "https://github.com/vinicius73"
+    }
+  },
+  {
+    "name": "Less Váriaveis Parte 1",
+    "url": "https://codecasts.com.br/lesson/less-variaveis-parte-1",
+    "type": "screencast",
+    "tags": [
+      "less",
+      "preprocessor"
+    ],
+    "author": {
+      "name": "Vinicius Reis",
+      "url": "https://github.com/vinicius73"
     }
   }
 ]

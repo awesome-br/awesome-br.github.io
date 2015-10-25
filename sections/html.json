@@ -10,5 +10,18 @@
       "name": "Rodrigo Simoni",
       "url": "http://conversion.com.br/"
     }
+  },
+  {
+    "name": "Conheça o Emmet",
+    "url": "https://codecasts.com.br/lesson/conheca-emmet",
+    "type": "screencast",
+    "tags": [
+      "html",
+      "dica"
+    ],
+    "author": {
+      "name": "Vinicius Reis",
+      "url": "https://github.com/vinicius73"
+    }
   }
 ]
