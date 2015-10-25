@@ -756,4 +756,16 @@
     "name": "Jansen Felipe",
     "url": "http://jansenfelipe.com.br"
   }
+}, {
+  "name": "Laravel cors",
+  "url": "https://www.youtube.com/watch?v=6vBSI4Dz63c",
+  "type": "screencast",
+  "tags": [
+    "modules",
+    "package"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
 }]
