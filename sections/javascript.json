@@ -23,5 +23,17 @@
       "name": "CodeAcademy",
       "url": "https://www.codecademy.com/pt-BR/tracks/javascript"
     }
+  },
+{
+    "name": "WebPlataform - Your Web, Documented",
+    "url": "http://www.webplatform.org/",
+    "type": "dica",
+    "tags": [
+      "html","css","javascript"      
+    ],
+    "author": {
+      "name": "W3C",
+      "url": "http://www.w3.org/"
+    }
   }  
 ]
