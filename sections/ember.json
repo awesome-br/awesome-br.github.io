@@ -1,14 +1,12 @@
-[
- {
-    "name": "Ember para iniciantes",
-    "url": "http://tableless.com.br/serie-emberjs-iniciante-parte1/",
-    "type": "curso",
-    "tags": [
-      "introdução"      
-    ],
-    "author": {
-      "name": "Anderson de Castro",
-      "url": "http://twitter.com/ander_decastro"
-    }
+[{
+  "name": "Ember para iniciantes",
+  "url": "http://tableless.com.br/serie-emberjs-iniciante-parte1/",
+  "type": "curso",
+  "tags": [
+    "introdução"
+  ],
+  "author": {
+    "name": "Anderson de Castro",
+    "url": "http://twitter.com/ander_decastro"
   }
-]
+}]
