@@ -22,7 +22,7 @@ Nossa página [http://awesome-br.github.io](http://awesome-br.github.io) contém
 
 ## Como Participar
 
-Para participar é necessário conhecimento em git/github. Caso esteja com dificuldades, leia [este artigo](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/). Após realizar o fork deste projeto, faça suas contribuições de acordo com a tecnologia em questão, alterando o arquivo `itens.json`. Por exemplo, se você deseja adicionar um link na categoria *Laravel*, edite o arquivo `laravel/itens.json` e faça o pull request. 
+Para participar é necessário conhecimento em git/github. Caso esteja com dificuldades, leia [este artigo](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/). Após realizar o fork deste projeto, faça suas contribuições de acordo com a tecnologia em questão, alterando o arquivo `.json` dentro da pasta `sections`. Por exemplo, se você deseja adicionar um link na categoria *Laravel*, edite o arquivo `sections/laravel.json` e faça o pull request. 
 
 Se você deseja adicionar uma nova tecnologia, abra uma [nova issue](https://github.com/awesome-br/awesome-br.github.io/issues/new) requisitando a entrada da tecnologia em questão.
 
