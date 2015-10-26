@@ -36,5 +36,18 @@
       "name": "Eric Oliveira",
       "url": "http://javascriptbrasil.com/author/eric-oliveira/"
     }
+  },
+  {
+    "name": "Melhores práticas no uso do AngularJS",
+    "url": "https://www.youtube.com/watch?v=yeaXSGbyYwo",
+    "type": "screencast",
+    "tags": [
+      "dicas",
+      "styleguide"
+    ],
+    "author": {
+      "name": "Andre Baltieri",
+      "url": "https://www.youtube.com/user/andrebaltieri/videos"
+    }
   }
 ]
