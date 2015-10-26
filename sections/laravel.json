@@ -768,4 +768,16 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
+}, {
+  "name": "Authorization no Laravel 5.1 - Zizaco",
+  "url": "https://www.youtube.com/watch?v=hJRt0BDF0Do",
+  "type": "palestra",
+  "tags": [
+    "laravel 5.1",
+    "ACL"
+  ],
+  "author": {
+    "name": "Zizaco",
+    "url": "http://www.zizaco.net/"
+  }
 }]
