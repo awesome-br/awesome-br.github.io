@@ -38,5 +38,20 @@
     "name": "Candido Souza",
     "url": "http://tableless.com.br/author/candido_souzza/"
   }
+},
+{
+  "name": "Manter repositório do Github forkado sincronizado com o original",
+  "url": "http://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/",
+  "type": "artigo",
+  "tags": [
+    "dicas",
+    "git",
+    "github",
+    "controle de versão"
+  ],
+  "author": {
+    "name": "Fernando Daciuk",
+    "url": "http://blog.da2k.com.br"
+  }
 }
 ]
