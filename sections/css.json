@@ -44,4 +44,62 @@
     "name": "W3C",
     "url": "http://www.w3.org/"
   }
-}]
+},
+ {
+  "name": "Filtros CSS",
+  "url": "http://willianjusten.com.br/filtros-css/",
+  "type": "artigo",
+  "tags": [
+    "dicas",
+    "css",
+    "filtros"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+},
+{
+  "name": "Background fixo com CSS",
+  "url": "http://willianjusten.com.br/background-fixo-com-css/",
+  "type": "artigo",
+  "tags": [
+    "dicas",
+    "css",
+    "backgrounds",
+    "html"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+},
+{
+  "name": "Como criar seções fullscreen com CSS",
+  "url": "http://willianjusten.com.br/como-criar-secoes-fullscreen-com-css/",
+  "type": "artigo",
+  "tags": [
+    "dicas",
+    "css",
+    "html"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+},
+{
+  "name": "Alguns seletores css importantes para aprender",
+  "url": "http://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/",
+  "type": "artigo",
+  "tags": [
+    "dicas",
+    "css",
+    "html"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+}
+]
