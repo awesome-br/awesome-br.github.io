@@ -9,4 +9,18 @@
     "name": "Daniel Schmitz",
     "url": "http://www.danielschmitz.com.br"
   }
+},
+{
+  "name": "Modelo de desenvolvimento com GIT usando branches",
+  "url": "http://gamedeveloper.com.br/git-usando-branches/",
+  "type": "artigo",
+  "tags": [
+    "iniciante",
+    "github",
+    "controle de versão"
+  ],
+  "author": {
+    "name": "Bruno Cicanci",
+    "url": "http://gamedeveloper.com.br/"
+  }
 }]
