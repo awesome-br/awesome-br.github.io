@@ -23,4 +23,20 @@
     "name": "Bruno Cicanci",
     "url": "http://gamedeveloper.com.br/"
   }
-}]
+},
+{
+  "name": "Comandos iniciais do Git",
+  "url": "http://tableless.com.br/alguns-comandos-git/",
+  "type": "artigo",
+  "tags": [
+    "iniciante",
+    "introdução",
+    "git",
+    "controle de versão"
+  ],
+  "author": {
+    "name": "Candido Souza",
+    "url": "http://tableless.com.br/author/candido_souzza/"
+  }
+}
+]
