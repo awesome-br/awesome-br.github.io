@@ -4,7 +4,7 @@
     "url": "http://tableless.com.br/sass-um-outro-metodo-de-escrever-css/",
     "type": "artigo",
     "tags": [
-      "sass"      
+      "sass"
     ],
     "author": {
       "name": "Thaiana Poplade",
@@ -16,7 +16,7 @@
     "url": "http://www.webplatform.org/",
     "type": "dica",
     "tags": [
-      "html","css","javascript"      
+      "html","css","javascript"
     ],
     "author": {
       "name": "W3C",
@@ -28,7 +28,7 @@
     "url": "http://imasters.com.br/front-end/css/arquitetura-css-usando-smacss-e-oocss-2/",
     "type": "artigo",
     "tags": [
-      "css","smacss","oocss"      
+      "css","smacss","oocss"
     ],
     "author": {
       "name": "Imasters",
@@ -40,11 +40,59 @@
     "url": "http://cssguidelin.es/",
     "type": "dicas",
     "tags": [
-      "css"    
+      "css"
     ],
     "author": {
       "name": "Harry Roberts",
       "url": "https://twitter.com/csswizardry"
+    }
+  },
+{
+    "name": "Aprendendo Layout com CSS",
+    "url": "http://pt-br.learnlayout.com/",
+    "type": "tutorial",
+    "tags": [
+      "css"
+    ],
+    "author": {
+      "name": "Bocup",
+      "url": "https://bocoup.com/"
+    }
+  },
+{
+    "name": "Material Design com Materialize",
+    "url": "http://tableless.com.br/material-design-com-materialize/",
+    "type": "tutorial",
+    "tags": [
+      "css", "framwork"
+    ],
+    "author": {
+      "name": "Tiago Luiz",
+      "url": "http://tableless.com.br/author/tiago-luiz-rs/"
+    }
+  },
+{
+    "name": "Sass Style Guide: A Sass Tutorial on How to Write Better CSS Code",
+    "url": "http://www.toptal.com/front-end/sass-style-guide-a-sass-tutorial-on-how-to-write-better-css-code?utm_medium=sponsored_post&utm_campaign=sass_style_guide&utm_source=facebook.com",
+    "type": "artigo",
+    "tags": [
+      "css", "sass"
+    ],
+    "author": {
+      "name": "Matias Hernandez",
+      "url": "http://www.toptal.com/resume/matias-hernandez-arellano"
+    }
+  },
+{
+    "name": "Porque usar ’em’ no seu CSS hoje em dia?",
+    "url": "http://blog.caelum.com.br/porque-usar-em-no-seu-css-hoje-em-dia/",
+    "type": "artigo",
+    "tags": [
+      "css"
+    ],
+    "author": {
+      "name": "Sérgio Lopes",
+      "url": "www.caelum.com.br/instrutores/sergio-lopes"
     }
   }
 ]
