@@ -9,4 +9,11 @@
     "name": "Cosme Navarro",
     "url": "http://cosmenavarro.github.io/"
   }
+}, {
+  "name": "Artigos e Tutoriais NodeJs",
+  "url": "http://udgwebdev.com/nodejs/",
+  "type": "Url",
+  "tags": [
+    "introdução", "tutorial", "básico"
+  ]
 }]
