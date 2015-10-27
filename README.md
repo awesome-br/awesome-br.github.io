@@ -45,10 +45,6 @@ O formato para um novo item em qualquer tecnologia é:
 ``` 
 O tipo pode ser: artigo, tutorial, dica, livro, vídeo, screencast,código etc
 
-## Contribua como revisor
-
-Você pode nos ajudar também como revisor, recebendo os pull requests e verificando se está tudo OK, inclusive  validando o formato JSON. Quanto mais revisores/colaboradores, melhor! Se quiser contribuir abra uma issue requisitando.
-
 ## Como testar o awesome no seu computador
 
 Antes de enviar o pull request para o nosso repositório central, recomendamos testar a execução do site no seu computador. Isso pode ser feito através de um servidor web simples, como o `http-server` provido pelo `node`. Para isso, é preciso instalar o `node` e `npm` no seu sistema operacional, o que pode ser facilmente feito através do [site oficial](https://nodejs.org/en/) para Windows, ou através do `sudo apt-get install npm` no linux (debian). 
