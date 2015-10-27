@@ -32,4 +32,18 @@
     "name": "W3C",
     "url": "http://www.w3.org/"
   }
-}]
+},
+{
+  "name": "O JavaScript que você deveria conhecer.",
+  "url": "https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706",
+  "type": "artigo",
+  "tags": [
+   "dicas",
+    "javascript"
+  ],
+  "author": {
+    "name": "Pedro Polisenso",
+    "url": "https://medium.com/@pedropolisenso/"
+  }
+}
+]
