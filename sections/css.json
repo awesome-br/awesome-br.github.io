@@ -111,17 +111,6 @@
     "url": "http://tableless.com.br/author/tiago-luiz-rs/"
   }
 }, {
-  "name": "Sass Style Guide: A Sass Tutorial on How to Write Better CSS Code",
-  "url": "http://www.toptal.com/front-end/sass-style-guide-a-sass-tutorial-on-how-to-write-better-css-code?utm_medium=sponsored_post&utm_campaign=sass_style_guide&utm_source=facebook.com",
-  "type": "artigo",
-  "tags": [
-    "css", "sass"
-  ],
-  "author": {
-    "name": "Matias Hernandez",
-    "url": "http://www.toptal.com/resume/matias-hernandez-arellano"
-  }
-}, {
   "name": "Porque usar ’em’ no seu CSS hoje em dia?",
   "url": "http://blog.caelum.com.br/porque-usar-em-no-seu-css-hoje-em-dia/",
   "type": "artigo",
@@ -231,7 +220,7 @@
   }
 }, {
   "name": "Sass Style Guide: A Sass Tutorial on How to Write Better CSS Code",
-  "url": "http://www.toptal.com/front-end/sass-style-guide-a-sass-tutorial-on-how-to-write-better-css-code?utm_medium=sponsored_post&utm_campaign=sass_style_guide&utm_source=facebook.com",
+  "url": "http://www.toptal.com/front-end/sass-style-guide-a-sass-tutorial-on-how-to-write-better-css-code",
   "type": "artigo",
   "tags": [
     "css", "sass"
