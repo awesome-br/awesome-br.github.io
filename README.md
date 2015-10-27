@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<a href="http://awesome-br.github.io" target="_blank">awesome-br.github.io</a>
+<a href="http://awesome-br.com" target="_blank">awesome-br.com</a>
 <img src="https://cloud.githubusercontent.com/assets/1509692/10661390/79f3033a-788c-11e5-97df-a90e5e5a4f49.png"/>
 </h1>
 
@@ -9,8 +9,6 @@
   - [Como Participar](#como-participar)
   - [Contribua como revisor](#contribua-como-revisor)
   - [Como testar o awesome no seu computador](#como-testar-o-awesome-no-seu-computador)
-
-
 
 ## Nossa Proposta
 
@@ -24,7 +22,7 @@ Nossa página [http://awesome-br.github.io](http://awesome-br.github.io) contém
 
 ## Como Participar
 
-Para participar é necessário conhecimento em git/github. Caso esteja com dificuldades, leia [este artigo](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/). Após realizar o fork deste projeto, faça suas contribuições de acordo com a tecnologia em questão, alterando o arquivo `itens.json`. Por exemplo, se você deseja adicionar um link na categoria *Laravel*, edite o arquivo `laravel/itens.json` e faça o pull request. 
+Para participar é necessário conhecimento em git/github. Caso esteja com dificuldades, leia [este artigo](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/). Após realizar o fork deste projeto, faça suas contribuições de acordo com a tecnologia em questão, alterando o arquivo `.json` dentro da pasta `sections`. Por exemplo, se você deseja adicionar um link na categoria *Laravel*, edite o arquivo `sections/laravel.json` e faça o pull request. 
 
 Se você deseja adicionar uma nova tecnologia, abra uma [nova issue](https://github.com/awesome-br/awesome-br.github.io/issues/new) requisitando a entrada da tecnologia em questão.
 
@@ -47,10 +45,6 @@ O formato para um novo item em qualquer tecnologia é:
 ``` 
 O tipo pode ser: artigo, tutorial, dica, livro, vídeo, screencast,código etc
 
-## Contribua como revisor
-
-Você pode nos ajudar também como revisor, recebendo os pull requests e verificando se está tudo OK, inclusive  validando o formato JSON. Quanto mais revisores/colaboradores, melhor! Se quiser contribuir abra uma issue requisitando.
-
 ## Como testar o awesome no seu computador
 
 Antes de enviar o pull request para o nosso repositório central, recomendamos testar a execução do site no seu computador. Isso pode ser feito através de um servidor web simples, como o `http-server` provido pelo `node`. Para isso, é preciso instalar o `node` e `npm` no seu sistema operacional, o que pode ser facilmente feito através do [site oficial](https://nodejs.org/en/) para Windows, ou através do `sudo apt-get install npm` no linux (debian). 
@@ -67,4 +61,6 @@ Available on:
 ```
 
 Copie a URL, juntamente com a porta, e abra o site no navegador. 
+
+**Dica**: Use `ctrl+shift+r` para atualizar o cache após alterar os arquivos .json.
 

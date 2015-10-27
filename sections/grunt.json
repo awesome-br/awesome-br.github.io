@@ -1,14 +1,12 @@
-[
- {
-    "name": "Grunt: você deveria estar usando!",
-    "url": "http://tableless.com.br/grunt-voce-deveria-estar-usando/",
-    "type": "artigo",
-    "tags": [
-      "iniciante"      
-    ],
-    "author": {
-      "name": "Vagner Santana",
-      "url": "http://vagnersantana.com/"
-    }
+[{
+  "name": "Grunt: você deveria estar usando!",
+  "url": "http://tableless.com.br/grunt-voce-deveria-estar-usando/",
+  "type": "artigo",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "Vagner Santana",
+    "url": "http://vagnersantana.com/"
   }
-]
+}]

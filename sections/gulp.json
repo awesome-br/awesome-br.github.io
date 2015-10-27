@@ -1,14 +1,23 @@
-[
- {
-    "name": "Gulp: O novo automatizador",
-    "url": "http://tableless.com.br/gulp-o-novo-automatizador/",
-    "type": "artigo",
-    "tags": [
-      "iniciante"      
-    ],
-    "author": {
-      "name": "Guilherme Kalani",
-      "url": ""
-    }
+[{
+  "name": "Gulp: O novo automatizador",
+  "url": "http://tableless.com.br/gulp-o-novo-automatizador/",
+  "type": "artigo",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "Guilherme Kalani",
+    "url": ""
   }
-]
+}, {
+  "name": "Começando AGORA com Gulp e pré-processadores. Parte 1: Suas primeiras Tasks",
+  "url": "http://rcdevlabs.github.io/2015/02/13/comecando-agora-com-gulp-e-preprocessadores-parte-1-suas-primeiras-tasks/",
+  "type": "artigo",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "RcDev",
+    "url": "https://github.com/romuloctba"
+  }
+}]

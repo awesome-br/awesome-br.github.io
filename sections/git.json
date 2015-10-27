@@ -1,14 +1,57 @@
-[
- {
-    "name": "Tudo que você queria saber sobre Git e GitHub",
-    "url": "http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/",
-    "type": "artigo",
-    "tags": [
-      "iniciante","github"      
-    ],
-    "author": {
-      "name": "Daniel Schmitz",
-      "url": "http://www.danielschmitz.com.br"
-    }
+[{
+  "name": "Tudo que você queria saber sobre Git e GitHub",
+  "url": "http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/",
+  "type": "artigo",
+  "tags": [
+    "iniciante", "github"
+  ],
+  "author": {
+    "name": "Daniel Schmitz",
+    "url": "http://www.danielschmitz.com.br"
   }
+},
+{
+  "name": "Modelo de desenvolvimento com GIT usando branches",
+  "url": "http://gamedeveloper.com.br/git-usando-branches/",
+  "type": "artigo",
+  "tags": [
+    "iniciante",
+    "github",
+    "controle de versão"
+  ],
+  "author": {
+    "name": "Bruno Cicanci",
+    "url": "http://gamedeveloper.com.br/"
+  }
+},
+{
+  "name": "Comandos iniciais do Git",
+  "url": "http://tableless.com.br/alguns-comandos-git/",
+  "type": "artigo",
+  "tags": [
+    "iniciante",
+    "introdução",
+    "git",
+    "controle de versão"
+  ],
+  "author": {
+    "name": "Candido Souza",
+    "url": "http://tableless.com.br/author/candido_souzza/"
+  }
+},
+{
+  "name": "Manter repositório do Github forkado sincronizado com o original",
+  "url": "http://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/",
+  "type": "artigo",
+  "tags": [
+    "dicas",
+    "git",
+    "github",
+    "controle de versão"
+  ],
+  "author": {
+    "name": "Fernando Daciuk",
+    "url": "http://blog.da2k.com.br"
+  }
+}
 ]

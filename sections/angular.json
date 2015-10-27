@@ -1,5 +1,4 @@
-[
-  {
+[{
     "name": "AngularJS na prática",
     "url": "https://leanpub.com/livro-angularJS",
     "type": "livros",
@@ -11,8 +10,7 @@
       "name": "Daniel Pace Schmitz",
       "url": "https://leanpub.com/u/danielschmitz"
     }
-  },  
-    {
+  }, {
     "name": "Criando uma aplicação simples com AngularJS",
     "url": "http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/",
     "type": "artigo",
@@ -23,10 +21,10 @@
     "author": {
       "name": "DAVI FERREIRA ",
       "url": "http://www.daviferreira.com/blog"
-      }
-    },
-      
-    {
+    }
+  },
+
+  {
     "name": "Guia Definitivo para Aprender AngularJS em Um Dia",
     "url": "http://javascriptbrasil.com/2013/10/18/guia-definitivo-para-aprender-angularjs-em-um-dia/",
     "type": "artigo",
@@ -37,6 +35,19 @@
     "author": {
       "name": "Eric Oliveira",
       "url": "http://javascriptbrasil.com/author/eric-oliveira/"
+    }
+  },
+  {
+    "name": "Melhores práticas no uso do AngularJS",
+    "url": "https://www.youtube.com/watch?v=yeaXSGbyYwo",
+    "type": "screencast",
+    "tags": [
+      "dicas",
+      "styleguide"
+    ],
+    "author": {
+      "name": "Andre Baltieri",
+      "url": "https://www.youtube.com/user/andrebaltieri/videos"
     }
   }
 ]

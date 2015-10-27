@@ -1,4 +1,50 @@
-[
+[{
+  "name": "O que é SASS",
+  "url": "http://tableless.com.br/sass-um-outro-metodo-de-escrever-css/",
+  "type": "artigo",
+  "tags": [
+    "sass"
+  ],
+  "author": {
+    "name": "Thaiana Poplade",
+    "url": "http://about.me/thaianapoplade"
+  }
+}, {
+  "name": "Visão Geral sobre LESS",
+  "url": "https://codecasts.com.br/lesson/visao-geral-less",
+  "type": "screencast",
+  "tags": [
+    "less",
+    "preprocessor"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://github.com/vinicius73"
+  }
+}, {
+  "name": "Less Váriaveis Parte 1",
+  "url": "https://codecasts.com.br/lesson/less-variaveis-parte-1",
+  "type": "screencast",
+  "tags": [
+    "less",
+    "preprocessor"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://github.com/vinicius73"
+  }
+}, {
+  "name": "WebPlataform - Your Web, Documented",
+  "url": "http://www.webplatform.org/",
+  "type": "dica",
+  "tags": [
+    "html", "css", "javascript"
+  ],
+  "author": {
+    "name": "W3C",
+    "url": "http://www.w3.org/"
+  }
+},
  {
     "name": "O que é SASS",
     "url": "http://tableless.com.br/sass-um-outro-metodo-de-escrever-css/",
@@ -94,5 +140,62 @@
       "name": "Sérgio Lopes",
       "url": "www.caelum.com.br/instrutores/sergio-lopes"
     }
+  },
+{
+  "name": "Filtros CSS",
+  "url": "http://willianjusten.com.br/filtros-css/",
+  "type": "artigo",
+  "tags": [
+    "dicas",
+    "css",
+    "filtros"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
   }
+},
+{
+  "name": "Background fixo com CSS",
+  "url": "http://willianjusten.com.br/background-fixo-com-css/",
+  "type": "artigo",
+  "tags": [
+    "dicas",
+    "css",
+    "backgrounds",
+    "html"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+},
+{
+  "name": "Como criar seções fullscreen com CSS",
+  "url": "http://willianjusten.com.br/como-criar-secoes-fullscreen-com-css/",
+  "type": "artigo",
+  "tags": [
+    "dicas",
+    "css",
+    "html"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+},
+{
+  "name": "Alguns seletores css importantes para aprender",
+  "url": "http://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/",
+  "type": "artigo",
+  "tags": [
+    "dicas",
+    "css",
+    "html"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+}
 ]

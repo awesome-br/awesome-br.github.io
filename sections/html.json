@@ -1,26 +1,35 @@
-[
- {
-    "name": "HTML 5 e SEO: mitos e verdades",
-    "url": "http://tableless.com.br/html-5-e-seo-mitos-e-verdades/",
-    "type": "artigo",
-    "tags": [
-      "seo'"      
-    ],
-    "author": {
-      "name": "Rodrigo Simoni",
-      "url": "http://conversion.com.br/"
-    }
-  },
-{
-    "name": "WebPlataform - Your Web, Documented",
-    "url": "http://www.webplatform.org/",
-    "type": "dica",
-    "tags": [
-      "html","css","javascript"      
-    ],
-    "author": {
-      "name": "W3C",
-      "url": "http://www.w3.org/"
-    }
+[{
+  "name": "HTML 5 e SEO: mitos e verdades",
+  "url": "http://tableless.com.br/html-5-e-seo-mitos-e-verdades/",
+  "type": "artigo",
+  "tags": [
+    "seo'"
+  ],
+  "author": {
+    "name": "Rodrigo Simoni",
+    "url": "http://conversion.com.br/"
   }
-]
+}, {
+  "name": "Conheça o Emmet",
+  "url": "https://codecasts.com.br/lesson/conheca-emmet",
+  "type": "screencast",
+  "tags": [
+    "html",
+    "dica"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://github.com/vinicius73"
+  }
+}, {
+  "name": "WebPlataform - Your Web, Documented",
+  "url": "http://www.webplatform.org/",
+  "type": "dica",
+  "tags": [
+    "html", "css", "javascript"
+  ],
+  "author": {
+    "name": "W3C",
+    "url": "http://www.w3.org/"
+  }
+}]
