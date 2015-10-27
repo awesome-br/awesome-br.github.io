@@ -1,12 +1,6 @@
 [{
-  "name": "",
-  "url": "",
-  "type": "",
-  "tags": [
-    ""
-  ],
-  "author": {
-    "name": "",
-    "url": ""
-  }
+  "name": "Mundo Docker",
+  "url": "http://www.mundodocker.com.br/",
+  "type": "Url",
+  "tags": []
 }]
