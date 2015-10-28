@@ -103,4 +103,9 @@
   "url": "#/ios",
   "type": "Plataforma Mobile",
   "tags": []
+}, {
+  "name": "Sublime Text",
+  "url": "#/sublime",
+  "type": "Editor",
+  "tags": []
 }]
