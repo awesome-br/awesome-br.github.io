@@ -19,7 +19,7 @@
 },
  {
   "name": "Primeiros passos com Eletron",
-  "url": "blog.concretesolutions.com.br/2015/09/primeiros-passos-com-electron/",
+  "url": "http://blog.concretesolutions.com.br/2015/09/primeiros-passos-com-electron/",
   "type": "artigo",
   "tags": [
     "nodejs",
@@ -28,7 +28,7 @@
   ],
   "author": {
     "name":"Raphael Freitas",
-    "url":"blog.concretesolutions.com.br"
+    "url":"http://blog.concretesolutions.com.br"
 
   }
 }

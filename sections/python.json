@@ -31,4 +31,11 @@
     "name": "Rodrigo Senra e outros",
     "url": "http://code.google.com/p/pydoc-br/source/browse/CREDITOS.txt"
   }
+}, {
+  "name": "Python Club",
+  "url": "http://pythonclub.com.br/",
+  "type": "url",
+  "tags": [
+    "artigos", "tutoriais", "dicas"
+  ]
 }]
