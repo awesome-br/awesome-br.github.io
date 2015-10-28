@@ -780,4 +780,17 @@
     "name": "Zizaco",
     "url": "http://www.zizaco.net/"
   }
+}, {
+  "name": "Autenticação com OAuth 2 no Laravel",
+  "url": "http://sites.code.education/v-02-laravel-com-angularjs/",
+  "type": "screencast",
+  "tags": [
+    "laravel 5.1",
+    "autenticação",
+	"auth"
+  ],
+  "author": {
+    "name": "Wesley Willians",
+    "url": "http://sites.code.education/home-code/"
+  }
 }]
