@@ -32,4 +32,15 @@
     "name": "W3C",
     "url": "http://www.w3.org/"
   }
+}, {
+  "name": "Visão geral das novas funcionalidades do ECMAScript 6",
+  "url": "https://github.com/cerebrobr/es6features",
+  "type": "documentação",
+  "tags": [
+    "es6"
+  ],
+  "author": {
+    "name": "Cerebro",
+    "url": "https://github.com/cerebrobr"
+  }
 }]
