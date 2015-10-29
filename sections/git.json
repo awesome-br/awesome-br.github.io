@@ -53,5 +53,16 @@
     "name": "Fernando Daciuk",
     "url": "http://blog.da2k.com.br"
   }
+},
+{
+  "name": "Git - guia prático",
+  "url": "http://rogerdudler.github.io/git-guide/index.pt_BR.html",
+  "type": "url",
+  "tags": [
+    "guia",
+    "referência",
+    "git",
+    "controle de versão"
+  ]
 }
 ]
