@@ -42,14 +42,14 @@ O formato para um novo item em qualquer tecnologia é:
       "url": "Url do site do autor"
     }
   }
-``` 
+```
 O tipo pode ser: artigo, tutorial, dica, livro, vídeo, screencast,código etc
 
 ## Como testar o awesome no seu computador
 
-Antes de enviar o pull request para o nosso repositório central, recomendamos testar a execução do site no seu computador. Isso pode ser feito através de um servidor web simples, como o `http-server` provido pelo `node`. Para isso, é preciso instalar o `node` e `npm` no seu sistema operacional, o que pode ser facilmente feito através do [site oficial](https://nodejs.org/en/) para Windows, ou através do `sudo apt-get install npm` no linux (debian). 
+Antes de enviar o pull request para o nosso repositório central, recomendamos testar a execução do site no seu computador. Isso pode ser feito através de um servidor web simples, como o `http-server` provido pelo `node`. Para isso, é preciso instalar o `node` e `npm` no seu sistema operacional, o que pode ser facilmente feito através do [site oficial](https://nodejs.org/en/) para Windows, ou através do `sudo apt-get install npm` no linux (debian).
 
-Após instalar o `node` e o `npm`, instale o `http-server` através do comando `npm install -g http-server`, e após a instalação, navegue até o diretório `awesome-br.github.io` e execute o comando `http-server`.
+Após instalar o `node` e o `npm`, instale as dependências (`http-server`) através do comando `npm install`, e, após a instalação, execute o comando `npm run http-server`.
 
 A resposta que terá é algo semelhante a:
 
