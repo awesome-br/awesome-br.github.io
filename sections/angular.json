@@ -49,5 +49,18 @@
       "name": "Andre Baltieri",
       "url": "https://www.youtube.com/user/andrebaltieri/videos"
     }
+  },
+  {
+    "name": "Tudo sobre AngularJS",
+    "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb",
+    "type": "screencast",
+    "tags": [
+      "screencast",
+      "playlist"
+    ],
+    "author": {
+      "name": "Rodrigo Branas",
+      "url": "https://www.youtube.com/user/rodrigobranas"
+    }
   }
 ]
