@@ -68,5 +68,20 @@
     "name": "Roger Dudler",
     "url": "http://www.twitter.com/rogerdudler"
   }
+},
+{
+  "name": "5 Coisas que Aprendi com o GitHub",
+  "url": "https://medium.com/@dleitee/5-coisas-que-aprendi-com-o-github-6cd8fd620e58",
+  "type": "artigo",
+  "tags": [
+    "guia",
+    "referência",
+    "github",
+    "dicas"
+  ],
+  "author": {
+    "name": "Daniel Leite de Oliveira",
+    "url": "https://medium.com/@dleitee"
+  }
 }
 ]
