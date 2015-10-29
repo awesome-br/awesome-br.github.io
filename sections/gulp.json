@@ -20,4 +20,17 @@
     "name": "RcDev",
     "url": "https://github.com/romuloctba"
   }
-}]
+},
+{
+  "name": "Gulp: Princípios básicos",
+  "url": "https://medium.com/@dleitee/gulp-princípios-básicos-2c3f6c6ccedd",
+  "type": "artigo",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "Daniel Leite de Oliveira",
+    "url": "https://medium.com/@dleitee"
+  }
+}
+]

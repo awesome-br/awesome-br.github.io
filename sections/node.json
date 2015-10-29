@@ -16,4 +16,20 @@
   "tags": [
     "introdução", "tutorial", "básico"
   ]
-}]
+},
+ {
+  "name": "Primeiros passos com Eletron",
+  "url": "http://blog.concretesolutions.com.br/2015/09/primeiros-passos-com-electron/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "javascript",
+    "eletron"
+  ],
+  "author": {
+    "name":"Raphael Freitas",
+    "url":"http://blog.concretesolutions.com.br"
+
+  }
+}
+]
