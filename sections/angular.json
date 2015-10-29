@@ -62,5 +62,19 @@
       "name": "Rodrigo Branas",
       "url": "https://www.youtube.com/user/rodrigobranas"
     }
+  },
+  {
+    "name": "AngularJS para Zumbis",
+    "url": "https://www.youtube.com/watch?v=yeaXSGbyYwo",
+    "type": "screencast",
+    "tags": [
+      "introdução",
+      "youtube",
+      "screencast"
+    ],
+    "author": {
+      "name": "Matheus Lima",
+      "url": "video://www.youtube.com/user/matheusml90"
+    }
   }
 ]

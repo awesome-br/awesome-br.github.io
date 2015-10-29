@@ -1,0 +1,22 @@
+{
+  "name": "awesome-br.github.io",
+  "version": "1.0.0",
+  "description": "Awesome BR possui um formato aberto a comunidade que deseja compartilhar conteúdo de qualidade frente às tecnologias mais atuais do mercado.",
+  "main": "",
+  "scripts": {
+    "http-server": "node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awesome-br/awesome-br.github.io.git"
+  },
+  "author": "awesome-br",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awesome-br/awesome-br.github.io/issues"
+  },
+  "homepage": "https://github.com/awesome-br/awesome-br.github.io#readme",
+  "dependencies": {
+    "http-server": "^0.8.5"
+  }
+}
