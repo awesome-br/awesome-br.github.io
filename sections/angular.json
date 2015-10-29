@@ -65,7 +65,7 @@
   },
   {
     "name": "AngularJS para Zumbis",
-    "url": "https://www.youtube.com/watch?v=yeaXSGbyYwo",
+    "url": "https://www.youtube.com/playlist?list=PLr6R3Zglau2nXmZHkcl-0pcU1XChEFzZM",
     "type": "screencast",
     "tags": [
       "introdução",
@@ -74,7 +74,7 @@
     ],
     "author": {
       "name": "Matheus Lima",
-      "url": "video://www.youtube.com/user/matheusml90"
+      "url": "video://www.youtube.com/user/matheusml90/videos"
     }
   }
 ]
