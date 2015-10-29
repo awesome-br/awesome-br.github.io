@@ -9,4 +9,18 @@
     "name": "Vagner Santana",
     "url": "http://vagnersantana.com/"
   }
-}]
+},
+{
+  "name": "GruntJS – Por onde começar?",
+  "url": "http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/",
+  "type": "artigo",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "Fernando Daciuk",
+    "url": "https://www.twitter.com/fdaciuk"
+  }
+},
+
+]
