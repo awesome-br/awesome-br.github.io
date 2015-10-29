@@ -1,0 +1,75 @@
+[{
+  "name": "Criando Pacotes em GO ",
+  "url": "http://kirk.svbtle.com/iniciando-com-go-criando-pacotes",
+  "type": "Tutorial",
+  "tags": [
+    "iniciante",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Paulo Pires",
+    "url": "https://github.com/paulohp"
+  }
+},{
+  "name": "Usando MongoDB com mgo",
+  "url": "http://kirk.svbtle.com/mongodb-com-go-usando-mgo",
+  "type": "Tutorial",
+  "tags": [
+    "iniciante",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Paulo Pires",
+    "url": "https://github.com/paulohp"
+  }
+},{
+  "name": "Go - Ambiente de Desenvolvimento",
+  "url": "http://info.viniciusfeitosa.com.br/post/85532169619/golang-ambiente-de-desenvolvimento",
+  "type": "Tutorial",
+  "tags": [
+    "iniciante",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Vinicius Feitosa",
+    "url": "https://github.com/viniciusfeitosa"
+  }
+},{
+  "name": "Programando em Go",
+  "url": "http://www.casadocodigo.com.br/products/livro-google-go",
+  "type": "Livro",
+  "tags": [
+    "iniciante",
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Casa do Código",
+    "url": "http://casadocodigo.com.br"
+  }
+},{
+  "name": "Aulas de Go para iniciantes",
+  "url": "https://www.youtube.com/playlist?list=PLIXNPsQriECyssu-LWgXNYsusLpTWAwMT",
+  "type": "Aulas",
+  "tags": [
+    "iniciante",
+    "youtube",
+    "screencast"
+  ],
+  "author": {
+    "name": "Renato Suero",
+    "url": "http://github.com/renatosuero"
+  }
+},{
+  "name": "Instalar GO com GVM no Ubuntu",
+  "url": "https://medium.com/go-serie-iniciantes/instalando-go-com-gvm-ubuntu-12-04-6e7ea06b540d",
+  "type": "tutorial",
+  "tags": [
+    "iniciante",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Linux Pro",
+    "url": "https://www.youtube.com/channel/UCI2P6hkkBUkYiWPQhFU-rqg"
+  }
+}]
