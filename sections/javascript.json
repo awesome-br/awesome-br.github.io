@@ -43,7 +43,7 @@
     "name": "Cerebro",
     "url": "https://github.com/cerebrobr"
   }
-},{
+}, {
   "name": "O JavaScript que você deveria conhecer.",
   "url": "https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706",
   "type": "artigo",
@@ -55,5 +55,16 @@
     "name": "Pedro Polisenso",
     "url": "https://medium.com/@pedropolisenso/"
   }
+}, {
+  "name": "JavaScript: A forma certa",
+    "url": "http://www.jstherightway.org/pt-br/",
+    "type": "guia",
+    "tags": [
+      "javascript"
+    ],
+    "author": {
+      "name": "William Oliveira",
+      "url": "https://github.com/gnuwilliam"
+    }
 }
 ]
