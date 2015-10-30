@@ -174,5 +174,19 @@
     "name": "Willian Justen",
     "url": "http://willianjusten.com.br/"
   }
+}, {
+  "name": "Desenvolvendo com Bootstrap 3: um framework front-end que vale a pena!",
+  "url": "http://thiagonasc.com/desenvolvimento-web/desenvolvendo-com-bootstrap-3-um-framework-front-end-que-vale-a-pena",
+  "type": "artigo",
+  "tags": [
+    "bootstrap",
+	"css",
+	"dicas",
+    "html"
+  ],
+  "author": {
+    "name": "Thiago Nascimento",
+    "url": "http://thiagonasc.com/"
+  }
 }
 ]
