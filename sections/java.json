@@ -7,4 +7,13 @@
     "name": "Fellipe Filgueiras",
     "url": ""
   }
+},{
+  "name": "Curso de JAVA",
+  "url": "https://www.youtube.com/playlist?list=PLesCEcYj003Rfzs39Y4Bs_chpkE276-gD",
+  "type": "Curso",
+  "tags": ["screencast", "playlist", "eXcript"],
+  "author": {
+    "name": "eXcript",
+    "url": "https://www.youtube.com/user/excriptvideo"
+  }
 }]
