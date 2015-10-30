@@ -793,4 +793,16 @@
     "name": "Wesley Willians",
     "url": "http://sites.code.education/home-code/"
   }
+}, {
+  "name": "Laravel 5 - Entendendo o Ambiente MVC",
+  "url": "http://pt.slideshare.net/mdba2007/laravel-5-entenda-o-ambiente-e-a-estrutura-mvc",
+  "type": "slideshare",
+  "tags": [
+    "laravel",
+    "mvc"
+  ],
+  "author": {
+    "name": "Michael Douglas",
+    "url": "http://pt.slideshare.net/"
+  }
 }]
