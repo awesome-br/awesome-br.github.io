@@ -76,5 +76,20 @@
       "name": "Matheus Lima",
       "url": "video://www.youtube.com/user/matheusml90/videos"
     }
+  },
+  {
+    "name": "Material Design simples e rápido com AngularJS",
+    "url": "http://www.infoq.com/br/presentations/material-design-simples-e-rapido-com-angularjs",
+    "type": "screencast",
+    "tags": [
+      "material",
+      "design",
+      "angularjs",
+	  "frontend"
+    ],
+    "author": {
+      "name": "Henrique Limas",
+      "url": "http://www.infoq.com/br/"
+    }
   }
 ]
