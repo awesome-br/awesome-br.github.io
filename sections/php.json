@@ -25,4 +25,16 @@
   "documentação",
     "referência"
 ]
+}, {
+  "name": "10 NOVIDADES DO PHP 7",
+  "url": "http://www.profissionaisti.com.br/2015/09/10-novidades-do-php-7/",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "php7"
+  ],
+  "author": {
+    "name": "ROBERTO BERALDO",
+    "url": "http://www.profissionaisti.com.br/"
+  }
 }]
