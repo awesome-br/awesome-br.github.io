@@ -38,4 +38,11 @@
   "tags": [
     "artigos", "tutoriais", "dicas"
   ]
+}, {
+  "name": "Curso de Python",
+  "url": "https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj",
+  "type": "Curso",
+  "tags": [
+    "screencast", "playlist", "curso", "eXcript"
+  ]
 }]
