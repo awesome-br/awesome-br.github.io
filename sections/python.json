@@ -45,4 +45,17 @@
   "tags": [
     "screencast", "playlist", "curso", "eXcript"
   ]
-}]
+}, {
+  "name": "Python Birds: Aprendendo Orientação a Objetos com Jogos",
+  "url": "https://www.youtube.com/watch?v=KBFduoDm5FY",
+  "type": "palestra",
+  "tags": [
+    "palestra",
+    "video"
+  ],
+  "author": {
+    "name": "Renzo Nuccitelli",
+    "url": "http://imasters.com.br/perfil/renzon/"
+  }
+}
+]
