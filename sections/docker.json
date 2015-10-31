@@ -3,4 +3,17 @@
   "url": "http://www.mundodocker.com.br/",
   "type": "Url",
   "tags": []
-}]
+}, {
+  "name": "Containers com Docker",
+  "url": "http://www.casadocodigo.com.br/products/livro-docker",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Casa do Código",
+    "url": "http://casadocodigo.com.br"
+  }
+}
+]

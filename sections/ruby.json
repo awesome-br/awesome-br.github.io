@@ -9,4 +9,16 @@
     "name": "Diversos",
     "url": ""
   }
+}, {
+  "name": "Ruby Aprenda a programar na linguagem mais divertida",
+  "url": "http://www.casadocodigo.com.br/products/livro-ruby",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Casa do Código",
+    "url": "http://casadocodigo.com.br"
+  }
 }]

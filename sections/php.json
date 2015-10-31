@@ -37,4 +37,16 @@
     "name": "ROBERTO BERALDO",
     "url": "http://www.profissionaisti.com.br/"
   }
+}, {
+  "name": "Desenvolvimento Web com PHP e Mysql",
+  "url": "http://www.casadocodigo.com.br/products/livro-php-mysql",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Casa do Código",
+    "url": "http://www.casadocodigo.com.br/"
+  }
 }]

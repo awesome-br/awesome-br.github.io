@@ -805,4 +805,16 @@
     "name": "Michael Douglas",
     "url": "http://pt.slideshare.net/"
   }
+}, {
+  "name": "Php e Laravel Crie aplicações web como um verdadeiro artesão",
+  "url": "http://www.casadocodigo.com.br/products/livro-laravel-php",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Casa do Código",
+    "url": "http://casadocodigo.com.br"
+  }
 }]

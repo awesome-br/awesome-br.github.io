@@ -22,4 +22,16 @@
     "name": "Jansen Felipe",
     "url": "https://jansenfelipe.com.br"
   }
+}, {
+  "name": "Google Android Crie Aplicações para celulares e tablets",
+  "url": "http://www.casadocodigo.com.br/products/livro-android",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Casa do Código",
+    "url": "http://casadocodigo.com.br"
+  }
 }]

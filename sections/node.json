@@ -31,5 +31,17 @@
     "url":"http://blog.concretesolutions.com.br"
 
   }
+}, {
+  "name": "Aplicações web real-time com Node.js",
+  "url": "http://www.casadocodigo.com.br/products/livro-nodejs",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Casa do Código",
+    "url": "http://casadocodigo.com.br"
+  }
 }
 ]

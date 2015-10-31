@@ -43,4 +43,16 @@
     "name": "Tatita Pagani",
     "url": "http://tableless.com.br/"
   }
+}, {
+  "name": "HTML5 e CSS3 Domine a web do futuro",
+  "url": "http://www.casadocodigo.com.br/products/livro-html-css",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Casa do Código",
+    "url": "http://casadocodigo.com.br"
+  }
 }]
