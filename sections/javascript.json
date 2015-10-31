@@ -66,5 +66,18 @@
       "name": "William Oliveira",
       "url": "https://github.com/gnuwilliam"
     }
+}, {
+  "name": "Desvendando a linguagem JavaScript",
+    "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc",
+    "type": "playlist",
+    "tags": [
+      "javascript",
+      "playlist",
+      "youtube"
+    ],
+    "author": {
+      "name": "Rodrigo Branas",
+      "url": "https://github.com/rodrigobranas"
+    }
 }
 ]
