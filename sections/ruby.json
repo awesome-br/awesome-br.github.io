@@ -9,4 +9,16 @@
     "name": "Diversos",
     "url": ""
   }
+}, {
+  "name": "Ruby Aprenda a programar na linguagem mais divertida",
+  "url": "http://www.casadocodigo.com.br/products/livro-ruby",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Lucas Souza",
+    "url": "https://github.com/lucasas"
+  }
 }]

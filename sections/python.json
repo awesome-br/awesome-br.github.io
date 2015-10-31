@@ -57,5 +57,17 @@
     "name": "Renzo Nuccitelli",
     "url": "http://imasters.com.br/perfil/renzon/"
   }
+}, {
+  "name": "Python Escreva seus primeiros programas",
+  "url": "http://www.casadocodigo.com.br/products/livro-python-3",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Felipe Cruz",
+    "url": "https://github.com/felipecruz"
+  }
 }
 ]
