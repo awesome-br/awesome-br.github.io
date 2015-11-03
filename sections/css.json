@@ -188,5 +188,19 @@
     "name": "Thiago Nascimento",
     "url": "http://thiagonasc.com/"
   }
+}, {
+  "name": "Usando pré-processadores CSS com inteligência",
+  "url": "http://eduardomatos.me/usando-pre-processadores-com-inteligencia/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "sass",
+    "oocss",
+    "dicas"
+  ],
+  "author": {
+    "name": "Eduardo Matos",
+    "url": "http://eduardomatos.me/"
+  }
 }
 ]
