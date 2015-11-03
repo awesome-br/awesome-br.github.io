@@ -79,5 +79,18 @@
       "name": "Rodrigo Branas",
       "url": "https://github.com/rodrigobranas"
     }
+}, {
+  "name": "ApppCache, manifest, mundo offline e ServiceWorker",
+  "url": "http://eduardomatos.me/appcache-manifest-e-serviceworker-as-partes-boas-e-ruins/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "appcache",
+    "service workers"
+  ],
+  "author": {
+    "name": "Eduardo Matos",
+    "url": "http://eduardomatos.me/"
+  }
 }
 ]
