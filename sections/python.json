@@ -76,5 +76,12 @@
   "tags": [
     "screencast", "playlist", "curso", "eXcript"
   ]
+}, {
+  "name": "Python para Zumbis",
+  "url": "https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc",
+  "type": "Curso",
+  "tags": [
+    "screencast", "playlist", "curso", "básico"
+  ]
 }
 ]
