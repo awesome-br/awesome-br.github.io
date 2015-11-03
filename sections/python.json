@@ -69,5 +69,12 @@
     "name": "Felipe Cruz",
     "url": "https://github.com/felipecruz"
   }
+}, {
+  "name": "Python + Tkinter",
+  "url": "https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE",
+  "type": "Playlist",
+  "tags": [
+    "screencast", "playlist", "curso", "eXcript"
+  ]
 }
 ]
