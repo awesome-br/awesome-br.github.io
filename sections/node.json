@@ -43,5 +43,18 @@
     "name": "Caio Ribeiro Pereira",
     "url": "http://crpwebdev.com/"
   }
+},
+{
+  "name": "Criando aplicações web com NodeJS",
+  "url": "http://matheusazzi.com/criando-aplicacoes-com-node/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "frontend"
+  ],
+  "author": {
+    "name": "Matheus Azzi",
+    "url": "http://matheusazzi.com"
+  }
 }
 ]

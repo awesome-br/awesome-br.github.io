@@ -105,5 +105,18 @@
       "name": "John Papa",
       "url": "http://johnpapa.net"
     }
-  }  
+  },  
+  {
+    "name": "Single Page Apps com AngularJS",
+    "url": "http://matheusazzi.com/single-page-apps/",
+    "type": "artigo",
+    "tags": [
+      "angularjs",
+      "frontend"
+    ],
+    "author": {
+      "name": "Matheus Azzi",
+      "url": "http://matheusazzi.com"
+    }
+  }
 ]
