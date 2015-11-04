@@ -83,5 +83,18 @@
     "name": "Daniel Leite de Oliveira",
     "url": "https://medium.com/@dleitee"
   }
+},
+{
+  "name": "Segredos do Github - Commits que fecham issues",
+  "url": "http://blog.da2k.com.br/2015/02/18/segredos-do-github-commits-que-fecham-issues/",
+  "type": "artigo",
+  "tags": [
+    "github",
+    "dicas"
+  ],
+  "author": {
+    "name": "Fernando Daciuk",
+    "url": "http://blog.da2k.com.br/"
+  }
 }
 ]
