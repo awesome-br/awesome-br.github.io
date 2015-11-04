@@ -91,5 +91,18 @@
       "name": "Henrique Limas",
       "url": "http://www.infoq.com/br/"
     }
+  },
+  {
+    "name": "Single Page Apps com AngularJS",
+    "url": "http://matheusazzi.com/single-page-apps/",
+    "type": "artigo",
+    "tags": [
+      "angularjs",
+      "frontend"
+    ],
+    "author": {
+      "name": "Matheus Azzi",
+      "url": "http://matheusazzi.com"
+    }
   }
 ]
