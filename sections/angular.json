@@ -91,5 +91,19 @@
       "name": "Henrique Limas",
       "url": "http://www.infoq.com/br/"
     }
-  }
+  },
+  {
+    "name": "Guia de Estilo AngularJS",
+    "url": "https://github.com/johnpapa/angular-styleguide/blob/master/i18n/pt-BR.md",
+    "type": "styleguide",
+    "tags": [
+      "guia de estilo",
+      "guia",
+      "referência"
+    ],
+    "author": {
+      "name": "John Papa",
+      "url": "http://johnpapa.net"
+    }
+  }  
 ]
