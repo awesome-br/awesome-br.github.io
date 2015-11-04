@@ -16,4 +16,13 @@
     "name": "Macgyver Martins",
     "url": "http://macgyvermartins.com.br/"
   }
+}, {
+  "name": "Começando com React",
+  "url": "http://willianjusten.com.br/comecando-com-react/",
+  "type": "tutorial",
+  "tags": ["introdução", "tutorial"],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
 }]
