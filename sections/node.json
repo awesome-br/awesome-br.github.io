@@ -56,5 +56,18 @@
     "name": "Matheus Azzi",
     "url": "http://matheusazzi.com"
   }
+},
+{
+  "name": "Gerenciando corretamente dependências em NodeJS - save ou save-dev?",
+  "url": "http://blog.da2k.com.br/2015/03/03/gerenciando-corretamente-dependencias-em-nodejs-save-ou-save-dev-1/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "dicas"
+  ],
+  "author": {
+    "name": "Fernando Daciuk",
+    "url": "http://blog.da2k.com.br"
+  }
 }
 ]
