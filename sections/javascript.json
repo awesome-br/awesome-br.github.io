@@ -92,5 +92,19 @@
     "name": "Eduardo Matos",
     "url": "http://eduardomatos.me/"
   }
+}, {
+  "name": "JavaScript Funcional",
+  "url": "https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R",
+  "type": "playlist",
+  "tags": [
+    "javascript",
+    "youtube",
+    "playlist",
+    "curso"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento",
+    "url": "https://github.com/suissa"
+  }
 }
 ]
