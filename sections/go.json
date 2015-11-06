@@ -72,4 +72,38 @@
     "name": "Linux Pro",
     "url": "https://www.youtube.com/channel/UCI2P6hkkBUkYiWPQhFU-rqg"
   }
+},{
+  "name": "Um passeio por Go",
+  "url": "http://go-tour-br.appspot.com/",
+  "type": "tutorial",
+  "tags": [
+    "introdução"
+  ],
+  "author": {
+    "name": "Daniel Gomes Vargas",
+    "url": "https://github.com/dgv"
+  }
+},{
+  "name": "Go por Exemplo",
+  "url": "http://goporexemplo.golangbr.org/",
+  "type": "tutorial",
+  "tags": [
+    "introdução",
+    "exemplo"
+  ],
+  "author": {
+    "name": "Golang Brasil",
+    "url": "https://github.com/golangbr"
+  }
+},{
+  "name": "Go a Revolução",
+  "url": "http://tutorial.danielmazza.info/go",
+  "type": "tutorial",
+  "tags": [
+    "tutorial"
+  ],
+  "author": {
+    "name": "Daniel Mazza",
+    "url": "http://danielmazza.info"
+  }
 }]
