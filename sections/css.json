@@ -104,7 +104,7 @@
   "url": "http://tableless.com.br/material-design-com-materialize/",
   "type": "tutorial",
   "tags": [
-    "css", "framwork"
+    "css", "framework"
   ],
   "author": {
     "name": "Tiago Luiz",
@@ -201,6 +201,21 @@
   "author": {
     "name": "Eduardo Matos",
     "url": "http://eduardomatos.me/"
+  }
+},
+ {
+  "name": "Por que usar Stylus?",
+  "url": "http://nomadev.com.br/por-que-usar-stylus/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "stylus",
+    "preprocessor",
+    "dicas"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento",
+    "url": "http://nomadev.com.br"
   }
 }
 ]
