@@ -232,5 +232,17 @@
     "name": "Fernando Daciuk",
     "url": "http://blog.da2k.com.br"
   }
+},
+ {
+  "name": "Padrões para códigos HTML e CSS flexíveis e sustentáveis.",
+  "url": "http://diegoeis.github.io/code-guide/",
+  "type": "guia",
+  "tags": [
+    "dicas"
+  ],
+  "author": {
+    "name": "Mark Otto",
+    "url": "http://markdotto.com/"
+  }
 }
 ]
