@@ -25,4 +25,13 @@
     "name": "Willian Justen",
     "url": "http://willianjusten.com.br/"
   }
+}, {
+  "name": "React e Flux: uma nova abordagem pra aplicações de alto desempenho",
+  "url": "http://www.infoq.com/br/presentations/react-e-flux",
+  "type": "palestra",
+  "tags": ["introdução", "palestra"],
+  "author": {
+    "name": "Cássio Zen",
+    "url": "https://github.com/cassiozen"
+  }
 }]

@@ -118,5 +118,34 @@
       "name": "Matheus Azzi",
       "url": "http://matheusazzi.com"
     }
+  },
+   {
+    "name": "AngularJS 2.0 a caminho e o que mudou há exatamente um ano",
+    "url": "http://imasters.com.br/front-end/javascript/angularjs-2-0-a-caminho-e-o-que-mudou-ha-exatamente-um-ano/",
+    "type": "artigo",
+    "tags": [
+      "angularjs",
+      "frontend"
+    ],
+    "author": {
+      "name": "Fernando Monteiro",
+      "url": "http://newaeonweb.com.br/"
+    }
+  },
+   {
+    "name": "Angular 2 e o futuro do desenvolvimento Front-end",
+    "url": " https://speakerdeck.com/cironunes/angular-2-e-o-futuro-do-desenvolvimento-front-end",
+    "type": "palestra",
+    "tags": [
+      "angularjs",
+      "frontend"
+    ],
+    "author": {
+      "name": "Ciro Nunes",
+      "url": "http://cironunes.com/"
+    }
   }
+ 
 ]
+
+
