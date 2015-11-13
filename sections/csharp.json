@@ -1,0 +1,25 @@
+[{
+  "name": "Novidades do C# 6",
+  "url": "http://blog.caelum.com.br/novidades-do-c-6-0/",
+  "type": "artigo",
+  "tags": [
+    "novidades",
+	"introdução"
+  ],
+  "author": {
+    "name": "Gabriel Ferreira",
+    "url": "https://www.caelum.com.br/instrutores/gabriel-ferreira/"
+  }
+},{
+  "name": "Inversão de controle e Injeção de depedência com C#",
+  "url": "http://codigonatela.azurewebsites.net/2015/10/24/inversao-de-controle-e-injecao-de-depedencia/",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+	"exemplo"
+  ],
+  "author": {
+    "name": "Thiago Silva",
+    "url": "http://codigonatela.azurewebsites.net/"
+  }
+}]
