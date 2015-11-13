@@ -217,5 +217,20 @@
     "name": "Jean Carlo Nascimento",
     "url": "http://nomadev.com.br"
   }
+},
+ {
+  "name": "Escrevendo CSS com Stylus",
+  "url": "http://blog.da2k.com.br/2015/02/15/escrevendo-css-com-stylus/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "stylus",
+    "preprocessor",
+    "dicas"
+  ],
+  "author": {
+    "name": "Fernando Daciuk",
+    "url": "http://blog.da2k.com.br"
+  }
 }
 ]
