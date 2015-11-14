@@ -45,17 +45,6 @@
     "url": "http://www.w3.org/"
   }
 }, {
-  "name": "O que é SASS",
-  "url": "http://tableless.com.br/sass-um-outro-metodo-de-escrever-css/",
-  "type": "artigo",
-  "tags": [
-    "sass"
-  ],
-  "author": {
-    "name": "Thaiana Poplade",
-    "url": "http://about.me/thaianapoplade"
-  }
-}, {
   "name": "WebPlataform - Your Web, Documented",
   "url": "http://www.webplatform.org/",
   "type": "dica",
