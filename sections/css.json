@@ -222,5 +222,18 @@
     "name": "Mark Otto",
     "url": "http://markdotto.com/"
   }
+},
+{
+  "name": "Como usar variáveis no CSS de forma nativa.",
+  "url": "http://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "dicas"
+  ],
+  "author": {
+    "name": "Afonso Pacifer",
+    "url": "http://afonsopacifer.com/"
+  }
 }
 ]
