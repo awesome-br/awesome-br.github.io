@@ -235,5 +235,20 @@
     "name": "Afonso Pacifer",
     "url": "http://afonsopacifer.com/"
   }
+},
+{
+  "name": "Arquitetura CSS.",
+  "url": "https://speakerdeck.com/rafaelrinaldi/arquitetura-css",
+  "type": "slide",
+  "tags": [
+    "arquitetura",
+    "css",
+    "dicas",
+    "técnicas"
+  ],
+  "author": {
+    "name": "Rafael Rinaldi",
+    "url": "http://rinaldi.io/"
+  }
 }
 ]
