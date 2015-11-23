@@ -1,0 +1,25 @@
+[{
+  "name": "Vim Bootstrap",
+  "url": "http://vim-bootstrap.com",
+  "type": "site",
+  "tags": [
+    "configurações"
+  ],
+  "author": {
+    "name": "Thiago Avelino",
+    "url": "http://github.com/avelino"
+  }
+},
+{
+  "name": "Dicas VIM",
+  "url": "http://dalibornasevic.com/posts/43-12-vim-tips",
+  "type": "artigo",
+  "tags": [
+    "dicas"
+  ],
+  "author": {
+    "name": "Dalibor Nasevic.",
+    "url": "http://http://dalibornasevic.com/"
+  }
+}
+]
