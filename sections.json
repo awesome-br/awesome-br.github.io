@@ -109,6 +109,11 @@
   "type": "Editor",
   "tags": []
 }, {
+  "name": "VIM",
+  "url": "#/vim",
+  "type": "Editor",
+  "tags": []
+}, {
   "name": "Go",
   "url": "#/go",
   "type": "Linguagem de programação",
