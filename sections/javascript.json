@@ -106,5 +106,18 @@
     "name": "Jean Carlo Nascimento",
     "url": "https://github.com/suissa"
   }
+}, {
+  "name": "O fantástico mundo do JavaScript",
+  "url": "https://www.youtube.com/watch?v=Zn7B-X0y5qs",
+  "type": "video",
+  "tags": [
+    "javascript",
+    "youtube",
+    "video"
+  ],
+  "author": {
+    "name": "Jean Carlo Emer",
+    "url": "http://jcemer.com/"
+  }
 }
 ]
