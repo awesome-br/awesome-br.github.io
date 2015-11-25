@@ -7,11 +7,11 @@
           title="Clique para filtrar"
           ng-click="setFilter(item.type)">
         {{ item.type }}
-    </a>
+      </a>
       <!-- /.label -->
       <a href="{{ item.url }}" target="_blank " class="title">{{ item.name }}</a>
       <footer>
-        <a class="label label-warning"
+        <a class="label label-warning pull-left"
             title="Clique para filtrar"
             ng-click="setFilter(tag)"
             ng-repeat="tag in item.tags">

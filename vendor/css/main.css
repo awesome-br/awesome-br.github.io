@@ -2,19 +2,21 @@ body, h1, h2, h3, h4 {
 	font-family: 'Ubuntu', sans-serif;
 }
 
-.label + .label {
-	margin-left: 5px;
-}
-
 .widget {
 	padding: 10px;
 	color: #FFF;
 	margin-bottom: 30px;
 }
 
+.widget footer {
+	overflow: hidden;
+}
+
 .widget footer .label{
 	color: #2F1212;
 	font-weight: 100;
+	margin-bottom: 5px;
+	margin-left: 5px;
 }
 
 .widget .title {
