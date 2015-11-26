@@ -250,5 +250,20 @@
     "name": "Rafael Rinaldi",
     "url": "http://rinaldi.io/"
   }
+},
+{
+  "name": "CSS Scroll Snap Points",
+  "url": "http://www.raphaelfabeni.com.br/css-scroll-snap-points/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "dicas",
+    "scroll",
+    "técnicas"
+  ],
+  "author": {
+    "name": "Raphael Fabeni",
+    "url": "http://www.raphaelfabeni.com.br"
+  }
 }
 ]
