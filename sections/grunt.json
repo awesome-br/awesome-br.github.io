@@ -22,5 +22,17 @@
     "url": "https://www.twitter.com/fdaciuk"
   }
 },
+{
+  "name": "Automação de tarefas com GruntJS",
+  "url": "https://youtu.be/4oWPK4pdQwQ?t=7m25s",
+  "type": "screencast",
+   "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "Rafael Lyra",
+    "url": "http://www.rafaellyra.com//"
+  }
+}
 
 ]
