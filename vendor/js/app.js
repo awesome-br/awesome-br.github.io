@@ -1,6 +1,6 @@
 (function() {
   var app = angular.module('awesome', ['iso.directives', 'ngRoute']);
-  
+
   /**
    * widget class directive
    */
@@ -14,6 +14,25 @@
       }
     };
   });
+
+ /**
+  * target attribute directive
+  */
+  app.directive("target", function() {
+    return {
+        restrict: 'A',
+        link: function(scope, element, attrs) {
+          var href = String(attrs.href);
+          if( !href.match(/#\//) ) {
+            element.attr("target", "_blank");
+          }
+          else{
+            element.attr("target", "_self");
+          }
+        }
+    };
+  });
+
 
  /**
   * loop-itens directive
@@ -131,5 +150,6 @@
     $scope.spinner = true;
 
     init();
+
   }]);
 })();
