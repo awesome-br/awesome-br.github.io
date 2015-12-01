@@ -1,38 +1,36 @@
 [{
-  "name": "Grunt: você deveria estar usando!",
-  "url": "http://tableless.com.br/grunt-voce-deveria-estar-usando/",
-  "type": "artigo",
-  "tags": [
-    "iniciante"
-  ],
-  "author": {
-    "name": "Vagner Santana",
-    "url": "http://vagnersantana.com/"
+    "name": "Grunt: você deveria estar usando!",
+    "url": "http://tableless.com.br/grunt-voce-deveria-estar-usando/",
+    "type": "artigo",
+    "tags": [
+      "iniciante"
+    ],
+    "author": {
+      "name": "Vagner Santana",
+      "url": "http://vagnersantana.com/"
+    }
+  }, {
+    "name": "GruntJS – Por onde começar?",
+    "url": "http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/",
+    "type": "artigo",
+    "tags": [
+      "iniciante"
+    ],
+    "author": {
+      "name": "Fernando Daciuk",
+      "url": "https://www.twitter.com/fdaciuk"
+    }
+  }, {
+    "name": "Automação de tarefas com GruntJS",
+    "url": "https://youtu.be/4oWPK4pdQwQ?t=7m25s",
+    "type": "screencast",
+    "tags": [
+      "iniciante"
+    ],
+    "author": {
+      "name": "Rafael Lyra",
+      "url": "http://www.rafaellyra.com//"
+    }
   }
-},
-{
-  "name": "GruntJS – Por onde começar?",
-  "url": "http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/",
-  "type": "artigo",
-  "tags": [
-    "iniciante"
-  ],
-  "author": {
-    "name": "Fernando Daciuk",
-    "url": "https://www.twitter.com/fdaciuk"
-  }
-},
-{
-  "name": "Automação de tarefas com GruntJS",
-  "url": "https://youtu.be/4oWPK4pdQwQ?t=7m25s",
-  "type": "screencast",
-   "tags": [
-    "iniciante"
-  ],
-  "author": {
-    "name": "Rafael Lyra",
-    "url": "http://www.rafaellyra.com//"
-  }
-}
 
 ]

@@ -16,8 +16,7 @@
   "tags": [
     "introdução", "tutorial", "básico"
   ]
-},
- {
+}, {
   "name": "Primeiros passos com Electron",
   "url": "http://blog.concretesolutions.com.br/2015/09/primeiros-passos-com-electron/",
   "type": "artigo",
@@ -27,8 +26,8 @@
     "eletron"
   ],
   "author": {
-    "name":"Raphael Freitas",
-    "url":"http://blog.concretesolutions.com.br"
+    "name": "Raphael Freitas",
+    "url": "http://blog.concretesolutions.com.br"
 
   }
 }, {
@@ -43,8 +42,7 @@
     "name": "Caio Ribeiro Pereira",
     "url": "http://crpwebdev.com/"
   }
-},
-{
+}, {
   "name": "Criando aplicações web com NodeJS",
   "url": "http://matheusazzi.com/criando-aplicacoes-com-node/",
   "type": "artigo",
@@ -56,8 +54,7 @@
     "name": "Matheus Azzi",
     "url": "http://matheusazzi.com"
   }
-},
-{
+}, {
   "name": "Gerenciando corretamente dependências em NodeJS - save ou save-dev?",
   "url": "http://blog.da2k.com.br/2015/03/03/gerenciando-corretamente-dependencias-em-nodejs-save-ou-save-dev-1/",
   "type": "artigo",
@@ -69,5 +66,4 @@
     "name": "Fernando Daciuk",
     "url": "http://blog.da2k.com.br"
   }
-}
-]
+}]

@@ -158,8 +158,8 @@
   "type": "artigo",
   "tags": [
     "bootstrap",
-	"css",
-	"dicas",
+    "css",
+    "dicas",
     "html"
   ],
   "author": {
@@ -180,8 +180,7 @@
     "name": "Eduardo Matos",
     "url": "http://eduardomatos.me/"
   }
-},
- {
+}, {
   "name": "Por que usar Stylus?",
   "url": "http://nomadev.com.br/por-que-usar-stylus/",
   "type": "artigo",
@@ -195,8 +194,7 @@
     "name": "Jean Carlo Nascimento",
     "url": "http://nomadev.com.br"
   }
-},
- {
+}, {
   "name": "Escrevendo CSS com Stylus",
   "url": "http://blog.da2k.com.br/2015/02/15/escrevendo-css-com-stylus/",
   "type": "artigo",
@@ -210,8 +208,7 @@
     "name": "Fernando Daciuk",
     "url": "http://blog.da2k.com.br"
   }
-},
- {
+}, {
   "name": "Padrões para códigos HTML e CSS flexíveis e sustentáveis.",
   "url": "http://diegoeis.github.io/code-guide/",
   "type": "guia",
@@ -222,8 +219,7 @@
     "name": "Mark Otto",
     "url": "http://markdotto.com/"
   }
-},
-{
+}, {
   "name": "Como usar variáveis no CSS de forma nativa.",
   "url": "http://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/",
   "type": "artigo",
@@ -235,8 +231,7 @@
     "name": "Afonso Pacifer",
     "url": "http://afonsopacifer.com/"
   }
-},
-{
+}, {
   "name": "Arquitetura CSS.",
   "url": "https://speakerdeck.com/rafaelrinaldi/arquitetura-css",
   "type": "slide",
@@ -250,8 +245,7 @@
     "name": "Rafael Rinaldi",
     "url": "http://rinaldi.io/"
   }
-},
-{
+}, {
   "name": "CSS Scroll Snap Points",
   "url": "http://www.raphaelfabeni.com.br/css-scroll-snap-points/",
   "type": "artigo",
@@ -265,5 +259,4 @@
     "name": "Raphael Fabeni",
     "url": "http://www.raphaelfabeni.com.br"
   }
-}
-]
+}]

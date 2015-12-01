@@ -1,62 +1,62 @@
 [{
-  "name": "Informações gerais sobre Javascript",
-  "url": "http://pt.stackoverflow.com/tags/javascript/info",
-  "type": "documentação",
-  "tags": [
-    "introdução",
-    "definição"
-  ],
-  "author": {
-    "name": "stackoverflow",
-    "url": "http://pt.stackoverflow.com/tags/javascript/info"
-  }
-}, {
-  "name": "Curso básico Javascript",
-  "url": "https://www.codecademy.com/pt-BR/tracks/javascript",
-  "type": "curso",
-  "tags": [
-    "introdução", "curso"
-  ],
-  "author": {
-    "name": "CodeAcademy",
-    "url": "https://www.codecademy.com/pt-BR/tracks/javascript"
-  }
-}, {
-  "name": "WebPlataform - Your Web, Documented",
-  "url": "http://www.webplatform.org/",
-  "type": "dica",
-  "tags": [
-    "html", "css", "javascript"
-  ],
-  "author": {
-    "name": "W3C",
-    "url": "http://www.w3.org/"
-  }
-}, {
-  "name": "Visão geral das novas funcionalidades do ECMAScript 6",
-  "url": "https://github.com/cerebrobr/es6features",
-  "type": "documentação",
-  "tags": [
-    "es6"
-  ],
-  "author": {
-    "name": "Cerebro",
-    "url": "https://github.com/cerebrobr"
-  }
-}, {
-  "name": "O JavaScript que você deveria conhecer.",
-  "url": "https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706",
-  "type": "artigo",
-  "tags": [
-   "dicas",
-    "javascript"
-  ],
-  "author": {
-    "name": "Pedro Polisenso",
-    "url": "https://medium.com/@pedropolisenso/"
-  }
-}, {
-  "name": "JavaScript: A forma certa",
+    "name": "Informações gerais sobre Javascript",
+    "url": "http://pt.stackoverflow.com/tags/javascript/info",
+    "type": "documentação",
+    "tags": [
+      "introdução",
+      "definição"
+    ],
+    "author": {
+      "name": "stackoverflow",
+      "url": "http://pt.stackoverflow.com/tags/javascript/info"
+    }
+  }, {
+    "name": "Curso básico Javascript",
+    "url": "https://www.codecademy.com/pt-BR/tracks/javascript",
+    "type": "curso",
+    "tags": [
+      "introdução", "curso"
+    ],
+    "author": {
+      "name": "CodeAcademy",
+      "url": "https://www.codecademy.com/pt-BR/tracks/javascript"
+    }
+  }, {
+    "name": "WebPlataform - Your Web, Documented",
+    "url": "http://www.webplatform.org/",
+    "type": "dica",
+    "tags": [
+      "html", "css", "javascript"
+    ],
+    "author": {
+      "name": "W3C",
+      "url": "http://www.w3.org/"
+    }
+  }, {
+    "name": "Visão geral das novas funcionalidades do ECMAScript 6",
+    "url": "https://github.com/cerebrobr/es6features",
+    "type": "documentação",
+    "tags": [
+      "es6"
+    ],
+    "author": {
+      "name": "Cerebro",
+      "url": "https://github.com/cerebrobr"
+    }
+  }, {
+    "name": "O JavaScript que você deveria conhecer.",
+    "url": "https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706",
+    "type": "artigo",
+    "tags": [
+      "dicas",
+      "javascript"
+    ],
+    "author": {
+      "name": "Pedro Polisenso",
+      "url": "https://medium.com/@pedropolisenso/"
+    }
+  }, {
+    "name": "JavaScript: A forma certa",
     "url": "http://www.jstherightway.org/pt-br/",
     "type": "guia",
     "tags": [
@@ -66,8 +66,8 @@
       "name": "William Oliveira",
       "url": "https://github.com/gnuwilliam"
     }
-}, {
-  "name": "Desvendando a linguagem JavaScript",
+  }, {
+    "name": "Desvendando a linguagem JavaScript",
     "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc",
     "type": "playlist",
     "tags": [
@@ -79,73 +79,71 @@
       "name": "Rodrigo Branas",
       "url": "https://github.com/rodrigobranas"
     }
-}, {
-  "name": "ApppCache, manifest, mundo offline e ServiceWorker",
-  "url": "http://eduardomatos.me/appcache-manifest-e-serviceworker-as-partes-boas-e-ruins/",
-  "type": "artigo",
-  "tags": [
-    "javascript",
-    "appcache",
-    "service workers"
-  ],
-  "author": {
-    "name": "Eduardo Matos",
-    "url": "http://eduardomatos.me/"
+  }, {
+    "name": "ApppCache, manifest, mundo offline e ServiceWorker",
+    "url": "http://eduardomatos.me/appcache-manifest-e-serviceworker-as-partes-boas-e-ruins/",
+    "type": "artigo",
+    "tags": [
+      "javascript",
+      "appcache",
+      "service workers"
+    ],
+    "author": {
+      "name": "Eduardo Matos",
+      "url": "http://eduardomatos.me/"
+    }
+  }, {
+    "name": "JavaScript Funcional",
+    "url": "https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R",
+    "type": "playlist",
+    "tags": [
+      "javascript",
+      "youtube",
+      "playlist",
+      "curso"
+    ],
+    "author": {
+      "name": "Jean Carlo Nascimento",
+      "url": "https://github.com/suissa"
+    }
+  }, {
+    "name": "O fantástico mundo do JavaScript",
+    "url": "https://www.youtube.com/watch?v=Zn7B-X0y5qs",
+    "type": "video",
+    "tags": [
+      "javascript",
+      "youtube",
+      "video"
+    ],
+    "author": {
+      "name": "Jean Carlo Emer",
+      "url": "http://jcemer.com/"
+    }
+  }, {
+    "name": "ES6 - Arrow Functions",
+    "url": "http://programadorobjetivo.co/es6-arrow-functions/",
+    "type": "artigo",
+    "tags": [
+      "javascript",
+      "es6"
+    ],
+    "author": {
+      "name": "Johel Carvalho",
+      "url": "http://programadorobjetivo.co"
+    }
+  }, {
+    "name": "10+ Conceitos Que Todo Profissional Javascript Deveria Saber",
+    "url": "http://programadorobjetivo.co/10-conceitos-que-todo-profissional-javascript-deve-saber/",
+    "type": "artigo",
+    "tags": [
+      "javascript",
+      "es5",
+      "padrões"
+    ],
+    "author": {
+      "name": "Johel Carvalho",
+      "url": "http://programadorobjetivo.co"
+    }
   }
-}, {
-  "name": "JavaScript Funcional",
-  "url": "https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R",
-  "type": "playlist",
-  "tags": [
-    "javascript",
-    "youtube",
-    "playlist",
-    "curso"
-  ],
-  "author": {
-    "name": "Jean Carlo Nascimento",
-    "url": "https://github.com/suissa"
-  }
-}, {
-  "name": "O fantástico mundo do JavaScript",
-  "url": "https://www.youtube.com/watch?v=Zn7B-X0y5qs",
-  "type": "video",
-  "tags": [
-    "javascript",
-    "youtube",
-    "video"
-  ],
-  "author": {
-    "name": "Jean Carlo Emer",
-    "url": "http://jcemer.com/"
-  }
-},
-{
-  "name": "ES6 - Arrow Functions",
-  "url": "http://programadorobjetivo.co/es6-arrow-functions/",
-  "type": "artigo",
-  "tags": [
-    "javascript",
-    "es6"
-  ],
-  "author": {
-    "name": "Johel Carvalho",
-    "url": "http://programadorobjetivo.co"
-  }
-},
-{
-  "name": "10+ Conceitos Que Todo Profissional Javascript Deveria Saber",
-  "url": "http://programadorobjetivo.co/10-conceitos-que-todo-profissional-javascript-deve-saber/",
-  "type": "artigo",
-  "tags": [
-    "javascript",
-    "es5",
-    "padrões"
-  ],
-  "author": {
-    "name": "Johel Carvalho",
-    "url": "http://programadorobjetivo.co"
-  }
-}
 
 ]

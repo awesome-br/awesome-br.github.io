@@ -20,12 +20,11 @@
   "url": "http://www.codeforcloud.info/blog/2015/02/15/docker-por-onde-comecar/",
   "type": "Url",
   "tags": [
-      "tutorial",
-      "iniciante"
+    "tutorial",
+    "iniciante"
   ],
-  "author":{
-      "name": "Diego Garcia",
-      "url": "http://www.codeforcloud.info/"
+  "author": {
+    "name": "Diego Garcia",
+    "url": "http://www.codeforcloud.info/"
   }
-}
-]
+}]
