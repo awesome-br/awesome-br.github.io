@@ -4,7 +4,8 @@
   "description": "Awesome BR possui um formato aberto a comunidade que deseja compartilhar conteúdo de qualidade frente às tecnologias mais atuais do mercado.",
   "main": "",
   "scripts": {
-    "http-server": "node_modules/http-server/bin/http-server"
+    "http-server": "node_modules/http-server/bin/http-server",
+    "validate": "node tasks/validate.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,10 @@
   "homepage": "https://github.com/awesome-br/awesome-br.github.io#readme",
   "dependencies": {
     "http-server": "^0.8.5"
+  },
+  "devDependencies": {
+    "jlint": "^3.0.2",
+    "lodash": "^3.10.1",
+    "pretty-log": "^0.1.0"
   }
 }
