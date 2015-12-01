@@ -22,4 +22,16 @@
     "name": "Thiago Silva",
     "url": "http://codigonatela.azurewebsites.net/"
   }
+},{
+  "name": "DNVM, DNX e DNU – As novas siglas do dotNET",
+  "url": "http://codigonatela.azurewebsites.net/2015/11/30/dnvm-dnx-e-dnu-as-novas-siglas-do-dotnet/",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+	"exemplo"
+  ],
+  "author": {
+    "name": "Thiago Silva",
+    "url": "http://codigonatela.azurewebsites.net/"
+  }
 }]
