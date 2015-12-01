@@ -96,5 +96,18 @@
     "name": "Fernando Daciuk",
     "url": "http://blog.da2k.com.br/"
   }
+},
+{
+  "name": "Cache de senha no Git",
+  "url": "http://franklinjavier.com/posts/cache-de-senha-no-git/",
+  "type": "artigo",
+  "tags": [
+    "git",
+    "dicas"
+  ],
+  "author": {
+    "name": "Franklin Javier",
+    "url": "http://franklinjavier.com/"
+  }
 }
 ]
