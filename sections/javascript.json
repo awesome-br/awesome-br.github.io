@@ -119,5 +119,33 @@
     "name": "Jean Carlo Emer",
     "url": "http://jcemer.com/"
   }
+},
+{
+  "name": "ES6 - Arrow Functions",
+  "url": "http://programadorobjetivo.co/es6-arrow-functions/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "es6",
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co"
+  }
+},
+{
+  "name": "10+ Conceitos Que Todo Profissional Javascript Deveria Saber",
+  "url": "http://programadorobjetivo.co/10-conceitos-que-todo-profissional-javascript-deve-saber/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "es5",
+    "padrões"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co"
+  }
 }
+
 ]
