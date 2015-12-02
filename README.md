@@ -2,7 +2,7 @@
 <h1 align="center">
 <a href="http://awesome-br.com" target="_blank">awesome-br.com</a>
 <br>
-<img src="https://cloud.githubusercontent.com/assets/1509692/10661390/79f3033a-788c-11e5-97df-a90e5e5a4f49.png"/>
+<img src="http://awesome-br.com/screenshot.png"/>
 </h1>
 
 [![Build Status](https://travis-ci.org/awesome-br/awesome-br.github.io.svg?branch=master)](https://travis-ci.org/awesome-br/awesome-br.github.io)
@@ -30,7 +30,7 @@ Se você deseja adicionar uma nova tecnologia, abra uma [nova issue](https://git
 
 O formato para um novo item em qualquer tecnologia é:
 
-```javascript
+```json
   {
     "name": "Título do link",
     "url": "Url do link",
