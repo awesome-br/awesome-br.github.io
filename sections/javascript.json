@@ -214,4 +214,18 @@
     "name": "Vinicius Reis",
     "url": "http://github.com/vinicius73"
   }
+},
+{
+  "name": "Testando seu front com CasperJs",
+  "url": "http://blog.devparana.org/testando-seu-front-com-casperjs/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "testes",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Fernando Fabricio dos Santos",
+    "url": "http://blog.devparana.org"
+  }
 }]
