@@ -259,4 +259,32 @@
     "name": "Raphael Fabeni",
     "url": "http://www.raphaelfabeni.com.br"
   }
+},
+ {
+  "name": "Seu CSS é bom ou ruim?",
+  "url": "http://edsonjunior.com/css-bom-ruim/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "dicas",
+    "técnicas"
+  ],
+  "author": {
+    "name": "Edson S. Junior",
+    "url": "http://edsonjunior.com"
+  }
+},
+ {
+  "name": "Entendendo float, clear e clearfix de uma vez por todas",
+  "url": "http://edsonjunior.com/entendendo-float-clear-clearfix/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "dicas",
+    "técnicas"
+  ],
+  "author": {
+    "name": "Edson S. Junior",
+    "url": "http://edsonjunior.com"
+  }
 }]

@@ -228,4 +228,20 @@
     "name": "Fernando Fabricio dos Santos",
     "url": "http://blog.devparana.org"
   }
+},
+{
+  "name": "APIs REST em 1 minuto ",
+  "url": "http://jaydson.org/api-s-rest-em-1-minuto/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "api",
+    "framework",
+    "harvesterjs",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Jaydson Gomes",
+    "url": "http://jaydson.org/"
+  }
 }]
