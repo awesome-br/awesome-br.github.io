@@ -9,11 +9,6 @@
   "type": "Framework Javascript",
   "tags": []
 }, {
-  "name" : "Certificados",
-  "url" : "#/certificados",
-  "type" : "Certificados digitais",
-  "tags" : []
-}, {
   "name": "CSS",
   "url": "#/css",
   "type": "Folha de Estilo",
@@ -108,6 +103,11 @@
   "url": "#/rails",
   "type": "Ruby Framework",
   "tags": []
+}, {
+  "name" : "Segurança",
+  "url" : "#/seguranca",
+  "type" : "Segurança e Certificados digitais",
+  "tags" : []
 }, {
   "name": "Sublime Text",
   "url": "#/sublime",
