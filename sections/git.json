@@ -102,4 +102,28 @@
     "name": "Franklin Javier",
     "url": "http://franklinjavier.com/"
   }
+}, {
+  "name": "Git: Como usar localmente ou em servidor próprio",
+  "url": "https://www.youtube.com/watch?v=eCXgVl_4yuY",
+  "type": "screencast",
+  "tags": [
+    "app",
+    "git"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Deploy com git de app sem usar serviço externo, de uma maneira simples",
+  "url": "https://www.youtube.com/watch?v=BSNHRFI05vQ",
+  "type": "screencast",
+  "tags": [
+    "git",
+    "deploy"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
 }]

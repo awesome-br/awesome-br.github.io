@@ -569,7 +569,7 @@
     "url": "https://github.com/vinicius73"
   }
 }, {
-  "name": "Instalação e configuração PHP-FPM, nginx, mysql, phpmyadmin, composer, git, laravel ",
+  "name": "Instalação e configuração PHP-FPM, nginx, mysql, phpmyadmin, composer, git, laravel",
   "url": "https://www.youtube.com/watch?v=0EM-vRh1n10",
   "type": "screencast",
   "tags": [
@@ -615,19 +615,7 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
-}, {
-  "name": "Git: Como usar localmente ou em servidor próprio ",
-  "url": "https://www.youtube.com/watch?v=eCXgVl_4yuY",
-  "type": "screencast",
-  "tags": [
-    "app",
-    "git"
-  ],
-  "author": {
-    "name": "Leandro Henrique Reis",
-    "url": "https://github.com/emtudo"
-  }
-}, {
+},{
   "name": "Model factory em pt_BR",
   "url": "http://www.laravel.com.br/model-factory-em-pt_br-laravel-5-1/",
   "type": "dica",
