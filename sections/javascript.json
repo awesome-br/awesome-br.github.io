@@ -214,4 +214,34 @@
     "name": "Vinicius Reis",
     "url": "http://github.com/vinicius73"
   }
+},
+{
+  "name": "Testando seu front com CasperJs",
+  "url": "http://blog.devparana.org/testando-seu-front-com-casperjs/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "testes",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Fernando Fabricio dos Santos",
+    "url": "http://blog.devparana.org"
+  }
+},
+{
+  "name": "APIs REST em 1 minuto ",
+  "url": "http://jaydson.org/api-s-rest-em-1-minuto/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "api",
+    "framework",
+    "harvesterjs",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Jaydson Gomes",
+    "url": "http://jaydson.org/"
+  }
 }]

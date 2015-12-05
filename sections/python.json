@@ -83,4 +83,11 @@
   "tags": [
     "screencast", "playlist", "curso", "básico"
   ]
+}, {
+  "name": "Curso Python + Django",
+  "url": "https://osantana.me/curso-de-python-e-django/",
+  "type": "Curso",
+  "tags": [
+    "playlist", "curso", "básico"
+  ]
 }]

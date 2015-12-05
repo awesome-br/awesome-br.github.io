@@ -817,4 +817,17 @@
     "name": "Rodrigo Turini",
     "url": "https://github.com/Turini"
   }
+},
+{
+  "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
+  "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
+  "type": "tutorial",
+  "tags": [
+    "integracao angular",
+    "material design"
+  ],
+  "author": {
+    "name": "Jansen Felipe",
+    "url": "http://jansenfelipe.com.br"
+  }
 }]
