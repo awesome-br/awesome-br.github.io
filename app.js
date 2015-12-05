@@ -1,4 +1,10 @@
 (function() {
+
+  // jQuery commands
+  $(function () {
+    $('[data-toggle="tooltip"]').tooltip();
+  });
+
   var app = angular.module('awesome', ['iso.directives', 'ngRoute']);
 
   /**
