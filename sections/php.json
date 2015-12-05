@@ -1,23 +1,52 @@
-[
-  {
-    "name": "Documentação oficial em português",
-    "url": "http://php.net/manual/pt_BR/",
-    "type": "Url",
-    "tags": [
-      "documentação"
-    ]
-  },
-  {
-    "name": "7 funções essenciais do PHP que você deve conhecer",
-    "url": "http://tableless.com.br/7-funcoes-essenciais-php-que-voce-deve-conhecer/",
-    "type": "artigo",
-    "tags": [
-      "funções",
-      "api"
-    ],
-    "author": {
-      "name": "ADRIANO DOS SANTOS JÚNIOR",
-      "url": "http://www.adrianojr.com/"
-    }
+[{
+  "name": "Documentação oficial em português",
+  "url": "http://php.net/manual/pt_BR/",
+  "type": "Url",
+  "tags": [
+    "documentação"
+  ]
+}, {
+  "name": "7 funções essenciais do PHP que você deve conhecer",
+  "url": "http://tableless.com.br/7-funcoes-essenciais-php-que-voce-deve-conhecer/",
+  "type": "artigo",
+  "tags": [
+    "funções",
+    "api"
+  ],
+  "author": {
+    "name": "ADRIANO DOS SANTOS JÚNIOR",
+    "url": "http://www.adrianojr.com/"
   }
-]
+}, {
+  "name": "PHP: Do Jeito Certo",
+  "url": "http://br.phptherightway.com/",
+  "type": "Url",
+  "tags": [
+    "documentação",
+    "referência"
+  ]
+}, {
+  "name": "10 NOVIDADES DO PHP 7",
+  "url": "http://www.profissionaisti.com.br/2015/09/10-novidades-do-php-7/",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "php7"
+  ],
+  "author": {
+    "name": "ROBERTO BERALDO",
+    "url": "http://www.profissionaisti.com.br/"
+  }
+}, {
+  "name": "Desenvolvimento Web com PHP e Mysql",
+  "url": "http://www.casadocodigo.com.br/products/livro-php-mysql",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Evaldo Júnio Bento",
+    "url": "http://blog.evaldojunior.com.br/"
+  }
+}]

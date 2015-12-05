@@ -1,47 +1,54 @@
 body, h1, h2, h3, h4 {
-	font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
-
-.label + .label {
-	margin-left: 5px;
-}
-
 .widget {
-	padding: 10px;
-	color: #FFF;
-	margin-bottom: 30px;
+  padding: 10px;
+  color: #FFF;
+  margin-bottom: 30px;
 }
-
-.widget footer .label{
-	color: #2F1212;
-	font-weight: 100;
+.widget footer {
+  overflow: hidden;
 }
-
+.widget footer .label {
+  color: #2F1212;
+  font-weight: 100;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
 .widget .title {
-	font-size: 1.7em;
-	display: block;
-	color: #FFF;
-	text-decoration: none;
+  font-size: 1.7em;
+  display: block;
+  color: #FFF;
+  text-decoration: none;
 }
-
 .widget .title:hover {
-	text-decoration: none;
+  text-decoration: none;
+}
+#form-filter {
+  margin-bottom: 30px;
+}
+#form-filter .clear-filter {
+  pointer-events: inherit;
+  cursor: pointer;
+  margin-right: 15px;
+}
+#form-filter .has-tags .clear-filter, #form-filter .has-types .clear-filter {
+	margin-right: 115px;
 }
 
-#form-filter{
-	margin-bottom: 30px;
+#form-filter .has-types.has-tags .clear-filter {
+	margin-right: 200px;
 }
 
-#form-filter .clear-filter{
-	pointer-events: inherit;
-	cursor: pointer;
-	margin-right: 15px;
+.forkme-ribbon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0;
+  width: 110px;
 }
-
-.forkme-ribbon{
-	position: absolute;
-	top: 0;
-	left: 0;
-	border: 0;
-	width: 110px;
+.no-radius {
+  -webkit-border-radius: 0px !important;
+  -moz-border-radius: 0px !important;
+  border-radius: 0px !important;
 }

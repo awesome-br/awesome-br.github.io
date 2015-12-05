@@ -768,4 +768,66 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
+}, {
+  "name": "Authorization no Laravel 5.1 - Zizaco",
+  "url": "https://www.youtube.com/watch?v=hJRt0BDF0Do",
+  "type": "palestra",
+  "tags": [
+    "laravel 5.1",
+    "ACL"
+  ],
+  "author": {
+    "name": "Zizaco",
+    "url": "http://www.zizaco.net/"
+  }
+}, {
+  "name": "Autenticação com OAuth 2 no Laravel",
+  "url": "http://sites.code.education/v-02-laravel-com-angularjs/",
+  "type": "screencast",
+  "tags": [
+    "laravel 5.1",
+    "autenticação",
+    "auth"
+  ],
+  "author": {
+    "name": "Wesley Willians",
+    "url": "http://sites.code.education/home-code/"
+  }
+}, {
+  "name": "Laravel 5 - Entendendo o Ambiente MVC",
+  "url": "http://pt.slideshare.net/mdba2007/laravel-5-entenda-o-ambiente-e-a-estrutura-mvc",
+  "type": "slideshare",
+  "tags": [
+    "laravel",
+    "mvc"
+  ],
+  "author": {
+    "name": "Michael Douglas",
+    "url": "http://pt.slideshare.net/"
+  }
+}, {
+  "name": "Php e Laravel Crie aplicações web como um verdadeiro artesão",
+  "url": "http://www.casadocodigo.com.br/products/livro-laravel-php",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Rodrigo Turini",
+    "url": "https://github.com/Turini"
+  }
+},
+{
+  "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
+  "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
+  "type": "tutorial",
+  "tags": [
+    "integracao angular",
+    "material design"
+  ],
+  "author": {
+    "name": "Jansen Felipe",
+    "url": "http://jansenfelipe.com.br"
+  }
 }]

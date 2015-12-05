@@ -1,14 +1,30 @@
-[
- {
-    "name": "",
-    "url": "",
-    "type": "",
-    "tags": [
-      ""      
-    ],
-    "author": {
-      "name": "",
-      "url": ""
-    }
+[{
+  "name": "Mundo Docker",
+  "url": "http://www.mundodocker.com.br/",
+  "type": "Url",
+  "tags": []
+}, {
+  "name": "Containers com Docker",
+  "url": "http://www.casadocodigo.com.br/products/livro-docker",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Daniel Romero",
+    "url": "http://infoslack.com"
   }
-]
+}, {
+  "name": "Docker, Por Onde Começar",
+  "url": "http://www.codeforcloud.info/blog/2015/02/15/docker-por-onde-comecar/",
+  "type": "Url",
+  "tags": [
+    "tutorial",
+    "iniciante"
+  ],
+  "author": {
+    "name": "Diego Garcia",
+    "url": "http://www.codeforcloud.info/"
+  }
+}]

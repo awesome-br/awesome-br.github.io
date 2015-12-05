@@ -1,6 +1,10 @@
 <div class="container">
   <div class="row">
-    <filter-form query="query" planceholder="'Pesquise por títulos, tags ou categorias...'"></filter-form>
+    <filter-form
+      query="query"
+      tags="tags"
+      types="types"
+      planceholder="'Pesquise por títulos, tags ou categorias...'"></filter-form>
   </div>
 
   <ng-include ng-show="spinner" src="'/views/parts/spinner.html'"></ng-include>

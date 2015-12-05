@@ -1,6 +1,12 @@
 (function() {
+
+  // jQuery commands
+  $(function () {
+    $('[data-toggle="tooltip"]').tooltip();
+  });
+
   var app = angular.module('awesome', ['iso.directives', 'ngRoute']);
-  
+
   /**
    * widget class directive
    */
@@ -15,9 +21,27 @@
     };
   });
 
- /**
-  * loop-itens directive
-  */
+  /**
+   * target attribute directive
+   */
+  app.directive("target", function() {
+    return {
+      restrict: 'A',
+      link: function(scope, element, attrs) {
+        var href = String(attrs.href);
+        if (!href.match(/#\//)) {
+          element.attr("target", "_blank");
+        } else {
+          element.attr("target", "_self");
+        }
+      }
+    };
+  });
+
+
+  /**
+   * loop-itens directive
+   */
   app.directive('loopItens', function() {
     return {
       restrict: 'E',
@@ -54,12 +78,18 @@
       require: '^planceholder',
       scope: {
         planceholder: '=',
-        query: '='
+        query: '=',
+        types: '=',
+        tags: '='
       },
       controller: ['$scope', function($scope) {
         $scope.clearFilter = function() {
           $scope.query = '';
-        }
+        };
+
+        $scope.setFilter = function(_value) {
+          $scope.query = _value;
+        };
       }]
     };
   });
@@ -104,14 +134,20 @@
         .then(function(_response) {
           $scope.itens = _response.data;
           $scope.spinner = false;
+
+          $scope.types = _.chain(_response.data)
+                          .pluck('type')
+                          .uniq()
+                          .value();
         });
     };
 
     $scope.itens = [];
+    $scope.types = [];
     $scope.spinner = true;
 
     init();
-  }])
+  }]);
 
   /**
    * Section Controller
@@ -124,12 +160,26 @@
         .then(function(_response) {
           $scope.itens = _response.data;
           $scope.spinner = false;
+
+          $scope.tags = _.chain(_response.data)
+                          .pluck('tags')
+                          .flatten()
+                          .uniq()
+                          .value();
+
+          $scope.types = _.chain(_response.data)
+                          .pluck('type')
+                          .uniq()
+                          .value();
         });
     };
 
     $scope.itens = [];
+    $scope.tags = [];
+    $scope.types = [];
     $scope.spinner = true;
 
     init();
+
   }]);
 })();

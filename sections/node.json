@@ -1,14 +1,69 @@
-[
- {
-    "name": "Primeiros Passos com Node",
-    "url": "http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/",
-    "type": "artigo",
-    "tags": [
-      "inciante"      
-    ],
-    "author": {
-      "name": "Cosme Navarro",
-      "url": "http://cosmenavarro.github.io/"
-    }
+[{
+  "name": "Primeiros Passos com Node",
+  "url": "http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/",
+  "type": "artigo",
+  "tags": [
+    "inciante"
+  ],
+  "author": {
+    "name": "Cosme Navarro",
+    "url": "http://cosmenavarro.github.io/"
   }
-]
+}, {
+  "name": "Artigos e Tutoriais NodeJs",
+  "url": "http://udgwebdev.com/nodejs/",
+  "type": "Url",
+  "tags": [
+    "introdução", "tutorial", "básico"
+  ]
+}, {
+  "name": "Primeiros passos com Electron",
+  "url": "http://blog.concretesolutions.com.br/2015/09/primeiros-passos-com-electron/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "javascript",
+    "eletron"
+  ],
+  "author": {
+    "name": "Raphael Freitas",
+    "url": "http://blog.concretesolutions.com.br"
+
+  }
+}, {
+  "name": "Aplicações web real-time com Node.js",
+  "url": "http://www.casadocodigo.com.br/products/livro-nodejs",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "http://crpwebdev.com/"
+  }
+}, {
+  "name": "Criando aplicações web com NodeJS",
+  "url": "http://matheusazzi.com/criando-aplicacoes-com-node/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "frontend"
+  ],
+  "author": {
+    "name": "Matheus Azzi",
+    "url": "http://matheusazzi.com"
+  }
+}, {
+  "name": "Gerenciando corretamente dependências em NodeJS - save ou save-dev?",
+  "url": "http://blog.da2k.com.br/2015/03/03/gerenciando-corretamente-dependencias-em-nodejs-save-ou-save-dev-1/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "dicas"
+  ],
+  "author": {
+    "name": "Fernando Daciuk",
+    "url": "http://blog.da2k.com.br"
+  }
+}]

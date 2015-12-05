@@ -1,22 +1,37 @@
-[
- {
-    "name": "React: JavaScript reativo",
-    "url": "http://tableless.com.br/react-javascript-reativo/",
-    "type": "artigo",
-    "tags": [],
-    "author": {
-      "name": "DAVI FERREIRA",
-      "url": "http://www.daviferreira.com/posts"
-    }
-  },
-   {
-    "name": "Flux: Entenda como funciona a arquitetura Flux com React",
-    "url": "http://tableless.com.br/flux-entenda-como-funciona-arquitetura-flux-com-react/",
-    "type": "artigo",
-    "tags": [],
-    "author": {
-      "name": "Macgyver Martins",
-      "url": "http://macgyvermartins.com.br/"
-    }
+[{
+  "name": "React: JavaScript reativo",
+  "url": "http://tableless.com.br/react-javascript-reativo/",
+  "type": "artigo",
+  "tags": [],
+  "author": {
+    "name": "DAVI FERREIRA",
+    "url": "http://www.daviferreira.com/posts"
   }
-]
+}, {
+  "name": "Flux: Entenda como funciona a arquitetura Flux com React",
+  "url": "http://tableless.com.br/flux-entenda-como-funciona-arquitetura-flux-com-react/",
+  "type": "artigo",
+  "tags": [],
+  "author": {
+    "name": "Macgyver Martins",
+    "url": "http://macgyvermartins.com.br/"
+  }
+}, {
+  "name": "Começando com React",
+  "url": "http://willianjusten.com.br/comecando-com-react/",
+  "type": "tutorial",
+  "tags": ["introdução", "tutorial"],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+}, {
+  "name": "React e Flux: uma nova abordagem pra aplicações de alto desempenho",
+  "url": "http://www.infoq.com/br/presentations/react-e-flux",
+  "type": "palestra",
+  "tags": ["introdução", "palestra"],
+  "author": {
+    "name": "Cássio Zen",
+    "url": "https://github.com/cassiozen"
+  }
+}]

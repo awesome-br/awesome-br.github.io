@@ -1,14 +1,24 @@
-[
- {
-    "name": "Ember para iniciantes",
-    "url": "http://tableless.com.br/serie-emberjs-iniciante-parte1/",
-    "type": "curso",
-    "tags": [
-      "introdução"      
-    ],
-    "author": {
-      "name": "Anderson de Castro",
-      "url": "http://twitter.com/ander_decastro"
-    }
+[{
+  "name": "Ember para iniciantes",
+  "url": "http://tableless.com.br/serie-emberjs-iniciante-parte1/",
+  "type": "curso",
+  "tags": [
+    "introdução"
+  ],
+  "author": {
+    "name": "Anderson de Castro",
+    "url": "http://twitter.com/ander_decastro"
   }
-]
+}, {
+  "name": "Introdução EmberJS",
+  "url": "https://www.youtube.com/watch?v=B8iWVCDE63U",
+  "type": "screencast",
+  "tags": [
+    "introdução",
+    "video"
+  ],
+  "author": {
+    "name": "Fabio Vedovelli",
+    "url": "https://www.youtube.com/user/vedovelli/videos"
+  }
+}]

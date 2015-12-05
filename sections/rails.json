@@ -1,14 +1,24 @@
-[
- {
-    "name": "O que há de novo no Rails 5",
-    "url": "http://tableless.com.br/novidades-do-rails-5/",
-    "type": "artigo",
-    "tags": [
-      "iniciante"      
-    ],
-    "author": {
-      "name": "João Almeida",
-      "url": "http://twitter.com/joaorsalmeida"
-    }
+[{
+  "name": "O que há de novo no Rails 5",
+  "url": "http://tableless.com.br/novidades-do-rails-5/",
+  "type": "artigo",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "João Almeida",
+    "url": "http://twitter.com/joaorsalmeida"
   }
-]
+}, {
+  "name": "Ruby on Rails coloque sua aplicação web nos trilhos",
+  "url": "http://www.casadocodigo.com.br/products/livro-ruby-on-rails",
+  "type": "Livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "author": {
+    "name": "Vinícius Baggio Fuentes",
+    "url": "http://vinibaggio.net/"
+  }
+}]
