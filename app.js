@@ -15,28 +15,27 @@
     };
   });
 
- /**
-  * target attribute directive
-  */
+  /**
+   * target attribute directive
+   */
   app.directive("target", function() {
     return {
-        restrict: 'A',
-        link: function(scope, element, attrs) {
-          var href = String(attrs.href);
-          if( !href.match(/#\//) ) {
-            element.attr("target", "_blank");
-          }
-          else{
-            element.attr("target", "_self");
-          }
+      restrict: 'A',
+      link: function(scope, element, attrs) {
+        var href = String(attrs.href);
+        if (!href.match(/#\//)) {
+          element.attr("target", "_blank");
+        } else {
+          element.attr("target", "_self");
         }
+      }
     };
   });
 
 
- /**
-  * loop-itens directive
-  */
+  /**
+   * loop-itens directive
+   */
   app.directive('loopItens', function() {
     return {
       restrict: 'E',
@@ -78,7 +77,7 @@
       controller: ['$scope', function($scope) {
         $scope.clearFilter = function() {
           $scope.query = '';
-        }
+        };
       }]
     };
   });
@@ -130,7 +129,7 @@
     $scope.spinner = true;
 
     init();
-  }])
+  }]);
 
   /**
    * Section Controller
