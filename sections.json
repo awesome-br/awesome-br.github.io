@@ -123,4 +123,9 @@
   "url" : "#/csharp",
   "type" : "Linguagem de programação",
   "tags" : []
+}, {
+  "name" : "Certificados",
+  "url" : "#/certificados",
+  "type" : "Certificados digitais",
+  "tags" : []
 }]
