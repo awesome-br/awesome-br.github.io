@@ -78,11 +78,17 @@
       require: '^planceholder',
       scope: {
         planceholder: '=',
-        query: '='
+        query: '=',
+        types: '=',
+        tags: '='
       },
       controller: ['$scope', function($scope) {
         $scope.clearFilter = function() {
           $scope.query = '';
+        };
+
+        $scope.setFilter = function(_value) {
+          $scope.query = _value;
         };
       }]
     };
@@ -128,10 +134,16 @@
         .then(function(_response) {
           $scope.itens = _response.data;
           $scope.spinner = false;
+
+          $scope.types = _.chain(_response.data)
+                          .pluck('type')
+                          .uniq()
+                          .value();
         });
     };
 
     $scope.itens = [];
+    $scope.types = [];
     $scope.spinner = true;
 
     init();
@@ -148,10 +160,23 @@
         .then(function(_response) {
           $scope.itens = _response.data;
           $scope.spinner = false;
+
+          $scope.tags = _.chain(_response.data)
+                          .pluck('tags')
+                          .flatten()
+                          .uniq()
+                          .value();
+
+          $scope.types = _.chain(_response.data)
+                          .pluck('type')
+                          .uniq()
+                          .value();
         });
     };
 
     $scope.itens = [];
+    $scope.tags = [];
+    $scope.types = [];
     $scope.spinner = true;
 
     init();
