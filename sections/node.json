@@ -66,4 +66,28 @@
     "name": "Fernando Daciuk",
     "url": "http://blog.da2k.com.br"
   }
+}, {
+  "name": "Construindo aplicações com NodeJS",
+  "url": "http://wbruno.com.br/livro/construindo-aplicacoes-com-nodejs/",
+  "type": "Livro",
+  "tags": [
+    "nodejs",
+    "livro"
+  ],
+  "author": {
+    "name": "William Bruno",
+    "url": "http://wbruno.com.br/"
+  }
+}, {
+  "name": "package.json entendendo os scripts",
+  "url": "http://wbruno.com.br/nodejs/package-json-entendendo-os-scripts/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "dicas"
+  ],
+  "author": {
+    "name": "William Bruno",
+    "url": "http://wbruno.com.br/"
+  }
 }]
