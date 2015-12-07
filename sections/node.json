@@ -54,17 +54,31 @@
     "name": "Matheus Azzi",
     "url": "http://matheusazzi.com"
   }
-}, {
-  "name": "Gerenciando corretamente dependências em NodeJS - save ou save-dev?",
-  "url": "http://blog.da2k.com.br/2015/03/03/gerenciando-corretamente-dependencias-em-nodejs-save-ou-save-dev-1/",
-  "type": "artigo",
+},
+  {
+    "name": "Gerenciando corretamente dependências em NodeJS - save ou save-dev?",
+    "url": "http://blog.da2k.com.br/2015/03/03/gerenciando-corretamente-dependencias-em-nodejs-save-ou-save-dev-1/",
+    "type": "artigo",
+    "tags": [
+      "nodejs",
+      "dicas"
+    ],
+    "author": {
+      "name": "Fernando Daciuk",
+      "url": "http://blog.da2k.com.br"
+    }
+  }, {
+  "name": "Curso completo de NodeJS, MongoDB, AngularJS e muito mais - Be MEAN",
+  "url": "https://github.com/Webschool-io/be-mean-instagram",
+  "type": "Curso",
   "tags": [
-    "nodejs",
-    "dicas"
+    "NodeJS",
+    "MongoDB",
+    "AngularJS"
   ],
   "author": {
-    "name": "Fernando Daciuk",
-    "url": "http://blog.da2k.com.br"
+    "name": "WebSchool",
+    "url": "http://webschool.io/"
   }
 }, {
   "name": "Construindo aplicações com NodeJS",
