@@ -2,7 +2,7 @@
 <h1 align="center">
 <a href="http://awesome-br.com" target="_blank">awesome-br.com</a>
 <br>
-<img src="http://awesome-br.com/screenshot.png"/>
+<img src="http://awesome-br.com/screenshot.png?new"/>
 </h1>
 
 [![Build Status](https://travis-ci.org/awesome-br/awesome-br.github.io.svg?branch=master)](https://travis-ci.org/awesome-br/awesome-br.github.io)
