@@ -7,9 +7,11 @@ var options = {
 };
 
 jlint(options, function(error, json, file) {
+
   if (!_.isEmpty(error)) {
     log.error(file);
     console.log(error.message);
+    process.exit(1);
   } else {
     log.success(file);
   }
