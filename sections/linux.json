@@ -1,0 +1,51 @@
+[{
+    "name": "Introdução a shell script",
+    "url": "http://aurelio.net/shell/apostila-introducao-shell.pdf",
+    "type": "Artigo",
+    "tags": [
+      "linux",
+      "curso",
+      "apostilas"
+    ],
+    "author": {
+      "name": "Aurélio Marinho de Jargas",
+      "url": "http://aurelio.net"
+    }
+  },{
+    "name": "Linux & shell script",
+    "url": "https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf",
+    "type": "Artigo",
+    "tags": [
+      "linux",
+      "curso",
+      "apostilas"
+    ],
+    "author": {
+      "name": "Aurélio Marinho de Jargas",
+      "url": "http://aurelio.net"
+    }
+  },{
+    "name": "Como automatizar a criação de virtual hosts",
+    "url": "http://tableless.com.br/como-automatizar-criacao-de-virtual-hosts/",
+    "type": "Artigo",
+    "tags": [
+      "linux",
+      "tutorial"
+    ],
+    "author": {
+      "name": "Léo WG",
+      "url": "http://tableless.com.br/author/leowgweb/"
+    }
+  },{
+    "name": "Virtualhost script",
+    "url": "https://github.com/RoverWire/virtualhost",
+    "type": "tutorial",
+    "tags": [
+      "linux",
+      "recursos"
+    ],
+    "author": {
+      "name": "Luis Felipe Perez",
+      "url": "https://github.com/RoverWire"
+    }
+  }]
