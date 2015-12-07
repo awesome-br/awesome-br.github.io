@@ -128,4 +128,9 @@
   "url": "#/vue",
   "type": "Framework Javascript",
   "tags": []
+},{
+  "name": "Linux",
+  "url": "#/linux",
+  "type": "Sistema Operacional",
+  "tags": []
 }]
