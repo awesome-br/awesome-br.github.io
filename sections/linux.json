@@ -1,7 +1,7 @@
 [{
     "name": "Introdução a shell script",
     "url": "http://aurelio.net/shell/apostila-introducao-shell.pdf",
-    "type": "Artigo",
+    "type": "apostilas",
     "tags": [
       "linux",
       "curso",
@@ -14,7 +14,7 @@
   },{
     "name": "Linux & shell script",
     "url": "https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf",
-    "type": "Artigo",
+    "type": "apostilas",
     "tags": [
       "linux",
       "curso",
