@@ -1,7 +1,7 @@
 [{
     "name": "Introdução a shell script",
     "url": "http://aurelio.net/shell/apostila-introducao-shell.pdf",
-    "type": "Artigo",
+    "type": "apostilas",
     "tags": [
       "linux",
       "curso",
@@ -14,7 +14,7 @@
   },{
     "name": "Linux & shell script",
     "url": "https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf",
-    "type": "Artigo",
+    "type": "apostilas",
     "tags": [
       "linux",
       "curso",
@@ -47,5 +47,53 @@
     "author": {
       "name": "Luis Felipe Perez",
       "url": "https://github.com/RoverWire"
+    }
+  },{
+    "name": "VIM - basico",
+    "url": "http://aurelio.net/vim/vim-basico.txt",
+    "type": "tutorial",
+    "tags": [
+      "linux",
+      "recursos"
+    ],
+    "author": {
+      "name": "NetworkComputing",
+      "url": "http://www.networkcomputing.com/unixworld/tutorial/009/009.part1.html"
+    }
+  },{
+    "name": "VIM - Intermediario",
+    "url": "http://aurelio.net/vim/vim-medio.txt",
+    "type": "tutorial",
+    "tags": [
+      "linux",
+      "recursos"
+    ],
+    "author": {
+      "name": "NetworkComputing",
+      "url": "http://www.networkcomputing.com/unixworld/tutorial/009/009.part1.html"
+    }
+  },{
+    "name": "VIM - Avançado",
+    "url": "http://aurelio.net/vim/vim-avancado.txt",
+    "type": "tutorial",
+    "tags": [
+      "linux",
+      "recursos"
+    ],
+    "author": {
+      "name": "NetworkComputing",
+      "url": "http://www.networkcomputing.com/unixworld/tutorial/009/009.part1.html"
+    }
+  },,{
+    "name": "Editor VI - guia de referência",
+    "url": "http://aurelio.net/curso/material/vim-ref.html",
+    "type": "tutorial",
+    "tags": [
+      "linux",
+      "recursos"
+    ],
+    "author": {
+      "name": "Aurélio",
+      "url": "http://aurelio.net/vim/"
     }
   }]
