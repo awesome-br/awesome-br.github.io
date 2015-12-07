@@ -91,7 +91,7 @@
 }, {
   "name": "React",
   "url": "#/react",
-  "type": "Framework Javascript",
+  "type": "Biblioteca Javascript",
   "tags": []
 }, {
   "name": "Ruby",
@@ -127,5 +127,10 @@
   "name": "Vue",
   "url": "#/vue",
   "type": "Framework Javascript",
+  "tags": []
+},{
+  "name": "Linux",
+  "url": "#/linux",
+  "type": "Sistema Operacional",
   "tags": []
 }]

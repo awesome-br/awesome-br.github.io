@@ -54,16 +54,54 @@
     "name": "Matheus Azzi",
     "url": "http://matheusazzi.com"
   }
+},
+  {
+    "name": "Gerenciando corretamente dependências em NodeJS - save ou save-dev?",
+    "url": "http://blog.da2k.com.br/2015/03/03/gerenciando-corretamente-dependencias-em-nodejs-save-ou-save-dev-1/",
+    "type": "artigo",
+    "tags": [
+      "nodejs",
+      "dicas"
+    ],
+    "author": {
+      "name": "Fernando Daciuk",
+      "url": "http://blog.da2k.com.br"
+    }
+  }, {
+  "name": "Curso completo de NodeJS, MongoDB, AngularJS e muito mais - Be MEAN",
+  "url": "https://github.com/Webschool-io/be-mean-instagram",
+  "type": "Curso",
+  "tags": [
+    "NodeJS",
+    "MongoDB",
+    "AngularJS"
+  ],
+  "author": {
+    "name": "WebSchool",
+    "url": "http://webschool.io/"
+  }
 }, {
-  "name": "Gerenciando corretamente dependências em NodeJS - save ou save-dev?",
-  "url": "http://blog.da2k.com.br/2015/03/03/gerenciando-corretamente-dependencias-em-nodejs-save-ou-save-dev-1/",
+  "name": "Construindo aplicações com NodeJS",
+  "url": "http://wbruno.com.br/livro/construindo-aplicacoes-com-nodejs/",
+  "type": "Livro",
+  "tags": [
+    "nodejs",
+    "livro"
+  ],
+  "author": {
+    "name": "William Bruno",
+    "url": "http://wbruno.com.br/"
+  }
+}, {
+  "name": "package.json entendendo os scripts",
+  "url": "http://wbruno.com.br/nodejs/package-json-entendendo-os-scripts/",
   "type": "artigo",
   "tags": [
     "nodejs",
     "dicas"
   ],
   "author": {
-    "name": "Fernando Daciuk",
-    "url": "http://blog.da2k.com.br"
+    "name": "William Bruno",
+    "url": "http://wbruno.com.br/"
   }
 }]
