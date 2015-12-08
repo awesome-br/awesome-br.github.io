@@ -68,4 +68,15 @@
       "name": "Aurélio",
       "url": "http://aurelio.net/vim/"
     }
+  },{
+    "name": "VIM Adventures",
+    "url": "http://vim-adventures.com/",
+    "type": "tutorial",
+    "tags": [
+      "vim"
+    ],
+    "author": {
+      "name": "Doron Linder",
+      "url": "http://vim-adventures.com/"
+    }
   }]
