@@ -24,7 +24,7 @@
 }, {
   "name": "WebPlataform - Your Web, Documented",
   "url": "http://www.webplatform.org/",
-  "type": "dica",
+  "type": "site",
   "tags": [
     "html", "css", "javascript"
   ],
@@ -69,7 +69,7 @@
 }, {
   "name": "Desvendando a linguagem JavaScript",
   "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc",
-  "type": "playlist",
+  "type": "video",
   "tags": [
     "javascript",
     "playlist",
@@ -95,7 +95,7 @@
 }, {
   "name": "JavaScript Funcional",
   "url": "https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R",
-  "type": "playlist",
+  "type": "video",
   "tags": [
     "javascript",
     "youtube",

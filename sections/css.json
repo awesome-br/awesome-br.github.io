@@ -58,7 +58,7 @@
 }, {
   "name": "CSS Guide Lines",
   "url": "http://cssguidelin.es/",
-  "type": "dicas",
+  "type": "dica",
   "tags": [
     "css"
   ],
@@ -211,7 +211,7 @@
 }, {
   "name": "Padrões para códigos HTML e CSS flexíveis e sustentáveis.",
   "url": "http://diegoeis.github.io/code-guide/",
-  "type": "guia",
+  "type": "tutorial",
   "tags": [
     "dicas"
   ],
@@ -291,7 +291,7 @@
 {
   "name": "Primeiros passos com Sass Pt.1",
   "url": "https://www.youtube.com/watch?v=z1nCtknvX1c",
-  "type": "video-aula",
+  "type": "video",
   "tags": [
     "css",
     "sass"
