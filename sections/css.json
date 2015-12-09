@@ -339,4 +339,18 @@
     "name": "Thomas Spark",
     "url": "http://thomaspark.co/"
   }
-}]
+},
+{
+  "name": "Como funciona o seletor :nth-something()",
+  "url": "https://medium.com/@filipelinhares/como-funciona-o-seletor-nth-c6e5cf806283#.k985vyffn",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "nth-child()"
+  ],
+  "author": {
+    "name": "Filipe Linhares",
+    "url": "http://filipelinhares.com/"
+  }
+}
+]
