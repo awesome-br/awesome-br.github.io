@@ -41,7 +41,7 @@
   "url": "http://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/",
   "type": "artigo",
   "tags": [
-    "dicas",
+    "dica",
     "git",
     "github",
     "controle de versão"
@@ -72,7 +72,7 @@
     "guia",
     "referência",
     "github",
-    "dicas"
+    "dica"
   ],
   "author": {
     "name": "Daniel Leite de Oliveira",
@@ -84,7 +84,7 @@
   "type": "artigo",
   "tags": [
     "github",
-    "dicas"
+    "dica"
   ],
   "author": {
     "name": "Fernando Daciuk",
@@ -96,7 +96,7 @@
   "type": "artigo",
   "tags": [
     "git",
-    "dicas"
+    "dica"
   ],
   "author": {
     "name": "Franklin Javier",

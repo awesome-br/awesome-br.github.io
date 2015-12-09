@@ -10,11 +10,11 @@
     "url": "http://github.com/avelino"
   }
 }, {
-  "name": "Dicas VIM",
+  "name": "dica VIM",
   "url": "http://dalibornasevic.com/posts/43-12-vim-tips",
   "type": "artigo",
   "tags": [
-    "dicas"
+    "dica"
   ],
   "author": {
     "name": "Dalibor Nasevic.",

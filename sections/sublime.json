@@ -1,6 +1,6 @@
 [{
-  "name": "Melhores Plugins para Sublime Text",
-  "url": "http://tutsmais.com.br/blog/sublime-2/melhores-plugins-para-sublime-text-2/",
+  "name": "Melhores plugin para Sublime Text",
+  "url": "http://tutsmais.com.br/blog/sublime-2/melhores-plugin-para-sublime-text-2/",
   "type": "artigo",
   "tags": [
     "plugin"
@@ -11,11 +11,11 @@
   }
 }, {
   "name": "Como sincronizar preferências e pacotes entre diferentes computadores",
-  "url": "http://sublimetextdicas.com.br/sincronizar-preferencias-e-pacotes/",
+  "url": "http://sublimetextdica.com.br/sincronizar-preferencias-e-pacotes/",
   "type": "artigo",
   "tags": [
     "configurações",
-    "dicas"
+    "dica"
   ],
   "author": {
     "name": "Rodrigo Amaral",
@@ -23,22 +23,22 @@
   }
 }, {
   "name": "Snippets: como criar atalhos para trechos de código ou texto",
-  "url": "http://sublimetextdicas.com.br/snippets-como-criar-atalhos-para-trechos-de-codigo-ou-texto/",
+  "url": "http://sublimetextdica.com.br/snippets-como-criar-atalhos-para-trechos-de-codigo-ou-texto/",
   "type": "artigo",
   "tags": [
-    "dicas"
+    "dica"
   ],
   "author": {
     "name": "Rodrigo Amaral",
     "url": "http://rodrigoamaral.net/"
   }
 }, {
-  "name": "Introdução ao desenvolvimento de plugins para Sublime Text",
-  "url": "http://sublimetextdicas.com.br/introducao-ao-desenvolvimento-de-plugins-para-sublime-text/",
+  "name": "Introdução ao desenvolvimento de plugin para Sublime Text",
+  "url": "http://sublimetextdica.com.br/introducao-ao-desenvolvimento-de-plugin-para-sublime-text/",
   "type": "artigo",
   "tags": [
-    "dicas",
-    "plugins",
+    "dica",
+    "plugin",
     "desenvolvimento"
   ],
   "author": {
@@ -50,8 +50,8 @@
   "url": "http://tableless.com.br/configurando-o-sublime-text-para-escrever-textos-em-markdown/",
   "type": "artigo",
   "tags": [
-    "dicas",
-    "plugins",
+    "dica",
+    "plugin",
     "markdown"
   ],
   "author": {

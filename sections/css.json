@@ -58,7 +58,7 @@
 }, {
   "name": "CSS Guide Lines",
   "url": "http://cssguidelin.es/",
-  "type": "dicas",
+  "type": "dica",
   "tags": [
     "css"
   ],
@@ -100,13 +100,13 @@
     "url": "www.caelum.com.br/instrutores/sergio-lopes"
   }
 }, {
-  "name": "Filtros CSS",
-  "url": "http://willianjusten.com.br/filtros-css/",
+  "name": "filtro CSS",
+  "url": "http://willianjusten.com.br/filtro-css/",
   "type": "artigo",
   "tags": [
-    "dicas",
+    "dica",
     "css",
-    "filtros"
+    "filtro"
   ],
   "author": {
     "name": "Willian Justen",
@@ -117,7 +117,7 @@
   "url": "http://willianjusten.com.br/background-fixo-com-css/",
   "type": "artigo",
   "tags": [
-    "dicas",
+    "dica",
     "css",
     "backgrounds",
     "html"
@@ -131,7 +131,7 @@
   "url": "http://willianjusten.com.br/como-criar-secoes-fullscreen-com-css/",
   "type": "artigo",
   "tags": [
-    "dicas",
+    "dica",
     "css",
     "html"
   ],
@@ -144,7 +144,7 @@
   "url": "http://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/",
   "type": "artigo",
   "tags": [
-    "dicas",
+    "dica",
     "css",
     "html"
   ],
@@ -159,7 +159,7 @@
   "tags": [
     "bootstrap",
     "css",
-    "dicas",
+    "dica",
     "html"
   ],
   "author": {
@@ -174,7 +174,7 @@
     "css",
     "sass",
     "oocss",
-    "dicas"
+    "dica"
   ],
   "author": {
     "name": "Eduardo Matos",
@@ -188,7 +188,7 @@
     "css",
     "stylus",
     "preprocessor",
-    "dicas"
+    "dica"
   ],
   "author": {
     "name": "Jean Carlo Nascimento",
@@ -202,7 +202,7 @@
     "css",
     "stylus",
     "preprocessor",
-    "dicas"
+    "dica"
   ],
   "author": {
     "name": "Fernando Daciuk",
@@ -213,7 +213,7 @@
   "url": "http://diegoeis.github.io/code-guide/",
   "type": "guia",
   "tags": [
-    "dicas"
+    "dica"
   ],
   "author": {
     "name": "Mark Otto",
@@ -225,7 +225,7 @@
   "type": "artigo",
   "tags": [
     "css",
-    "dicas"
+    "dica"
   ],
   "author": {
     "name": "Afonso Pacifer",
@@ -238,7 +238,7 @@
   "tags": [
     "arquitetura",
     "css",
-    "dicas",
+    "dica",
     "técnicas"
   ],
   "author": {
@@ -251,7 +251,7 @@
   "type": "artigo",
   "tags": [
     "css",
-    "dicas",
+    "dica",
     "scroll",
     "técnicas"
   ],
@@ -266,7 +266,7 @@
   "type": "artigo",
   "tags": [
     "css",
-    "dicas",
+    "dica",
     "técnicas"
   ],
   "author": {
@@ -280,7 +280,7 @@
   "type": "artigo",
   "tags": [
     "css",
-    "dicas",
+    "dica",
     "técnicas"
   ],
   "author": {
@@ -291,7 +291,7 @@
 {
   "name": "Primeiros passos com Sass Pt.1",
   "url": "https://www.youtube.com/watch?v=z1nCtknvX1c",
-  "type": "video-aula",
+  "type": "videoss-aula",
   "tags": [
     "css",
     "sass"
@@ -304,7 +304,7 @@
 {
   "name": "Primeiros passos com Sass Pt.2",
   "url": "https://www.youtube.com/watch?v=FkRjz42oERA",
-  "type": "video-aula",
+  "type": "videoss-aula",
   "tags": [
     "css",
     "sass"

@@ -48,7 +48,7 @@
   "url": "https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706",
   "type": "artigo",
   "tags": [
-    "dicas",
+    "dica",
     "javascript"
   ],
   "author": {
@@ -109,11 +109,11 @@
 }, {
   "name": "O fantástico mundo do JavaScript",
   "url": "https://www.youtube.com/watch?v=Zn7B-X0y5qs",
-  "type": "video",
+  "type": "videoss",
   "tags": [
     "javascript",
     "youtube",
-    "video"
+    "videoss"
   ],
   "author": {
     "name": "Jean Carlo Emer",

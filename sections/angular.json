@@ -1,7 +1,7 @@
 [{
     "name": "AngularJS na prática",
     "url": "https://leanpub.com/livro-angularJS",
-    "type": "livros",
+    "type": "livro",
     "tags": [
       "introdução",
       "ebook"
@@ -41,12 +41,12 @@
     "url": "https://www.youtube.com/watch?v=yeaXSGbyYwo",
     "type": "screencast",
     "tags": [
-      "dicas",
+      "dica",
       "styleguide"
     ],
     "author": {
       "name": "Andre Baltieri",
-      "url": "https://www.youtube.com/user/andrebaltieri/videos"
+      "url": "https://www.youtube.com/user/andrebaltieri/videoss"
     }
   }, {
     "name": "Tudo sobre AngularJS",
@@ -71,7 +71,7 @@
     ],
     "author": {
       "name": "Matheus Lima",
-      "url": "video://www.youtube.com/user/matheusml90/videos"
+      "url": "videoss://www.youtube.com/user/matheusml90/videoss"
     }
   }, {
     "name": "Material Design simples e rápido com AngularJS",

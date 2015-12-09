@@ -328,7 +328,7 @@
 }, {
   "name": "Laravel + AngularJS",
   "url": "https://leanpub.com/laravelangular_pt",
-  "type": "livros",
+  "type": "livro",
   "tags": [
     "books",
     "angular"
