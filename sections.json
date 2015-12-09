@@ -133,4 +133,9 @@
   "url": "#/linux",
   "type": "Sistema Operacional",
   "tags": []
+},{
+  "name": "Regex",
+  "url": "#/regex",
+  "type": "Expressão regular",
+  "tags": []
 }]
