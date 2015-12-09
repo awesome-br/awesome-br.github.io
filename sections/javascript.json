@@ -233,4 +233,21 @@
     "name": "Jaydson Gomes",
     "url": "http://jaydson.org/"
   }
+},
+{
+  "name": "Como criar um projeto Open Source em JavaScript",
+  "url": "https://medium.com/@matheusml/como-criar-um-projeto-open-source-em-javascript-f3a49a4126c8#.v6pumgq8q",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "bower",
+    "gulp",
+    "grunt",
+    "npm",
+    "ferramentas"
+  ],
+  "author": {
+    "name": "Matheus Lima",
+    "url": "http://matheuslima.com/"
+  }
 }]
