@@ -22,17 +22,6 @@
     "url": "https://www.codecademy.com/pt-BR/tracks/javascript"
   }
 }, {
-  "name": "WebPlataform - Your Web, Documented",
-  "url": "http://www.webplatform.org/",
-  "type": "site",
-  "tags": [
-    "html", "css", "javascript"
-  ],
-  "author": {
-    "name": "W3C",
-    "url": "http://www.w3.org/"
-  }
-}, {
   "name": "Visão geral das novas funcionalidades do ECMAScript 6",
   "url": "https://github.com/cerebrobr/es6features",
   "type": "documentação",
