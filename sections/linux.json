@@ -1,7 +1,7 @@
 [{
     "name": "Introdução a shell script",
     "url": "http://aurelio.net/shell/apostila-introducao-shell.pdf",
-    "type": "apostilas",
+    "type": "apostila",
     "tags": [
       "linux",
       "curso",
@@ -14,7 +14,7 @@
   },{
     "name": "Linux & shell script",
     "url": "https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf",
-    "type": "apostilas",
+    "type": "apostila",
     "tags": [
       "linux",
       "curso",
@@ -27,7 +27,7 @@
   },{
     "name": "Como automatizar a criação de virtual hosts",
     "url": "http://tableless.com.br/como-automatizar-criacao-de-virtual-hosts/",
-    "type": "Artigo",
+    "type": "artigo",
     "tags": [
       "linux",
       "tutorial"

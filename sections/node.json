@@ -12,7 +12,7 @@
 }, {
   "name": "Artigos e Tutoriais NodeJs",
   "url": "http://udgwebdev.com/nodejs/",
-  "type": "Url",
+  "type": "url",
   "tags": [
     "introdução", "tutorial", "básico"
   ]
@@ -33,7 +33,7 @@
 }, {
   "name": "Aplicações web real-time com Node.js",
   "url": "http://www.casadocodigo.com.br/products/livro-nodejs",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
     "livro",
     "ebook"
@@ -70,7 +70,7 @@
   }, {
   "name": "Curso completo de NodeJS, MongoDB, AngularJS e muito mais - Be MEAN",
   "url": "https://github.com/Webschool-io/be-mean-instagram",
-  "type": "Curso",
+  "type": "curso",
   "tags": [
     "NodeJS",
     "MongoDB",
@@ -83,7 +83,7 @@
 }, {
   "name": "Construindo aplicações com NodeJS",
   "url": "http://wbruno.com.br/livro/construindo-aplicacoes-com-nodejs/",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
     "nodejs",
     "livro"

@@ -58,7 +58,7 @@
 }, {
   "name": "Desvendando a linguagem JavaScript",
   "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc",
-  "type": "video",
+  "type": "vídeo",
   "tags": [
     "javascript",
     "playlist",
@@ -84,7 +84,7 @@
 }, {
   "name": "JavaScript Funcional",
   "url": "https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R",
-  "type": "video",
+  "type": "vídeo",
   "tags": [
     "javascript",
     "youtube",
@@ -98,11 +98,10 @@
 }, {
   "name": "O fantástico mundo do JavaScript",
   "url": "https://www.youtube.com/watch?v=Zn7B-X0y5qs",
-  "type": "video",
+  "type": "vídeo",
   "tags": [
     "javascript",
-    "youtube",
-    "video"
+    "youtube"
   ],
   "author": {
     "name": "Jean Carlo Emer",
