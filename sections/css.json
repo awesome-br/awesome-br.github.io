@@ -313,4 +313,17 @@
     "name": "Ferreira Studio",
     "url": "https://www.youtube.com/channel/UCztMwfGqsnPeGat7Np-bFKg"
   }
+},
+{
+  "name": "Aprenda Flexbox jogando",
+  "url": "http://flexboxfroggy.com/",
+  "type": "jogo",
+  "tags": [
+    "css",
+    "flexbox"
+  ],
+  "author": {
+    "name": "Tomas Spark",
+    "url": "http://thomaspark.co/"
+  }
 }]
