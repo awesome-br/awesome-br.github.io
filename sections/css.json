@@ -326,4 +326,17 @@
     "name": "Willian Justen",
     "url": "http://willianjusten.com.br/"
   }
+},
+{
+  "name": "Aprenda Flexbox jogando",
+  "url": "http://flexboxfroggy.com/#pt-br",
+  "type": "tutorial",
+  "tags": [
+    "css",
+    "flexbox"
+  ],
+  "author": {
+    "name": "Thomas Spark",
+    "url": "http://thomaspark.co/"
+  }
 }]
