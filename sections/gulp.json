@@ -31,4 +31,18 @@
     "name": "Daniel Leite de Oliveira",
     "url": "https://medium.com/@dleitee"
   }
-}]
+},
+{
+  "name": "Dividindo as tasks do Gulpfile em multiplos arquivos",
+  "url": "http://nandomoreira.me/dividindo-as-tasks-do-gulpfile-em-multiplos-arquivos/",
+  "type": "artigo",
+  "tags": [
+    "gulpfile",
+    "tasks"
+  ],
+  "author": {
+    "name": "Fernando Moreira",
+    "url": "http://nandomoreira.me/dividindo-as-tasks-do-gulpfile-em-multiplos-arquivos/"
+  }
+}
+]
