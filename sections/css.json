@@ -352,5 +352,19 @@
     "name": "Filipe Linhares",
     "url": "http://filipelinhares.com/"
   }
+},
+{
+  "name": "Bootstrap - Documentação em Português",
+  "url": "http://getbootstrap.com.br/",
+  "type": "documentação",
+  "tags": [
+    "bootstrap",
+    "css",
+    "documentação"
+  ],
+  "author": {
+    "name": "Comunidade Brasileira de Bootstrap",
+    "url": "https://github.com/bootstrapbrasil"
+  }
 }
 ]
