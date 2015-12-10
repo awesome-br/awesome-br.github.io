@@ -1,7 +1,7 @@
 [{
   "name": "Documentação oficial em português",
   "url": "http://php.net/manual/pt_BR/",
-  "type": "Url",
+  "type": "url",
   "tags": [
     "documentação"
   ]
@@ -18,13 +18,13 @@
     "url": "http://www.adrianojr.com/"
   }
 }, {
-"name": "PHP: Do Jeito Certo",
-"url": "http://br.phptherightway.com/",
-"type": "Url",
-"tags": [
-  "documentação",
+  "name": "PHP: Do Jeito Certo",
+  "url": "http://br.phptherightway.com/",
+  "type": "url",
+  "tags": [
+    "documentação",
     "referência"
-]
+  ]
 }, {
   "name": "10 NOVIDADES DO PHP 7",
   "url": "http://www.profissionaisti.com.br/2015/09/10-novidades-do-php-7/",
@@ -40,7 +40,7 @@
 }, {
   "name": "Desenvolvimento Web com PHP e Mysql",
   "url": "http://www.casadocodigo.com.br/products/livro-php-mysql",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
     "livro",
     "ebook"

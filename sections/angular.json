@@ -1,7 +1,7 @@
 [{
     "name": "AngularJS na prática",
     "url": "https://leanpub.com/livro-angularJS",
-    "type": "livros",
+    "type": "livro",
     "tags": [
       "introdução",
       "ebook"
@@ -36,8 +36,7 @@
       "name": "Eric Oliveira",
       "url": "http://javascriptbrasil.com/author/eric-oliveira/"
     }
-  },
-  {
+  }, {
     "name": "Melhores práticas no uso do AngularJS",
     "url": "https://www.youtube.com/watch?v=yeaXSGbyYwo",
     "type": "screencast",
@@ -49,8 +48,7 @@
       "name": "Andre Baltieri",
       "url": "https://www.youtube.com/user/andrebaltieri/videos"
     }
-  },
-  {
+  }, {
     "name": "Tudo sobre AngularJS",
     "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb",
     "type": "screencast",
@@ -62,8 +60,7 @@
       "name": "Rodrigo Branas",
       "url": "https://www.youtube.com/user/rodrigobranas"
     }
-  },
-  {
+  }, {
     "name": "AngularJS para Zumbis",
     "url": "https://www.youtube.com/playlist?list=PLr6R3Zglau2nXmZHkcl-0pcU1XChEFzZM",
     "type": "screencast",
@@ -76,8 +73,7 @@
       "name": "Matheus Lima",
       "url": "video://www.youtube.com/user/matheusml90/videos"
     }
-  },
-  {
+  }, {
     "name": "Material Design simples e rápido com AngularJS",
     "url": "http://www.infoq.com/br/presentations/material-design-simples-e-rapido-com-angularjs",
     "type": "screencast",
@@ -85,14 +81,13 @@
       "material",
       "design",
       "angularjs",
-	  "frontend"
+      "frontend"
     ],
     "author": {
       "name": "Henrique Limas",
       "url": "http://www.infoq.com/br/"
     }
-  },
-  {
+  }, {
     "name": "Guia de Estilo AngularJS",
     "url": "https://github.com/johnpapa/angular-styleguide/blob/master/i18n/pt-BR.md",
     "type": "styleguide",
@@ -105,8 +100,7 @@
       "name": "John Papa",
       "url": "http://johnpapa.net"
     }
-  },  
-  {
+  }, {
     "name": "Single Page Apps com AngularJS",
     "url": "http://matheusazzi.com/single-page-apps/",
     "type": "artigo",
@@ -118,8 +112,7 @@
       "name": "Matheus Azzi",
       "url": "http://matheusazzi.com"
     }
-  },
-   {
+  }, {
     "name": "AngularJS 2.0 a caminho e o que mudou há exatamente um ano",
     "url": "http://imasters.com.br/front-end/javascript/angularjs-2-0-a-caminho-e-o-que-mudou-ha-exatamente-um-ano/",
     "type": "artigo",
@@ -131,8 +124,7 @@
       "name": "Fernando Monteiro",
       "url": "http://newaeonweb.com.br/"
     }
-  },
-   {
+  }, {
     "name": "Angular 2 e o futuro do desenvolvimento Front-end",
     "url": " https://speakerdeck.com/cironunes/angular-2-e-o-futuro-do-desenvolvimento-front-end",
     "type": "palestra",
@@ -144,8 +136,17 @@
       "name": "Ciro Nunes",
       "url": "http://cironunes.com/"
     }
+  },
+{
+  "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
+  "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
+  "type": "tutorial",
+  "tags": [
+    "integracao angular",
+    "material design"
+  ],
+  "author": {
+    "name": "Jansen Felipe",
+    "url": "http://jansenfelipe.com.br"
   }
- 
-]
-
-
+}]

@@ -9,8 +9,7 @@
     "name": "Daniel Schmitz",
     "url": "http://www.danielschmitz.com.br"
   }
-},
-{
+}, {
   "name": "Modelo de desenvolvimento com GIT usando branches",
   "url": "http://gamedeveloper.com.br/git-usando-branches/",
   "type": "artigo",
@@ -23,8 +22,7 @@
     "name": "Bruno Cicanci",
     "url": "http://gamedeveloper.com.br/"
   }
-},
-{
+}, {
   "name": "Comandos iniciais do Git",
   "url": "http://tableless.com.br/alguns-comandos-git/",
   "type": "artigo",
@@ -38,8 +36,7 @@
     "name": "Candido Souza",
     "url": "http://tableless.com.br/author/candido_souzza/"
   }
-},
-{
+}, {
   "name": "Manter repositório do Github forkado sincronizado com o original",
   "url": "http://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/",
   "type": "artigo",
@@ -53,8 +50,7 @@
     "name": "Fernando Daciuk",
     "url": "http://blog.da2k.com.br"
   }
-},
-{
+}, {
   "name": "Git - guia prático",
   "url": "http://rogerdudler.github.io/git-guide/index.pt_BR.html",
   "type": "url",
@@ -68,8 +64,7 @@
     "name": "Roger Dudler",
     "url": "http://www.twitter.com/rogerdudler"
   }
-},
-{
+}, {
   "name": "5 Coisas que Aprendi com o GitHub",
   "url": "https://medium.com/@dleitee/5-coisas-que-aprendi-com-o-github-6cd8fd620e58",
   "type": "artigo",
@@ -83,8 +78,7 @@
     "name": "Daniel Leite de Oliveira",
     "url": "https://medium.com/@dleitee"
   }
-},
-{
+}, {
   "name": "Segredos do Github - Commits que fecham issues",
   "url": "http://blog.da2k.com.br/2015/02/18/segredos-do-github-commits-que-fecham-issues/",
   "type": "artigo",
@@ -96,5 +90,40 @@
     "name": "Fernando Daciuk",
     "url": "http://blog.da2k.com.br/"
   }
-}
-]
+}, {
+  "name": "Cache de senha no Git",
+  "url": "http://franklinjavier.com/posts/cache-de-senha-no-git/",
+  "type": "artigo",
+  "tags": [
+    "git",
+    "dicas"
+  ],
+  "author": {
+    "name": "Franklin Javier",
+    "url": "http://franklinjavier.com/"
+  }
+}, {
+  "name": "Git: Como usar localmente ou em servidor próprio",
+  "url": "https://www.youtube.com/watch?v=eCXgVl_4yuY",
+  "type": "screencast",
+  "tags": [
+    "app",
+    "git"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Deploy com git de app sem usar serviço externo, de uma maneira simples",
+  "url": "https://www.youtube.com/watch?v=BSNHRFI05vQ",
+  "type": "screencast",
+  "tags": [
+    "git",
+    "deploy"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}]

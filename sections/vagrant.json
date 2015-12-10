@@ -1,62 +1,56 @@
-[
-{
+[{
   "name": "Vagrant – as vantagens da virtualização em ambiente local",
   "url": "http://imasters.com.br/desenvolvimento/devops/vagrant-as-vantagens-da-virtualizacao-em-ambiente-local/?trace=1519021197&source=home",
   "type": "artigo",
   "tags": [
-    "devops","vagrant","virtualização"
+    "devops", "vagrant", "virtualização"
   ],
   "author": {
     "name": "João Vagner Brito de Medeiros",
     "url": "http://imasters.com.br/perfil/joao-vagner-brito-de-medeiros/?trace=3182418120&source=single"
   }
-},
-{
+}, {
   "name": "What Is Vagrant and Why Should I Care?",
   "url": "https://24ways.org/2014/what-is-vagrant-and-why-should-i-care/",
   "type": "artigo",
   "tags": [
-    "devops","vagrant","virtualização"
+    "devops", "vagrant", "virtualização"
   ],
   "author": {
     "name": "Darren Beale",
     "url": "https://24ways.org/authors/darrenbeale/"
   }
-},
-{
+}, {
   "name": "Vagrant: Fácil E útil",
   "url": "http://flaviosilveira.com/2012/vagrant-facil-e-util/",
   "type": "tutorial",
   "tags": [
-    "devops","vagrant","virtualização"
+    "devops", "vagrant", "virtualização"
   ],
   "author": {
     "name": "Flavio Silveira",
     "url": "http://flaviosilveira.com"
   }
-},
-{
+}, {
   "name": "Vagrant 101 - montando seu ambiente de desenvolvimento portátil, parte 1",
   "url": "http://www.erikaheidi.com/pt_br/blog/vagrant-101-montando-seu-ambiente-de-desenvolvimento-portatil",
   "type": "tutorial",
   "tags": [
-    "devops","vagrant","virtualização"
+    "devops", "vagrant", "virtualização"
   ],
   "author": {
     "name": "Erika Heidi",
     "url": "http://www.erikaheidi.com"
   }
-},
-{
+}, {
   "name": "Usando o Vagrant como ambiente de desenvolvimento no Windows",
   "url": "https://nandovieira.com.br/usando-o-vagrant-como-ambiente-de-desenvolvimento-no-windows",
   "type": "tutorial",
   "tags": [
-    "devops","vagrant","virtualização"
+    "devops", "vagrant", "virtualização"
   ],
   "author": {
     "name": "Nando Vieira",
     "url": "https://nandovieira.com.br"
   }
-}
-]
+}]

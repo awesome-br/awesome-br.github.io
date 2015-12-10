@@ -4,22 +4,46 @@
   "type": "artigo",
   "tags": [
     "novidades",
-	"introdução"
+    "introdução"
   ],
   "author": {
     "name": "Gabriel Ferreira",
     "url": "https://www.caelum.com.br/instrutores/gabriel-ferreira/"
   }
-},{
+}, {
   "name": "Inversão de controle e Injeção de depedência com C#",
   "url": "http://codigonatela.azurewebsites.net/2015/10/24/inversao-de-controle-e-injecao-de-depedencia/",
   "type": "artigo",
   "tags": [
     "tutorial",
-	"exemplo"
+    "exemplo"
   ],
   "author": {
     "name": "Thiago Silva",
     "url": "http://codigonatela.azurewebsites.net/"
+  }
+}, {
+  "name": "DNVM, DNX e DNU – As novas siglas do dotNET",
+  "url": "http://codigonatela.azurewebsites.net/2015/11/30/dnvm-dnx-e-dnu-as-novas-siglas-do-dotnet/",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "exemplo"
+  ],
+  "author": {
+    "name": "Thiago Silva",
+    "url": "http://codigonatela.azurewebsites.net/"
+  }
+}, {
+  "name": "Implementando Simple Injector",
+  "url": "http://viniciusmussak.net/2015/04/09/implementando-simple-injector/",
+  "type": "artigo",
+  "tags": [
+    "dependency resolver",
+    "c#"
+  ],
+  "author": {
+    "name": "Vinicius Mussak",
+    "url": "http://viniciusmussak.net/"
   }
 }]

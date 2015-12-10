@@ -22,17 +22,6 @@
     "url": "https://www.codecademy.com/pt-BR/tracks/javascript"
   }
 }, {
-  "name": "WebPlataform - Your Web, Documented",
-  "url": "http://www.webplatform.org/",
-  "type": "dica",
-  "tags": [
-    "html", "css", "javascript"
-  ],
-  "author": {
-    "name": "W3C",
-    "url": "http://www.w3.org/"
-  }
-}, {
   "name": "Visão geral das novas funcionalidades do ECMAScript 6",
   "url": "https://github.com/cerebrobr/es6features",
   "type": "documentação",
@@ -48,7 +37,7 @@
   "url": "https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706",
   "type": "artigo",
   "tags": [
-   "dicas",
+    "dicas",
     "javascript"
   ],
   "author": {
@@ -57,28 +46,28 @@
   }
 }, {
   "name": "JavaScript: A forma certa",
-    "url": "http://www.jstherightway.org/pt-br/",
-    "type": "guia",
-    "tags": [
-      "javascript"
-    ],
-    "author": {
-      "name": "William Oliveira",
-      "url": "https://github.com/gnuwilliam"
-    }
+  "url": "http://www.jstherightway.org/pt-br/",
+  "type": "guia",
+  "tags": [
+    "javascript"
+  ],
+  "author": {
+    "name": "William Oliveira",
+    "url": "https://github.com/gnuwilliam"
+  }
 }, {
   "name": "Desvendando a linguagem JavaScript",
-    "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc",
-    "type": "playlist",
-    "tags": [
-      "javascript",
-      "playlist",
-      "youtube"
-    ],
-    "author": {
-      "name": "Rodrigo Branas",
-      "url": "https://github.com/rodrigobranas"
-    }
+  "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc",
+  "type": "vídeo",
+  "tags": [
+    "javascript",
+    "playlist",
+    "youtube"
+  ],
+  "author": {
+    "name": "Rodrigo Branas",
+    "url": "https://github.com/rodrigobranas"
+  }
 }, {
   "name": "ApppCache, manifest, mundo offline e ServiceWorker",
   "url": "http://eduardomatos.me/appcache-manifest-e-serviceworker-as-partes-boas-e-ruins/",
@@ -95,7 +84,7 @@
 }, {
   "name": "JavaScript Funcional",
   "url": "https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R",
-  "type": "playlist",
+  "type": "vídeo",
   "tags": [
     "javascript",
     "youtube",
@@ -109,15 +98,155 @@
 }, {
   "name": "O fantástico mundo do JavaScript",
   "url": "https://www.youtube.com/watch?v=Zn7B-X0y5qs",
-  "type": "video",
+  "type": "vídeo",
   "tags": [
     "javascript",
-    "youtube",
-    "video"
+    "youtube"
   ],
   "author": {
     "name": "Jean Carlo Emer",
     "url": "http://jcemer.com/"
   }
-}
-]
+}, {
+  "name": "ES6 - Arrow Functions",
+  "url": "http://programadorobjetivo.co/es6-arrow-functions/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "es6"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co"
+  }
+}, {
+  "name": "10+ Conceitos Que Todo Profissional Javascript Deveria Saber",
+  "url": "http://programadorobjetivo.co/10-conceitos-que-todo-profissional-javascript-deve-saber/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "es5",
+    "padrões"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co"
+  }
+}, {
+  "name": "Javascript/jQuery Vol.01 - 01 - Resolvendo o problema",
+  "url": "https://codecasts.com.br/lesson/javascript-jquery-vol1-01-resolvendo-o-problema",
+  "type": "screencast",
+  "tags": [
+    "javascript",
+    "jquery",
+    "otimizacao",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://github.com/vinicius73"
+  }
+}, {
+  "name": "Javascript/jQuery Vol.01 - 02 - Use menos o DOM",
+  "url": "https://codecasts.com.br/lesson/javascript-jquery-vol1-02-use-menos-o-dom",
+  "type": "screencast",
+  "tags": [
+    "javascript",
+    "jquery",
+    "otimizacao",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://github.com/vinicius73"
+  }
+}, {
+  "name": "Javascript/jQuery Vol.01 - 03 - Onde está o defeito?",
+  "url": "https://codecasts.com.br/lesson/javascript-jquery-vol1-03-onde-esta-o-defeito",
+  "type": "screencast",
+  "tags": [
+    "javascript",
+    "jquery",
+    "otimizacao",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://github.com/vinicius73"
+  }
+}, {
+  "name": "Javascript/jQuery Vol.01 - 04 - Faça um widget!",
+  "url": "https://codecasts.com.br/lesson/javascript-jquery-vol1-04-faca-um-widget",
+  "type": "screencast",
+  "tags": [
+    "javascript",
+    "jquery",
+    "otimizacao",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://github.com/vinicius73"
+  }
+}, {
+  "name": " Javascript/jQuery Vol.01 - 05 - Que o escopo esteja com você...",
+  "url": "https://codecasts.com.br/lesson/javascript-jquery-vol1-05-que-o-escopo-esteja-com-voce",
+  "type": "screencast",
+  "tags": [
+    "javascript",
+    "jquery",
+    "otimizacao",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://github.com/vinicius73"
+  }
+},
+{
+  "name": "Testando seu front com CasperJs",
+  "url": "http://blog.devparana.org/testando-seu-front-com-casperjs/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "testes",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Fernando Fabricio dos Santos",
+    "url": "http://blog.devparana.org"
+  }
+},
+{
+  "name": "APIs REST em 1 minuto ",
+  "url": "http://jaydson.org/api-s-rest-em-1-minuto/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "api",
+    "framework",
+    "harvesterjs",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Jaydson Gomes",
+    "url": "http://jaydson.org/"
+  }
+},
+{
+  "name": "Como criar um projeto Open Source em JavaScript",
+  "url": "https://medium.com/@matheusml/como-criar-um-projeto-open-source-em-javascript-f3a49a4126c8#.v6pumgq8q",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "bower",
+    "gulp",
+    "grunt",
+    "npm",
+    "ferramentas"
+  ],
+  "author": {
+    "name": "Matheus Lima",
+    "url": "http://matheuslima.com/"
+  }
+}]

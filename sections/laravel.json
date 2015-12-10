@@ -328,7 +328,7 @@
 }, {
   "name": "Laravel + AngularJS",
   "url": "https://leanpub.com/laravelangular_pt",
-  "type": "livros",
+  "type": "livro",
   "tags": [
     "books",
     "angular"
@@ -569,7 +569,7 @@
     "url": "https://github.com/vinicius73"
   }
 }, {
-  "name": "Instalação e configuração PHP-FPM, nginx, mysql, phpmyadmin, composer, git, laravel ",
+  "name": "Instalação e configuração PHP-FPM, nginx, mysql, phpmyadmin, composer, git, laravel",
   "url": "https://www.youtube.com/watch?v=0EM-vRh1n10",
   "type": "screencast",
   "tags": [
@@ -615,19 +615,7 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
-}, {
-  "name": "Git: Como usar localmente ou em servidor próprio ",
-  "url": "https://www.youtube.com/watch?v=eCXgVl_4yuY",
-  "type": "screencast",
-  "tags": [
-    "app",
-    "git"
-  ],
-  "author": {
-    "name": "Leandro Henrique Reis",
-    "url": "https://github.com/emtudo"
-  }
-}, {
+},{
   "name": "Model factory em pt_BR",
   "url": "http://www.laravel.com.br/model-factory-em-pt_br-laravel-5-1/",
   "type": "dica",
@@ -787,7 +775,7 @@
   "tags": [
     "laravel 5.1",
     "autenticação",
-	"auth"
+    "auth"
   ],
   "author": {
     "name": "Wesley Willians",
@@ -808,7 +796,7 @@
 }, {
   "name": "Php e Laravel Crie aplicações web como um verdadeiro artesão",
   "url": "http://www.casadocodigo.com.br/products/livro-laravel-php",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
     "livro",
     "ebook"
@@ -816,5 +804,18 @@
   "author": {
     "name": "Rodrigo Turini",
     "url": "https://github.com/Turini"
+  }
+},
+{
+  "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
+  "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
+  "type": "tutorial",
+  "tags": [
+    "integracao angular",
+    "material design"
+  ],
+  "author": {
+    "name": "Jansen Felipe",
+    "url": "http://jansenfelipe.com.br"
   }
 }]
