@@ -2,7 +2,9 @@
 
   // jQuery commands
   $(function () {
-    $('[data-toggle="tooltip"]').tooltip();
+    if ( $(window).width() > 768 ) {
+      $('[data-toggle="tooltip"]').tooltip();
+    };
   });
 
   var app = angular.module('awesome', ['iso.directives', 'ngRoute']);
@@ -24,12 +26,12 @@
   /**
    * target attribute directive
    */
-  app.directive("target", function() {
+  app.directive("targeter", function() {
     return {
       restrict: 'A',
       link: function(scope, element, attrs) {
-        var href = String(attrs.href);
-        if (!href.match(/#\//)) {
+        var href = scope.item.url;
+        if (!href.match(/^#\//)) {
           element.attr("target", "_blank");
         } else {
           element.attr("target", "_self");

@@ -1,5 +1,5 @@
 <div class="row" ng-show="filteredItens.length" isotope-container="isotope-container">
-  <div class="col-md-4"
+  <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3"
         ng-repeat="item in filteredItens = (itens | filter:query | orderBy:'name')"
         isotope-item="isotope-item">
     <div class="widget">
@@ -9,7 +9,7 @@
         {{ item.type }}
       </a>
       <!-- /.label -->
-      <a href="{{ item.url }}" class="title" target>{{ item.name }}</a>
+      <a href="{{ item.url }}" class="title" targeter>{{ item.name }}</a>
       <footer>
         <a class="label label-warning pull-left"
             title="Clique para filtrar"
