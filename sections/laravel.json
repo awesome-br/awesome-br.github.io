@@ -615,7 +615,7 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
-},{
+}, {
   "name": "Model factory em pt_BR",
   "url": "http://www.laravel.com.br/model-factory-em-pt_br-laravel-5-1/",
   "type": "dica",
@@ -805,8 +805,7 @@
     "name": "Rodrigo Turini",
     "url": "https://github.com/Turini"
   }
-},
-{
+}, {
   "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
   "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
   "type": "tutorial",

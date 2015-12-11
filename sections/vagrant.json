@@ -1,5 +1,4 @@
-[
-{
+[{
   "name": "Vagrant – as vantagens da virtualização em ambiente local",
   "url": "http://imasters.com.br/desenvolvimento/devops/vagrant-as-vantagens-da-virtualizacao-em-ambiente-local/?trace=1519021197&source=home",
   "type": "artigo",
@@ -10,8 +9,7 @@
     "name": "João Vagner Brito de Medeiros",
     "url": "http://imasters.com.br/perfil/joao-vagner-brito-de-medeiros/?trace=3182418120&source=single"
   }
-},
-{
+}, {
   "name": "Vagrant e Puppet - Como construir o ambiente de desenvolvimento ideal",
   "url": "https://www.youtube.com/watch?v=Atvz-pG_9hc",
   "type": "video",
@@ -22,8 +20,7 @@
     "name": "Rogerio Prado de Jesus",
     "url": "https://rogeriopradoj.com/about/"
   }
-},
-{
+}, {
   "name": "Vagrant: Fácil E útil",
   "url": "http://flaviosilveira.com/2012/vagrant-facil-e-util/",
   "type": "tutorial",
@@ -34,8 +31,7 @@
     "name": "Flavio Silveira",
     "url": "http://flaviosilveira.com"
   }
-},
-{
+}, {
   "name": "Vagrant 101 - montando seu ambiente de desenvolvimento portátil, parte 1",
   "url": "http://www.erikaheidi.com/pt_br/blog/vagrant-101-montando-seu-ambiente-de-desenvolvimento-portatil",
   "type": "tutorial",
@@ -46,8 +42,7 @@
     "name": "Erika Heidi",
     "url": "http://www.erikaheidi.com"
   }
-},
-{
+}, {
   "name": "Usando o Vagrant como ambiente de desenvolvimento no Windows",
   "url": "https://nandovieira.com.br/usando-o-vagrant-como-ambiente-de-desenvolvimento-no-windows",
   "type": "tutorial",
@@ -58,8 +53,7 @@
     "name": "Nando Vieira",
     "url": "https://nandovieira.com.br"
   }
-},
-{
+}, {
   "name": "Usando o Vagrant como ambiente de desenvolvimento Ruby",
   "url": "https://www.youtube.com/watch?v=zg4EMgcb6H8",
   "type": "video",
@@ -70,5 +64,4 @@
     "name": "Nando Vieira",
     "url": "https://nandovieira.com.br"
   }
-}
-]
+}]

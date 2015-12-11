@@ -259,8 +259,7 @@
     "name": "Raphael Fabeni",
     "url": "http://www.raphaelfabeni.com.br"
   }
-},
- {
+}, {
   "name": "Seu CSS é bom ou ruim?",
   "url": "http://edsonjunior.com/css-bom-ruim/",
   "type": "artigo",
@@ -273,8 +272,7 @@
     "name": "Edson S. Junior",
     "url": "http://edsonjunior.com"
   }
-},
- {
+}, {
   "name": "Entendendo float, clear e clearfix de uma vez por todas",
   "url": "http://edsonjunior.com/entendendo-float-clear-clearfix/",
   "type": "artigo",
@@ -287,8 +285,7 @@
     "name": "Edson S. Junior",
     "url": "http://edsonjunior.com"
   }
-},
-{
+}, {
   "name": "Primeiros passos com Sass Pt.1",
   "url": "https://www.youtube.com/watch?v=z1nCtknvX1c",
   "type": "vídeo",
@@ -300,8 +297,7 @@
     "name": "Ferreira Studio",
     "url": "https://www.youtube.com/channel/UCztMwfGqsnPeGat7Np-bFKg"
   }
-},
-{
+}, {
   "name": "Primeiros passos com Sass Pt.2",
   "url": "https://www.youtube.com/watch?v=FkRjz42oERA",
   "type": "vídeo",
@@ -313,8 +309,7 @@
     "name": "Ferreira Studio",
     "url": "https://www.youtube.com/channel/UCztMwfGqsnPeGat7Np-bFKg"
   }
-},
-{
+}, {
   "name": "Criando um Switch Button com CSS",
   "url": "http://willianjusten.com.br/criando-um-switch-button-com-css/",
   "type": "artigo",
@@ -326,8 +321,7 @@
     "name": "Willian Justen",
     "url": "http://willianjusten.com.br/"
   }
-},
-{
+}, {
   "name": "Aprenda Flexbox jogando",
   "url": "http://flexboxfroggy.com/#pt-br",
   "type": "tutorial",
@@ -339,8 +333,7 @@
     "name": "Thomas Spark",
     "url": "http://thomaspark.co/"
   }
-},
-{
+}, {
   "name": "Como funciona o seletor :nth-something()",
   "url": "https://medium.com/@filipelinhares/como-funciona-o-seletor-nth-c6e5cf806283#.k985vyffn",
   "type": "artigo",
@@ -352,8 +345,7 @@
     "name": "Filipe Linhares",
     "url": "http://filipelinhares.com/"
   }
-},
-{
+}, {
   "name": "Bootstrap - Documentação em Português",
   "url": "http://getbootstrap.com.br/",
   "type": "documentação",
@@ -366,5 +358,4 @@
     "name": "Comunidade Brasileira de Bootstrap",
     "url": "https://github.com/bootstrapbrasil"
   }
-}
-]
+}]

@@ -31,8 +31,7 @@
     "name": "Daniel Leite de Oliveira",
     "url": "https://medium.com/@dleitee"
   }
-},
-{
+}, {
   "name": "Dividindo as tasks do Gulpfile em multiplos arquivos",
   "url": "http://nandomoreira.me/dividindo-as-tasks-do-gulpfile-em-multiplos-arquivos/",
   "type": "artigo",
@@ -44,8 +43,7 @@
     "name": "Fernando Moreira",
     "url": "http://nandomoreira.me/dividindo-as-tasks-do-gulpfile-em-multiplos-arquivos/"
   }
-},
-{
+}, {
   "name": "Compilando e minificando SASS",
   "url": "https://codecasts.com.br/lesson/gulp-level01-compilando-e-minificando-sass",
   "type": "screencast",
@@ -56,8 +54,7 @@
     "name": "Vinicius Reis",
     "url": "http://github.com/vinicius73"
   }
-},
-{
+}, {
   "name": "Gulp-if - Tarefas com condições",
   "url": "https://codecasts.com.br/lesson/gulp-level01-gulpif-tarefas-condicionadas",
   "type": "screencast",
@@ -69,7 +66,7 @@
     "name": "Vinicius Reis",
     "url": "http://github.com/vinicius73"
   }
-},{
+}, {
   "name": "Concatenando seus scripts",
   "url": "https://codecasts.com.br/lesson/gulp-level01-03-concatenando-seus-scripts",
   "type": "screencast",
@@ -81,7 +78,7 @@
     "name": "Vinicius Reis",
     "url": "http://github.com/vinicius73"
   }
-},{
+}, {
   "name": "Concatenando vendors e minificando scripts",
   "url": "https://codecasts.com.br/lesson/gulp-level01-04-concatenando-vendors-scripts-e-minificando-seus-scripts",
   "type": "screencast",
@@ -94,7 +91,7 @@
     "name": "Vinicius Reis",
     "url": "http://github.com/vinicius73"
   }
-},{
+}, {
   "name": "Concatenando css e gulp default task",
   "url": "https://codecasts.com.br/lesson/gulp-level01-05-default-task-css-vendors",
   "type": "screencast",
@@ -106,7 +103,7 @@
     "name": "Vinicius Reis",
     "url": "http://github.com/vinicius73"
   }
-},{
+}, {
   "name": "Copiando e otimizando imagens",
   "url": "https://codecasts.com.br/lesson/gulp-level01-06-copiando-e-otimizando-imagens",
   "type": "screencast",
@@ -118,7 +115,7 @@
     "name": "Vinicius Reis",
     "url": "http://github.com/vinicius73"
   }
-},{
+}, {
   "name": "Gulp watch",
   "url": "https://codecasts.com.br/lesson/gulp-level01-07-gulp-watch",
   "type": "screencast",
@@ -129,5 +126,4 @@
     "name": "Vinicius Reis",
     "url": "http://github.com/vinicius73"
   }
-}
-]
+}]

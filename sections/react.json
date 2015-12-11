@@ -34,8 +34,7 @@
     "name": "Cássio Zen",
     "url": "https://github.com/cassiozen"
   }
- },
-  {
+}, {
   "name": "React: Guia do iniciante",
   "url": "https://leanpub.com/react-guia-do-iniciate",
   "type": "livro",
@@ -44,5 +43,4 @@
     "name": "Daniel Schmitz",
     "url": "https://leanpub.com/u/danielschmitz"
   }
-}
-]
+}]
