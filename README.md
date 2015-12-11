@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<a href="http://awesome-br.com" target="_blank">awesome-br.com</a>
+<a href="http://awesome-br.com" target="_blank">Awesome-br.com</a>
 <br>
 <img src="http://awesome-br.com/screenshot.png?new"/>
 </h1>
