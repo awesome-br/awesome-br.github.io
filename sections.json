@@ -9,6 +9,11 @@
   "type": "Framework Javascript",
   "tags": []
 }, {
+  "name": "Atom",
+  "url": "#/atom",
+  "type": "Editor",
+  "tags": []
+}, {
   "name": "CSS",
   "url": "#/css",
   "type": "Folha de Estilo",
