@@ -14,10 +14,10 @@
   "type": "Folha de Estilo",
   "tags": []
 }, {
-  "name" : "C#",
-  "url" : "#/csharp",
-  "type" : "Linguagem de programação",
-  "tags" : []
+  "name": "C#",
+  "url": "#/csharp",
+  "type": "Linguagem de programação",
+  "tags": []
 }, {
   "name": "Docker",
   "url": "#/docker",
@@ -104,10 +104,10 @@
   "type": "Ruby Framework",
   "tags": []
 }, {
-  "name" : "Segurança",
-  "url" : "#/seguranca",
-  "type" : "Segurança e Certificados digitais",
-  "tags" : []
+  "name": "Segurança",
+  "url": "#/seguranca",
+  "type": "Segurança e Certificados digitais",
+  "tags": []
 }, {
   "name": "Sublime Text",
   "url": "#/sublime",
@@ -128,12 +128,12 @@
   "url": "#/vue",
   "type": "Framework Javascript",
   "tags": []
-},{
+}, {
   "name": "Linux",
   "url": "#/linux",
   "type": "Sistema Operacional",
   "tags": []
-},{
+}, {
   "name": "Regex",
   "url": "#/regex",
   "type": "Expressão regular",
