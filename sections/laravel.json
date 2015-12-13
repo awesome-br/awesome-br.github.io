@@ -817,4 +817,19 @@
     "name": "Jansen Felipe",
     "url": "http://jansenfelipe.com.br"
   }
+}, {
+  "name": "Configurando seu Apache para trabalhar com subdominios no Laravel (Local)",
+  "url": "https://medium.com/@dlimars/configura%C3%A7%C3%A3o-de-subdom%C3%ADnios-local-apache-dnsmasq-laravel-6fcdcbea5bb6",
+  "type": "tutorial",
+  "tags": [
+    "apache",
+    "linux",
+    "laravel",
+    "subdominio",
+    "multi-tenant"
+  ],
+  "author": {
+    "name": "Daniel Lima",
+    "url": "https://github.com/dlimars"
+  }
 }]
