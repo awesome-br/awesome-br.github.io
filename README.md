@@ -45,7 +45,7 @@ O formato para um novo item em qualquer tecnologia é:
     }
   }
 ```
-O tipo pode ser: artigo, tutorial, dica, livro, vídeo, screencast,código etc
+O tipo pode ser: "artigo",  "livro",  "video",  "screencast",  "styleguide",  "palestra",  "tutorial",  "dica",  "slide", "vídeo",  "documentação",  "url",  "curso",  "guia",  "pacote",  "hangout",  "slideshare",  "apostila",  "site". Outros tipos deverão ser requisitados abrindo uma ISSUE, pois o teste de Integração Contínua vai falhar.
 
 ## Como testar o awesome no seu computador
 
