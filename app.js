@@ -114,10 +114,17 @@
   /**
    * Run (events)
    */
-  app.run(['$rootScope', function($rootScope) {
+  app.run(['$window', '$location', '$rootScope', function($window, $location, $rootScope) {
     $rootScope.$on('$routeChangeSuccess', function(scope, data) {
       $rootScope.currentController = data.controller;
     });
+
+    var track = function() {
+        $window.ga('send', 'pageview', {
+            page: $location.path()
+        });
+    };
+    $rootScope.$on('$viewContentLoaded', track);
   }]);
 
   /**
