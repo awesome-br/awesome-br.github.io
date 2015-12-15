@@ -832,4 +832,18 @@
     "name": "Daniel Lima",
     "url": "https://github.com/dlimars"
   }
+}, {
+  "name": "Decimal Mutators",
+  "url": "https://packagist.org/packages/giordanolima/decimal-mutators",
+  "type": "pacote",
+  "tags": [
+    "laravel",
+    "mutators",
+    "accessors",
+    "eloquent"
+  ],
+  "author": {
+    "name": "Giordano Lima",
+    "url": "https://github.com/giordanolima"
+  }
 }]
