@@ -65,3 +65,22 @@ Available on:
 Copie a URL, juntamente com a porta, e abra o site no navegador.
 
 **Dica**: Use `ctrl+shift+r` para atualizar o cache após alterar os arquivos .json.
+
+## Divulgue o Awesome BR
+
+Adicione o badge no repositório do seu projeto ou em seu blog! Exemplo:
+
+[![Awesome BR - Laravel](https://img.shields.io/badge/awesome--br.com-laravel-red.svg)](http://awesome-br.com/#/laravel)
+[![Awesome BR - Android](https://img.shields.io/badge/awesome--br.com-android-green.svg)](http://awesome-br.com/#/android)
+
+Markdown:
+
+```
+[![Awesome BR - Laravel](https://img.shields.io/badge/awesome--br.com-laravel-green.svg)](http://awesome-br.com/#/laravel)`
+```
+
+HTML:
+
+```
+<a href="http://awesome-br.com/#/laravel"><img src="https://img.shields.io/badge/awesome--br.com-laravel-red.svg" alt="Awesome BR - Laravel" /></a>
+```
