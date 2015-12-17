@@ -102,6 +102,7 @@
       "PHP",
       "PHPOO"
     ],
+    "paid": true,
     "author": {
       "name": "Robson V. Leite",
       "url": "https://www.upinside.com.br/"
