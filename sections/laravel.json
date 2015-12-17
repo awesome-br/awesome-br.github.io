@@ -331,7 +331,8 @@
   "type": "livro",
   "tags": [
     "books",
-    "angular"
+    "angular",
+    "pago"
   ],
   "author": {
     "name": "Daniel Schmitz",
