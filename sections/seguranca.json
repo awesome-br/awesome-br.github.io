@@ -1,25 +1,25 @@
 [{
-  "name": "Certificado SSL free/grátis e rápido!",
-  "url": "https://www.youtube.com/watch?v=F_1dzQs5H1M",
-  "type": "screencast",
-  "tags": [
-    "ssl",
-    "security"
-  ],
-  "author": {
-    "name": "Leandro Henrique Reis",
-    "url": "https://github.com/emtudo"
-  }
+    "name": "Certificado SSL free/grátis e rápido!",
+    "url": "https://www.youtube.com/watch?v=F_1dzQs5H1M",
+    "type": "screencast",
+    "tags": [
+        "ssl",
+        "security"
+    ],
+    "author": {
+        "name": "Leandro Henrique Reis",
+        "url": "https://github.com/emtudo"
+    }
 }, {
-  "name": "Certificado SSL auto assinado, grátis, e instalação no nginx",
-  "url": "https://www.youtube.com/watch?v=adPVFI43mOc",
-  "type": "screencast",
-  "tags": [
-    "ssl",
-    "security"
-  ],
-  "author": {
-    "name": "Leandro Henrique Reis",
-    "url": "https://github.com/emtudo"
-  }
+    "name": "Certificado SSL automaticamente, grátis, e instalação no nginx",
+    "url": "https://www.youtube.com/watch?v=adPVFI43mOc",
+    "type": "screencast",
+    "tags": [
+        "ssl",
+        "security"
+    ],
+    "author": {
+        "name": "Leandro Henrique Reis",
+        "url": "https://github.com/emtudo"
+    }
 }]
