@@ -39,6 +39,7 @@ O formato para um novo item em qualquer tecnologia é:
       "tags",
       "tags"
     ],
+    "paid": false,
     "author": {
       "name": "Nome do autor",
       "url": "Url do site do autor"
