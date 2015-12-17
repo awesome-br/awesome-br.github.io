@@ -63,7 +63,7 @@
   "type": "livro",
   "tags": [
     "livro",
-    "ebook"
+    "ebook", "pago"
   ],
   "author": {
     "name": "Felipe Cruz",

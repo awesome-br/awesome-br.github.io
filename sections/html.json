@@ -49,7 +49,7 @@
   "type": "livro",
   "tags": [
     "livro",
-    "ebook"
+    "ebook", "pago"
   ],
   "author": {
     "name": "Lucas Mazza",
