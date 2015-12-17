@@ -1,0 +1,35 @@
+[{
+  "name": "Conhecendo as Expressões Regulares",
+  "url": "http://aurelio.net/regex/apostila-conhecendo-regex.pdf",
+  "type": "livro",
+  "tags": [
+    "pdf"
+  ],
+  "author": {
+    "name": "Aurélio Marinho Jargas",
+    "url": "http://aurelio.net/"
+  }
+}, {
+  "name": "Como extrair e formatar texto usando Expressões Regulares",
+  "url": "https://www.youtube.com/watch?v=LZcTSKIwZqI",
+  "type": "vídeo",
+  "tags": [
+    "youtube"
+  ],
+  "author": {
+    "name": "Aurélio Marinho Jargas",
+    "url": "http://aurelio.net/"
+  }
+}, {
+  "name": "Trabalhando com expressões regulares em Javascript",
+  "url": "https://www.todoespacoonline.com/w/2014/04/expressoes-regulares-em-javascript/",
+  "type": "artigo",
+  "tags": [
+    "regexp",
+    "javascript"
+  ],
+  "author": {
+    "name": "Luiz Otávio Miranda",
+    "url": "https://www.todoespacoonline.com/w/author/luizotaviomiranda/"
+  }
+}]

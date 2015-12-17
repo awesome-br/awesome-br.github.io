@@ -1,12 +1,12 @@
 [{
   "name": "Mundo Docker",
   "url": "http://www.mundodocker.com.br/",
-  "type": "Url",
+  "type": "url",
   "tags": []
 }, {
   "name": "Containers com Docker",
   "url": "http://www.casadocodigo.com.br/products/livro-docker",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
     "livro",
     "ebook"
@@ -18,7 +18,7 @@
 }, {
   "name": "Docker, Por Onde Começar",
   "url": "http://www.codeforcloud.info/blog/2015/02/15/docker-por-onde-comecar/",
-  "type": "Url",
+  "type": "url",
   "tags": [
     "tutorial",
     "iniciante"

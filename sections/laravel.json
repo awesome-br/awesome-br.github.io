@@ -328,7 +328,7 @@
 }, {
   "name": "Laravel + AngularJS",
   "url": "https://leanpub.com/laravelangular_pt",
-  "type": "livros",
+  "type": "livro",
   "tags": [
     "books",
     "angular"
@@ -615,7 +615,7 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
-},{
+}, {
   "name": "Model factory em pt_BR",
   "url": "http://www.laravel.com.br/model-factory-em-pt_br-laravel-5-1/",
   "type": "dica",
@@ -796,7 +796,7 @@
 }, {
   "name": "Php e Laravel Crie aplicações web como um verdadeiro artesão",
   "url": "http://www.casadocodigo.com.br/products/livro-laravel-php",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
     "livro",
     "ebook"
@@ -805,8 +805,7 @@
     "name": "Rodrigo Turini",
     "url": "https://github.com/Turini"
   }
-},
-{
+}, {
   "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
   "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
   "type": "tutorial",
@@ -817,5 +816,34 @@
   "author": {
     "name": "Jansen Felipe",
     "url": "http://jansenfelipe.com.br"
+  }
+}, {
+  "name": "Configurando seu Apache para trabalhar com subdominios no Laravel (Local)",
+  "url": "https://medium.com/@dlimars/configura%C3%A7%C3%A3o-de-subdom%C3%ADnios-local-apache-dnsmasq-laravel-6fcdcbea5bb6",
+  "type": "tutorial",
+  "tags": [
+    "apache",
+    "linux",
+    "laravel",
+    "subdominio",
+    "multi-tenant"
+  ],
+  "author": {
+    "name": "Daniel Lima",
+    "url": "https://github.com/dlimars"
+  }
+}, {
+  "name": "Decimal Mutators",
+  "url": "https://packagist.org/packages/giordanolima/decimal-mutators",
+  "type": "pacote",
+  "tags": [
+    "laravel",
+    "mutators",
+    "accessors",
+    "eloquent"
+  ],
+  "author": {
+    "name": "Giordano Lima",
+    "url": "https://github.com/giordanolima"
   }
 }]

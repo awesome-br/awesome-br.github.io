@@ -1,7 +1,7 @@
 [{
   "name": "Ember para iniciantes",
   "url": "http://tableless.com.br/serie-emberjs-iniciante-parte1/",
-  "type": "curso",
+  "type": "artigo",
   "tags": [
     "introdução"
   ],
@@ -12,10 +12,9 @@
 }, {
   "name": "Introdução EmberJS",
   "url": "https://www.youtube.com/watch?v=B8iWVCDE63U",
-  "type": "screencast",
+  "type": "vídeo",
   "tags": [
-    "introdução",
-    "video"
+    "introdução"
   ],
   "author": {
     "name": "Fabio Vedovelli",

@@ -22,17 +22,6 @@
     "url": "https://www.codecademy.com/pt-BR/tracks/javascript"
   }
 }, {
-  "name": "WebPlataform - Your Web, Documented",
-  "url": "http://www.webplatform.org/",
-  "type": "dica",
-  "tags": [
-    "html", "css", "javascript"
-  ],
-  "author": {
-    "name": "W3C",
-    "url": "http://www.w3.org/"
-  }
-}, {
   "name": "Visão geral das novas funcionalidades do ECMAScript 6",
   "url": "https://github.com/cerebrobr/es6features",
   "type": "documentação",
@@ -69,7 +58,7 @@
 }, {
   "name": "Desvendando a linguagem JavaScript",
   "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc",
-  "type": "playlist",
+  "type": "vídeo",
   "tags": [
     "javascript",
     "playlist",
@@ -95,7 +84,7 @@
 }, {
   "name": "JavaScript Funcional",
   "url": "https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R",
-  "type": "playlist",
+  "type": "vídeo",
   "tags": [
     "javascript",
     "youtube",
@@ -109,11 +98,10 @@
 }, {
   "name": "O fantástico mundo do JavaScript",
   "url": "https://www.youtube.com/watch?v=Zn7B-X0y5qs",
-  "type": "video",
+  "type": "vídeo",
   "tags": [
     "javascript",
-    "youtube",
-    "video"
+    "youtube"
   ],
   "author": {
     "name": "Jean Carlo Emer",
@@ -214,8 +202,7 @@
     "name": "Vinicius Reis",
     "url": "http://github.com/vinicius73"
   }
-},
-{
+}, {
   "name": "Testando seu front com CasperJs",
   "url": "http://blog.devparana.org/testando-seu-front-com-casperjs/",
   "type": "artigo",
@@ -228,8 +215,7 @@
     "name": "Fernando Fabricio dos Santos",
     "url": "http://blog.devparana.org"
   }
-},
-{
+}, {
   "name": "APIs REST em 1 minuto ",
   "url": "http://jaydson.org/api-s-rest-em-1-minuto/",
   "type": "artigo",
@@ -243,5 +229,21 @@
   "author": {
     "name": "Jaydson Gomes",
     "url": "http://jaydson.org/"
+  }
+}, {
+  "name": "Como criar um projeto Open Source em JavaScript",
+  "url": "https://medium.com/@matheusml/como-criar-um-projeto-open-source-em-javascript-f3a49a4126c8#.v6pumgq8q",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "bower",
+    "gulp",
+    "grunt",
+    "npm",
+    "ferramentas"
+  ],
+  "author": {
+    "name": "Matheus Lima",
+    "url": "http://matheuslima.com/"
   }
 }]

@@ -1,7 +1,7 @@
 [{
     "name": "AngularJS na prática",
     "url": "https://leanpub.com/livro-angularJS",
-    "type": "livros",
+    "type": "livro",
     "tags": [
       "introdução",
       "ebook"
@@ -136,17 +136,17 @@
       "name": "Ciro Nunes",
       "url": "http://cironunes.com/"
     }
-  },
-{
-  "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
-  "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
-  "type": "tutorial",
-  "tags": [
-    "integracao angular",
-    "material design"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://jansenfelipe.com.br"
+  }, {
+    "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
+    "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
+    "type": "tutorial",
+    "tags": [
+      "integracao angular",
+      "material design"
+    ],
+    "author": {
+      "name": "Jansen Felipe",
+      "url": "http://jansenfelipe.com.br"
+    }
   }
-}]
+]

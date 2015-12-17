@@ -34,4 +34,16 @@
     "name": "Thiago Silva",
     "url": "http://codigonatela.azurewebsites.net/"
   }
+}, {
+  "name": "Implementando Simple Injector",
+  "url": "http://viniciusmussak.net/2015/04/09/implementando-simple-injector/",
+  "type": "artigo",
+  "tags": [
+    "dependency resolver",
+    "c#"
+  ],
+  "author": {
+    "name": "Vinicius Mussak",
+    "url": "http://viniciusmussak.net/"
+  }
 }]

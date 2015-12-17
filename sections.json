@@ -9,15 +9,20 @@
   "type": "Framework Javascript",
   "tags": []
 }, {
+  "name": "Atom",
+  "url": "#/atom",
+  "type": "Editor",
+  "tags": []
+}, {
   "name": "CSS",
   "url": "#/css",
   "type": "Folha de Estilo",
   "tags": []
 }, {
-  "name" : "C#",
-  "url" : "#/csharp",
-  "type" : "Linguagem de programação",
-  "tags" : []
+  "name": "C#",
+  "url": "#/csharp",
+  "type": "Linguagem de programação",
+  "tags": []
 }, {
   "name": "Docker",
   "url": "#/docker",
@@ -91,7 +96,7 @@
 }, {
   "name": "React",
   "url": "#/react",
-  "type": "Framework Javascript",
+  "type": "Biblioteca Javascript",
   "tags": []
 }, {
   "name": "Ruby",
@@ -104,10 +109,10 @@
   "type": "Ruby Framework",
   "tags": []
 }, {
-  "name" : "Segurança",
-  "url" : "#/seguranca",
-  "type" : "Segurança e Certificados digitais",
-  "tags" : []
+  "name": "Segurança",
+  "url": "#/seguranca",
+  "type": "Segurança e Certificados digitais",
+  "tags": []
 }, {
   "name": "Sublime Text",
   "url": "#/sublime",
@@ -127,5 +132,15 @@
   "name": "Vue",
   "url": "#/vue",
   "type": "Framework Javascript",
+  "tags": []
+}, {
+  "name": "Linux",
+  "url": "#/linux",
+  "type": "Sistema Operacional",
+  "tags": []
+}, {
+  "name": "Regex",
+  "url": "#/regex",
+  "type": "Expressão regular",
   "tags": []
 }]

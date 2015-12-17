@@ -1,8 +1,8 @@
 
 <h1 align="center">
-<a href="http://awesome-br.com" target="_blank">awesome-br.com</a>
+<a href="http://awesome-br.com" target="_blank">Awesome-br.com</a>
 <br>
-<img src="http://awesome-br.com/screenshot.png"/>
+<img src="http://awesome-br.com/screenshot.png?new"/>
 </h1>
 
 [![Build Status](https://travis-ci.org/awesome-br/awesome-br.github.io.svg?branch=master)](https://travis-ci.org/awesome-br/awesome-br.github.io)
@@ -45,7 +45,7 @@ O formato para um novo item em qualquer tecnologia é:
     }
   }
 ```
-O tipo pode ser: artigo, tutorial, dica, livro, vídeo, screencast,código etc
+O tipo pode ser: "artigo",  "livro",  "video",  "screencast",  "styleguide",  "palestra",  "tutorial",  "dica",  "slide", "vídeo",  "documentação",  "url",  "curso",  "guia",  "pacote",  "hangout",  "slideshare",  "apostila",  "site". Outros tipos deverão ser requisitados abrindo uma ISSUE, pois o teste de Integração Contínua vai falhar.
 
 ## Como testar o awesome no seu computador
 
@@ -65,3 +65,22 @@ Available on:
 Copie a URL, juntamente com a porta, e abra o site no navegador.
 
 **Dica**: Use `ctrl+shift+r` para atualizar o cache após alterar os arquivos .json.
+
+## Divulgue o Awesome BR
+
+Adicione o badge no repositório do seu projeto ou em seu blog! Exemplo:
+
+[![Awesome BR - Laravel](https://img.shields.io/badge/awesome--br.com-laravel-red.svg)](http://awesome-br.com/#/laravel)
+[![Awesome BR - Android](https://img.shields.io/badge/awesome--br.com-android-green.svg)](http://awesome-br.com/#/android)
+
+Markdown:
+
+```
+[![Awesome BR - Laravel](https://img.shields.io/badge/awesome--br.com-laravel-green.svg)](http://awesome-br.com/#/laravel)`
+```
+
+HTML:
+
+```
+<a href="http://awesome-br.com/#/laravel"><img src="https://img.shields.io/badge/awesome--br.com-laravel-red.svg" alt="Awesome BR - Laravel" /></a>
+```

@@ -58,7 +58,7 @@
 }, {
   "name": "CSS Guide Lines",
   "url": "http://cssguidelin.es/",
-  "type": "dicas",
+  "type": "dica",
   "tags": [
     "css"
   ],
@@ -211,7 +211,7 @@
 }, {
   "name": "Padrões para códigos HTML e CSS flexíveis e sustentáveis.",
   "url": "http://diegoeis.github.io/code-guide/",
-  "type": "guia",
+  "type": "tutorial",
   "tags": [
     "dicas"
   ],
@@ -259,8 +259,7 @@
     "name": "Raphael Fabeni",
     "url": "http://www.raphaelfabeni.com.br"
   }
-},
- {
+}, {
   "name": "Seu CSS é bom ou ruim?",
   "url": "http://edsonjunior.com/css-bom-ruim/",
   "type": "artigo",
@@ -273,8 +272,7 @@
     "name": "Edson S. Junior",
     "url": "http://edsonjunior.com"
   }
-},
- {
+}, {
   "name": "Entendendo float, clear e clearfix de uma vez por todas",
   "url": "http://edsonjunior.com/entendendo-float-clear-clearfix/",
   "type": "artigo",
@@ -287,11 +285,10 @@
     "name": "Edson S. Junior",
     "url": "http://edsonjunior.com"
   }
-},
-{
+}, {
   "name": "Primeiros passos com Sass Pt.1",
   "url": "https://www.youtube.com/watch?v=z1nCtknvX1c",
-  "type": "video-aula",
+  "type": "vídeo",
   "tags": [
     "css",
     "sass"
@@ -300,11 +297,10 @@
     "name": "Ferreira Studio",
     "url": "https://www.youtube.com/channel/UCztMwfGqsnPeGat7Np-bFKg"
   }
-},
-{
+}, {
   "name": "Primeiros passos com Sass Pt.2",
   "url": "https://www.youtube.com/watch?v=FkRjz42oERA",
-  "type": "video-aula",
+  "type": "vídeo",
   "tags": [
     "css",
     "sass"
@@ -312,5 +308,54 @@
   "author": {
     "name": "Ferreira Studio",
     "url": "https://www.youtube.com/channel/UCztMwfGqsnPeGat7Np-bFKg"
+  }
+}, {
+  "name": "Criando um Switch Button com CSS",
+  "url": "http://willianjusten.com.br/criando-um-switch-button-com-css/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "dicas"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+}, {
+  "name": "Aprenda Flexbox jogando",
+  "url": "http://flexboxfroggy.com/#pt-br",
+  "type": "tutorial",
+  "tags": [
+    "css",
+    "flexbox"
+  ],
+  "author": {
+    "name": "Thomas Spark",
+    "url": "http://thomaspark.co/"
+  }
+}, {
+  "name": "Como funciona o seletor :nth-something()",
+  "url": "https://medium.com/@filipelinhares/como-funciona-o-seletor-nth-c6e5cf806283#.k985vyffn",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "nth-child()"
+  ],
+  "author": {
+    "name": "Filipe Linhares",
+    "url": "http://filipelinhares.com/"
+  }
+}, {
+  "name": "Bootstrap - Documentação em Português",
+  "url": "http://getbootstrap.com.br/",
+  "type": "documentação",
+  "tags": [
+    "bootstrap",
+    "css",
+    "documentação"
+  ],
+  "author": {
+    "name": "Comunidade Brasileira de Bootstrap",
+    "url": "https://github.com/bootstrapbrasil"
   }
 }]

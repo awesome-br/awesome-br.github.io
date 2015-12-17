@@ -1,7 +1,7 @@
 [{
   "name": "Criando Pacotes em GO ",
   "url": "http://kirk.svbtle.com/iniciando-com-go-criando-pacotes",
-  "type": "Tutorial",
+  "type": "tutorial",
   "tags": [
     "iniciante",
     "tutorial"
@@ -13,7 +13,7 @@
 }, {
   "name": "Usando MongoDB com mgo",
   "url": "http://kirk.svbtle.com/mongodb-com-go-usando-mgo",
-  "type": "Tutorial",
+  "type": "tutorial",
   "tags": [
     "iniciante",
     "tutorial"
@@ -25,7 +25,7 @@
 }, {
   "name": "Go - Ambiente de Desenvolvimento",
   "url": "http://info.viniciusfeitosa.com.br/post/85532169619/golang-ambiente-de-desenvolvimento",
-  "type": "Tutorial",
+  "type": "tutorial",
   "tags": [
     "iniciante",
     "tutorial"
@@ -37,7 +37,7 @@
 }, {
   "name": "Programando em Go",
   "url": "http://www.casadocodigo.com.br/products/livro-google-go",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
     "iniciante",
     "livro",
@@ -50,7 +50,7 @@
 }, {
   "name": "Aulas de Go para iniciantes",
   "url": "https://www.youtube.com/playlist?list=PLIXNPsQriECyssu-LWgXNYsusLpTWAwMT",
-  "type": "Aulas",
+  "type": "video",
   "tags": [
     "iniciante",
     "youtube",

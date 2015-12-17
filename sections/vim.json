@@ -20,4 +20,52 @@
     "name": "Dalibor Nasevic.",
     "url": "http://http://dalibornasevic.com/"
   }
+}, {
+  "name": "VIM - basico",
+  "url": "http://aurelio.net/vim/vim-basico.txt",
+  "type": "tutorial",
+  "tags": [
+    "linux",
+    "curso"
+  ],
+  "author": {
+    "name": "NetworkComputing",
+    "url": "http://www.networkcomputing.com/unixworld/tutorial/009/009.part1.html"
+  }
+}, {
+  "name": "VIM - Intermediario",
+  "url": "http://aurelio.net/vim/vim-medio.txt",
+  "type": "tutorial",
+  "tags": [
+    "linux",
+    "curso"
+  ],
+  "author": {
+    "name": "NetworkComputing",
+    "url": "http://www.networkcomputing.com/unixworld/tutorial/009/009.part1.html"
+  }
+}, {
+  "name": "VIM - Avançado",
+  "url": "http://aurelio.net/vim/vim-avancado.txt",
+  "type": "tutorial",
+  "tags": [
+    "linux",
+    "curso"
+  ],
+  "author": {
+    "name": "NetworkComputing",
+    "url": "http://www.networkcomputing.com/unixworld/tutorial/009/009.part1.html"
+  }
+}, {
+  "name": "Editor VI - guia de referência",
+  "url": "http://aurelio.net/curso/material/vim-ref.html",
+  "type": "tutorial",
+  "tags": [
+    "linux",
+    "curso"
+  ],
+  "author": {
+    "name": "Aurélio",
+    "url": "http://aurelio.net/vim/"
+  }
 }]

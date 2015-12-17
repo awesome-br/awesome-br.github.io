@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,500,700' rel='stylesheet' type='text/css'>
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-k2/8zcNbxVIh5mnQ52A0r3a6jAgMGxFJFE2707UxGCk= sha512-ZV9KawG2Legkwp3nAlxLIVFudTauWuBpC10uEafMHYL0Sarrz5A7G79kXh5+5+woxQ5HM559XX2UZjMJ36Wplg==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="/vendor/css/bootstrap.min.css">
   <link rel="stylesheet" href="/vendor/css/spinner.css">
   <link rel="stylesheet" href="/vendor/css/main.css">
@@ -42,8 +42,8 @@
         <a class="navbar-brand" href="#/"> <i ng-show="currentController != 'homeController'" class="fa fa-chevron-circle-left"></i> Awesome BR</a>
       </div>
       <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="nav navbar-nav navbar-right" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav ">
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
           <li>
             <a href="https://github.com/awesome-br/awesome-br.github.io#nossa-proposta">Conheça a nossa proposta</a>
           </li>
@@ -52,7 +52,20 @@
                 href="http://free-time.github.io"
                 data-toggle="tooltip"
                 data-placement="bottom"
-                title="Palestras para desenvolvedores!"><span class="badge">Free time</span></a>
+                title="Palestras para desenvolvedores!">
+                <span class="badge">Free time</span>
+                <p class="visible-xs-inline"> - Palestras para desenvolvedores!</p>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://github.com/awesome-br/awesome-br.github.io"
+              data-toggle="tooltip"
+              data-placement="bottom"
+              title="Fork me on Github!">
+              <i class="fa fa-github-alt fa-lg"></i>
+              <p class="visible-xs-inline"> - Fork me on Github!</p>
+            </a>
           </li>
         </ul>
       </div>
@@ -63,12 +76,6 @@
 
   <div ng-view></div>
 
-  <a href="https://github.com/awesome-br/awesome-br.github.io">
-    <img class="forkme-ribbon" src="https://camo.githubusercontent.com/567c3a48d796e2fc06ea80409cc9dd82bf714434/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f6461726b626c75655f3132313632312e706e67"
-    alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png">
-  </a>
-
-
   <script src="/vendor/js/lodash.min.js"></script>
   <script src="/vendor/js/jquery.min.js"></script>
   <script src="/vendor/js/isotope.pkgd.min.js"></script>
@@ -78,6 +85,18 @@
   <script src="/vendor/js/angular-route.min.js"></script>
   <script src="/vendor/js/angular-isotope.min.js"></script>
   <script src="/app.js"></script>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71121915-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 </body>
 
 </html>
