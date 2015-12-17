@@ -2,6 +2,13 @@
 
   <div class="form-group has-feedback">
     <div ng-class="{'input-group': (tags.length > 0 || types.length > 0), 'has-tags': tags.length > 0, 'has-types': types.length >0}">
+      <span ng-show="tags.length > 0"
+            class="input-group-addon"
+            data-toggle="tooltip"
+            data-placement="bottom"
+            title="Exibir apenas conteúdo grátis?">
+        <input type="checkbox" ng-model="$root.onlyFree"> Free?
+      </span>
       <input type="search" ng-model="query" class="form-control input-lg" placeholder="{{ planceholder }}">
       <span ng-show="query"
             ng-click="clearFilter()"
