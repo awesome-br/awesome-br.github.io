@@ -49,8 +49,9 @@
   "type": "livro",
   "tags": [
     "livro",
-    "ebook", "pago"
+    "ebook"
   ],
+  "paid" : true,
   "author": {
     "name": "Lucas Mazza",
     "url": "https://github.com/lucasmazza"

@@ -28,8 +28,9 @@
   "type": "livro",
   "tags": [
     "livro",
-    "ebook", "pago"
+    "ebook"
   ],
+  "paid" : true,
   "author": {
     "name": "João Bosco Monteiro",
     "url": "https://github.com/joaobmonteiro"

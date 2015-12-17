@@ -41,8 +41,9 @@
   "tags": [
     "iniciante",
     "livro",
-    "ebook", "pago"
+    "ebook"
   ],
+  "paid" : true,
   "author": {
     "name": "Caio Filipini",
     "url": "https://github.com/caiofilipini"

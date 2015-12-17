@@ -48,8 +48,9 @@
     "type": "livro",
     "tags": [
       "livro",
-      "ebook", "pago"
+      "ebook"
     ],
+    "paid" : true,
     "author": {
       "name": "Evaldo Júnio Bento",
       "url": "http://blog.evaldojunior.com.br/"
