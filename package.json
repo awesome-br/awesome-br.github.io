@@ -6,7 +6,8 @@
   "scripts": {
     "http-server": "node_modules/http-server/bin/http-server",
     "validate": "node tasks/validate.js",
-    "test": "node tasks/validate.js"
+    "test": "node tasks/validate.js",
+    "start": "live-server"
   },
   "repository": {
     "type": "git",

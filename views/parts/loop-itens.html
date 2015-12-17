@@ -9,7 +9,10 @@
         {{ item.type }}
       </a>
       <!-- /.label -->
-      <a href="{{ item.url }}" class="title" targeter>{{ item.name }}</a>
+      <a href="{{ item.url }}" class="title" targeter>
+          <i ng-class="{'fa fa-shopping-cart fa-lg': item.tags.indexOf('pago') != -1}"></i>
+        {{ item.name }}
+      </a>
       <footer>
         <a class="label label-warning pull-left"
             title="Clique para filtrar"
