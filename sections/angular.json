@@ -4,7 +4,8 @@
     "type": "livro",
     "tags": [
       "introdução",
-      "ebook"
+      "ebook",
+      "pago"
     ],
     "author": {
       "name": "Daniel Pace Schmitz",

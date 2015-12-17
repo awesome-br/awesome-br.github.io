@@ -24,6 +24,26 @@
   });
 
   /**
+   * Evaluates if only free content can be displayed
+   */
+  app.filter('filterPaidContent', [function () {
+    return function( items, onlyFree) {
+      var filtered = [];
+      if(onlyFree) {
+        angular.forEach(items, function(item) {
+          if(item.paid == false || item.paid == undefined) {
+            filtered.push(item);
+          }
+        });
+      } else {
+        filtered = items;
+      }
+
+      return filtered;
+    };
+  }]);
+
+  /**
    * target attribute directive
    */
   app.directive("targeter", function() {
@@ -130,8 +150,8 @@
   /**
    * Main Controller
    */
-  app.controller('mainController', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
-
+  app.controller('mainController', ['$rootScope', '$http', '$timeout', function($rootScope, $http, $timeout) {
+    $rootScope.onlyFree = false;
   }]);
 
   /**

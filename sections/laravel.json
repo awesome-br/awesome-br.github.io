@@ -333,6 +333,7 @@
     "books",
     "angular"
   ],
+  "paid" : true,
   "author": {
     "name": "Daniel Schmitz",
     "url": "https://github.com/danielschmitz"
@@ -798,9 +799,9 @@
   "url": "http://www.casadocodigo.com.br/products/livro-laravel-php",
   "type": "livro",
   "tags": [
-    "livro",
-    "ebook"
+    "livro"
   ],
+  "paid" : true,
   "author": {
     "name": "Rodrigo Turini",
     "url": "https://github.com/Turini"
