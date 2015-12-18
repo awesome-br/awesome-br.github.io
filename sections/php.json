@@ -94,5 +94,19 @@
       "name": "Robson V. Leite",
       "url": "https://www.upinside.com.br/"
     }
+  },
+    {
+    "name": "Work Series - PHP Orientado a Objetos!",
+    "url": "http://www.webtp.com.br/curso_work_series_php_orientado_a_objetos",
+    "type": "curso",
+    "tags": [
+      "PHP",
+      "PHPOO"
+    ],
+    "paid": true,
+    "author": {
+      "name": "Robson V. Leite",
+      "url": "https://www.upinside.com.br/"
+    }
   }
 ]
