@@ -1,0 +1,39 @@
+/*
+* Build Task para Visual Studio Code
+* 
+*/
+{
+	"version": "0.1.0",
+	"isShellCommand": true,
+	"showOutput": "silent",
+	
+	//SOs
+	"linux": {
+		"command": "sh",
+		"args": [
+			"-c"
+		]
+	},
+	"osx": {
+		"command": "sh",
+		"args": [
+			"-c"
+		]
+	},
+	"windows": {
+		"command": "powershell",
+		"args": [
+			"-Command"
+		]
+	},
+	"tasks": [
+		{
+			"taskName": "Open With live-server",
+			"suppressTaskName": true,
+			"isBuildCommand": true,
+			"args": [
+				"live-server" //--open=public_html
+			]
+		}
+	]
+}
