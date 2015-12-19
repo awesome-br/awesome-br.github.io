@@ -17,6 +17,7 @@
     "livro",
     "ebook"
   ],
+  "paid" : true,
   "author": {
     "name": "Vinícius Baggio Fuentes",
     "url": "http://vinibaggio.net/"

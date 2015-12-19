@@ -17,6 +17,7 @@
     "livro",
     "ebook"
   ],
+  "paid" : true,
   "author": {
     "name": "Lucas Souza",
     "url": "https://github.com/lucasas"

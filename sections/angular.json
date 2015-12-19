@@ -6,6 +6,7 @@
       "introdução",
       "ebook"
     ],
+    "paid" : true,
     "author": {
       "name": "Daniel Pace Schmitz",
       "url": "https://leanpub.com/u/danielschmitz"

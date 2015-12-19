@@ -38,6 +38,7 @@
     "livro",
     "ebook"
   ],
+  "paid" : true,
   "author": {
     "name": "Caio Ribeiro Pereira",
     "url": "http://crpwebdev.com/"
