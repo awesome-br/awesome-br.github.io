@@ -14,6 +14,11 @@
   "type": "Editor",
   "tags": []
 }, {
+  "name": "Backbone",
+  "url": "#/backbone",
+  "type": "Framework Javascript",
+  "tags": []
+}, {
   "name": "CSS",
   "url": "#/css",
   "type": "Folha de Estilo",
