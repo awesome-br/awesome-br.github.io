@@ -108,5 +108,18 @@
       "name": "Robson V. Leite",
       "url": "https://www.upinside.com.br/"
     }
+  },
+   {
+    "name": "BLINDE SUA APLICAÇÃO WEB PHP",
+    "url": "http://www.azorweb.blogspot.com.br/2014/12/blinde-sua-aplicacao-web-php-com-estas.html",
+    "type": "artigo",
+    "tags": [
+      "php",
+      "segurança"
+    ],
+    "author": {
+      "name": "Fabrício Azor",
+      "url": "http://www.azorweb.blogspot.com.br/"
+    }
   }
 ]
