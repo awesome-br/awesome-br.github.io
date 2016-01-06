@@ -1,4 +1,5 @@
-[{
+[
+{
   "name": "Color Hunt: Conjunto de Paleta de Cores",
   "url": "http://colorhunt.co/",
   "type": "site",
@@ -9,6 +10,78 @@
   "author": {
     "name": "Color Hunt",
     "url": "http://colorhunt.co/"
+  }
+},{
+  "name": "Guia sobre Tipografia #1 – Escolhendo a fonte certa",
+  "url": "http://chiefofdesign.com.br/guia-tipografia-parte-01/",
+  "type": "guia",
+  "tags": [
+    "design",
+    "tipografia"
+  ],
+  "author": {
+    "name": "Chief of Design",
+    "url": "http://chiefofdesign.com.br"
+  }
+},{
+  "name": "Guia sobre Tipografia #1 – Escolhendo a fonte certa",
+  "url": "http://chiefofdesign.com.br/guia-tipografia-parte-01/",
+  "type": "guia",
+  "tags": [
+    "design",
+    "tipografia"
+  ],
+  "author": {
+    "name": "Chief of Design",
+    "url": "http://chiefofdesign.com.br"
+  }
+},{
+  "name": "Guia sobre Tipografia #2 – Escolhendo a fonte certa",
+  "url": "http://chiefofdesign.com.br/guia-tipografia-parte-02/",
+  "type": "guia",
+  "tags": [
+    "design",
+    "tipografia"
+  ],
+  "author": {
+    "name": "Chief of Design",
+    "url": "http://chiefofdesign.com.br"
+  }
+},{
+  "name": "Guia sobre Tipografia #3 – Escolhendo a fonte certa",
+  "url": "http://chiefofdesign.com.br/guia-tipografia-parte-03/",
+  "type": "guia",
+  "tags": [
+    "design",
+    "tipografia"
+  ],
+  "author": {
+    "name": "Chief of Design",
+    "url": "http://chiefofdesign.com.br"
+  }
+},{
+  "name": "Banco de Imagens. Você tem o seu?",
+  "url": "http://www.designculture.com.br/banco-de-imagens-voce-tem-o-seu/",
+  "type": "site",
+  "tags": [
+    "design",
+    "images",
+    "photos"
+  ],
+  "author": {
+    "name": "Design Culture",
+    "url": "http://www.designculture.com.br"
+  }
+},{
+  "name": "50 Recursos essenciais para Designers!",
+  "url": "http://blog.wedologos.com.br/freelancer-50-recursos-essenciais-para-designers/",
+  "type": "dica",
+  "tags": [
+    "ferramentas"
+  ],
+  "author": {
+    "name": "Wedologos",
+    "url": "blog.wedologos.com.br"
   }
 },
 ]
