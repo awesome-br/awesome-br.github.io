@@ -1,4 +1,18 @@
 [{
+  "name": "Curso SASS",
+  "url": "https://www.youtube.com/watch?v=t-miMAgiRlw&list=PLXFk6ROPeWoCZsq7hk7jJIUFMpLqkPqZv",
+  "type": "video",
+  "tags": [
+    "sass",
+    "video",
+    "youtube",
+    "curso"
+  ],
+  "author": {
+    "name": "Zeu Cxb",
+    "url": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA"
+  }
+}, {
   "name": "O que é SASS",
   "url": "http://tableless.com.br/sass-um-outro-metodo-de-escrever-css/",
   "type": "artigo",
