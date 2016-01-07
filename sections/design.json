@@ -83,5 +83,50 @@
     "name": "Wedologos",
     "url": "blog.wedologos.com.br"
   }
+},{
+  "name": "17 Sites que todo Designer precisa conhecer",
+  "url": "http://www.designculture.com.br/17-sites-que-todo-designer-precisa-conhecer/",
+  "type": "dica",
+  "tags": [
+    "dicas",
+    "sites"
+  ],
+  "author": {
+    "name": "Design Culture",
+    "url": "http://www.designculture.com.br/"
+  }
+},{
+  "name": "Embrace Minimalism – 3-Tone Icon Examples",
+  "url": "http://designmodo.com/three-tone-icons/",
+  "type": "dica",
+  "tags": [
+    "ícones"
+  ],
+  "author": {
+    "name": "Design Modo",
+    "url": "http://designmodo.com/"
+  }
+},{
+  "name": "15 Blogs sobre Design para Ler e Aprender",
+  "url": "http://chiefofdesign.com.br/15-melhores-blogs-sobre-design/",
+  "type": "artigo",
+  "tags": [
+    "blogs"
+  ],
+  "author": {
+    "name": "Chief of Design",
+    "url": "http://chiefofdesign.com.br/"
+  }
+},{
+  "name": "10 ferramentas úteis para design na web",
+  "url": "http://imasters.com.br/design-ux/10-ferramentas-uteis-para-design-na-web/?trace=1519021197&source=home",
+  "type": "dica",
+  "tags": [
+    "ferramentas"
+  ],
+  "author": {
+    "name": "Imasters",
+    "url": "http://imasters.com.br/"
+  }
 }
 ]
