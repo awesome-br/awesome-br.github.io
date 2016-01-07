@@ -1,20 +1,125 @@
-[{
-  "name": "Documentação oficial em português",
-  "url": "http://php.net/manual/pt_BR/",
-  "type": "Url",
-  "tags": [
-    "documentação"
-  ]
-}, {
-  "name": "7 funções essenciais do PHP que você deve conhecer",
-  "url": "http://tableless.com.br/7-funcoes-essenciais-php-que-voce-deve-conhecer/",
-  "type": "artigo",
-  "tags": [
-    "funções",
-    "api"
-  ],
-  "author": {
-    "name": "ADRIANO DOS SANTOS JÚNIOR",
-    "url": "http://www.adrianojr.com/"
+[
+  {
+    "name": "Documentação oficial em português",
+    "url": "http://php.net/manual/pt_BR/",
+    "type": "url",
+    "tags": [
+      "documentação"
+    ]
+  },
+  {
+    "name": "7 funções essenciais do PHP que você deve conhecer",
+    "url": "http://tableless.com.br/7-funcoes-essenciais-php-que-voce-deve-conhecer/",
+    "type": "artigo",
+    "tags": [
+      "funções",
+      "api"
+    ],
+    "author": {
+      "name": "ADRIANO DOS SANTOS JÚNIOR",
+      "url": "http://www.adrianojr.com/"
+    }
+  },
+  {
+    "name": "PHP: Do Jeito Certo",
+    "url": "http://br.phptherightway.com/",
+    "type": "url",
+    "tags": [
+      "documentação",
+      "referência"
+    ]
+  },
+  {
+    "name": "10 NOVIDADES DO PHP 7",
+    "url": "http://www.profissionaisti.com.br/2015/09/10-novidades-do-php-7/",
+    "type": "artigo",
+    "tags": [
+      "php",
+      "php7"
+    ],
+    "author": {
+      "name": "ROBERTO BERALDO",
+      "url": "http://www.profissionaisti.com.br/"
+    }
+  },
+  {
+    "name": "Desenvolvimento Web com PHP e Mysql",
+    "url": "http://www.casadocodigo.com.br/products/livro-php-mysql",
+    "type": "livro",
+    "tags": [
+      "livro",
+      "ebook"
+    ],
+    "paid" : true,
+    "author": {
+      "name": "Evaldo Júnio Bento",
+      "url": "http://blog.evaldojunior.com.br/"
+    }
+  },
+  {
+    "name": "Curso de PHP para Iniciantes",
+    "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k",
+    "type": "curso",
+    "tags": [
+      "video",
+      "gratis"
+    ],
+    "author": {
+      "name": "Gustavo Guanabara",
+      "url": "http://www.cursoemvideo.com/"
+    }
+  },
+  {
+    "name": "Certificação PHP (ZCPE)",
+    "url": "https://www.youtube.com/playlist?list=PLt3tq0MBSMpkDwdzAdeMt7qLXLZyPkwbU",
+    "type": "curso",
+    "tags": [
+      "video",
+      "gratis"
+    ],
+    "author": {
+      "name": "Code.education",
+      "url": "http://sites.code.education/home-code/"
+    }
+  },
+  {
+    "name": "Curso Portal Imobiliário com PHP",
+    "url": "https://www.youtube.com/playlist?list=PLi_gvjv-JgXohJ-LrDsqI0OGp1qBjLuOn",
+    "type": "curso",
+    "tags": [
+      "video",
+      "gratis"
+    ],
+    "author": {
+      "name": "Robson V. Leite",
+      "url": "https://www.upinside.com.br/"
+    }
+  },
+    {
+    "name": "Work Series - PHP Orientado a Objetos!",
+    "url": "http://www.webtp.com.br/curso_work_series_php_orientado_a_objetos",
+    "type": "curso",
+    "tags": [
+      "PHP",
+      "PHPOO"
+    ],
+    "paid": true,
+    "author": {
+      "name": "Robson V. Leite",
+      "url": "https://www.upinside.com.br/"
+    }
+  },
+   {
+    "name": "BLINDE SUA APLICAÇÃO WEB PHP",
+    "url": "http://www.azorweb.blogspot.com.br/2014/12/blinde-sua-aplicacao-web-php-com-estas.html",
+    "type": "artigo",
+    "tags": [
+      "php",
+      "segurança"
+    ],
+    "author": {
+      "name": "Fabrício Azor",
+      "url": "http://www.azorweb.blogspot.com.br/"
+    }
   }
-}]
+]

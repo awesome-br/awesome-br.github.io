@@ -1,6 +1,14 @@
 (function() {
+
+  // jQuery commands
+  $(function () {
+    if ( $(window).width() > 768 ) {
+      $('[data-toggle="tooltip"]').tooltip();
+    };
+  });
+
   var app = angular.module('awesome', ['iso.directives', 'ngRoute']);
-  
+
   /**
    * widget class directive
    */
@@ -15,9 +23,47 @@
     };
   });
 
- /**
-  * loop-itens directive
-  */
+  /**
+   * Evaluates if only free content can be displayed
+   */
+  app.filter('filterPaidContent', [function () {
+    return function( items, onlyFree) {
+      var filtered = [];
+      if(onlyFree) {
+        angular.forEach(items, function(item) {
+          if(item.paid == false || item.paid == undefined) {
+            filtered.push(item);
+          }
+        });
+      } else {
+        filtered = items;
+      }
+
+      return filtered;
+    };
+  }]);
+
+  /**
+   * target attribute directive
+   */
+  app.directive("targeter", function() {
+    return {
+      restrict: 'A',
+      link: function(scope, element, attrs) {
+        var href = scope.item.url;
+        if (!href.match(/^#\//)) {
+          element.attr("target", "_blank");
+        } else {
+          element.attr("target", "_self");
+        }
+      }
+    };
+  });
+
+
+  /**
+   * loop-itens directive
+   */
   app.directive('loopItens', function() {
     return {
       restrict: 'E',
@@ -54,12 +100,18 @@
       require: '^planceholder',
       scope: {
         planceholder: '=',
-        query: '='
+        query: '=',
+        types: '=',
+        tags: '='
       },
       controller: ['$scope', function($scope) {
         $scope.clearFilter = function() {
           $scope.query = '';
-        }
+        };
+
+        $scope.setFilter = function(_value) {
+          $scope.query = _value;
+        };
       }]
     };
   });
@@ -82,17 +134,24 @@
   /**
    * Run (events)
    */
-  app.run(['$rootScope', function($rootScope) {
+  app.run(['$window', '$location', '$rootScope', function($window, $location, $rootScope) {
     $rootScope.$on('$routeChangeSuccess', function(scope, data) {
       $rootScope.currentController = data.controller;
     });
+
+    var track = function() {
+        $window.ga('send', 'pageview', {
+            page: $location.path()
+        });
+    };
+    $rootScope.$on('$viewContentLoaded', track);
   }]);
 
   /**
    * Main Controller
    */
-  app.controller('mainController', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
-
+  app.controller('mainController', ['$rootScope', '$http', '$timeout', function($rootScope, $http, $timeout) {
+    $rootScope.onlyFree = false;
   }]);
 
   /**
@@ -104,14 +163,20 @@
         .then(function(_response) {
           $scope.itens = _response.data;
           $scope.spinner = false;
+
+          $scope.types = _.chain(_response.data)
+                          .pluck('type')
+                          .uniq()
+                          .value();
         });
     };
 
     $scope.itens = [];
+    $scope.types = [];
     $scope.spinner = true;
 
     init();
-  }])
+  }]);
 
   /**
    * Section Controller
@@ -124,12 +189,26 @@
         .then(function(_response) {
           $scope.itens = _response.data;
           $scope.spinner = false;
+
+          $scope.tags = _.chain(_response.data)
+                          .pluck('tags')
+                          .flatten()
+                          .uniq()
+                          .value();
+
+          $scope.types = _.chain(_response.data)
+                          .pluck('type')
+                          .uniq()
+                          .value();
         });
     };
 
     $scope.itens = [];
+    $scope.tags = [];
+    $scope.types = [];
     $scope.spinner = true;
 
     init();
+
   }]);
 })();

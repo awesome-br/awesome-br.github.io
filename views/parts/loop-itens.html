@@ -1,17 +1,20 @@
 <div class="row" ng-show="filteredItens.length" isotope-container="isotope-container">
-  <div class="col-md-4"
-        ng-repeat="item in filteredItens = (itens | filter:query)"
+  <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3"
+        ng-repeat="item in filteredItens = (itens | filter:query | filterPaidContent:$root.onlyFree | orderBy:'name' )"
         isotope-item="isotope-item">
     <div class="widget">
+      <i class="pull-right" ng-class="{'fa fa-shopping-cart fa-lg': item.paid == true}"></i>
       <a class="label label-default"
           title="Clique para filtrar"
           ng-click="setFilter(item.type)">
         {{ item.type }}
-    </a>
+      </a>
       <!-- /.label -->
-      <a href="{{ item.url }}" target="_blank " class="title">{{ item.name }}</a>
+      <a href="{{ item.url }}" class="title" targeter>
+        {{ item.name }}
+      </a>
       <footer>
-        <a class="label label-warning"
+        <a class="label label-warning pull-left"
             title="Clique para filtrar"
             ng-click="setFilter(tag)"
             ng-repeat="tag in item.tags">

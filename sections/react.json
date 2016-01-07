@@ -16,4 +16,32 @@
     "name": "Macgyver Martins",
     "url": "http://macgyvermartins.com.br/"
   }
+}, {
+  "name": "Começando com React",
+  "url": "http://willianjusten.com.br/comecando-com-react/",
+  "type": "tutorial",
+  "tags": ["introdução", "tutorial"],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+}, {
+  "name": "React e Flux: uma nova abordagem pra aplicações de alto desempenho",
+  "url": "http://www.infoq.com/br/presentations/react-e-flux",
+  "type": "palestra",
+  "tags": ["introdução", "palestra"],
+  "author": {
+    "name": "Cássio Zen",
+    "url": "https://github.com/cassiozen"
+  }
+}, {
+  "name": "React: Guia do iniciante",
+  "url": "https://leanpub.com/react-guia-do-iniciate",
+  "type": "livro",
+  "tags": ["introdução", "livro", "básico"],
+  "paid" : true,
+  "author": {
+    "name": "Daniel Schmitz",
+    "url": "https://leanpub.com/u/danielschmitz"
+  }
 }]

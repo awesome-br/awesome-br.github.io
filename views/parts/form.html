@@ -1,9 +1,45 @@
 <form class="col-md-12" id="form-filter">
 
   <div class="form-group has-feedback">
-    <input type="search" ng-model="query" class="form-control input-lg" placeholder="{{ planceholder }}">
+    <div ng-class="{'input-group': (tags.length > 0 || types.length > 0), 'has-tags': tags.length > 0, 'has-types': types.length >0}">
+      <span ng-show="tags.length > 0"
+            class="input-group-addon"
+            data-toggle="tooltip"
+            data-placement="bottom"
+            title="Exibir apenas conteúdo grátis?">
+        <input type="checkbox" ng-model="$root.onlyFree"> Free?
+      </span>
+      <input type="search" ng-model="query" class="form-control input-lg" placeholder="{{ planceholder }}">
+      <span ng-show="query"
+            ng-click="clearFilter()"
+            class="clear-filter form-control-feedback">Limpar</span>
 
-    <span ng-show="query" ng-click="clearFilter()" class="clear-filter form-control-feedback">Limpar</span>
+      <div class="input-group-btn" ng-if="tags.length > 0">
+        <button type="button"
+                class="btn btn-default dropdown-toggle btn-lg"
+                ng-class="{'no-radius': types.length > 0}"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false">Tags <span class="caret"></span></button>
+
+        <ul class="dropdown-menu dropdown-menu-right">
+          <li ng-repeat="tag in tags" ng-click="setFilter(tag)"><a href="javascript:;">{{ tag }}</a></li>
+        </ul>
+      </div>
+
+      <div class="input-group-btn" ng-if="types.length > 0">
+        <button type="button"
+                class="btn btn-default dropdown-toggle btn-lg "
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false">Tipos <span class="caret"></span></button>
+
+        <ul class="dropdown-menu dropdown-menu-right">
+          <li ng-repeat="type in types" ng-click="setFilter(type)"><a href="javascript:;">{{ type }}</a></li>
+        </ul>
+      </div>
+
+    </div>
   </div>
 
 </form>

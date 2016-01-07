@@ -9,4 +9,17 @@
     "name": "João Almeida",
     "url": "http://twitter.com/joaorsalmeida"
   }
+}, {
+  "name": "Ruby on Rails coloque sua aplicação web nos trilhos",
+  "url": "http://www.casadocodigo.com.br/products/livro-ruby-on-rails",
+  "type": "livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "paid" : true,
+  "author": {
+    "name": "Vinícius Baggio Fuentes",
+    "url": "http://vinibaggio.net/"
+  }
 }]

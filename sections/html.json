@@ -32,4 +32,28 @@
     "name": "W3C",
     "url": "http://www.w3.org/"
   }
+}, {
+  "name": "Entendendo quais APIs (realmente) fazem parte do HTML5",
+  "url": "http://tableless.com.br/entendendo-quais-apis-realmente-fazem-parte-do-html5/",
+  "type": "artigo",
+  "tags": [
+    "html5", "css", "javascript", "api"
+  ],
+  "author": {
+    "name": "Tatita Pagani",
+    "url": "http://tableless.com.br/"
+  }
+}, {
+  "name": "HTML5 e CSS3 Domine a web do futuro",
+  "url": "http://www.casadocodigo.com.br/products/livro-html-css",
+  "type": "livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "paid" : true,
+  "author": {
+    "name": "Lucas Mazza",
+    "url": "https://github.com/lucasmazza"
+  }
 }]

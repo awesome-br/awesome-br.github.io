@@ -1,0 +1,110 @@
+[{
+  "name": "Criando Pacotes em GO ",
+  "url": "http://kirk.svbtle.com/iniciando-com-go-criando-pacotes",
+  "type": "tutorial",
+  "tags": [
+    "iniciante",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Paulo Pires",
+    "url": "https://github.com/paulohp"
+  }
+}, {
+  "name": "Usando MongoDB com mgo",
+  "url": "http://kirk.svbtle.com/mongodb-com-go-usando-mgo",
+  "type": "tutorial",
+  "tags": [
+    "iniciante",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Paulo Pires",
+    "url": "https://github.com/paulohp"
+  }
+}, {
+  "name": "Go - Ambiente de Desenvolvimento",
+  "url": "http://info.viniciusfeitosa.com.br/post/85532169619/golang-ambiente-de-desenvolvimento",
+  "type": "tutorial",
+  "tags": [
+    "iniciante",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Vinicius Feitosa",
+    "url": "https://github.com/viniciusfeitosa"
+  }
+}, {
+  "name": "Programando em Go",
+  "url": "http://www.casadocodigo.com.br/products/livro-google-go",
+  "type": "livro",
+  "tags": [
+    "iniciante",
+    "livro",
+    "ebook"
+  ],
+  "paid" : true,
+  "author": {
+    "name": "Caio Filipini",
+    "url": "https://github.com/caiofilipini"
+  }
+}, {
+  "name": "Aulas de Go para iniciantes",
+  "url": "https://www.youtube.com/playlist?list=PLIXNPsQriECyssu-LWgXNYsusLpTWAwMT",
+  "type": "video",
+  "tags": [
+    "iniciante",
+    "youtube",
+    "screencast"
+  ],
+  "author": {
+    "name": "Renato Suero",
+    "url": "http://github.com/renatosuero"
+  }
+}, {
+  "name": "Instalar GO com GVM no Ubuntu",
+  "url": "https://medium.com/go-serie-iniciantes/instalando-go-com-gvm-ubuntu-12-04-6e7ea06b540d",
+  "type": "tutorial",
+  "tags": [
+    "iniciante",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Linux Pro",
+    "url": "https://www.youtube.com/channel/UCI2P6hkkBUkYiWPQhFU-rqg"
+  }
+}, {
+  "name": "Um passeio por Go",
+  "url": "http://go-tour-br.appspot.com/",
+  "type": "tutorial",
+  "tags": [
+    "introdução"
+  ],
+  "author": {
+    "name": "Daniel Gomes Vargas",
+    "url": "https://github.com/dgv"
+  }
+}, {
+  "name": "Go por Exemplo",
+  "url": "http://goporexemplo.golangbr.org/",
+  "type": "tutorial",
+  "tags": [
+    "introdução",
+    "exemplo"
+  ],
+  "author": {
+    "name": "Golang Brasil",
+    "url": "https://github.com/golangbr"
+  }
+}, {
+  "name": "Go a Revolução",
+  "url": "http://tutorial.danielmazza.info/go",
+  "type": "tutorial",
+  "tags": [
+    "tutorial"
+  ],
+  "author": {
+    "name": "Daniel Mazza",
+    "url": "http://danielmazza.info"
+  }
+}]

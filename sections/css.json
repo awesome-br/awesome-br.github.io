@@ -1,4 +1,18 @@
 [{
+  "name": "Curso SASS",
+  "url": "https://www.youtube.com/watch?v=t-miMAgiRlw&list=PLXFk6ROPeWoCZsq7hk7jJIUFMpLqkPqZv",
+  "type": "video",
+  "tags": [
+    "sass",
+    "video",
+    "youtube",
+    "curso"
+  ],
+  "author": {
+    "name": "Zeu Cxb",
+    "url": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA"
+  }
+}, {
   "name": "O que é SASS",
   "url": "http://tableless.com.br/sass-um-outro-metodo-de-escrever-css/",
   "type": "artigo",
@@ -45,28 +59,6 @@
     "url": "http://www.w3.org/"
   }
 }, {
-  "name": "O que é SASS",
-  "url": "http://tableless.com.br/sass-um-outro-metodo-de-escrever-css/",
-  "type": "artigo",
-  "tags": [
-    "sass"
-  ],
-  "author": {
-    "name": "Thaiana Poplade",
-    "url": "http://about.me/thaianapoplade"
-  }
-}, {
-  "name": "WebPlataform - Your Web, Documented",
-  "url": "http://www.webplatform.org/",
-  "type": "dica",
-  "tags": [
-    "html", "css", "javascript"
-  ],
-  "author": {
-    "name": "W3C",
-    "url": "http://www.w3.org/"
-  }
-}, {
   "name": "Arquitetura CSS usando Smacss e OOCSS",
   "url": "http://imasters.com.br/front-end/css/arquitetura-css-usando-smacss-e-oocss-2/",
   "type": "artigo",
@@ -80,7 +72,7 @@
 }, {
   "name": "CSS Guide Lines",
   "url": "http://cssguidelin.es/",
-  "type": "dicas",
+  "type": "dica",
   "tags": [
     "css"
   ],
@@ -104,7 +96,7 @@
   "url": "http://tableless.com.br/material-design-com-materialize/",
   "type": "tutorial",
   "tags": [
-    "css", "framwork"
+    "css", "framework"
   ],
   "author": {
     "name": "Tiago Luiz",
@@ -174,5 +166,210 @@
     "name": "Willian Justen",
     "url": "http://willianjusten.com.br/"
   }
-}
-]
+}, {
+  "name": "Desenvolvendo com Bootstrap 3: um framework front-end que vale a pena!",
+  "url": "http://thiagonasc.com/desenvolvimento-web/desenvolvendo-com-bootstrap-3-um-framework-front-end-que-vale-a-pena",
+  "type": "artigo",
+  "tags": [
+    "bootstrap",
+    "css",
+    "dicas",
+    "html"
+  ],
+  "author": {
+    "name": "Thiago Nascimento",
+    "url": "http://thiagonasc.com/"
+  }
+}, {
+  "name": "Usando pré-processadores CSS com inteligência",
+  "url": "http://eduardomatos.me/usando-pre-processadores-com-inteligencia/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "sass",
+    "oocss",
+    "dicas"
+  ],
+  "author": {
+    "name": "Eduardo Matos",
+    "url": "http://eduardomatos.me/"
+  }
+}, {
+  "name": "Por que usar Stylus?",
+  "url": "http://nomadev.com.br/por-que-usar-stylus/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "stylus",
+    "preprocessor",
+    "dicas"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento",
+    "url": "http://nomadev.com.br"
+  }
+}, {
+  "name": "Escrevendo CSS com Stylus",
+  "url": "http://blog.da2k.com.br/2015/02/15/escrevendo-css-com-stylus/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "stylus",
+    "preprocessor",
+    "dicas"
+  ],
+  "author": {
+    "name": "Fernando Daciuk",
+    "url": "http://blog.da2k.com.br"
+  }
+}, {
+  "name": "Padrões para códigos HTML e CSS flexíveis e sustentáveis.",
+  "url": "http://diegoeis.github.io/code-guide/",
+  "type": "tutorial",
+  "tags": [
+    "dicas"
+  ],
+  "author": {
+    "name": "Mark Otto",
+    "url": "http://markdotto.com/"
+  }
+}, {
+  "name": "Como usar variáveis no CSS de forma nativa.",
+  "url": "http://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "dicas"
+  ],
+  "author": {
+    "name": "Afonso Pacifer",
+    "url": "http://afonsopacifer.com/"
+  }
+}, {
+  "name": "Arquitetura CSS.",
+  "url": "https://speakerdeck.com/rafaelrinaldi/arquitetura-css",
+  "type": "slide",
+  "tags": [
+    "arquitetura",
+    "css",
+    "dicas",
+    "técnicas"
+  ],
+  "author": {
+    "name": "Rafael Rinaldi",
+    "url": "http://rinaldi.io/"
+  }
+}, {
+  "name": "CSS Scroll Snap Points",
+  "url": "http://www.raphaelfabeni.com.br/css-scroll-snap-points/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "dicas",
+    "scroll",
+    "técnicas"
+  ],
+  "author": {
+    "name": "Raphael Fabeni",
+    "url": "http://www.raphaelfabeni.com.br"
+  }
+}, {
+  "name": "Seu CSS é bom ou ruim?",
+  "url": "http://edsonjunior.com/css-bom-ruim/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "dicas",
+    "técnicas"
+  ],
+  "author": {
+    "name": "Edson S. Junior",
+    "url": "http://edsonjunior.com"
+  }
+}, {
+  "name": "Entendendo float, clear e clearfix de uma vez por todas",
+  "url": "http://edsonjunior.com/entendendo-float-clear-clearfix/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "dicas",
+    "técnicas"
+  ],
+  "author": {
+    "name": "Edson S. Junior",
+    "url": "http://edsonjunior.com"
+  }
+}, {
+  "name": "Primeiros passos com Sass Pt.1",
+  "url": "https://www.youtube.com/watch?v=z1nCtknvX1c",
+  "type": "vídeo",
+  "tags": [
+    "css",
+    "sass"
+  ],
+  "author": {
+    "name": "Ferreira Studio",
+    "url": "https://www.youtube.com/channel/UCztMwfGqsnPeGat7Np-bFKg"
+  }
+}, {
+  "name": "Primeiros passos com Sass Pt.2",
+  "url": "https://www.youtube.com/watch?v=FkRjz42oERA",
+  "type": "vídeo",
+  "tags": [
+    "css",
+    "sass"
+  ],
+  "author": {
+    "name": "Ferreira Studio",
+    "url": "https://www.youtube.com/channel/UCztMwfGqsnPeGat7Np-bFKg"
+  }
+}, {
+  "name": "Criando um Switch Button com CSS",
+  "url": "http://willianjusten.com.br/criando-um-switch-button-com-css/",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "dicas"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+}, {
+  "name": "Aprenda Flexbox jogando",
+  "url": "http://flexboxfroggy.com/#pt-br",
+  "type": "tutorial",
+  "tags": [
+    "css",
+    "flexbox"
+  ],
+  "author": {
+    "name": "Thomas Spark",
+    "url": "http://thomaspark.co/"
+  }
+}, {
+  "name": "Como funciona o seletor :nth-something()",
+  "url": "https://medium.com/@filipelinhares/como-funciona-o-seletor-nth-c6e5cf806283#.k985vyffn",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "nth-child()"
+  ],
+  "author": {
+    "name": "Filipe Linhares",
+    "url": "http://filipelinhares.com/"
+  }
+}, {
+  "name": "Bootstrap - Documentação em Português",
+  "url": "http://getbootstrap.com.br/",
+  "type": "documentação",
+  "tags": [
+    "bootstrap",
+    "css",
+    "documentação"
+  ],
+  "author": {
+    "name": "Comunidade Brasileira de Bootstrap",
+    "url": "https://github.com/bootstrapbrasil"
+  }
+}]

@@ -31,4 +31,64 @@
     "name": "Rodrigo Senra e outros",
     "url": "http://code.google.com/p/pydoc-br/source/browse/CREDITOS.txt"
   }
+}, {
+  "name": "Python Club",
+  "url": "http://pythonclub.com.br/",
+  "type": "url",
+  "tags": [
+    "artigos", "tutoriais", "dicas"
+  ]
+}, {
+  "name": "Curso de Python",
+  "url": "https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj",
+  "type": "curso",
+  "tags": [
+    "screencast", "playlist", "curso", "eXcript"
+  ]
+}, {
+  "name": "Python Birds: Aprendendo Orientação a Objetos com Jogos",
+  "url": "https://www.youtube.com/watch?v=KBFduoDm5FY",
+  "type": "palestra",
+  "tags": [
+    "palestra",
+    "vídeo"
+  ],
+  "author": {
+    "name": "Renzo Nuccitelli",
+    "url": "http://imasters.com.br/perfil/renzon/"
+  }
+}, {
+  "name": "Python Escreva seus primeiros programas",
+  "url": "http://www.casadocodigo.com.br/products/livro-python-3",
+  "type": "livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "paid" : true,
+  "author": {
+    "name": "Felipe Cruz",
+    "url": "https://github.com/felipecruz"
+  }
+}, {
+  "name": "Python + Tkinter",
+  "url": "https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE",
+  "type": "vídeo",
+  "tags": [
+    "screencast", "playlist", "curso", "eXcript"
+  ]
+}, {
+  "name": "Python para Zumbis",
+  "url": "https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc",
+  "type": "curso",
+  "tags": [
+    "screencast", "playlist", "curso", "básico"
+  ]
+}, {
+  "name": "Curso Python + Django",
+  "url": "https://osantana.me/curso-de-python-e-django/",
+  "type": "curso",
+  "tags": [
+    "playlist", "curso", "básico"
+  ]
 }]
