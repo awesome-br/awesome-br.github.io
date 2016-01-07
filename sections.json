@@ -34,6 +34,11 @@
   "type": "Virtualização",
   "tags": []
 }, {
+  "name": "Design",
+  "url": "#/design",
+  "type": "design",
+  "tags": []
+}, {
   "name": "Ember.JS",
   "url": "#/ember",
   "type": "Framework Javascript",
