@@ -258,4 +258,17 @@
     "name": "Richard Bovell",
     "url": "http://javascriptissexy.com/"
   }
+},
+{
+  "name": "Requisição AJAX com Javascript Puro",
+  "url": "http://www.lucaslimamuller.com.br/blog/requisicao-ajax-com-javascript-puro/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "ajax"
+  ],
+  "author": {
+    "name": "Lucas Lima Muller",
+    "url": "http://www.lucaslimamuller.com.br"
+  }
 }]
