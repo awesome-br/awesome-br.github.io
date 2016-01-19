@@ -153,4 +153,9 @@
   "url": "#/regex",
   "type": "Expressão regular",
   "tags": []
+}, {
+  "name": "WordPress",
+  "url": "#/wordpress",
+  "type": "CMS PHP",
+  "tags": []
 }]
