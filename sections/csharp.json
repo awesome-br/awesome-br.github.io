@@ -46,4 +46,16 @@
     "name": "Vinicius Mussak",
     "url": "http://viniciusmussak.net/"
   }
+}, {
+  "name": "Performance com manipulação de Strings",
+  "url": "http://viniciusmussak.net/2015/12/14/performance-manipulacao-string/",
+  "type": "artigo",
+  "tags": [
+    "string",
+    "C#"
+  ],
+  "author": {
+    "name": "Vinicius Mussak",
+    "url": "http://viniciusmussak.net/"
+  }
 }]
