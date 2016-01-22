@@ -30,7 +30,7 @@
     "livro",
     "ebook"
   ],
-  "paid" : true,
+  "paid": true,
   "author": {
     "name": "João Bosco Monteiro",
     "url": "https://github.com/joaobmonteiro"

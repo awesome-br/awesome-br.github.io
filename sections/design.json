@@ -1,5 +1,4 @@
-[
-{
+[{
   "name": "Color Hunt: Conjunto de Paleta de Cores",
   "url": "http://colorhunt.co/",
   "type": "site",
@@ -11,7 +10,7 @@
     "name": "Color Hunt",
     "url": "http://colorhunt.co/"
   }
-},{
+}, {
   "name": "Guia sobre Tipografia #1 – Escolhendo a fonte certa",
   "url": "http://chiefofdesign.com.br/guia-tipografia-parte-01/",
   "type": "guia",
@@ -23,7 +22,7 @@
     "name": "Chief of Design",
     "url": "http://chiefofdesign.com.br"
   }
-},{
+}, {
   "name": "Guia sobre Tipografia #1 – Escolhendo a fonte certa",
   "url": "http://chiefofdesign.com.br/guia-tipografia-parte-01/",
   "type": "guia",
@@ -35,7 +34,7 @@
     "name": "Chief of Design",
     "url": "http://chiefofdesign.com.br"
   }
-},{
+}, {
   "name": "Guia sobre Tipografia #2 – Escolhendo a fonte certa",
   "url": "http://chiefofdesign.com.br/guia-tipografia-parte-02/",
   "type": "guia",
@@ -47,7 +46,7 @@
     "name": "Chief of Design",
     "url": "http://chiefofdesign.com.br"
   }
-},{
+}, {
   "name": "Guia sobre Tipografia #3 – Escolhendo a fonte certa",
   "url": "http://chiefofdesign.com.br/guia-tipografia-parte-03/",
   "type": "guia",
@@ -59,7 +58,7 @@
     "name": "Chief of Design",
     "url": "http://chiefofdesign.com.br"
   }
-},{
+}, {
   "name": "Banco de Imagens. Você tem o seu?",
   "url": "http://www.designculture.com.br/banco-de-imagens-voce-tem-o-seu/",
   "type": "site",
@@ -72,7 +71,7 @@
     "name": "Design Culture",
     "url": "http://www.designculture.com.br"
   }
-},{
+}, {
   "name": "50 Recursos essenciais para Designers!",
   "url": "http://blog.wedologos.com.br/freelancer-50-recursos-essenciais-para-designers/",
   "type": "dica",
@@ -83,7 +82,7 @@
     "name": "Wedologos",
     "url": "blog.wedologos.com.br"
   }
-},{
+}, {
   "name": "17 Sites que todo Designer precisa conhecer",
   "url": "http://www.designculture.com.br/17-sites-que-todo-designer-precisa-conhecer/",
   "type": "dica",
@@ -95,7 +94,7 @@
     "name": "Design Culture",
     "url": "http://www.designculture.com.br/"
   }
-},{
+}, {
   "name": "Embrace Minimalism – 3-Tone Icon Examples",
   "url": "http://designmodo.com/three-tone-icons/",
   "type": "dica",
@@ -106,7 +105,7 @@
     "name": "Design Modo",
     "url": "http://designmodo.com/"
   }
-},{
+}, {
   "name": "15 Blogs sobre Design para Ler e Aprender",
   "url": "http://chiefofdesign.com.br/15-melhores-blogs-sobre-design/",
   "type": "artigo",
@@ -117,7 +116,7 @@
     "name": "Chief of Design",
     "url": "http://chiefofdesign.com.br/"
   }
-},{
+}, {
   "name": "10 ferramentas úteis para design na web",
   "url": "http://imasters.com.br/design-ux/10-ferramentas-uteis-para-design-na-web/?trace=1519021197&source=home",
   "type": "dica",
@@ -128,5 +127,4 @@
     "name": "Imasters",
     "url": "http://imasters.com.br/"
   }
-}
-]
+}]

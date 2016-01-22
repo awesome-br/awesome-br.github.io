@@ -11,7 +11,7 @@
     "livro",
     "ebook"
   ],
-  "paid" : true,
+  "paid": true,
   "author": {
     "name": "Daniel Romero",
     "url": "http://infoslack.com"

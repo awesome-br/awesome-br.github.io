@@ -8,25 +8,25 @@
       "beta",
       "youtube"
     ],
-    "paid" : false,
+    "paid": false,
     "author": {
       "name": "Zeu Cxb",
       "url": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA"
     }
   }, {
-      "name": "AngularJS na prática",
-      "url": "https://leanpub.com/livro-angularJS",
-      "type": "livro",
-      "tags": [
-        "introdução",
-        "ebook"
-      ],
-      "paid" : true,
-      "author": {
-        "name": "Daniel Pace Schmitz",
-        "url": "https://leanpub.com/u/danielschmitz"
-      }
-    }, {
+    "name": "AngularJS na prática",
+    "url": "https://leanpub.com/livro-angularJS",
+    "type": "livro",
+    "tags": [
+      "introdução",
+      "ebook"
+    ],
+    "paid": true,
+    "author": {
+      "name": "Daniel Pace Schmitz",
+      "url": "https://leanpub.com/u/danielschmitz"
+    }
+  }, {
     "name": "Criando uma aplicação simples com AngularJS",
     "url": "http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/",
     "type": "artigo",

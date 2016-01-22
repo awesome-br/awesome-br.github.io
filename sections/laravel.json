@@ -333,7 +333,7 @@
     "books",
     "angular"
   ],
-  "paid" : true,
+  "paid": true,
   "author": {
     "name": "Daniel Schmitz",
     "url": "https://github.com/danielschmitz"
@@ -801,7 +801,7 @@
   "tags": [
     "livro"
   ],
-  "paid" : true,
+  "paid": true,
   "author": {
     "name": "Rodrigo Turini",
     "url": "https://github.com/Turini"

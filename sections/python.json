@@ -65,7 +65,7 @@
     "livro",
     "ebook"
   ],
-  "paid" : true,
+  "paid": true,
   "author": {
     "name": "Felipe Cruz",
     "url": "https://github.com/felipecruz"

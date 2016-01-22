@@ -38,7 +38,7 @@
     "livro",
     "ebook"
   ],
-  "paid" : true,
+  "paid": true,
   "author": {
     "name": "Caio Ribeiro Pereira",
     "url": "http://crpwebdev.com/"
@@ -104,8 +104,7 @@
     "name": "William Bruno",
     "url": "http://wbruno.com.br/"
   }
-},
- {
+}, {
   "name": "Nodejs - Como usar o npm",
   "url": "http://nomadev.com.br/be-mean-node-js-como-usar-o-npm/",
   "type": "artigo",
@@ -117,8 +116,7 @@
     "name": "Jean Carlos Nascimento",
     "url": "http://nomadev.com.br"
   }
-},
-{
+}, {
   "name": "Nodejs - Como usar o módulo http",
   "url": "http://nomadev.com.br/be-mean-node-js-http/",
   "type": "artigo",
