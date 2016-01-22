@@ -117,4 +117,17 @@
     "name": "Jean Carlos Nascimento",
     "url": "http://nomadev.com.br"
   }
+},
+{
+  "name": "Nodejs - Como usar o módulo http",
+  "url": "http://nomadev.com.br/be-mean-node-js-http/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "http"
+  ],
+  "author": {
+    "name": "Jean Carlos Nascimento",
+    "url": "http://nomadev.com.br"
+  }
 }]
