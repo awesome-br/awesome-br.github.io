@@ -51,7 +51,7 @@
     "livro",
     "ebook"
   ],
-  "paid" : true,
+  "paid": true,
   "author": {
     "name": "Lucas Mazza",
     "url": "https://github.com/lucasmazza"

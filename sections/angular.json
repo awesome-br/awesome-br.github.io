@@ -1,4 +1,19 @@
 [{
+    "name": "Angular 2.0",
+    "url": "https://www.youtube.com/watch?v=HAtBLHOI52o",
+    "type": "video",
+    "tags": [
+      "introdução",
+      "video",
+      "beta",
+      "youtube"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Zeu Cxb",
+      "url": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA"
+    }
+  }, {
     "name": "AngularJS na prática",
     "url": "https://leanpub.com/livro-angularJS",
     "type": "livro",
@@ -6,7 +21,7 @@
       "introdução",
       "ebook"
     ],
-    "paid" : true,
+    "paid": true,
     "author": {
       "name": "Daniel Pace Schmitz",
       "url": "https://leanpub.com/u/danielschmitz"

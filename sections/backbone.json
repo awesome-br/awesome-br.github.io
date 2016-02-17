@@ -1,0 +1,77 @@
+[{
+  "name": "Série Backbone.js: Parte 1 - Introdução",
+  "url": "http://blog.fernandomantoan.com/serie-backbone-js-parte-1-introducao/",
+  "type": "artigo",
+  "tags": [
+    "serie",
+    "tutorial",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fernando Mantoan",
+    "url": "http://fernandomantoan.com/"
+  }
+}, {
+  "name": "Série Backbone.js: Parte 2 - View",
+  "url": "http://blog.fernandomantoan.com/serie-backbone-js-parte-2-view/",
+  "type": "artigo",
+  "tags": [
+    "serie",
+    "tutorial",
+    "view",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fernando Mantoan",
+    "url": "http://fernandomantoan.com/"
+  }
+}, {
+  "name": "Série Backbone.js: Parte 3 - Model",
+  "url": "http://blog.fernandomantoan.com/serie-backbone-js-parte-3-model/",
+  "type": "artigo",
+  "tags": [
+    "sarie",
+    "tutorial",
+    "model",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fernando Mantoan",
+    "url": "http://fernandomantoan.com/"
+  }
+}, {
+  "name": "Série Backbone.js: Parte 4 - Collection",
+  "url": "http://blog.fernandomantoan.com/serie-backbone-js-parte-4-collection/",
+  "type": "artigo",
+  "tags": [
+    "serie",
+    "tutorial",
+    "collection",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fernando Mantoan",
+    "url": "http://fernandomantoan.com/"
+  }
+}, {
+  "name": "Série Backbone.js: Parte 5 - Router, Histórico, Backbone.sync, Eventos e mais",
+  "url": "http://blog.fernandomantoan.com/serie-backbone-js-parte-5-router-historico-backbone-sync-eventos-e-mais/",
+  "type": "artigo",
+  "tags": [
+    "serie",
+    "tutorial",
+    "routes",
+    "history",
+    "events",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fernando Mantoan",
+    "url": "http://fernandomantoan.com/"
+  }
+}]

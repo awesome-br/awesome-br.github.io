@@ -14,6 +14,11 @@
   "type": "Editor",
   "tags": []
 }, {
+  "name": "Backbone",
+  "url": "#/backbone",
+  "type": "Framework Javascript",
+  "tags": []
+}, {
   "name": "CSS",
   "url": "#/css",
   "type": "Folha de Estilo",
@@ -27,6 +32,11 @@
   "name": "Docker",
   "url": "#/docker",
   "type": "Virtualização",
+  "tags": []
+}, {
+  "name": "Design",
+  "url": "#/design",
+  "type": "design",
   "tags": []
 }, {
   "name": "Ember.JS",
@@ -142,5 +152,10 @@
   "name": "Regex",
   "url": "#/regex",
   "type": "Expressão regular",
+  "tags": []
+}, {
+  "name": "WordPress",
+  "url": "#/wordpress",
+  "type": "CMS PHP",
   "tags": []
 }]

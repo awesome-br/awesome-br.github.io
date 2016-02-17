@@ -1,25 +1,25 @@
 [{
-    "name": "Certificado SSL free/grátis e rápido!",
-    "url": "https://www.youtube.com/watch?v=F_1dzQs5H1M",
-    "type": "screencast",
-    "tags": [
-        "ssl",
-        "security"
-    ],
-    "author": {
-        "name": "Leandro Henrique Reis",
-        "url": "https://github.com/emtudo"
-    }
+  "name": "Certificado SSL free/grátis e rápido!",
+  "url": "https://www.youtube.com/watch?v=F_1dzQs5H1M",
+  "type": "screencast",
+  "tags": [
+    "ssl",
+    "security"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
 }, {
-    "name": "Como adquirir e renovar Certificado SSL sem interação humana. [grátis].",
-    "url": "https://www.youtube.com/watch?v=HJFGWQKuiAs",
-    "type": "screencast",
-    "tags": [
-        "ssl",
-        "security"
-    ],
-    "author": {
-        "name": "Leandro Henrique Reis",
-        "url": "https://github.com/emtudo"
-    }
+  "name": "Como adquirir e renovar Certificado SSL sem interação humana. [grátis].",
+  "url": "https://www.youtube.com/watch?v=HJFGWQKuiAs",
+  "type": "screencast",
+  "tags": [
+    "ssl",
+    "security"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
 }]

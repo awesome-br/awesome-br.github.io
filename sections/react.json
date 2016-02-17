@@ -39,7 +39,7 @@
   "url": "https://leanpub.com/react-guia-do-iniciate",
   "type": "livro",
   "tags": ["introdução", "livro", "básico"],
-  "paid" : true,
+  "paid": true,
   "author": {
     "name": "Daniel Schmitz",
     "url": "https://leanpub.com/u/danielschmitz"

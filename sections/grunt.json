@@ -1,174 +1,160 @@
-[
-  {
-    "name": "Grunt: você deveria estar usando!",
-    "url": "http://tableless.com.br/grunt-voce-deveria-estar-usando/",
-    "type": "artigo",
-    "tags": [
-      "iniciante"
-    ],
-    "author": {
-      "name": "Vagner Santana",
-      "url": "http://vagnersantana.com/"
-    }
-  },
-  {
-    "name": "GruntJS – Por onde começar?",
-    "url": "http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/",
-    "type": "artigo",
-    "tags": [
-      "iniciante"
-    ],
-    "author": {
-      "name": "Fernando Daciuk",
-      "url": "https://www.twitter.com/fdaciuk"
-    }
-  },
-  {
-    "name": "Automação de tarefas com GruntJS",
-    "url": "https://youtu.be/4oWPK4pdQwQ?t=7m25s",
-    "type": "video",
-    "tags": [
-      "iniciante"
-    ],
-    "author": {
-      "name": "Rafael Lyra",
-      "url": "http://www.rafaellyra.com//"
-    }
-  },
-  {
-    "name": "Automação de pacotes com Grunt no Visual Studio 2015",
-    "url": "https://youtu.be/NiRjkxMxWAQ",
-    "type": "video",
-    "tags": [
-      "iniciante",
-      "Automação",
-      "Bower"
-    ],
-    "author": {
-      "name": "Andre Baltieri",
-      "url": "http://andrebaltieri.net/"
-    }
-  },
-  {
-    "name": "Automação de build de front-end com Grunt.js",
-    "url": "http://blog.caelum.com.br/automacao-de-build-de-front-end-com-grunt-js/",
-    "type": "artigo",
-    "tags": [
-      "iniciante",
-      "Automação",
-      "front-end"
-    ],
-    "author": {
-      "name": "Sérgio Lopes",
-      "url": "http://sergiolopes.org/"
-    }
-  },
-  {
-    "name": "Usando Grunt.js",
-    "url": "https://nandovieira.com.br/usando-gruntjs",
-    "type": "artigo",
-    "tags": [
-      "iniciante",
-      "Automação",
-      "node"
-    ],
-    "author": {
-      "name": "Nando Vieira",
-      "url": "https://nandovieira.com.br"
-    }
-  },
-  {
-    "name": "Otimize suas tarefas com o Grunt",
-    "url": "http://www.felipefialho.com/blog/2013/grunt-voce-deveria-estar-usando/#.VmsNIvkrLIU",
-    "type": "artigo",
-    "tags": [
-      "iniciante"
-    ],
-    "author": {
-      "name": "Felipe Fialho",
-      "url": "http://www.felipefialho.com/"
-    }
-  },
-  {
-    "name": "Grunt: Automatizando tarefas",
-    "url": "http://woliveiras.com.br/posts/grunt-automatizando-tarefas/",
-    "type": "artigo",
-    "tags": [
-      "iniciante"
-    ],
-    "author": {
-      "name": "William Oliveira",
-      "url": "http://woliveiras.com.br/"
-    }
-  },
-  {
-    "name": "Deploy do projeto com Grunt",
-    "url": "http://emalherbi.com/about/grunt/2015/08/10/grunt-deploy/",
-    "type": "artigo",
-    "tags": [
-      "iniciante",
-      "Deploy"
-    ],
-    "author": {
-      "name": "Eduardo Malherbi Martins",
-      "url": "http://emalherbi.com/"
-    }
-  },
-  {
-    "name": "Automatize tarefas e otimize o seu workflow",
-    "url": "http://blog.henriquesilver.io/javascript-e-jquery/grunt-js-automatize-tarefas-e-otimize-o-seu-workflow/",
-    "type": "artigo",
-    "tags": [
-      "Sass",
-      "Compass",
-      "Deploy"
-    ],
-    "author": {
-      "name": "Henrique Silvério",
-      "url": "http://henriquesilver.io/"
-    }
-  },
-  {
-    "name": "Designer, o grunt pode ajudar você",
-    "url": "http://helabs.com/blog/2014/11/07/designer-o-grunt-pode-ajudar-voce/",
-    "type": "artigo",
-    "tags": [
-      "Cssmin",
-      "Uglify",
-      "Sass",
-      "Imagemin"
-    ],
-    "author": {
-      "name": "Márcio Costa",
-      "url": "http://www.helabs.com.br/"
-    }
-  },
-  {
-    "name": "Automação com Grunt",
-    "url": "https://youtu.be/LnLywobBB5U",
-    "type": "video",
-    "tags": [
-      "Cssmin",
-      "Uglify",
-      "Sass",
-      "Imagemin"
-    ],
-    "author": {
-      "name": "Hugo Bessa",
-      "url": "https://www.hugobessa.com.br"
-    }
-  },
-  {
-    "name": "Tradução da documentação",
-    "url": "https://github.com/gruntbrasil/grunt-docs#grunt",
-    "type": "documentação",
-    "tags": [
-      "iniciante",
-      "Automação"
-    ],
-    "author": {
-      "name": "Comunidade Grunt Brasil",
-      "url": "https://github.com/gruntbrasil"
-    }
+[{
+  "name": "Grunt: você deveria estar usando!",
+  "url": "http://tableless.com.br/grunt-voce-deveria-estar-usando/",
+  "type": "artigo",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "Vagner Santana",
+    "url": "http://vagnersantana.com/"
   }
-]
+}, {
+  "name": "GruntJS – Por onde começar?",
+  "url": "http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/",
+  "type": "artigo",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "Fernando Daciuk",
+    "url": "https://www.twitter.com/fdaciuk"
+  }
+}, {
+  "name": "Automação de tarefas com GruntJS",
+  "url": "https://youtu.be/4oWPK4pdQwQ?t=7m25s",
+  "type": "video",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "Rafael Lyra",
+    "url": "http://www.rafaellyra.com//"
+  }
+}, {
+  "name": "Automação de pacotes com Grunt no Visual Studio 2015",
+  "url": "https://youtu.be/NiRjkxMxWAQ",
+  "type": "video",
+  "tags": [
+    "iniciante",
+    "Automação",
+    "Bower"
+  ],
+  "author": {
+    "name": "Andre Baltieri",
+    "url": "http://andrebaltieri.net/"
+  }
+}, {
+  "name": "Automação de build de front-end com Grunt.js",
+  "url": "http://blog.caelum.com.br/automacao-de-build-de-front-end-com-grunt-js/",
+  "type": "artigo",
+  "tags": [
+    "iniciante",
+    "Automação",
+    "front-end"
+  ],
+  "author": {
+    "name": "Sérgio Lopes",
+    "url": "http://sergiolopes.org/"
+  }
+}, {
+  "name": "Usando Grunt.js",
+  "url": "https://nandovieira.com.br/usando-gruntjs",
+  "type": "artigo",
+  "tags": [
+    "iniciante",
+    "Automação",
+    "node"
+  ],
+  "author": {
+    "name": "Nando Vieira",
+    "url": "https://nandovieira.com.br"
+  }
+}, {
+  "name": "Otimize suas tarefas com o Grunt",
+  "url": "http://www.felipefialho.com/blog/2013/grunt-voce-deveria-estar-usando/#.VmsNIvkrLIU",
+  "type": "artigo",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "Felipe Fialho",
+    "url": "http://www.felipefialho.com/"
+  }
+}, {
+  "name": "Grunt: Automatizando tarefas",
+  "url": "http://woliveiras.com.br/posts/grunt-automatizando-tarefas/",
+  "type": "artigo",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "William Oliveira",
+    "url": "http://woliveiras.com.br/"
+  }
+}, {
+  "name": "Deploy do projeto com Grunt",
+  "url": "http://emalherbi.com/about/grunt/2015/08/10/grunt-deploy/",
+  "type": "artigo",
+  "tags": [
+    "iniciante",
+    "Deploy"
+  ],
+  "author": {
+    "name": "Eduardo Malherbi Martins",
+    "url": "http://emalherbi.com/"
+  }
+}, {
+  "name": "Automatize tarefas e otimize o seu workflow",
+  "url": "http://blog.henriquesilver.io/javascript-e-jquery/grunt-js-automatize-tarefas-e-otimize-o-seu-workflow/",
+  "type": "artigo",
+  "tags": [
+    "Sass",
+    "Compass",
+    "Deploy"
+  ],
+  "author": {
+    "name": "Henrique Silvério",
+    "url": "http://henriquesilver.io/"
+  }
+}, {
+  "name": "Designer, o grunt pode ajudar você",
+  "url": "http://helabs.com/blog/2014/11/07/designer-o-grunt-pode-ajudar-voce/",
+  "type": "artigo",
+  "tags": [
+    "Cssmin",
+    "Uglify",
+    "Sass",
+    "Imagemin"
+  ],
+  "author": {
+    "name": "Márcio Costa",
+    "url": "http://www.helabs.com.br/"
+  }
+}, {
+  "name": "Automação com Grunt",
+  "url": "https://youtu.be/LnLywobBB5U",
+  "type": "video",
+  "tags": [
+    "Cssmin",
+    "Uglify",
+    "Sass",
+    "Imagemin"
+  ],
+  "author": {
+    "name": "Hugo Bessa",
+    "url": "https://www.hugobessa.com.br"
+  }
+}, {
+  "name": "Tradução da documentação",
+  "url": "https://github.com/gruntbrasil/grunt-docs#grunt",
+  "type": "documentação",
+  "tags": [
+    "iniciante",
+    "Automação"
+  ],
+  "author": {
+    "name": "Comunidade Grunt Brasil",
+    "url": "https://github.com/gruntbrasil"
+  }
+}]
