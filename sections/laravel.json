@@ -847,4 +847,16 @@
     "name": "Giordano Lima",
     "url": "https://github.com/giordanolima"
   }
+}, {
+    "name": "Integração com o paypal",
+    "url": "https://packagist.org/packages/resultsystems/laravel-paypal",
+    "type": "pacote",
+    "tags": [
+        "laravel",
+        "package"
+    ],
+    "author": {
+        "name": "Leandro Henrique Reis",
+        "url": "https://github.com/emtudo"
+    }
 }]
