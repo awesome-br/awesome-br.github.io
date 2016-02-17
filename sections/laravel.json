@@ -836,7 +836,7 @@
 }, {
   "name": "Decimal Mutators",
   "url": "https://packagist.org/packages/giordanolima/decimal-mutators",
-  "type": "pacote",
+  "type": "package",
   "tags": [
     "laravel",
     "mutators",
@@ -850,7 +850,7 @@
 }, {
   "name": "Integração com o paypal",
   "url": "https://packagist.org/packages/resultsystems/laravel-paypal",
-  "type": "pacote",
+  "type": "package",
   "tags": [
     "laravel",
     "package"
