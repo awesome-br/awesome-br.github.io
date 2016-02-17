@@ -1,850 +1,862 @@
 [{
-  "name": "Por que facades são um problema seu e não do Laravel?",
-  "url": "https://medium.com/@luizvinicius73/por-que-facades-é-um-problema-seu-e-não-do-laravel-8672bb80c74c",
-  "type": "artigo",
-  "tags": [
-    "facades",
-    "IoC"
-  ],
-  "author": {
-    "name": "Vinicius Reis",
-    "url": "https://github.com/vinicius73"
-  }
-}, {
-  "name": "Como organizar: Painel e Site no Laravel 5",
-  "url": "https://medium.com/@luizvinicius73/como-organizar-painel-e-front-no-laravel-5-3409d037c5ee",
-  "type": "artigo",
-  "tags": [
-    "controller",
-    "arquitetura",
-    "organização"
-  ],
-  "author": {
-    "name": "Vinicius Reis",
-    "url": "https://github.com/vinicius73"
-  }
-}, {
-  "name": "Trabalhando com seeds no Laravel 5",
-  "url": "https://medium.com/@luizvinicius73/trabalhando-com-seeds-no-laravel-5-142829ddc32e",
-  "type": "artigo",
-  "tags": [
-    "seeds",
-    "artisan"
-  ],
-  "author": {
-    "name": "Vinicius Reis",
-    "url": "https://github.com/vinicius73"
-  }
-}, {
-  "name": "Deploy com Rocketeer",
-  "url": "http://blog.vagnerdocarmo.com.br/laravel-deploy-com-rocketeer/",
-  "type": "tutorial",
-  "tags": [
-    "rocketeer",
-    "deploy"
-  ],
-  "author": {
-    "name": "Vagner do Carmo",
-    "url": "http://vagnerdocarmo.com.br/"
-  }
-}, {
-  "name": "Tarefas Agendadas (cronjobs)",
-  "url": "http://blog.vagnerdocarmo.com.br/laravel-5-tarefas-agendadas-cronjobs/",
-  "type": "tutorial",
-  "tags": [
-    "cron",
-    "schedule",
-    "artisan",
-    "console"
-  ],
-  "author": {
-    "name": "Vagner do Carmo",
-    "url": "http://vagnerdocarmo.com.br/"
-  }
-}, {
-  "name": "Laravel e Aplicações de Tempo Real (WebSockets)",
-  "url": "http://blog.vagnerdocarmo.com.br/dica-laravel-e-aplicacoes-de-tempo-real-websockets/",
-  "type": "dica",
-  "tags": [
-    "websocket",
-    "tips",
-    "realtime"
-  ],
-  "author": {
-    "name": "Vagner do Carmo",
-    "url": "http://vagnerdocarmo.com.br/"
-  }
-}, {
-  "name": "Autenticação no Laravel 5.1 (parte 1/3)",
-  "url": "https://medium.com/@andreferraro/autenticação-no-laravel-5-1-666b863b7bcc",
-  "type": "tutorial",
-  "tags": [
-    "laravel 5.1",
-    "authentication",
-    "migrations",
-    "seeders"
-  ],
-  "author": {
-    "name": "André Ferraro",
-    "url": "https://github.com/andreferraro"
-  }
-}, {
-  "name": "Autenticação no Laravel 5.1 (parte 2/3)",
-  "url": "https://medium.com/@andreferraro/autenticação-no-laravel-5-1-parte-2-2-27c9c1a4bcc5",
-  "type": "tutorial",
-  "tags": [
-    "laravel 5.1",
-    "authentication",
-    "migrations",
-    "seeders"
-  ],
-  "author": {
-    "name": "André Ferraro",
-    "url": "https://github.com/andreferraro"
-  }
-}, {
-  "name": "Autenticação no Laravel 5.1 (parte 3/3)",
-  "url": "https://medium.com/@andreferraro/autenticação-no-laravel-5-1-parte-3-3-3447480438a4",
-  "type": "tutorial",
-  "tags": [
-    "laravel 5.1",
-    "authentication",
-    "migrations",
-    "seeders"
-  ],
-  "author": {
-    "name": "André Ferraro",
-    "url": "https://github.com/andreferraro"
-  }
-}, {
-  "name": "Laravel > Rotas: segmento dinâmico pode vir a lhe atrapalhar",
-  "url": "http://www.vedovelli.com.br/web-development/laravel-rotas-segmento-dinamico-pode-vir-a-lhe-atrapalhar",
-  "type": "dica",
-  "tags": [
-    "rotas"
-  ],
-  "author": {
-    "name": "Fabio Vedovelli",
-    "url": "http://www.vedovelli.com.br/"
-  }
-}, {
-  "name": "Laravel: ao atualizar seu projeto para 5.1, saiba que Elixir não será atualizado automaticamente",
-  "url": "http://www.vedovelli.com.br/desevolvimento-web/laravel-ao-atualizar-seu-projeto-para-5-1-saiba-que-elixir-nao-sera-atualizado-automaticamente",
-  "type": "tutorial",
-  "tags": [
-    "gulp",
-    "elixir",
-    "node.js",
-    "npm"
-  ],
-  "author": {
-    "name": "Fabio Vedovelli",
-    "url": "http://www.vedovelli.com.br/"
-  }
-}, {
-  "name": "PHP e Nginx: ajustes no upload de arquivos: tamanho máximo",
-  "url": "http://www.vedovelli.com.br/desevolvimento-web/php-e-nginx-ajustes-no-upload-de-arquivos-tamanho-maximo",
-  "type": "dica",
-  "tags": [
-    "nginx",
-    "uploads"
-  ],
-  "author": {
-    "name": "Fabio Vedovelli",
-    "url": "http://www.vedovelli.com.br/"
-  }
-}, {
-  "name": "Laravel 5 — Elixir (Browserify) e Ecmascript 6",
-  "url": "https://medium.com/@angelorubin/laravel-5-elixir-browserify-e-ecmascript-6-641f601d79d7",
-  "type": "tutorial",
-  "tags": [
-    "Laravel 5",
-    "Ecmascript 6",
-    "Elixir (Browserify)"
-  ],
-  "author": {
-    "name": "Angelo Rogério Rubin"
-  }
-}, {
-  "name": "O que é Artisan?",
-  "url": "http://www.vedovelli.com.br/web-development/o-que-e-o-artisan/",
-  "type": "artigo",
-  "tags": [
-    "artisan",
-    "console"
-  ],
-  "author": {
-    "name": "Fabio Vedovelli",
-    "url": "http://www.vedovelli.com.br/"
-  }
-}, {
-  "name": "10 formas como Laravel vai aumentar a sua produtividade",
-  "url": "http://zizaco.net/formas-como-laravel-vai-aumentar-a-sua-produtividade",
-  "type": "artigo",
-  "tags": [
-    "tips",
-    "produtividade"
-  ],
-  "author": {
-    "name": "Zizaco",
-    "url": "http://zizaco.net/"
-  }
-}, {
-  "name": "Tradução Automática do Carbon",
-  "url": "http://blog.hernandev.com/pt/traducao-automatica-do-carbon",
-  "type": "tutorial",
-  "tags": [
-    "tips",
-    "carbon"
-  ],
-  "author": {
-    "name": "hernandev",
-    "url": "http://hernandev.com/"
-  }
-}, {
-  "name": "Trabalhando com Laravel e websockets",
-  "url": "http://www.laravel.com.br/trabalhando-com-laravel-e-websockets",
-  "type": "tutorial",
-  "tags": [
-    "fanout.io",
-    "websocket",
-    "realtime"
-  ],
-  "author": {
-    "name": "Daniel Lemes",
-    "url": "http://www.laravel.com.br/author/daniel"
-  }
-}, {
-  "name": "Laravel: rotas",
-  "url": "http://www.vedovelli.com.br/web-development/laravel-rotas/",
-  "type": "screencast",
-  "tags": [
-    "route",
-    "rotas"
-  ],
-  "author": {
-    "name": "Fabio Vedovelli",
-    "url": "http://www.vedovelli.com.br/"
-  }
-}, {
-  "name": "Carrinho de Compras com Laravel 5",
-  "url": "https://packagist.org/packages/juliobitencourt/laravel-cart",
-  "type": "pacote",
-  "tags": [
-    "e-commerce",
-    "loja",
-    "cart",
-    "carrinho"
-  ],
-  "author": {
-    "name": "Julio Bitencourt",
-    "url": "https://github.com/juliobitencourt"
-  }
-}, {
-  "name": "Como criar uma lista de registros com ordenação",
-  "url": "http://jansenfelipe.com.br/2015/05/27/laravel-como-criar-uma-lista-de-registros-ordenacao/",
-  "type": "tutorial",
-  "tags": [
-    "ordenação",
-    "controller"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://jansenfelipe.com.br"
-  }
-}, {
-  "name": "Como consultar CNPJ no site da Receita",
-  "url": "http://jansenfelipe.com.br/2015/05/15/cnpjgratis-library-php-buscar-dados-cnpj-receita/",
-  "type": "tutorial",
-  "tags": [
-    "consulta",
-    "cnpj"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://jansenfelipe.com.br"
-  }
-}, {
-  "name": "Como consultar CEP no site dos Correios",
-  "url": "http://phpgratis.org/blog/2015/09/tutorial-como-consultar-cep-no-site-dos-correios/",
-  "type": "tutorial",
-  "tags": [
-    "consulta",
-    "cep",
-    "correios"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://phpgratis.org"
-  }
-}, {
-  "name": "Como consultar CPF no site da Receita",
-  "url": "http://jansenfelipe.com.br/2015/07/08/php-package-cpfgratis-para-realizar-consulta-no-site-da-receita/",
-  "type": "tutorial",
-  "tags": [
-    "consulta",
-    "cpf"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://jansenfelipe.com.br"
-  }
-}, {
-  "name": "Transforme NFe(xml) em objetos PHP e vice-versa",
-  "url": "https://github.com/jansenfelipe/nfephp-serialize",
-  "type": "pacote",
-  "tags": [
-    "nfe"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "https://github.com/jansenfelipe"
-  }
-}, {
-  "name": "Consulte Cidades diretamente no site do IBGE",
-  "url": "https://github.com/jansenfelipe/cidades-gratis",
-  "type": "pacote",
-  "tags": [
-    "consulta",
-    "cidades",
-    "ibge"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "https://github.com/jansenfelipe"
-  }
-}, {
-  "name": "Laravel: Trabalhando com Rotas",
-  "url": "http://www.devmedia.com.br/framework-php-laravel-trabalhando-com-rotas/33363",
-  "type": "tutorial",
-  "tags": [
-    "rotas",
-    "routes"
-  ],
-  "author": {
-    "name": "Luciano Alexandre De Farias Silva",
-    "url": "http://www.devmedia.com.br/space/luciano-alexandre-de-farias-silva"
-  }
-}, {
-  "name": "Laravel + AngularJS",
-  "url": "https://leanpub.com/laravelangular_pt",
-  "type": "livro",
-  "tags": [
-    "books",
-    "angular"
-  ],
-  "paid": true,
-  "author": {
-    "name": "Daniel Schmitz",
-    "url": "https://github.com/danielschmitz"
-  }
-}, {
-  "name": "Auditing for Laravel 5",
-  "url": "https://github.com/owen-it/laravel-auditing",
-  "type": "pacote",
-  "tags": [
-    "eloquent",
-    "package",
-    "auditing"
-  ],
-  "author": {
-    "name": "Owen IT Services",
-    "url": "https://github.com/owen-it"
-  }
-}, {
-  "name": "laraerp/ordination: ordenar por models relacionados",
-  "url": "https://github.com/laraerp/ordination",
-  "type": "pacote",
-  "tags": [
-    "eloquent",
-    "package",
-    "ordenar"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://laraerp.org"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 1",
-  "url": "https://www.youtube.com/watch?v=TCItPy_KNtk",
-  "type": "hangout",
-  "tags": [
-    "boas praticas",
-    "repositories",
-    "libraries"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 2",
-  "url": "https://www.youtube.com/watch?v=LyLUloA_mW8",
-  "type": "hangout",
-  "tags": [
-    "laravel 4",
-    "mongoDB",
-    "composer"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 3",
-  "url": "https://www.youtube.com/watch?v=aHr2FjD4K0s",
-  "type": "hangout",
-  "tags": [
-    "TDD",
-    "BDD",
-    "melhores práticas"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 4",
-  "url": "https://www.youtube.com/watch?v=lZ2O7BkuE8Y",
-  "type": "hangout",
-  "tags": [
-    "MVC",
-    "frameworks",
-    "front-end"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 5",
-  "url": "https://www.youtube.com/watch?v=gz6-D43cwmI",
-  "type": "hangout",
-  "tags": [
-    "laravel 4",
-    "artisan"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 7",
-  "url": "https://www.youtube.com/watch?v=oNxIPKI6Ow0",
-  "type": "hangout",
-  "tags": [
-    "laravel 4",
-    "teste",
-    "iniciante"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 8",
-  "url": "https://www.youtube.com/watch?v=LJg0whsSmEc",
-  "type": "hangout",
-  "tags": [
-    "deploy",
-    "solid"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 9",
-  "url": "https://www.youtube.com/watch?v=5AZ0PUWIpnc",
-  "type": "hangout",
-  "tags": [
-    "package",
-    "workflow",
-    "tools"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 10",
-  "url": "https://www.youtube.com/watch?v=JmD15u03gLk",
-  "type": "hangout",
-  "tags": [
-    "TDD",
-    "plataforma"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 11",
-  "url": "https://www.youtube.com/watch?v=PuFKXQHRKhM",
-  "type": "hangout",
-  "tags": [
-    "infraestrutura",
-    "ferramentas"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 12",
-  "url": "https://www.youtube.com/watch?v=xiaY9_U_8Wo",
-  "type": "hangout",
-  "tags": [
-    "PaaS",
-    "IaaS",
-    "deploy",
-    "lumen"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 13",
-  "url": "https://www.youtube.com/watch?v=4CC0wR0LAFI",
-  "type": "hangout",
-  "tags": [
-    "acl",
-    "defender",
-    "laravel 5"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 15",
-  "url": "https://www.youtube.com/watch?v=3fFilhGQd5U",
-  "type": "hangout",
-  "tags": [
-    "repositories",
-    "laravel 5.1"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Hangout Laravel Brasil 16",
-  "url": "https://www.youtube.com/watch?v=0dygFrFMe24",
-  "type": "hangout",
-  "tags": [
-    "modules",
-    "package"
-  ],
-  "author": {
-    "name": "Laravel Brasil",
-    "url": "laravel.com.br"
-  }
-}, {
-  "name": "Laravel Brasil - Hands on Code 01",
-  "url": "https://www.youtube.com/watch?v=YhBCKiN1JGM",
-  "type": "hangout",
-  "tags": [
-    "arquitetura",
-    "repositories",
-    "modules",
-    "package"
-  ],
-  "author": {
-    "name": "Vinicius Reis",
-    "url": "https://github.com/vinicius73"
-  }
-}, {
-  "name": "Laravel Brasil - Hands on Code 02",
-  "url": "https://www.youtube.com/watch?v=kHVW57TsjfI",
-  "type": "hangout",
-  "tags": [
-    "arquitetura",
-    "repositories",
-    "modules",
-    "package"
-  ],
-  "author": {
-    "name": "Vinicius Reis",
-    "url": "https://github.com/vinicius73"
-  }
-}, {
-  "name": "Instalação e configuração PHP-FPM, nginx, mysql, phpmyadmin, composer, git, laravel",
-  "url": "https://www.youtube.com/watch?v=0EM-vRh1n10",
-  "type": "screencast",
-  "tags": [
-    "config"
-  ],
-  "author": {
-    "name": "Leandro Henrique Reis",
-    "url": "https://github.com/emtudo"
-  }
-}, {
-  "name": "Laravel: Módulo de produtos para um controle de Almoxarifado: Storehouse product: Apresentação",
-  "url": "https://www.youtube.com/watch?v=z451-TPk79w",
-  "type": "screencast",
-  "tags": [
-    "modules",
-    "package"
-  ],
-  "author": {
-    "name": "Leandro Henrique Reis",
-    "url": "https://github.com/emtudo"
-  }
-}, {
-  "name": "Laravel: Como organizar sua aplicação em \"módulos\" sem usar nenhum pacote.",
-  "url": "https://www.youtube.com/watch?v=GG7hvbn_iTY",
-  "type": "screencast",
-  "tags": [
-    "modules",
-    "package"
-  ],
-  "author": {
-    "name": "Leandro Henrique Reis",
-    "url": "https://github.com/emtudo"
-  }
-}, {
-  "name": "Como usar o Laravel Security Router",
-  "url": "https://www.youtube.com/watch?v=mIkeYIXBrt8",
-  "type": "screencast",
-  "tags": [
-    "modules",
-    "package"
-  ],
-  "author": {
-    "name": "Leandro Henrique Reis",
-    "url": "https://github.com/emtudo"
-  }
-}, {
-  "name": "Model factory em pt_BR",
-  "url": "http://www.laravel.com.br/model-factory-em-pt_br-laravel-5-1/",
-  "type": "dica",
-  "tags": [
-    "eloquent",
-    "faker",
-    "factory",
-    "model"
-  ],
-  "author": {
-    "name": "Vinicius Reis",
-    "url": "https://github.com/vinicius73"
-  }
-}, {
-  "name": "História do seu Laravel",
-  "url": "https://medium.com/@SOSTheBlack/história-do-seu-framework-laravel-4908a60b1ba6",
-  "type": "artigo",
-  "tags": [
-    "History"
-  ],
-  "author": {
-    "name": "Jean C. Garcia",
-    "url": "https://github.com/SOSTheBlack"
-  }
-}, {
-  "name": "MultiAuth For Laravel 5.1",
-  "url": "https://github.com/Kbwebs/MultiAuth",
-  "type": "pacote",
-  "tags": [
-    "Laravel 5.1",
-    "multiauth",
-    "auth"
-  ],
-  "author": {
-    "name": "Kasper Juul Dyhr Basse (kasperbasse)",
-    "url": "https://github.com/kasperbasse"
-  }
-}, {
-  "name": "Helpers para algumas técnicas comuns de SEO",
-  "url": "https://github.com/artesaos/seotools",
-  "type": "pacote",
-  "tags": [
-    "seo",
-    "tools"
-  ],
-  "author": {
-    "name": "Artesãos",
-    "url": "https://github.com/artesaos"
-  }
-}, {
-  "name": "Laravel Analytcs",
-  "url": "https://github.com/baconfy/laravel-analytics",
-  "type": "pacote",
-  "tags": [
-    "analytics",
-    "track",
-    "log"
-  ],
-  "author": {
-    "name": "Renato Dehnhardt",
-    "url": "https://github.com/rdehnhardt"
-  }
-}, {
-  "name": "Laravel para iniciantes: Como iniciar o projeto Laravel, criando views e rotas - Parte 01",
-  "url": "http://jansenfelipe.com.br/2015/10/13/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-01/",
-  "type": "tutorial",
-  "tags": [
-    "iniciante", "rotas", "views"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://jansenfelipe.com.br"
-  }
-}, {
-  "name": "Laravel para iniciantes: Como configurar banco MySQL e manipular registros - Parte 02",
-  "url": "http://jansenfelipe.com.br/2015/10/14/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-02/",
-  "type": "tutorial",
-  "tags": [
-    "iniciante", "database", "mysql", "eloquent"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://jansenfelipe.com.br"
-  }
-}, {
-  "name": "Laravel para iniciantes: Criando Controller e entendendo a injeção de dependência - Parte 03",
-  "url": "http://jansenfelipe.com.br/2015/10/15/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-03/",
-  "type": "tutorial",
-  "tags": [
-    "iniciante", "IoC", "Controller"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://jansenfelipe.com.br"
-  }
-}, {
-  "name": "Laravel para iniciantes: Como validar dados com FormRequest - Parte 04",
-  "url": "http://jansenfelipe.com.br/2015/10/16/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-04/",
-  "type": "tutorial",
-  "tags": [
-    "iniciante", "FormRequest", "validar"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://jansenfelipe.com.br"
-  }
-}, {
-  "name": "Laravel para iniciantes: Como relacionar models com o Eloquent ORM, criar migrations e seeds - Parte 05",
-  "url": "http://jansenfelipe.com.br/2015/10/19/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-05/",
-  "type": "tutorial",
-  "tags": [
-    "iniciante", "database", "mysql", "eloquent", "seed", "migrations"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://jansenfelipe.com.br"
-  }
-}, {
-  "name": "Laravel para iniciantes: Criando camada de autenticação para visualizar as mensagens - Parte 06",
-  "url": "http://jansenfelipe.com.br/2015/10/20/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-06/",
-  "type": "tutorial",
-  "tags": [
-    "iniciante", "autenticação"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://jansenfelipe.com.br"
-  }
-}, {
-  "name": "Laravel cors",
-  "url": "https://www.youtube.com/watch?v=6vBSI4Dz63c",
-  "type": "screencast",
-  "tags": [
-    "modules",
-    "package"
-  ],
-  "author": {
-    "name": "Leandro Henrique Reis",
-    "url": "https://github.com/emtudo"
-  }
-}, {
-  "name": "Authorization no Laravel 5.1 - Zizaco",
-  "url": "https://www.youtube.com/watch?v=hJRt0BDF0Do",
-  "type": "palestra",
-  "tags": [
-    "laravel 5.1",
-    "ACL"
-  ],
-  "author": {
-    "name": "Zizaco",
-    "url": "http://www.zizaco.net/"
-  }
-}, {
-  "name": "Autenticação com OAuth 2 no Laravel",
-  "url": "http://sites.code.education/v-02-laravel-com-angularjs/",
-  "type": "screencast",
-  "tags": [
-    "laravel 5.1",
-    "autenticação",
-    "auth"
-  ],
-  "author": {
-    "name": "Wesley Willians",
-    "url": "http://sites.code.education/home-code/"
-  }
-}, {
-  "name": "Laravel 5 - Entendendo o Ambiente MVC",
-  "url": "http://pt.slideshare.net/mdba2007/laravel-5-entenda-o-ambiente-e-a-estrutura-mvc",
-  "type": "slideshare",
-  "tags": [
-    "laravel",
-    "mvc"
-  ],
-  "author": {
-    "name": "Michael Douglas",
-    "url": "http://pt.slideshare.net/"
-  }
-}, {
-  "name": "Php e Laravel Crie aplicações web como um verdadeiro artesão",
-  "url": "http://www.casadocodigo.com.br/products/livro-laravel-php",
-  "type": "livro",
-  "tags": [
-    "livro"
-  ],
-  "paid": true,
-  "author": {
-    "name": "Rodrigo Turini",
-    "url": "https://github.com/Turini"
-  }
-}, {
-  "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
-  "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
-  "type": "tutorial",
-  "tags": [
-    "integracao angular",
-    "material design"
-  ],
-  "author": {
-    "name": "Jansen Felipe",
-    "url": "http://jansenfelipe.com.br"
-  }
-}, {
-  "name": "Configurando seu Apache para trabalhar com subdominios no Laravel (Local)",
-  "url": "https://medium.com/@dlimars/configura%C3%A7%C3%A3o-de-subdom%C3%ADnios-local-apache-dnsmasq-laravel-6fcdcbea5bb6",
-  "type": "tutorial",
-  "tags": [
-    "apache",
-    "linux",
-    "laravel",
-    "subdominio",
-    "multi-tenant"
-  ],
-  "author": {
-    "name": "Daniel Lima",
-    "url": "https://github.com/dlimars"
-  }
-}, {
-  "name": "Decimal Mutators",
-  "url": "https://packagist.org/packages/giordanolima/decimal-mutators",
-  "type": "pacote",
-  "tags": [
-    "laravel",
-    "mutators",
-    "accessors",
-    "eloquent"
-  ],
-  "author": {
-    "name": "Giordano Lima",
-    "url": "https://github.com/giordanolima"
-  }
+    "name": "Por que facades são um problema seu e não do Laravel?",
+    "url": "https://medium.com/@luizvinicius73/por-que-facades-é-um-problema-seu-e-não-do-laravel-8672bb80c74c",
+    "type": "artigo",
+    "tags": [
+        "facades",
+        "IoC"
+    ],
+    "author": {
+        "name": "Vinicius Reis",
+        "url": "https://github.com/vinicius73"
+    }
+}, {
+    "name": "Como organizar: Painel e Site no Laravel 5",
+    "url": "https://medium.com/@luizvinicius73/como-organizar-painel-e-front-no-laravel-5-3409d037c5ee",
+    "type": "artigo",
+    "tags": [
+        "controller",
+        "arquitetura",
+        "organização"
+    ],
+    "author": {
+        "name": "Vinicius Reis",
+        "url": "https://github.com/vinicius73"
+    }
+}, {
+    "name": "Trabalhando com seeds no Laravel 5",
+    "url": "https://medium.com/@luizvinicius73/trabalhando-com-seeds-no-laravel-5-142829ddc32e",
+    "type": "artigo",
+    "tags": [
+        "seeds",
+        "artisan"
+    ],
+    "author": {
+        "name": "Vinicius Reis",
+        "url": "https://github.com/vinicius73"
+    }
+}, {
+    "name": "Deploy com Rocketeer",
+    "url": "http://blog.vagnerdocarmo.com.br/laravel-deploy-com-rocketeer/",
+    "type": "tutorial",
+    "tags": [
+        "rocketeer",
+        "deploy"
+    ],
+    "author": {
+        "name": "Vagner do Carmo",
+        "url": "http://vagnerdocarmo.com.br/"
+    }
+}, {
+    "name": "Tarefas Agendadas (cronjobs)",
+    "url": "http://blog.vagnerdocarmo.com.br/laravel-5-tarefas-agendadas-cronjobs/",
+    "type": "tutorial",
+    "tags": [
+        "cron",
+        "schedule",
+        "artisan",
+        "console"
+    ],
+    "author": {
+        "name": "Vagner do Carmo",
+        "url": "http://vagnerdocarmo.com.br/"
+    }
+}, {
+    "name": "Laravel e Aplicações de Tempo Real (WebSockets)",
+    "url": "http://blog.vagnerdocarmo.com.br/dica-laravel-e-aplicacoes-de-tempo-real-websockets/",
+    "type": "dica",
+    "tags": [
+        "websocket",
+        "tips",
+        "realtime"
+    ],
+    "author": {
+        "name": "Vagner do Carmo",
+        "url": "http://vagnerdocarmo.com.br/"
+    }
+}, {
+    "name": "Autenticação no Laravel 5.1 (parte 1/3)",
+    "url": "https://medium.com/@andreferraro/autenticação-no-laravel-5-1-666b863b7bcc",
+    "type": "tutorial",
+    "tags": [
+        "laravel 5.1",
+        "authentication",
+        "migrations",
+        "seeders"
+    ],
+    "author": {
+        "name": "André Ferraro",
+        "url": "https://github.com/andreferraro"
+    }
+}, {
+    "name": "Autenticação no Laravel 5.1 (parte 2/3)",
+    "url": "https://medium.com/@andreferraro/autenticação-no-laravel-5-1-parte-2-2-27c9c1a4bcc5",
+    "type": "tutorial",
+    "tags": [
+        "laravel 5.1",
+        "authentication",
+        "migrations",
+        "seeders"
+    ],
+    "author": {
+        "name": "André Ferraro",
+        "url": "https://github.com/andreferraro"
+    }
+}, {
+    "name": "Autenticação no Laravel 5.1 (parte 3/3)",
+    "url": "https://medium.com/@andreferraro/autenticação-no-laravel-5-1-parte-3-3-3447480438a4",
+    "type": "tutorial",
+    "tags": [
+        "laravel 5.1",
+        "authentication",
+        "migrations",
+        "seeders"
+    ],
+    "author": {
+        "name": "André Ferraro",
+        "url": "https://github.com/andreferraro"
+    }
+}, {
+    "name": "Laravel > Rotas: segmento dinâmico pode vir a lhe atrapalhar",
+    "url": "http://www.vedovelli.com.br/web-development/laravel-rotas-segmento-dinamico-pode-vir-a-lhe-atrapalhar",
+    "type": "dica",
+    "tags": [
+        "rotas"
+    ],
+    "author": {
+        "name": "Fabio Vedovelli",
+        "url": "http://www.vedovelli.com.br/"
+    }
+}, {
+    "name": "Laravel: ao atualizar seu projeto para 5.1, saiba que Elixir não será atualizado automaticamente",
+    "url": "http://www.vedovelli.com.br/desevolvimento-web/laravel-ao-atualizar-seu-projeto-para-5-1-saiba-que-elixir-nao-sera-atualizado-automaticamente",
+    "type": "tutorial",
+    "tags": [
+        "gulp",
+        "elixir",
+        "node.js",
+        "npm"
+    ],
+    "author": {
+        "name": "Fabio Vedovelli",
+        "url": "http://www.vedovelli.com.br/"
+    }
+}, {
+    "name": "PHP e Nginx: ajustes no upload de arquivos: tamanho máximo",
+    "url": "http://www.vedovelli.com.br/desevolvimento-web/php-e-nginx-ajustes-no-upload-de-arquivos-tamanho-maximo",
+    "type": "dica",
+    "tags": [
+        "nginx",
+        "uploads"
+    ],
+    "author": {
+        "name": "Fabio Vedovelli",
+        "url": "http://www.vedovelli.com.br/"
+    }
+}, {
+    "name": "Laravel 5 — Elixir (Browserify) e Ecmascript 6",
+    "url": "https://medium.com/@angelorubin/laravel-5-elixir-browserify-e-ecmascript-6-641f601d79d7",
+    "type": "tutorial",
+    "tags": [
+        "Laravel 5",
+        "Ecmascript 6",
+        "Elixir (Browserify)"
+    ],
+    "author": {
+        "name": "Angelo Rogério Rubin"
+    }
+}, {
+    "name": "O que é Artisan?",
+    "url": "http://www.vedovelli.com.br/web-development/o-que-e-o-artisan/",
+    "type": "artigo",
+    "tags": [
+        "artisan",
+        "console"
+    ],
+    "author": {
+        "name": "Fabio Vedovelli",
+        "url": "http://www.vedovelli.com.br/"
+    }
+}, {
+    "name": "10 formas como Laravel vai aumentar a sua produtividade",
+    "url": "http://zizaco.net/formas-como-laravel-vai-aumentar-a-sua-produtividade",
+    "type": "artigo",
+    "tags": [
+        "tips",
+        "produtividade"
+    ],
+    "author": {
+        "name": "Zizaco",
+        "url": "http://zizaco.net/"
+    }
+}, {
+    "name": "Tradução Automática do Carbon",
+    "url": "http://blog.hernandev.com/pt/traducao-automatica-do-carbon",
+    "type": "tutorial",
+    "tags": [
+        "tips",
+        "carbon"
+    ],
+    "author": {
+        "name": "hernandev",
+        "url": "http://hernandev.com/"
+    }
+}, {
+    "name": "Trabalhando com Laravel e websockets",
+    "url": "http://www.laravel.com.br/trabalhando-com-laravel-e-websockets",
+    "type": "tutorial",
+    "tags": [
+        "fanout.io",
+        "websocket",
+        "realtime"
+    ],
+    "author": {
+        "name": "Daniel Lemes",
+        "url": "http://www.laravel.com.br/author/daniel"
+    }
+}, {
+    "name": "Laravel: rotas",
+    "url": "http://www.vedovelli.com.br/web-development/laravel-rotas/",
+    "type": "screencast",
+    "tags": [
+        "route",
+        "rotas"
+    ],
+    "author": {
+        "name": "Fabio Vedovelli",
+        "url": "http://www.vedovelli.com.br/"
+    }
+}, {
+    "name": "Carrinho de Compras com Laravel 5",
+    "url": "https://packagist.org/packages/juliobitencourt/laravel-cart",
+    "type": "pacote",
+    "tags": [
+        "e-commerce",
+        "loja",
+        "cart",
+        "carrinho"
+    ],
+    "author": {
+        "name": "Julio Bitencourt",
+        "url": "https://github.com/juliobitencourt"
+    }
+}, {
+    "name": "Como criar uma lista de registros com ordenação",
+    "url": "http://jansenfelipe.com.br/2015/05/27/laravel-como-criar-uma-lista-de-registros-ordenacao/",
+    "type": "tutorial",
+    "tags": [
+        "ordenação",
+        "controller"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "http://jansenfelipe.com.br"
+    }
+}, {
+    "name": "Como consultar CNPJ no site da Receita",
+    "url": "http://jansenfelipe.com.br/2015/05/15/cnpjgratis-library-php-buscar-dados-cnpj-receita/",
+    "type": "tutorial",
+    "tags": [
+        "consulta",
+        "cnpj"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "http://jansenfelipe.com.br"
+    }
+}, {
+    "name": "Como consultar CEP no site dos Correios",
+    "url": "http://phpgratis.org/blog/2015/09/tutorial-como-consultar-cep-no-site-dos-correios/",
+    "type": "tutorial",
+    "tags": [
+        "consulta",
+        "cep",
+        "correios"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "http://phpgratis.org"
+    }
+}, {
+    "name": "Como consultar CPF no site da Receita",
+    "url": "http://jansenfelipe.com.br/2015/07/08/php-package-cpfgratis-para-realizar-consulta-no-site-da-receita/",
+    "type": "tutorial",
+    "tags": [
+        "consulta",
+        "cpf"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "http://jansenfelipe.com.br"
+    }
+}, {
+    "name": "Transforme NFe(xml) em objetos PHP e vice-versa",
+    "url": "https://github.com/jansenfelipe/nfephp-serialize",
+    "type": "pacote",
+    "tags": [
+        "nfe"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "https://github.com/jansenfelipe"
+    }
+}, {
+    "name": "Consulte Cidades diretamente no site do IBGE",
+    "url": "https://github.com/jansenfelipe/cidades-gratis",
+    "type": "pacote",
+    "tags": [
+        "consulta",
+        "cidades",
+        "ibge"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "https://github.com/jansenfelipe"
+    }
+}, {
+    "name": "Laravel: Trabalhando com Rotas",
+    "url": "http://www.devmedia.com.br/framework-php-laravel-trabalhando-com-rotas/33363",
+    "type": "tutorial",
+    "tags": [
+        "rotas",
+        "routes"
+    ],
+    "author": {
+        "name": "Luciano Alexandre De Farias Silva",
+        "url": "http://www.devmedia.com.br/space/luciano-alexandre-de-farias-silva"
+    }
+}, {
+    "name": "Laravel + AngularJS",
+    "url": "https://leanpub.com/laravelangular_pt",
+    "type": "livro",
+    "tags": [
+        "books",
+        "angular"
+    ],
+    "paid": true,
+    "author": {
+        "name": "Daniel Schmitz",
+        "url": "https://github.com/danielschmitz"
+    }
+}, {
+    "name": "Auditing for Laravel 5",
+    "url": "https://github.com/owen-it/laravel-auditing",
+    "type": "pacote",
+    "tags": [
+        "eloquent",
+        "package",
+        "auditing"
+    ],
+    "author": {
+        "name": "Owen IT Services",
+        "url": "https://github.com/owen-it"
+    }
+}, {
+    "name": "laraerp/ordination: ordenar por models relacionados",
+    "url": "https://github.com/laraerp/ordination",
+    "type": "pacote",
+    "tags": [
+        "eloquent",
+        "package",
+        "ordenar"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "http://laraerp.org"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 1",
+    "url": "https://www.youtube.com/watch?v=TCItPy_KNtk",
+    "type": "hangout",
+    "tags": [
+        "boas praticas",
+        "repositories",
+        "libraries"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 2",
+    "url": "https://www.youtube.com/watch?v=LyLUloA_mW8",
+    "type": "hangout",
+    "tags": [
+        "laravel 4",
+        "mongoDB",
+        "composer"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 3",
+    "url": "https://www.youtube.com/watch?v=aHr2FjD4K0s",
+    "type": "hangout",
+    "tags": [
+        "TDD",
+        "BDD",
+        "melhores práticas"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 4",
+    "url": "https://www.youtube.com/watch?v=lZ2O7BkuE8Y",
+    "type": "hangout",
+    "tags": [
+        "MVC",
+        "frameworks",
+        "front-end"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 5",
+    "url": "https://www.youtube.com/watch?v=gz6-D43cwmI",
+    "type": "hangout",
+    "tags": [
+        "laravel 4",
+        "artisan"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 7",
+    "url": "https://www.youtube.com/watch?v=oNxIPKI6Ow0",
+    "type": "hangout",
+    "tags": [
+        "laravel 4",
+        "teste",
+        "iniciante"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 8",
+    "url": "https://www.youtube.com/watch?v=LJg0whsSmEc",
+    "type": "hangout",
+    "tags": [
+        "deploy",
+        "solid"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 9",
+    "url": "https://www.youtube.com/watch?v=5AZ0PUWIpnc",
+    "type": "hangout",
+    "tags": [
+        "package",
+        "workflow",
+        "tools"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 10",
+    "url": "https://www.youtube.com/watch?v=JmD15u03gLk",
+    "type": "hangout",
+    "tags": [
+        "TDD",
+        "plataforma"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 11",
+    "url": "https://www.youtube.com/watch?v=PuFKXQHRKhM",
+    "type": "hangout",
+    "tags": [
+        "infraestrutura",
+        "ferramentas"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 12",
+    "url": "https://www.youtube.com/watch?v=xiaY9_U_8Wo",
+    "type": "hangout",
+    "tags": [
+        "PaaS",
+        "IaaS",
+        "deploy",
+        "lumen"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 13",
+    "url": "https://www.youtube.com/watch?v=4CC0wR0LAFI",
+    "type": "hangout",
+    "tags": [
+        "acl",
+        "defender",
+        "laravel 5"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 15",
+    "url": "https://www.youtube.com/watch?v=3fFilhGQd5U",
+    "type": "hangout",
+    "tags": [
+        "repositories",
+        "laravel 5.1"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Hangout Laravel Brasil 16",
+    "url": "https://www.youtube.com/watch?v=0dygFrFMe24",
+    "type": "hangout",
+    "tags": [
+        "modules",
+        "package"
+    ],
+    "author": {
+        "name": "Laravel Brasil",
+        "url": "laravel.com.br"
+    }
+}, {
+    "name": "Laravel Brasil - Hands on Code 01",
+    "url": "https://www.youtube.com/watch?v=YhBCKiN1JGM",
+    "type": "hangout",
+    "tags": [
+        "arquitetura",
+        "repositories",
+        "modules",
+        "package"
+    ],
+    "author": {
+        "name": "Vinicius Reis",
+        "url": "https://github.com/vinicius73"
+    }
+}, {
+    "name": "Laravel Brasil - Hands on Code 02",
+    "url": "https://www.youtube.com/watch?v=kHVW57TsjfI",
+    "type": "hangout",
+    "tags": [
+        "arquitetura",
+        "repositories",
+        "modules",
+        "package"
+    ],
+    "author": {
+        "name": "Vinicius Reis",
+        "url": "https://github.com/vinicius73"
+    }
+}, {
+    "name": "Instalação e configuração PHP-FPM, nginx, mysql, phpmyadmin, composer, git, laravel",
+    "url": "https://www.youtube.com/watch?v=0EM-vRh1n10",
+    "type": "screencast",
+    "tags": [
+        "config"
+    ],
+    "author": {
+        "name": "Leandro Henrique Reis",
+        "url": "https://github.com/emtudo"
+    }
+}, {
+    "name": "Laravel: Módulo de produtos para um controle de Almoxarifado: Storehouse product: Apresentação",
+    "url": "https://www.youtube.com/watch?v=z451-TPk79w",
+    "type": "screencast",
+    "tags": [
+        "modules",
+        "package"
+    ],
+    "author": {
+        "name": "Leandro Henrique Reis",
+        "url": "https://github.com/emtudo"
+    }
+}, {
+    "name": "Laravel: Como organizar sua aplicação em \"módulos\" sem usar nenhum pacote.",
+    "url": "https://www.youtube.com/watch?v=GG7hvbn_iTY",
+    "type": "screencast",
+    "tags": [
+        "modules",
+        "package"
+    ],
+    "author": {
+        "name": "Leandro Henrique Reis",
+        "url": "https://github.com/emtudo"
+    }
+}, {
+    "name": "Como usar o Laravel Security Router",
+    "url": "https://www.youtube.com/watch?v=mIkeYIXBrt8",
+    "type": "screencast",
+    "tags": [
+        "modules",
+        "package"
+    ],
+    "author": {
+        "name": "Leandro Henrique Reis",
+        "url": "https://github.com/emtudo"
+    }
+}, {
+    "name": "Model factory em pt_BR",
+    "url": "http://www.laravel.com.br/model-factory-em-pt_br-laravel-5-1/",
+    "type": "dica",
+    "tags": [
+        "eloquent",
+        "faker",
+        "factory",
+        "model"
+    ],
+    "author": {
+        "name": "Vinicius Reis",
+        "url": "https://github.com/vinicius73"
+    }
+}, {
+    "name": "História do seu Laravel",
+    "url": "https://medium.com/@SOSTheBlack/história-do-seu-framework-laravel-4908a60b1ba6",
+    "type": "artigo",
+    "tags": [
+        "History"
+    ],
+    "author": {
+        "name": "Jean C. Garcia",
+        "url": "https://github.com/SOSTheBlack"
+    }
+}, {
+    "name": "MultiAuth For Laravel 5.1",
+    "url": "https://github.com/Kbwebs/MultiAuth",
+    "type": "pacote",
+    "tags": [
+        "Laravel 5.1",
+        "multiauth",
+        "auth"
+    ],
+    "author": {
+        "name": "Kasper Juul Dyhr Basse (kasperbasse)",
+        "url": "https://github.com/kasperbasse"
+    }
+}, {
+    "name": "Helpers para algumas técnicas comuns de SEO",
+    "url": "https://github.com/artesaos/seotools",
+    "type": "pacote",
+    "tags": [
+        "seo",
+        "tools"
+    ],
+    "author": {
+        "name": "Artesãos",
+        "url": "https://github.com/artesaos"
+    }
+}, {
+    "name": "Laravel Analytcs",
+    "url": "https://github.com/baconfy/laravel-analytics",
+    "type": "pacote",
+    "tags": [
+        "analytics",
+        "track",
+        "log"
+    ],
+    "author": {
+        "name": "Renato Dehnhardt",
+        "url": "https://github.com/rdehnhardt"
+    }
+}, {
+    "name": "Laravel para iniciantes: Como iniciar o projeto Laravel, criando views e rotas - Parte 01",
+    "url": "http://jansenfelipe.com.br/2015/10/13/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-01/",
+    "type": "tutorial",
+    "tags": [
+        "iniciante", "rotas", "views"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "http://jansenfelipe.com.br"
+    }
+}, {
+    "name": "Laravel para iniciantes: Como configurar banco MySQL e manipular registros - Parte 02",
+    "url": "http://jansenfelipe.com.br/2015/10/14/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-02/",
+    "type": "tutorial",
+    "tags": [
+        "iniciante", "database", "mysql", "eloquent"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "http://jansenfelipe.com.br"
+    }
+}, {
+    "name": "Laravel para iniciantes: Criando Controller e entendendo a injeção de dependência - Parte 03",
+    "url": "http://jansenfelipe.com.br/2015/10/15/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-03/",
+    "type": "tutorial",
+    "tags": [
+        "iniciante", "IoC", "Controller"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "http://jansenfelipe.com.br"
+    }
+}, {
+    "name": "Laravel para iniciantes: Como validar dados com FormRequest - Parte 04",
+    "url": "http://jansenfelipe.com.br/2015/10/16/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-04/",
+    "type": "tutorial",
+    "tags": [
+        "iniciante", "FormRequest", "validar"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "http://jansenfelipe.com.br"
+    }
+}, {
+    "name": "Laravel para iniciantes: Como relacionar models com o Eloquent ORM, criar migrations e seeds - Parte 05",
+    "url": "http://jansenfelipe.com.br/2015/10/19/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-05/",
+    "type": "tutorial",
+    "tags": [
+        "iniciante", "database", "mysql", "eloquent", "seed", "migrations"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "http://jansenfelipe.com.br"
+    }
+}, {
+    "name": "Laravel para iniciantes: Criando camada de autenticação para visualizar as mensagens - Parte 06",
+    "url": "http://jansenfelipe.com.br/2015/10/20/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-06/",
+    "type": "tutorial",
+    "tags": [
+        "iniciante", "autenticação"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "http://jansenfelipe.com.br"
+    }
+}, {
+    "name": "Laravel cors",
+    "url": "https://www.youtube.com/watch?v=6vBSI4Dz63c",
+    "type": "screencast",
+    "tags": [
+        "modules",
+        "package"
+    ],
+    "author": {
+        "name": "Leandro Henrique Reis",
+        "url": "https://github.com/emtudo"
+    }
+}, {
+    "name": "Authorization no Laravel 5.1 - Zizaco",
+    "url": "https://www.youtube.com/watch?v=hJRt0BDF0Do",
+    "type": "palestra",
+    "tags": [
+        "laravel 5.1",
+        "ACL"
+    ],
+    "author": {
+        "name": "Zizaco",
+        "url": "http://www.zizaco.net/"
+    }
+}, {
+    "name": "Autenticação com OAuth 2 no Laravel",
+    "url": "http://sites.code.education/v-02-laravel-com-angularjs/",
+    "type": "screencast",
+    "tags": [
+        "laravel 5.1",
+        "autenticação",
+        "auth"
+    ],
+    "author": {
+        "name": "Wesley Willians",
+        "url": "http://sites.code.education/home-code/"
+    }
+}, {
+    "name": "Laravel 5 - Entendendo o Ambiente MVC",
+    "url": "http://pt.slideshare.net/mdba2007/laravel-5-entenda-o-ambiente-e-a-estrutura-mvc",
+    "type": "slideshare",
+    "tags": [
+        "laravel",
+        "mvc"
+    ],
+    "author": {
+        "name": "Michael Douglas",
+        "url": "http://pt.slideshare.net/"
+    }
+}, {
+    "name": "Php e Laravel Crie aplicações web como um verdadeiro artesão",
+    "url": "http://www.casadocodigo.com.br/products/livro-laravel-php",
+    "type": "livro",
+    "tags": [
+        "livro"
+    ],
+    "paid": true,
+    "author": {
+        "name": "Rodrigo Turini",
+        "url": "https://github.com/Turini"
+    }
+}, {
+    "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
+    "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
+    "type": "tutorial",
+    "tags": [
+        "integracao angular",
+        "material design"
+    ],
+    "author": {
+        "name": "Jansen Felipe",
+        "url": "http://jansenfelipe.com.br"
+    }
+}, {
+    "name": "Configurando seu Apache para trabalhar com subdominios no Laravel (Local)",
+    "url": "https://medium.com/@dlimars/configura%C3%A7%C3%A3o-de-subdom%C3%ADnios-local-apache-dnsmasq-laravel-6fcdcbea5bb6",
+    "type": "tutorial",
+    "tags": [
+        "apache",
+        "linux",
+        "laravel",
+        "subdominio",
+        "multi-tenant"
+    ],
+    "author": {
+        "name": "Daniel Lima",
+        "url": "https://github.com/dlimars"
+    }
+}, {
+    "name": "Decimal Mutators",
+    "url": "https://packagist.org/packages/giordanolima/decimal-mutators",
+    "type": "pacote",
+    "tags": [
+        "laravel",
+        "mutators",
+        "accessors",
+        "eloquent"
+    ],
+    "author": {
+        "name": "Giordano Lima",
+        "url": "https://github.com/giordanolima"
+    }
+}, {
+    "name": "Integração com o paypal",
+    "url": "https://packagist.org/packages/resultsystems/laravel-paypal",
+    "type": "pacote",
+    "tags": [
+        "laravel",
+        "package"
+    ],
+    "author": {
+        "name": "Leandro Henrique Reis",
+        "url": "https://github.com/emtudo"
+    }
 }]
