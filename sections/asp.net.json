@@ -12,7 +12,7 @@
   }
 }, {
   "name": "ASP.NET Cast",
-  "url": "www.youtube.com/aspnetcast",
+  "url": "http://www.youtube.com/aspnetcast",
   "type": "hangout",
   "tags": [
     "ASP.NET"
