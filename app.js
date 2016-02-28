@@ -73,19 +73,23 @@
         itens: '=',
         query: '='
       },
-      controller: ['$scope', '$timeout', function($scope, $timeout) {
+      controller: ['$scope', '$timeout', '$rootScope', function($scope, $timeout, $rootScope) {
         $scope.setFilter = function(_value) {
           $scope.query = _value;
         };
 
-        $scope.$watch('query', function(a) {
+        var emitIsoMethod = function(a) {
           $timeout(function() {
             $scope.$emit('iso-method', {
               name: 'arrange',
               params: null
             });
           }, 600);
-        });
+        };
+
+        $scope.$watch('query', emitIsoMethod);
+        $rootScope.$watch('onlyFree', emitIsoMethod);
+
       }]
     };
   });
