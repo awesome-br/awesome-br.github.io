@@ -1,0 +1,36 @@
+[{
+  "name": "ASP NET MVC - Conceitos Basicos",
+  "url": "https://www.youtube.com/watch?v=PCPQyT5S3Dg",
+  "type": "vídeo",
+  "tags": [
+    "ASP.NET",
+    "MVC"
+  ],
+  "author": {
+    "name": "Jose Carlos Macoratti",
+    "url": "www.macoratti.net"
+  }
+}, {
+  "name": "ASP.NET Cast",
+  "url": "http://www.youtube.com/aspnetcast",
+  "type": "hangout",
+  "tags": [
+    "ASP.NET"
+  ],
+  "author": [{
+    "name": "André Baltieri",
+    "url": "www.andrebaltieri.net"
+  }, {
+    "name": "Eduardo Pires",
+    "url": "www.eduardopires.net.br"
+  }, {
+    "name": "Yan Justino",
+    "url": "http://www.yanjustino.net/"
+  }, {
+    "name": "Victor Cavalcante",
+    "url": "www.cavalcante.net"
+  }, {
+    "name": "Rodrigo Kono",
+    "url": "http://www.rodrigokono.net/"
+  }]
+}]
