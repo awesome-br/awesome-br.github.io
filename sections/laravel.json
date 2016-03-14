@@ -542,6 +542,29 @@
     "url": "laravel.com.br"
   }
 }, {
+  "name": "Hangout Laravel Brasil 17",
+  "url": "https://www.youtube.com/watch?v=s6x0MDZuO_s",
+  "type": "hangout",
+  "tags": [
+    "comentários"
+  ],
+  "author": {
+    "name": "Laravel Brasil",
+    "url": "laravel.com.br"
+  }
+}, {
+  "name": "Hangout Laravel Brasil 18",
+  "url": "https://www.youtube.com/watch?v=yFd7IGSd-s4",
+  "type": "hangout",
+  "tags": [
+    "infraestrutura",
+    "escabilidade"
+  ],
+  "author": {
+    "name": "Laravel Brasil",
+    "url": "laravel.com.br"
+  }
+}, {
   "name": "Laravel Brasil - Hands on Code 01",
   "url": "https://www.youtube.com/watch?v=YhBCKiN1JGM",
   "type": "hangout",
