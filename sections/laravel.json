@@ -882,4 +882,31 @@
         "name": "Leandro Henrique Reis",
         "url": "https://github.com/emtudo"
     }
+}, {
+  "name": "Referências de Conteúdo Para Aprendizado Sobre Laravel",
+  "url": "https://medium.com/@cbcaio/intro-refer%C3%AAncias-de-conte%C3%BAdo-66485ecdadf8#.2gbq8f2td",
+  "type": "artigo",
+  "tags": [
+    "laravel",
+    "podcasts",
+    "twitter",
+    "introducao"
+  ],
+  "author": {
+    "name": "Caio Ceccon Bolognani",
+    "url": "https://github.com/CbCaio"
+  }
+}, {
+  "name": "Organizando Rotas no Laravel",
+  "url": "https://medium.com/@cbcaio/pt-br-organiza%C3%A7%C3%A3o-de-rotas-no-laravel-e2e89b5c3d8b#.gq43ddl47",
+  "type": "artigo",
+  "tags": [
+    "laravel",
+    "rotas",
+    "organizacao"
+  ],
+  "author": {
+    "name": "Caio Ceccon Bolognani",
+    "url": "https://github.com/CbCaio"
+  }
 }]
