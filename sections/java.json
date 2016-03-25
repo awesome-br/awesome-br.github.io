@@ -16,4 +16,34 @@
     "name": "eXcript",
     "url": "https://www.youtube.com/user/excriptvideo"
   }
+},
+{
+  "name": "Criando um jogo de nave",
+  "url": "https://www.youtube.com/playlist?list=PL56AC0623D793C945",
+  "type": "tutorial",
+  "tags": ["jogos", "playlist", "youtube", "swing"],
+  "author": {
+    "name": "Yann Braga",
+    "url": ""
+  }
+},
+{
+  "name": "Criando um jogo com JPlay",
+  "url": "https://www.youtube.com/playlist?list=PLnOrFdw5rkTzLcPRa_JKmpMqzNGIlLi3r",
+  "type": "tutorial",
+  "tags": ["desenvolvimento de games", "jplay","playlist"],
+  "author": {
+    "name": "Luiz Alberto",
+    "url": ""
+  }
+},
+{
+  "name": "JavaFX 8",
+  "url": "http://code.makery.ch/library/javafx-8-tutorial/pt/",
+  "type": "tutorial",
+  "tags": ["java", "javafx"],
+  "author": {
+    "name": "Luiz Alberto",
+    "url": ""
+  }
 }]

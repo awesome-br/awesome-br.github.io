@@ -270,4 +270,17 @@
     "name": "Lucas Lima Muller",
     "url": "http://www.lucaslimamuller.com.br"
   }
+}, {
+  "name": "Módulos JavaScript: Um Guia Para Iniciantes",
+  "url": "https://medium.com/@dejaneves/m%C3%B3dulos-javascript-um-guia-para-iniciantes-143a8bae6c78#.8ceje0vcc",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "modulos",
+    "reusabilidade"
+  ],
+  "author": {
+    "name": "Jaime Neves",
+    "url": "https://medium.com/@dejaneves"
+  }
 }]
