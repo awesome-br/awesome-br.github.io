@@ -163,4 +163,10 @@
   "url": "#/asp.net",
   "type": "Framework Web",
   "tags": []
-}]
+}, {
+  "name": "Testes de Softwares",
+  "url": "#/testes",
+  "type": "Testes",
+  "tags": []
+}
+]

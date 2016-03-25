@@ -1,0 +1,18 @@
+[{
+  "name": "Entendendo Testes de Softwares",
+  "url": "http://willianjusten.com.br/entendendo-testes-de-software/",
+  "type": "artigo",
+  "tags": [
+    "TDD",
+    "BDD",
+    "Mocks",
+    "JS",
+    "Python",
+    "Ruby",
+    "Ferramentas"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "https://github.com/willianjusten/"
+  }
+}]
