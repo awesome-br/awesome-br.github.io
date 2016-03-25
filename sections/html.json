@@ -56,4 +56,15 @@
     "name": "Lucas Mazza",
     "url": "https://github.com/lucasmazza"
   }
+}, {
+  "name": "O elemento input[type=\"file\"]",
+  "url": "https://medium.com/the-codeland-post/elemento-input-type-file-a186e68b4271#.z7olps19u",
+  "type": "artigo",
+  "tags": [
+    "html5"
+  ],
+  "author": {
+    "name": "Filipe Linhares",
+    "url": "https://medium.com/@filipelinhares"
+  }
 }]
