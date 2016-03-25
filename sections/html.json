@@ -67,4 +67,18 @@
     "name": "Filipe Linhares",
     "url": "https://medium.com/@filipelinhares"
   }
+},
+  {
+  "name": "Curso HTML 5",
+  "url": "http://www.cursoemvideo.com/course/curso-de-html5/",
+  "type": "curso",
+  "tags": [
+    "html5",
+    "introdução",
+    "básico"
+  ],
+  "author": {
+    "name": "Gustavo Guanabara",
+    "url": "http://www.cursoemvideo.com/profile/pradmin/"
+  }
 }]

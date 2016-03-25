@@ -150,4 +150,16 @@
     "name": "Comunidade Git",
     "url": "https://git-scm.com"
   }
+}, {
+  "name": "Aulas de git do Rodrigo Branas",
+  "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1",
+  "type": "curso",
+  "tags": [
+    "git",
+    "introdução"
+  ],
+  "author": {
+    "name": "Rodrigo Branas",
+    "url": "https://twitter.com/rodrigobranas"
+  }
 }]

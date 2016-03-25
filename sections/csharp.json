@@ -58,4 +58,17 @@
     "name": "Vinicius Mussak",
     "url": "http://viniciusmussak.net/"
   }
+},
+{
+  "name": "Primeiros passos com XNA",
+  "url": "https://msdn.microsoft.com/pt-br/library/hh416748.aspx",
+  "type": "artigo",
+  "tags": [
+    "desenvolvimento de games",
+    "c#"
+  ],
+  "author": {
+    "name": "Elemar Rodrigues Severo Júnior",
+    "url": ""
+  }
 }]
