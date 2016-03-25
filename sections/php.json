@@ -111,4 +111,17 @@
     "name": "Fabrício Azor",
     "url": "http://www.azorweb.blogspot.com.br/"
   }
+}, {
+  "name": "Iniciando com o AWS SDK no Symfony",
+  "url": "https://merorafael.wordpress.com/2016/03/25/iniciando-com-o-aws-sdk-no-symfony/",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "aws",
+    "symfony"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://merorafael.wordpress.com/"
+  }
 }]
