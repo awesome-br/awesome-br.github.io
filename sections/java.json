@@ -46,4 +46,28 @@
     "name": "Luiz Alberto",
     "url": ""
   }
+},
+{
+  "name": "Java e Orientação a Objetos",
+  "url": "https://www.caelum.com.br/apostila-java-orientacao-objetos/",
+  "type": "apostila",
+  "tags": ["java", "orientação a objetos"]
+},
+{
+  "name": "Java para Desenvolvimento Web",
+  "url": "https://www.caelum.com.br/apostila-java-web/",
+  "type": "apostila",
+  "tags": ["java", "desenvolvimento web"]
+},
+{
+  "name": "Lab. Java com Testes, JSF e Design Patterns",
+  "url": "https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/",
+  "type": "apostila",
+  "tags": ["java", "tdd", "design patterns", "jsf"]
+},
+{
+  "name": "Algoritmos e Estruturas de Dados com Java",
+  "url": "https://www.caelum.com.br/apostila-java-estrutura-dados/",
+  "type": "apostila",
+  "tags": ["java", "algoritmos", "estrutura de dados"]
 }]
