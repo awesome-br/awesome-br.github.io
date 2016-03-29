@@ -37,15 +37,27 @@
     "url": "http://tableless.com.br/author/leowgweb/"
   }
 }, {
-  "name": "Virtualhost script",
-  "url": "https://github.com/RoverWire/virtualhost",
+  "name": "Conhecendo o Tmux - Parte 1",
+  "url": "https://medium.com/@renatosuero/conhecendo-o-tmux-parte-1-a8edd8669bd8#.x1d3ypewc",
   "type": "tutorial",
   "tags": [
     "linux",
-    "recursos"
+    "tutorial"
   ],
   "author": {
-    "name": "Luis Felipe Perez",
-    "url": "https://github.com/RoverWire"
+    "name": "Renato Suero",
+    "url": "https://github.com/renatosuero"
   }
+}, {
+  "name": "Conhecendo o Tmux - Parte 2",
+  "url": "https://medium.com/@renatosuero/conhecendo-o-tmux-parte-2-14986421294a#.9h52cjo13",
+  "type": "tutorial",
+  "tags": [
+    "linux",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Renato Suero",
+    "url": "https://github.com/renatosuero"
+  },
 }]
