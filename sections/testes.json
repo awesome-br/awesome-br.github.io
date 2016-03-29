@@ -15,4 +15,18 @@
     "name": "Willian Justen",
     "url": "https://github.com/willianjusten/"
   }
-}]
+}, {
+  "name": "Cypress.io",
+  "url": "https://www.cypress.io/",
+  "type": "site",
+  "tags": [
+    "TDD",
+    "BDD",
+    "Ferramentas"
+  ],
+  "author": {
+    "name": "Cypress.io",
+    "url": "https://github.com/cypress-io/cypress"
+  }
+}
+]
