@@ -921,4 +921,17 @@
     "name": "Laracoders Group",
     "url": "https://www.youtube.com/channel/UCi-fQjr76bUs2yWYa6pFKVQ"
   }
+}, {
+  "name": "Criando Packages com Migrations no Laravel 5",
+  "url": "https://medium.com/@f.h.ferreira/criando-packages-com-migrations-no-laravel-5-aa0a1922f365",
+  "type": "artigo",
+  "tags": [
+    "laravel 5",
+    "packages",
+    "migrations"
+  ],
+  "author": {
+     "name": "Flávio Ferreira",
+     "url": "https://github.com/fhferreira"
+  }
 }]
