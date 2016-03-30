@@ -57,4 +57,15 @@
     "name": "Aurélio",
     "url": "http://aurelio.net/vim/"
   }
+}, {
+  "name": "Dicas de VIM para Noobs",
+  "url": "http://woliveiras.com.br/vimparanoobs/",
+  "type": "url",
+  "tags": [
+    "artigos", "tutoriais", "dicas"
+  ],
+  "author": {
+    "name": "William Oliveira",
+    "url": "http://woliveiras.com.br/"
+  }
 }]
