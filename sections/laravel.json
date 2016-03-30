@@ -909,4 +909,16 @@
     "name": "Caio Ceccon Bolognani",
     "url": "https://github.com/CbCaio"
   }
+}, {
+  "name": "Controle de Estoque com Laravel 5 1 do começo ao fim Parte 01",
+  "url": "https://www.youtube.com/watch?v=u9hSMixPau0",
+  "type": "hangout",
+  "tags": [
+    "laravel 5.1",
+    "introducao"
+  ],
+  "author": {
+    "name": "Laracoders Group",
+    "url": "https://www.youtube.com/channel/UCi-fQjr76bUs2yWYa6pFKVQ"
+  }
 }]
