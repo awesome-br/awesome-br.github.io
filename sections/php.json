@@ -138,4 +138,17 @@
     "name": "Rafael Mello",
     "url": "https://merorafael.wordpress.com/"
   }
+}, {
+  "name": "OMR (Optical Mark Recognition) com o PHP",
+  "url": "https://jansenfelipe.com.br/2016/03/21/optical-mark-recognition-com-o-php/",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "omr",
+    "package"
+  ],
+  "author": {
+    "name": "Jansen Felipe",
+    "url": "https://github.com/jansenfelipe"
+  }
 }]
