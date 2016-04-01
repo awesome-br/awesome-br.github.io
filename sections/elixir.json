@@ -1,0 +1,25 @@
+[{
+  "name": "Elixir School",
+  "url": "https://elixirschool.com/pt/",
+  "type": "Tutorial",
+  "tags": [
+    "introdução",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Sean Callan",
+    "url": "https://github.com/doomspork"
+  }
+},{
+  "name": "Criando um chat utilizando Elixir e Phoenix",
+  "url": "https://medium.com/@amandasposito/criando-um-chat-utilizando-elixir-e-phoenix-6fbf5d9ed996#.u5vvlqdhb",
+  "type": "Tutorial",
+  "tags": [
+    "introdução",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Amanda Sposito",
+    "url": "https://twitter.com/mandysposito"
+  }
+}]
