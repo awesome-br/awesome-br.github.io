@@ -1,7 +1,7 @@
 [{
   "name": "Elixir School",
   "url": "https://elixirschool.com/pt/",
-  "type": "Tutorial",
+  "type": "tutorial",
   "tags": [
     "introdução",
     "tutorial"
@@ -13,7 +13,7 @@
 },{
   "name": "Criando um chat utilizando Elixir e Phoenix",
   "url": "https://medium.com/@amandasposito/criando-um-chat-utilizando-elixir-e-phoenix-6fbf5d9ed996#.u5vvlqdhb",
-  "type": "Tutorial",
+  "type": "tutorial",
   "tags": [
     "introdução",
     "tutorial"
