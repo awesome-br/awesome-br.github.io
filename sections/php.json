@@ -124,4 +124,18 @@
     "name": "Rafael Mello",
     "url": "https://merorafael.wordpress.com/"
   }
+}, {
+  "name": "Armazenando sessão do Symfony no AWS DynamoDB",
+  "url": "https://merorafael.wordpress.com/2016/03/30/armazenando-sessao-do-symfony-no-aws-dynamodb/",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "aws",
+    "dynamodb",
+    "symfony"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://merorafael.wordpress.com/"
+  }
 }]

@@ -909,4 +909,41 @@
     "name": "Caio Ceccon Bolognani",
     "url": "https://github.com/CbCaio"
   }
+}, {
+  "name": "Controle de Estoque com Laravel 5 1 do começo ao fim Parte 01",
+  "url": "https://www.youtube.com/watch?v=u9hSMixPau0",
+  "type": "hangout",
+  "tags": [
+    "laravel 5.1",
+    "introducao"
+  ],
+  "author": {
+    "name": "Laracoders Group",
+    "url": "https://www.youtube.com/channel/UCi-fQjr76bUs2yWYa6pFKVQ"
+  }
+}, {
+  "name": "Criando Packages com Migrations no Laravel 5",
+  "url": "https://medium.com/@f.h.ferreira/criando-packages-com-migrations-no-laravel-5-aa0a1922f365",
+  "type": "artigo",
+  "tags": [
+    "laravel 5",
+    "packages",
+    "migrations"
+  ],
+  "author": {
+     "name": "Flávio Ferreira",
+     "url": "https://github.com/fhferreira"
+  }
+}, {
+  "name": "Controle de Estoque com Laravel 5 1 do começo ao fim Parte 02",
+  "url": "https://www.youtube.com/watch?v=CiKSriUraug",
+  "type": "hangout",
+  "tags": [
+    "laravel 5.1",
+    "introducao"
+  ],
+  "author": {
+    "name": "Laracoders Group",
+    "url": "https://www.youtube.com/channel/UCi-fQjr76bUs2yWYa6pFKVQ"
+  }
 }]
