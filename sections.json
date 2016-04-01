@@ -39,6 +39,11 @@
   "type": "design",
   "tags": []
 }, {
+  "name": "Elixir",
+  "url": "#/elixir",
+  "type": "Linguagem de programação",
+  "tags": []
+}, {
   "name": "Ember.JS",
   "url": "#/ember",
   "type": "Framework Javascript",
