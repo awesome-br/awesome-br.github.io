@@ -946,4 +946,16 @@
     "name": "Laracoders Group",
     "url": "https://www.youtube.com/channel/UCi-fQjr76bUs2yWYa6pFKVQ"
   }
+}, {
+  "name": "Controle de Estoque com Laravel 5 1 do começo ao fim Parte 03",
+  "url": "https://www.youtube.com/watch?v=XL9che13_yI",
+  "type": "hangout",
+  "tags": [
+    "laravel 5.1",
+    "introducao"
+  ],
+  "author": {
+    "name": "Laracoders Group",
+    "url": "https://www.youtube.com/channel/UCi-fQjr76bUs2yWYa6pFKVQ"
+  }
 }]
