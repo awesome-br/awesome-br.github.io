@@ -1,0 +1,29 @@
+[{
+  "name": "MongoDB - Trabalhando com o terminal - CRUD - Parte 1",
+  "url": "http://nomadev.com.br/mongodb-trabalhando-com-o-terminal-parte-1/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "JS",
+    "Python"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "MongoDB - Remodelagem do Relacional para o MongoDb",
+  "url": "http://nomadev.com.br/mongodb-remodelagem-do-relacional-para-o-mongodb/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "JS",
+    "Python"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}]
