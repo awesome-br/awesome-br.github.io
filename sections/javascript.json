@@ -340,4 +340,29 @@
     "name": "Alex Miranda",
     "url": "https://github.com/amwebdesigner"
   }
+}, {
+  "name": "Módulos no JavaScript moderno",
+  "url": "https://braziljs.org/blog/modulos-no-javascript-moderno/",
+  "type": "artigo",
+  "tags": [
+    "design pattern",
+    "es6"
+  ],
+  "author": {
+    "name": "Jaydson Gomes",
+    "url": "http://jaydson.org/"
+  }
+}, {
+  "name": "Module folding: matando o código morto",
+  "url": "https://braziljs.org/blog/module-folding-matando-o-codigo-morto/",
+  "type": "artigo",
+  "tags": [
+    "design pattern",
+    "es6",
+    "webpack"
+  ],
+  "author": {
+    "name": "Fabrício Matté",
+    "url": "https://twitter.com/Ult_Combo"
+  }
 }]
