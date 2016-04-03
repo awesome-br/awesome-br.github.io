@@ -5,8 +5,7 @@
   "tags": [
     "MongoDb",
     "Banco de Dados",
-    "JS",
-    "Python"
+    "JS"
   ],
   "author": {
     "name": "Jean Carlo Nascimento - Suissa",
@@ -19,8 +18,33 @@
   "tags": [
     "MongoDb",
     "Banco de Dados",
-    "JS",
-    "Python"
+    "JS"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "MongoDb - Como renomear campos",
+  "url": "http://nomadev.com.br/mongodb-como-renomear-campos/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "JS"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "Aprendendo MongoDb a partir do Relacional",
+  "url": "http://nomadev.com.br/aprendendo-mongodb-a-partir-do-relacional/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "JS"
   ],
   "author": {
     "name": "Jean Carlo Nascimento - Suissa",
