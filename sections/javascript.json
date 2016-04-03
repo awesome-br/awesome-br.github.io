@@ -327,4 +327,17 @@
     "name": "Jean Carlo Emer",
     "url": "http://jcemer.com/"
   }
+}, {
+  "name": "Uma visão detalhada sobre instanciação de variaveis no JavaScript",
+  "url": "http://tableless.com.br/uma-visao-detalhada-sobre-instanciacao-de-variaveis-no-javascript/",
+  "type": "artigo",
+  "tags": [
+    "scope",
+    "hoisting",
+    "variaveis"
+  ],
+  "author": {
+    "name": "Alex Miranda",
+    "url": "https://github.com/amwebdesigner"
+  }
 }]
