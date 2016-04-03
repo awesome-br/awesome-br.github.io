@@ -365,4 +365,64 @@
     "name": "Fabrício Matté",
     "url": "https://twitter.com/Ult_Combo"
   }
+}, {
+  "name": "Aprenda Call, Apply e Bind em JavaScript Para Sempre e Com Exemplos",
+  "url": "http://programadorobjetivo.co/call-apply-e-bind-em-javascript/",
+  "type": "artigo",
+  "tags": [
+    "design pattern",
+    "this"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
+}, {
+  "name": "Boas Práticas JavaScript - Desacoplamento das Camadas de Usuário",
+  "url": "http://programadorobjetivo.co/boas-praticas-javascript-desacoplamento-das-camadas-de-usuario/",
+  "type": "artigo",
+  "tags": [
+    "arquiteta",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
+}, {
+  "name": "Boas Práticas Javascript - Evite Variáveis Globais",
+  "url": "http://programadorobjetivo.co/boas-praticas-javascript-evite-globais/",
+  "type": "artigo",
+  "tags": [
+    "escopo",
+    "namespace",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
+}, {
+  "name": "Boas Práticas JavaScript - Manipulação de Eventos",
+  "url": "http://programadorobjetivo.co/boas-praticas-javascript-manipulacao-de-eventos/",
+  "type": "artigo",
+  "tags": [
+    "eventos",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
+}, {
+  "name": "Boas Práticas JavaScript - Saiba Usar typeof, in, instanceof, hasOwnProperty e Evite Comparações com Null",
+  "url": "http://programadorobjetivo.co/boas-praticas-javascript-typeof-instanceof-in-hasownproperty/",
+  "type": "artigo",
+  "tags": [
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
 }]
