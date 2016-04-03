@@ -425,4 +425,27 @@
     "name": "Johel Carvalho",
     "url": "http://programadorobjetivo.co/"
   }
+}, {
+  "name": "Domine JavaScript 'this' com 3 Exemplos",
+  "url": "http://programadorobjetivo.co/domine-javascript-this-com-3-exemplos-simples/",
+  "type": "artigo",
+  "tags": [
+    "this"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
+}, {
+  "name": "O Segredo dos JavaScript Constructors",
+  "url": "http://programadorobjetivo.co/o-segredo-dos-javascript-constructors/",
+  "type": "artigo",
+  "tags": [
+    "this",
+    "constructors"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
 }]
