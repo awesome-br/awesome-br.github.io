@@ -283,4 +283,48 @@
     "name": "Jaime Neves",
     "url": "https://medium.com/@dejaneves"
   }
+}, {
+  "name": "Exercícios Simples de JavaScript para Entrevista",
+  "url": "http://tableless.com.br/exercicios-simples-de-javascript-para-entrevista/",
+  "type": "artigo",
+  "tags": [
+    "exercicios"
+  ],
+  "author": {
+    "name": "Wendell Adriel",
+    "url": "https://twitter.com/wendell_adriel"
+  }
+}, {
+  "name": "Fluxo de execução assíncrono em JavaScript – Generators e Async Functions",
+  "url": "http://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-generators-e-async-functions/",
+  "type": "artigo",
+  "tags": [
+    "design pattern"
+  ],
+  "author": {
+    "name": "Jean Carlo Emer",
+    "url": "http://jcemer.com/"
+  }
+}, {
+  "name": "Fluxo de execução assíncrono em JavaScript – Callbacks",
+  "url": "http://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-callbacks/",
+  "type": "artigo",
+  "tags": [
+    "design pattern"
+  ],
+  "author": {
+    "name": "Jean Carlo Emer",
+    "url": "http://jcemer.com/"
+  }
+}, {
+  "name": "Fluxo de execução assíncrono em JavaScript – Promises",
+  "url": "http://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-promises/",
+  "type": "artigo",
+  "tags": [
+    "design pattern"
+  ],
+  "author": {
+    "name": "Jean Carlo Emer",
+    "url": "http://jcemer.com/"
+  }
 }]
