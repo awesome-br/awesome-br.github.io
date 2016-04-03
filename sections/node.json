@@ -128,4 +128,16 @@
     "name": "Jean Carlos Nascimento",
     "url": "http://nomadev.com.br"
   }
+}, {
+  "name": "Node.js Design Patterns",
+  "url": "http://nomadev.com.br/node-js-design-patterns-fundamentais-padr%C3%B5es-de-projeto/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "design patterns"
+  ],
+  "author": {
+    "name": "Jean Carlos Nascimento",
+    "url": "http://nomadev.com.br"
+  }
 }]
