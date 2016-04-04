@@ -152,4 +152,16 @@
     "name": "Jean Carlos Nascimento",
     "url": "http://nomadev.com.br"
   }
+}, {
+  "name": "Node.js - Como passar parâmetros para um módulo? Com injeção de dependência.",
+  "url": "http://nomadev.com.br/node-js-como-passar-par%C3%A2metros-para-um-m%C3%B3dulo-inje%C3%A7%C3%A3o-de-dependencia/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "DI"
+  ],
+  "author": {
+    "name": "Jean Carlos Nascimento",
+    "url": "http://nomadev.com.br"
+  }
 }]
