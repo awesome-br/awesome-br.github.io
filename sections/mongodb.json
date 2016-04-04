@@ -50,4 +50,30 @@
     "name": "Jean Carlo Nascimento - Suissa",
     "url": "https://github.com/suissa"
   }
+}, {
+  "name": "MongoDb - Como mudar seu jeito relacional de pensar - Parte 1",
+  "url": "http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "JS"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "MongoDb - Como mudar seu jeito relacional de pensar - Parte 2",
+  "url": "http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar-parte-2/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "JS"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
 }]
