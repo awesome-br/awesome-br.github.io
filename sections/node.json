@@ -140,4 +140,16 @@
     "name": "Jean Carlos Nascimento",
     "url": "http://nomadev.com.br"
   }
+}, {
+  "name": "Node.js - Como mostrar o que está sendo instalado pelo NPM?",
+  "url": "http://nomadev.com.br/node-js-como-mostrar-o-que-est%C3%A1-sendo-instalado-pelo-npm/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "npm"
+  ],
+  "author": {
+    "name": "Jean Carlos Nascimento",
+    "url": "http://nomadev.com.br"
+  }
 }]
