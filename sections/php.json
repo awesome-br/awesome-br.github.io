@@ -151,4 +151,17 @@
     "name": "Jansen Felipe",
     "url": "https://github.com/jansenfelipe"
   }
+}, {
+  "name": "Tutorial de funções Curl (PHP)",
+  "url": "http://gabrieldeveloper.com.br/php/item/11-tutorial-de-funcoes-curl-php",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "curl",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Gabriel Gonçalves",
+    "url": "http://gabrieldeveloper.com.br/"
+  }
 }]
