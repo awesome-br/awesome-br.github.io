@@ -164,4 +164,16 @@
     "name": "Jean Carlos Nascimento",
     "url": "http://nomadev.com.br"
   }
+}, {
+  "name": "Node não funciona no Ubuntu 14.04",
+  "url": "http://gabrieldeveloper.com.br/javascript/item/16-node-nao-funciona-no-ubuntu-14-04",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "ubuntu"
+  ],
+  "author": {
+    "name": "Gabriel Gonçalves",
+    "url": "http://gabrieldeveloper.com.br/"
+  }
 }]
