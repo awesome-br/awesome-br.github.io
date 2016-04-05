@@ -448,4 +448,17 @@
     "name": "Johel Carvalho",
     "url": "http://programadorobjetivo.co/"
   }
+}, {
+  "name": "Javascript- Estrutura de Dados - Pilha",
+  "url": "http://nomadev.com.br/estrutura-de-dados-pilha/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "estrutura de dados",
+    "pilha"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
 }]
