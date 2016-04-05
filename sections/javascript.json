@@ -461,4 +461,17 @@
     "name": "Jean Carlo Nascimento - Suissa",
     "url": "https://github.com/suissa"
   }
+}, {
+  "name": "Criando Calendário com Jquery",
+  "url": "http://gabrieldeveloper.com.br/javascript/item/10-criando-calendario-com-jquery",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "jquery",
+    "calendario"
+  ],
+  "author": {
+    "name": "Gabriel Gonçalves",
+    "url": "http://gabrieldeveloper.com.br/"
+  }
 }]
