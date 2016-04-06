@@ -164,4 +164,17 @@
     "name": "Gabriel Gonçalves",
     "url": "http://gabrieldeveloper.com.br/"
   }
+}, {
+  "name": "Tutorial de funções Json em PHP",
+  "url": "http://gabrieldeveloper.com.br/php/item/5-tutorial-de-funcoes-json-em-php",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "json",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Gabriel Gonçalves",
+    "url": "http://gabrieldeveloper.com.br/"
+  }
 }]
