@@ -474,4 +474,16 @@
     "name": "Gabriel Gonçalves",
     "url": "http://gabrieldeveloper.com.br/"
   }
+}, {
+  "name": "JavaScript- Promises",
+  "url": "http://nomadev.com.br/javascript-promises/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "promisses"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
 }]
