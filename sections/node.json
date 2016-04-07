@@ -176,4 +176,16 @@
     "name": "Gabriel Gonçalves",
     "url": "http://gabrieldeveloper.com.br/"
   }
+}, {
+  "name": "Node.js - Dica de performance - tamanho da função",
+  "url": "http://nomadev.com.br/node-js-dica-de-performance-tamanho-da-fun%C3%A7%C3%A3o/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "performance"
+  ],
+  "author": {
+    "name": "Jean Carlos Nascimento",
+    "url": "http://nomadev.com.br"
+  }
 }]
