@@ -164,5 +164,18 @@
       "name": "Jansen Felipe",
       "url": "http://jansenfelipe.com.br"
     }
+  }, {
+    "name": "Angular 2.0 Novidades",
+    "url": "https://www.youtube.com/watch?v=4rvJuPCVF8w",
+    "type": "video",
+    "tags": [
+      "angular2",
+      "novidades"
+    ],
+    "author": {
+      "name": "Priscila Negreiros",
+      "url": "https://github.com/priscilacng"
+    }
   }
+
 ]
