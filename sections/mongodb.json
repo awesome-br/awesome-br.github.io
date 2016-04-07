@@ -76,4 +76,17 @@
     "name": "Jean Carlo Nascimento - Suissa",
     "url": "https://github.com/suissa"
   }
+}, {
+  "name": "Be MEAN - MongoDB - Como usar Replica",
+  "url": "http://nomadev.com.br/be-mean-mongodb-como-usar-replica/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "Replica"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
 }]
