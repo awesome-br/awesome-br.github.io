@@ -89,4 +89,17 @@
     "name": "Jean Carlo Nascimento - Suissa",
     "url": "https://github.com/suissa"
   }
+}, {
+  "name": "Como instalar o MongoDb no Fedora?",
+  "url": "http://nomadev.com.br/como-instalar-o-mongodb-no-fedora/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "Fedora"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
 }]
