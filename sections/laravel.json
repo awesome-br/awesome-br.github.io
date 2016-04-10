@@ -958,4 +958,17 @@
     "name": "Laracoders Group",
     "url": "https://www.youtube.com/channel/UCi-fQjr76bUs2yWYa6pFKVQ"
   }
+}, {
+  "name": "Paginação avançada com Laravel e Vue.js",
+  "url": "https://www.youtube.com/watch?v=-0IFTI4FYDc",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "vue.js",
+    "paginacao"
+  ],
+  "author": {
+    "name": "Fabio Vedovelli",
+    "url": "http://www.vedovelli.com.br/"
+  }
 }]
