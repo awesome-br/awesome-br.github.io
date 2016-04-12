@@ -177,4 +177,17 @@
     "name": "Gabriel Gonçalves",
     "url": "http://gabrieldeveloper.com.br/"
   }
+}, {
+  "name": "JSON Web Tokens - JWT",
+  "url": "https://www.youtube.com/watch?v=k3KfK0ZS_FY",
+  "type": "video",
+  "tags": [
+    "php",
+    "json",
+    "JWT"
+  ],
+  "author": {
+    "name": "Fabio Vedovelli",
+    "url": "http://www.vedovelli.com.br"
+  }
 }]
