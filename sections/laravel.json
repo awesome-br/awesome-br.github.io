@@ -971,4 +971,17 @@
     "name": "Fabio Vedovelli",
     "url": "http://www.vedovelli.com.br/"
   }
+}, {
+  "name": "Autenticando sua API via TOKEN no Laravel 5.2",
+  "url": "http://lucasmacedo.blog.br/autenticacao-sua-api-via-token-no-laravel-5-2/",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "token",
+    "api"
+  ],
+  "author": {
+    "name": "Lucas Macedo",
+    "url": "http://lucasmacedo.blog.br/"
+  }
 }]
