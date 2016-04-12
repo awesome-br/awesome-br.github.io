@@ -188,4 +188,16 @@
     "name": "Jean Carlos Nascimento",
     "url": "http://nomadev.com.br"
   }
+}, {
+  "name": "Node.js - Playlist de vídeos",
+  "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq",
+  "type": "video",
+  "tags": [
+    "nodejs",
+    "playlist"
+  ],
+  "author": {
+    "name": "Rodrigo Branas",
+    "url": "https://twitter.com/rodrigobranas"
+  }
 }]
