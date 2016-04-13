@@ -984,4 +984,17 @@
     "name": "Lucas Macedo",
     "url": "http://lucasmacedo.blog.br/"
   }
+}, {
+  "name": "Laravel e Presenter",
+  "url": "https://www.youtube.com/watch?v=pfPFYO7CAZs",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "presenter",
+    "design patterns"
+  ],
+  "author": {
+    "name": "Fabio Vedovelli",
+    "url": "http://www.vedovelli.com.br/"
+  }
 }]
