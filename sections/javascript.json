@@ -1,4 +1,17 @@
 [{
+  "name": "Como criar página com mais de um idioma",
+  "url": "http://www.lucaslimamuller.com.br/blog/como-criar-pagina-com-mais-de-um-idioma/",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "dica",
+    "javascript"
+  ],
+  "author": {
+    "name": "Lucas Lima Muller",
+    "url": "http://www.lucaslimamuller.com.br/"
+  }
+}, {
   "name": "Informações gerais sobre Javascript",
   "url": "http://pt.stackoverflow.com/tags/javascript/info",
   "type": "documentação",
