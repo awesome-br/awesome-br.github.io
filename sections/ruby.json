@@ -36,4 +36,16 @@
     "name": "Eustáquio Rangel",
     "url": "http://eustaquiorangel.com/"
   }
+},{
+  "name": "RSpec Guidelines with Ruby",
+  "url": "http://betterspecs.org/br/",
+  "type": "Tutorial",
+  "tags": [
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Andrea Reginato",
+    "url": "https://twitter.com/andreareginato"
+  }
 }]
