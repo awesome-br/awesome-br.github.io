@@ -22,4 +22,18 @@
     "name": "Lucas Souza",
     "url": "https://github.com/lucasas"
   }
+}, {
+  "name": "Conhecendo Ruby",
+  "url": "https://leanpub.com/conhecendo-ruby",
+  "type": "livro",
+  "tags": [
+    "livro",
+    "ebook",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Eustáquio Rangel",
+    "url": "http://eustaquiorangel.com/"
+  }
 }]
