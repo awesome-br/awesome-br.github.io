@@ -190,4 +190,17 @@
     "name": "Fabio Vedovelli",
     "url": "http://www.vedovelli.com.br"
   }
+}, {
+  "name": "Melhorando a performance do PHPUnit",
+  "url": "http://eltonminetto.net/blog/2016/04/08/melhorando-a-performance-do-phpunit/",
+  "type": "tutorial",
+  "tags": [
+    "php",
+    "phpunit",
+    "testes"
+  ],
+  "author": {
+    "name": "Elton Minetto",
+    "url": "http://eltonminetto.net/"
+  }
 }]
