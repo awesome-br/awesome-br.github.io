@@ -28,4 +28,17 @@
     "name": "Diego Garcia",
     "url": "http://www.codeforcloud.info/"
   }
+}, {
+  "name": "Docker para desenvolvedores",
+  "url": "https://leanpub.com/dockerparadesenvolvedores",
+  "type": "livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Rafael Gomes & Luiz Armando Bianchin",
+    "url": "http://techfree.com.br/"
+  }
 }]
