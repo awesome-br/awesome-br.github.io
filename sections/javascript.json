@@ -499,4 +499,16 @@
     "name": "Jean Carlo Nascimento - Suissa",
     "url": "https://github.com/suissa"
   }
+}, {
+  "name": "Entendendo Programação Funcional em JavaScript de uma vez",
+  "url": "http://imasters.com.br/front-end/javascript/entendendo-programacao-funcional-em-javascript-de-uma-vez",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "programacao funcional"
+  ],
+  "author": {
+    "name": "Matheus Lima",
+    "url": "http://imasters.com.br/"
+  }
 }]
