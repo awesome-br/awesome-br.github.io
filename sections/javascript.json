@@ -499,4 +499,30 @@
     "name": "Jean Carlo Nascimento - Suissa",
     "url": "https://github.com/suissa"
   }
-}]
+}, {
+  "name": "ES6 - Arrow Functions",
+  "url": "http://nipher.io/ES6-arrow-functions",
+  "type": "artigo",
+  "tags": [
+  "javascript",
+  "arrow functions"
+  ],
+  "author": {
+    "name": "Jonas Mendes",
+    "url": "http://nipher.io"
+  }
+  }, {
+  "name": "ES6 - Let, Const & Blocks",
+  "url": "http://nipher.io/ES6-let-const-blocks",
+  "type": "artigo",
+  "tags": [
+  "javascript",
+  "es6",
+  "const",
+  "let"
+  ],
+  "author": {
+    "name": "Jonas Mendes",
+    "url": "http://nipher.io"
+  }
+  }]
