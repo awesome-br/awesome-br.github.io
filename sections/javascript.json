@@ -500,29 +500,27 @@
     "url": "https://github.com/suissa"
   }
 }, {
-  "name": "ES6 - Arrow Functions",
-  "url": "http://nipher.io/ES6-arrow-functions",
+  "name": "Entendendo Programação Funcional em JavaScript de uma vez",
+  "url": "http://imasters.com.br/front-end/javascript/entendendo-programacao-funcional-em-javascript-de-uma-vez",
   "type": "artigo",
   "tags": [
-  "javascript",
-  "arrow functions"
+    "javascript",
+    "programacao funcional"
   ],
   "author": {
-    "name": "Jonas Mendes",
-    "url": "http://nipher.io"
+    "name": "Matheus Lima",
+    "url": "http://imasters.com.br/"
   }
-  }, {
-  "name": "ES6 - Let, Const & Blocks",
-  "url": "http://nipher.io/ES6-let-const-blocks",
+}, {
+ "name": "Entendendo Programação Funcional em JavaScript de uma vez",
+  "url": "http://imasters.com.br/front-end/javascript/entendendo-programacao-funcional-em-javascript-de-uma-vez",
   "type": "artigo",
   "tags": [
-  "javascript",
-  "es6",
-  "const",
-  "let"
+    "javascript",
+    "programacao funcional"
   ],
   "author": {
-    "name": "Jonas Mendes",
-    "url": "http://nipher.io"
+    "name": "Matheus Lima",
+    "url": "http://imasters.com.br/"
   }
-  }]
+}]
