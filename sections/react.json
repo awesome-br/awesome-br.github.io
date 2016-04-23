@@ -44,4 +44,14 @@
     "name": "Daniel Schmitz",
     "url": "https://leanpub.com/u/danielschmitz"
   }
+}, {
+  "name": "Palestra ReactJS (Biblioteca de UI do Facebook) ",
+  "url": "https://www.youtube.com/watch?v=gIGB0061wzM",
+  "type": "palestra",
+  "tags": ["introdução", "palestra", "vídeo", "youtube"],
+  "paid" : false,
+  "author": {
+    "name": "Zeu Cxb",
+    "url": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA"
+  }
 }]
