@@ -871,17 +871,17 @@
     "url": "https://github.com/giordanolima"
   }
 }, {
-    "name": "Integração com o paypal",
-    "url": "https://packagist.org/packages/resultsystems/laravel-paypal",
-    "type": "pacote",
-    "tags": [
-        "laravel",
-        "package"
-    ],
-    "author": {
-        "name": "Leandro Henrique Reis",
-        "url": "https://github.com/emtudo"
-    }
+  "name": "Integração com o paypal",
+  "url": "https://packagist.org/packages/resultsystems/laravel-paypal",
+  "type": "pacote",
+  "tags": [
+    "laravel",
+    "package"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
 }, {
   "name": "Referências de Conteúdo Para Aprendizado Sobre Laravel",
   "url": "https://medium.com/@cbcaio/intro-refer%C3%AAncias-de-conte%C3%BAdo-66485ecdadf8#.2gbq8f2td",
@@ -931,8 +931,8 @@
     "migrations"
   ],
   "author": {
-     "name": "Flávio Ferreira",
-     "url": "https://github.com/fhferreira"
+    "name": "Flávio Ferreira",
+    "url": "https://github.com/fhferreira"
   }
 }, {
   "name": "Controle de Estoque com Laravel 5 1 do começo ao fim Parte 02",

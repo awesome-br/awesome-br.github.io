@@ -16,8 +16,7 @@
     "name": "eXcript",
     "url": "https://www.youtube.com/user/excriptvideo"
   }
-},
-{
+}, {
   "name": "Criando um jogo de nave",
   "url": "https://www.youtube.com/playlist?list=PL56AC0623D793C945",
   "type": "tutorial",
@@ -26,18 +25,16 @@
     "name": "Yann Braga",
     "url": ""
   }
-},
-{
+}, {
   "name": "Criando um jogo com JPlay",
   "url": "https://www.youtube.com/playlist?list=PLnOrFdw5rkTzLcPRa_JKmpMqzNGIlLi3r",
   "type": "tutorial",
-  "tags": ["desenvolvimento de games", "jplay","playlist"],
+  "tags": ["desenvolvimento de games", "jplay", "playlist"],
   "author": {
     "name": "Luiz Alberto",
     "url": ""
   }
-},
-{
+}, {
   "name": "JavaFX 8",
   "url": "http://code.makery.ch/library/javafx-8-tutorial/pt/",
   "type": "tutorial",
@@ -46,26 +43,22 @@
     "name": "Luiz Alberto",
     "url": ""
   }
-},
-{
+}, {
   "name": "Java e Orientação a Objetos",
   "url": "https://www.caelum.com.br/apostila-java-orientacao-objetos/",
   "type": "apostila",
   "tags": ["java", "orientação a objetos"]
-},
-{
+}, {
   "name": "Java para Desenvolvimento Web",
   "url": "https://www.caelum.com.br/apostila-java-web/",
   "type": "apostila",
   "tags": ["java", "desenvolvimento web"]
-},
-{
+}, {
   "name": "Lab. Java com Testes, JSF e Design Patterns",
   "url": "https://www.caelum.com.br/apostila-java-testes-jsf-web-services-design-patterns/",
   "type": "apostila",
   "tags": ["java", "tdd", "design patterns", "jsf"]
-},
-{
+}, {
   "name": "Algoritmos e Estruturas de Dados com Java",
   "url": "https://www.caelum.com.br/apostila-java-estrutura-dados/",
   "type": "apostila",

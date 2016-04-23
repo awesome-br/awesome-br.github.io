@@ -92,31 +92,31 @@
     "playlist", "curso", "básico"
   ]
 }, {
-  "name" : "Python + Arduino: Comunicação Serial",
-  "url" : "http://www.embarcados.com.br/python-e-arduino-comunicacao-serial/",
-  "type" : "artigo",
-  "tags" : [
+  "name": "Python + Arduino: Comunicação Serial",
+  "url": "http://www.embarcados.com.br/python-e-arduino-comunicacao-serial/",
+  "type": "artigo",
+  "tags": [
     "arduino",
     "serial",
     "robótica"
-    ]
-}, {
-  "name" : "Configurando, e monitorando servidores de produção",
-  "url" : "http://pythonclub.com.br/configurando-um-servidor-de-producao-para-aplicacoes-python.html",
-  "type" : "artigo",
-  "tags" : [
-  "servidor",
-  "produção",
-  "wsgi",
-  "virtualenv",
-  "gunicorn"
   ]
 }, {
-  "name" : "Entendendo funções anônimas : Lambda",
-  "url" : "http://blog.alienretro.com/entendendo-python-lambda/",
-  "type" : "artigo",
-  "tags" : [
+  "name": "Configurando, e monitorando servidores de produção",
+  "url": "http://pythonclub.com.br/configurando-um-servidor-de-producao-para-aplicacoes-python.html",
+  "type": "artigo",
+  "tags": [
+    "servidor",
+    "produção",
+    "wsgi",
+    "virtualenv",
+    "gunicorn"
+  ]
+}, {
+  "name": "Entendendo funções anônimas : Lambda",
+  "url": "http://blog.alienretro.com/entendendo-python-lambda/",
+  "type": "artigo",
+  "tags": [
     "lambda",
     "intermediário"
-  ]}
-]
+  ]
+}]
