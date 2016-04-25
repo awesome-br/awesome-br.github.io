@@ -9,9 +9,7 @@
     "name": "Fábio Pimentel",
     "url": "https://github.com/fabiopimentel"
   }
-},
-,
-{
+}, {
   "name": "ReactiveCocoa + MVVM",
   "url": "http://equinocios.com/reactive/2016/03/29/Reactivecocoa-+-MVVM/",
   "type": "artigo",
@@ -22,8 +20,7 @@
     "name": "Alessandro Santos",
     "url": "http://equinocios.com"
   }
-},
-{
+}, {
   "name": "Introdução sobre Runtime em Objective-C",
   "url": "http://equinocios.com/runtime/2016/03/23/introducao-sobre-runtime-em-objective-c/",
   "type": "artigo",
@@ -35,8 +32,7 @@
     "name": "Fernanda Gadeia",
     "url": "http://equinocios.com"
   }
-},
-{
+}, {
   "name": "Auto Layout com Visual Format",
   "url": "http://equinocios.com/ios/2016/03/21/visual-format/",
   "type": "artigo",
@@ -48,8 +44,7 @@
     "name": "Daniel Bonates",
     "url": "http://equinocios.com"
   }
-},
-{
+}, {
   "name": "Backend usando Swift ? Sim, é possível!",
   "url": "http://equinocios.com/open-source/2016/03/20/backend-usando-swift-sim-e-possivel/",
   "type": "artigo",
@@ -61,5 +56,4 @@
     "name": "Thiago Holanda",
     "url": "http://equinocios.com"
   }
-}
-]
+}]
