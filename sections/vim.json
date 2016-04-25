@@ -68,4 +68,15 @@
     "name": "William Oliveira",
     "url": "http://woliveiras.com.br/"
   }
+}, {
+  "name": "VIM. Um editor viciante!",
+  "url": "http://igorcorradi.com/posts/vim-um-editor-viciante",
+  "type": "url",
+  "tags": [
+    "artigos", "tutoriais", "dicas"
+  ],
+  "author": {
+    "name": "Igor Corradi",
+    "url": "http://www.igorcorradi.com"
+  }
 }]
