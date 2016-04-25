@@ -203,4 +203,30 @@
     "name": "Elton Minetto",
     "url": "http://eltonminetto.net/"
   }
+}, {
+  "name": "PHP para Adultos: Clean Code e Object Calisthenics",
+  "url": "http://pt.slideshare.net/guilhermeblanco/php-para-adultos-clean-code-e-object-calisthenics",
+  "type": "slideshare",
+  "tags": [
+    "POO",
+    "clean code",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Guilherme Blanco",
+    "url": "https://github.com/guilhermeblanco"
+  }
+}, {
+  "name": "PHP para Adultos – Object Calisthenics e Clean Code - Guilherme Blanco no InterCon PHP 2014",
+  "url": "https://www.youtube.com/watch?v=u-w4eULRrr0",
+  "type": "tutorial",
+  "tags": [
+    "POO",
+    "clean code",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Guilherme Blanco",
+    "url": "https://github.com/guilhermeblanco"
+  }
 }]
