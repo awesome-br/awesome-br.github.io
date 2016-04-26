@@ -229,4 +229,17 @@
     "name": "Guilherme Blanco",
     "url": "https://github.com/guilhermeblanco"
   }
+}, {
+  "name": "Os valores de configuração são dependências também",
+  "url": "http://imasters.com.br/linguagens/php/os-valores-de-configuracao-sao-dependencias-tambem",
+  "type": "artigo",
+  "tags": [
+    "PHP",
+    "DI",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Paul M. Jones",
+    "url": "http://imasters.com.br/"
+  }
 }]
