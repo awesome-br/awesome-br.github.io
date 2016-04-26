@@ -41,4 +41,56 @@
     "name": "Rafael Gomes & Luiz Armando Bianchin",
     "url": "http://techfree.com.br/"
   }
+},  {
+  "name": "Uma rápida introdução ao Docker e instalação no Ubuntu",
+  "url": "http://woliveiras.com.br/posts/uma-rapida-introducao-ao-docker-e-instalacao-no-ubuntu/",
+  "type": "url",
+  "tags": [
+    "tutorial",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "William de Oliveira Souza",
+    "url": "http://woliveiras.com.br/"
+  }
+}, {
+  "name": "O que é uma imagem e o que é um container Docker?",
+  "url": "http://woliveiras.com.br/posts/imagem-docker-ou-um-container-docker/",
+  "type": "url",
+  "tags": [
+    "tutorial",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "William de Oliveira Souza",
+    "url": "http://woliveiras.com.br/"
+  }
+}, {
+  "name": "Comandos mais utilizados no Docker",
+  "url": "http://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/",
+  "type": "url",
+  "tags": [
+    "tutorial",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "William de Oliveira Souza",
+    "url": "http://woliveiras.com.br/"
+  }
+}, {
+  "name": "Criando uma imagem Docker personalizada",
+  "url": "http://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/",
+  "type": "url",
+  "tags": [
+    "tutorial",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "William de Oliveira Souza",
+    "url": "http://woliveiras.com.br/"
+  }
 }]
