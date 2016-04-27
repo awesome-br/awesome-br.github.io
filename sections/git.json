@@ -162,4 +162,17 @@
     "name": "Rodrigo Branas",
     "url": "https://twitter.com/rodrigobranas"
   }
+}, {
+  "name": "Contribuindo para projetos Open Source no GitHub, mesmo sendo iniciante",
+  "url": "http://woliveiras.com.br/posts/contribuindo-para-projetos-open-source-no-github-mesmo-sendo-iniciante/",
+  "type": "artigo",
+  "tags": [
+    "git",
+    "introdução",
+    "github"
+  ],
+  "author": {
+    "name": "William Oliveira Souza",
+    "url": "http://woliveiras.com.br"
+  }
 }]
