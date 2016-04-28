@@ -176,6 +176,17 @@
       "name": "Priscila Negreiros",
       "url": "https://github.com/priscilacng"
     }
+  }, {
+    "name": "SPA usando AngularJS com Web API – Parte 01",
+    "url": "http://imasters.com.br/framework/dotnet/single-page-applicationspa-usando-angularjs-com-web-api-parte-01/",
+    "type": "tutorial",
+    "tags": [
+      "angular",
+      "api"
+    ],
+    "author": {
+      "name": "José Carlos Macoratti",
+      "url": "http://imasters.com.br/"
+    }
   }
-
 ]
