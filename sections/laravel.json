@@ -997,4 +997,18 @@
     "name": "Fabio Vedovelli",
     "url": "http://www.vedovelli.com.br/"
   }
+} ,{
+  "name": "Levantando um projeto Laravel com o AZK",
+  "url": "http://lucasmacedo.blog.br/levantando-um-projeto-laravel-com-o-azk/",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "docker",
+    "azk",
+    "virtualizacao"
+  ],
+  "author": {
+    "name": "Lucas Macedo",
+    "url": "http://lucasmacedo.blog.br/"
+  }
 }]
