@@ -188,5 +188,17 @@
       "name": "José Carlos Macoratti",
       "url": "http://imasters.com.br/"
     }
+  }, {
+    "name": "SPA usando AngularJS com Web API – Parte 02",
+    "url": "http://imasters.com.br/front-end/java/single-page-applicationspa-usando-angularjs-com-web-api-parte-02/",
+    "type": "tutorial",
+    "tags": [
+      "angular",
+      "api"
+    ],
+    "author": {
+      "name": "José Carlos Macoratti",
+      "url": "http://imasters.com.br/"
+    }
   }
 ]
