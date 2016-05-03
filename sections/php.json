@@ -242,4 +242,18 @@
     "name": "Paul M. Jones",
     "url": "http://imasters.com.br/"
   }
+}, {
+  "name": "Princípios SOLID Parte 1 - O Princípio da Responsabilidade Única",
+  "url": "http://code.tutsplus.com/pt/tutorials/solid-part-1-the-single-responsibility-principle--net-36074",
+  "type": "artigo",
+  "tags": [
+    "PHP",
+    "SOLID",
+    "boas praticas",
+    "SRP"
+  ],
+  "author": {
+    "name": "Patkos Csaba",
+    "url": "http://tutsplus.com/authors/patkos-csaba"
+  }
 }]
