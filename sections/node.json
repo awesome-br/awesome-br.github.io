@@ -210,4 +210,15 @@
   "author": {
     "name": "Community"
   }
+}, {
+  "name": "Node.js v6 suporta praticamente toda a especificação ES6/ES2015",
+  "url": "https://braziljs.org/blog/node-js-v6-suporta-93-de-es2015/",
+  "type": "artigo",
+  "tags": [
+    "ES6"
+  ],
+  "author": {
+    "name": "Jaydson Gomes",
+    "url": "http://jaydson.org"
+  }
 }]
