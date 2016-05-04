@@ -256,4 +256,18 @@
     "name": "Patkos Csaba",
     "url": "http://tutsplus.com/authors/patkos-csaba"
   }
+}, {
+  "name": "Princípios SOLID Parte 2 - Princípio do Aberto para Expansão, Fechado para Modificação",
+  "url": "http://code.tutsplus.com/pt/tutorials/solid-part-2-the-openclosed-principle--net-36600",
+  "type": "artigo",
+  "tags": [
+    "PHP",
+    "SOLID",
+    "boas praticas",
+    "OCP"
+  ],
+  "author": {
+    "name": "Patkos Csaba",
+    "url": "http://tutsplus.com/authors/patkos-csaba"
+  }
 }]
