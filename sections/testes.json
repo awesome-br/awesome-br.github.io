@@ -15,4 +15,16 @@
     "name": "Willian Justen",
     "url": "https://github.com/willianjusten/"
   }
+},{
+  "name": "A importância do TDD (Desenvolvimento orientado a testes) parte 1",
+  "url": "https://www.youtube.com/watch?v=7l7dMMNdVyI",
+  "type": "screencast",
+  "tags": [
+    "TDD",
+    "Ferramentas"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
 }]
