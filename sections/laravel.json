@@ -1011,4 +1011,17 @@
     "name": "Lucas Macedo",
     "url": "http://lucasmacedo.blog.br/"
   }
+}, {
+  "name": "COMO INJETAR SERVIÇOS EM UM TEMPLATE NO LARAVEL ",
+  "url": "http://mguimaraes.co/como-injetar-servicos-em-um-template-no-laravel/",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "servicos",
+    "template"
+  ],
+  "author": {
+    "name": "Mateus Guimarães",
+    "url": "http://mguimaraes.co/"
+  }
 }]
