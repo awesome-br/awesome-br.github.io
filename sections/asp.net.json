@@ -33,4 +33,17 @@
     "name": "Rodrigo Kono",
     "url": "http://www.rodrigokono.net/"
   }]
+}, {
+  "name": "Introdução ao ASP.NET Core 1.0",
+  "url": "http://eduardopires.net.br/2016/01/introducao-ao-asp-net-core-1-0/",
+  "type": "dica",
+  "tags": [
+    "ASP.NET",
+    "Microsoft",
+    "Core 1.0"
+  ],
+  "author": [{
+    "name": "Eduardo Pires",
+    "url": "http://eduardopires.net.br"
+  }]
 }]
