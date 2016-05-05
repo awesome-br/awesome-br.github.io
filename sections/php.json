@@ -270,4 +270,18 @@
     "name": "Patkos Csaba",
     "url": "http://tutsplus.com/authors/patkos-csaba"
   }
+}, {
+  "name": "Princípios SOLID Parte 3 - Princípios da Substituição de Liskov e Segregação de Interfaces",
+  "url": "http://code.tutsplus.com/pt/tutorials/solid-part-3-liskov-substitution-interface-segregation-principles--net-36710",
+  "type": "artigo",
+  "tags": [
+    "PHP",
+    "SOLID",
+    "boas praticas",
+    "LSP"
+  ],
+  "author": {
+    "name": "Patkos Csaba",
+    "url": "http://tutsplus.com/authors/patkos-csaba"
+  }
 }]
