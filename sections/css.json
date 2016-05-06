@@ -385,4 +385,17 @@
     "name": "Canal TekZoom",
     "url": "https://twitter.com/tek_zoom"
   }
+}, {
+  "name": "Fazendo as pazes com o CSS",
+  "url": "https://www.youtube.com/watch?v=kE4DH0s727c",
+  "type": "video",
+  "tags": [
+    "css",
+    "dicas",
+    "boas práticas"
+  ],
+  "author": {
+    "name": "NICbrvideos",
+    "url": "https://www.youtube.com/user/NICbrvideos"
+  }
 }]
