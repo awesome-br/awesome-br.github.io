@@ -284,4 +284,18 @@
     "name": "Patkos Csaba",
     "url": "http://tutsplus.com/authors/patkos-csaba"
   }
+}, {
+  "name": "Princípos SOLID Parte 4 - Princípio da Inversão de Dependência",
+  "url": "http://code.tutsplus.com/pt/tutorials/solid-part-4-the-dependency-inversion-principle--net-36872",
+  "type": "artigo",
+  "tags": [
+    "PHP",
+    "SOLID",
+    "boas praticas",
+    "IDP"
+  ],
+  "author": {
+    "name": "Patkos Csaba",
+    "url": "http://tutsplus.com/authors/patkos-csaba"
+  }
 }]
