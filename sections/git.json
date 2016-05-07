@@ -175,4 +175,17 @@
     "name": "William Oliveira Souza",
     "url": "http://woliveiras.com.br"
   }
-}]
+},  {
+    "name": "Git e Github para Iniciantes",
+    "url": "http://willianjusten.teachable.com/courses/git-e-github-para-iniciantes",
+    "type": "Curso",
+    "tags": [
+    	"iniciante",
+    	"github",
+    	"git"
+    ],
+    "author": {
+      "name": "Willian Justen",
+      "url": "http://willianjusten.com.br/"
+    }
+  }]
