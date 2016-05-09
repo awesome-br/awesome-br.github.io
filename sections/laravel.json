@@ -1024,4 +1024,16 @@
     "name": "Mateus Guimarães",
     "url": "http://mguimaraes.co/"
   }
+}, {
+  "name": "USANDO REPOSITÓRIOS COM LARAVEL",
+  "url": "http://mguimaraes.co/usando-repositorios-no-laravel-(portugues)/",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "repositorios"
+  ],
+  "author": {
+    "name": "Mateus Guimarães",
+    "url": "http://mguimaraes.co/"
+  }
 }]
