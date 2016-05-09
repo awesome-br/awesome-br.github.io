@@ -42,4 +42,28 @@
     "name": "Leo Caseiro",
     "url": "https://twitter.com/leocaseiro"
   }
+}, {
+  "name": "Ferramentas livres para desenvolvimento WordPress",
+  "url": "https://2012.curitiba.wordcamp.org/files/2012/06/Ferramentas-livres-para-desenvolvimento-WordPress.pdf",
+  "type": "guia",
+  "tags": [
+    "softwares",
+    "open source"
+  ],
+  "author": {
+    "name": "Daniel Kossmann Ferraz",
+    "url": "https://spirallab.com.br/"
+  }
+}, {
+  "name": "Temas Responsáveis",
+  "url": "http://pt.slideshare.net/jacksonfdam/responsive-wordpress-24196120",
+  "type": "slideshare",
+  "tags": [
+    "webdesign",
+    "responsivo"
+  ],
+  "author": {
+    "name": "Jackson Ferreira de Andrade Mafra",
+    "url": "https://twitter.com/jacksonfdam"
+  }
 }]
