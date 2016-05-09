@@ -32,4 +32,16 @@
     "name": "Luiz Otávio Miranda",
     "url": "https://www.todoespacoonline.com/w/author/luizotaviomiranda/"
   }
+}, {
+  "name": "Expressões Regulares - Guia de Consulta Rápida",
+  "url": "http://aurelio.net/regex/guia/",
+  "type": "livro",
+  "tags": [
+    "guia",
+    "aurelio"
+  ],
+  "author": {
+    "name": "Aurélio Marinho Jargas",
+    "url": "http://aurelio.net/"
+  }
 }]
