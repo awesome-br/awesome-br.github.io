@@ -27,4 +27,16 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
+}, {
+  "name": "Segurança como Parte Integral no Ciclo de Desenvolvimento de Software",
+  "url": "https://www.youtube.com/watch?v=Ehl3GyMLD-U",
+  "type": "palestra",
+  "tags": [
+    "Segurança",
+    "TDD"
+  ],
+  "author": {
+    "name": "Vinicius Oliveira Ferreira",
+    "url": "https://br.linkedin.com/in/viniciusoferreira"
+  }
 }]
