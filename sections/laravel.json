@@ -1036,4 +1036,17 @@
     "name": "Mateus Guimarães",
     "url": "http://mguimaraes.co/"
   }
+}, {
+  "name": "IMPLEMENTANDO UMA INTERFACE E UTILIZANDO O CONTAINER",
+  "url": "http://mguimaraes.co/trabalhando-com-repositorios-no-laravel-implementando-uma-interface/",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "repositorios",
+    "container"
+  ],
+  "author": {
+    "name": "Mateus Guimarães",
+    "url": "http://mguimaraes.co/"
+  }
 }]
