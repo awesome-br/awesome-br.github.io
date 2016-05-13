@@ -1049,4 +1049,16 @@
     "name": "Mateus Guimarães",
     "url": "http://mguimaraes.co/"
   }
+}, {
+  "name": "INDIANA JONES E OS MÉTODOS ESQUECIDOS DO ELOQUENT",
+  "url": "http://mguimaraes.co/indiana-jones-e-os-metodos-esquecidos-do-eloquent/",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "eloquent"
+  ],
+  "author": {
+    "name": "Mateus Guimarães",
+    "url": "http://mguimaraes.co/"
+  }
 }]
