@@ -183,5 +183,9 @@
   "url": "#/codeigniter",
   "type": "PHP Framework",
   "tags": []
-}
-]
+},{
+  "name": "DevOps",
+  "url": "#/devops",
+  "type": "Práticas de Desenvolvimento e Infraestrutura",
+  "tags": []
+}]
