@@ -11,6 +11,7 @@
   - [Como funciona](#como-funciona)
   - [Como Participar](#como-participar)
   - [Como testar o awesome no seu computador](#como-testar-o-awesome-no-seu-computador)
+  - [Como usar a CLI](https://github.com/welksonramos/awesome-br-cli)
 
 ## Nossa Proposta
 
