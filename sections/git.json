@@ -188,4 +188,16 @@
       "name": "Willian Justen",
       "url": "http://willianjusten.com.br/"
     }
-  }]
+  }, {
+  "name": "Deploy em servidor compartilhado usando git/rsync através do FTP",
+  "url": "https://www.youtube.com/watch?v=9TZdTiCKkrk",
+  "type": "screencast",
+  "tags": [
+    "git",
+    "deploy"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}]
