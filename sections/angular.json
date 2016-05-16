@@ -224,5 +224,18 @@
       "name": "Rodrigo Branas",
       "url": "https://www.youtube.com/c/rodrigobranas"
     }
+  }, {
+    "name": "MEAN Stack Tutorial",
+    "url": "http://danilorenatosilva.blogspot.com.br/2016/04/mean-stack-tutorial.html",
+    "type": "tutorial",
+    "tags": [
+      "mean",
+      "aplicação",
+      "javascript"
+    ],
+    "author": {
+      "name": "Danilo Renato Silva",
+      "url": "http://danilorenatosilva.blogspot.com.br"
+    }
   }
 ]
