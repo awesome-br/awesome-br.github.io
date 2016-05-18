@@ -1061,4 +1061,17 @@
     "name": "Mateus Guimarães",
     "url": "http://mguimaraes.co/"
   }
+}, {
+  "name": "Eloquent ManyToMany - Relacionamentos Muitos para Muitos",
+  "url": "http://artesaos.github.io/howto/eloquent-many-to-may/",
+  "type": "artigo",
+  "tags": [
+    "laravel",
+    "eloquent",
+    "ManyToMany"
+  ],
+  "author": {
+    "name": "Artesaos",
+    "url": "http://artesaos.github.io/howto/"
+  }
 }]
