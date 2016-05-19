@@ -1,0 +1,26 @@
+[{
+  "name": "O que é DevOps afinal?",
+  "url": "http://gutocarvalho.net/octopress/2013/03/16/o-que-e-um-devops-afinal/",
+  "type": "artigo",
+  "tags": [
+    "introdução",
+    "dicas"
+  ],
+  "author": {
+    "name": "Guto Carvalho",
+    "url": "http://gutocarvalho.net/"
+  }
+}, {
+	"name": "Chef ou Puppet? O dilema do DevOps iniciante",
+  "url": "https://www.youtube.com/watch?v=Oq6BvnmGWdw",
+  "type": "video",
+  "tags": [
+    "história do devops",
+    "gerenciando configurações"
+  ],
+  "author": {
+    "name": "Gabriel Gilini e Daniel Naves",
+    "url": "http://www.wearebrane.com/"
+  }
+}]
+

@@ -212,6 +212,30 @@
       "name": "José Carlos Macoratti",
       "url": "http://imasters.com.br/"
     }
+  }, {
+    "name": "Aumentando a Performance - Parte 1",
+    "url": "https://www.youtube.com/watch?v=6kIorm_gCO4",
+    "type": "video",
+    "tags": [
+      "dicas",
+      "performance"
+    ],
+    "author": {
+      "name": "Rodrigo Branas",
+      "url": "https://www.youtube.com/c/rodrigobranas"
+    }
+  }, {
+    "name": "MEAN Stack Tutorial",
+    "url": "http://danilorenatosilva.blogspot.com.br/2016/04/mean-stack-tutorial.html",
+    "type": "tutorial",
+    "tags": [
+      "mean",
+      "aplicação",
+      "javascript"
+    ],
+    "author": {
+      "name": "Danilo Renato Silva",
+      "url": "http://danilorenatosilva.blogspot.com.br"
+    }
   }
-
 ]
