@@ -237,5 +237,34 @@
       "name": "Danilo Renato Silva",
       "url": "http://danilorenatosilva.blogspot.com.br"
     }
+  },
+  {
+    "name" : "Iniciando com Angular 2",
+    "url" : "http://clubedosgeeks.com.br/programacao/angularjs/iniciando-com-angular-2",
+    "type" : "tutorial",
+    "tags" : [
+      "angular2",
+      "angularjs",
+      "javascript"
+    ],
+    "author":{
+      "name":"Jayr Alencar",
+      "url":"http://jayralencar.com.br"
+    }
+  },
+  {
+    "name" : "Usando Rotas em Angular 2",
+    "url" : "http://clubedosgeeks.com.br/programacao/angularjs/usando-rotas-em-angular-2",
+    "type" : "tutorial",
+    "tags" : [
+      "angular2",
+      "angularjs",
+      "javascript",
+      "rotas"
+    ],
+    "author":{
+      "name":"Jayr Alencar",
+      "url":"http://jayralencar.com.br"
+    }
   }
 ]
