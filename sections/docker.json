@@ -93,4 +93,15 @@
     "name": "William de Oliveira Souza",
     "url": "http://woliveiras.com.br/"
   }
+}, {
+  "name": "dfy - docker for you",
+  "url": "https://github.com/rtancman/dfy",
+  "type": "url",
+  "tags": [
+    "tutorial"
+  ],
+  "author": {
+    "name": "Raffael Tancman",
+    "url": "http://www.rtancman.com.br/"
+  }
 }]
