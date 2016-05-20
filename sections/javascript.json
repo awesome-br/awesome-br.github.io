@@ -511,4 +511,16 @@
     "name": "Matheus Lima",
     "url": "http://imasters.com.br/"
   }
+}, {
+  "name": "Crie um carregador básico com JavaScript Promises",
+  "url": "http://imasters.com.br/desenvolvimento/crie-um-carregador-basico-com-javascript-promises/?trace=1519021197&source=home",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "promisses"
+  ],
+  "author": {
+    "name": "David Walsh",
+    "url": "http://imasters.com.br/"
+  }
 }]
