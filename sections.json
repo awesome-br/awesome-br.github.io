@@ -195,4 +195,10 @@
   "type":"Linguagem de programação",
   "tags": []
   }
+  ,{
+  "name": "Xamarin",
+  "url": "#/xamarin",
+  "type":"Framework para desenvolvimento mobile",
+  "tags": []
+  }
 ]
