@@ -188,4 +188,11 @@
   "url": "#/devops",
   "type": "Práticas de Desenvolvimento e Infraestrutura",
   "tags": []
-}]
+}
+,{
+  "name": "TypeScript",
+  "url": "#/typescript",
+  "type":"Linguagem de programação",
+  "tags": []
+  }
+]
