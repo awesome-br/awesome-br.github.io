@@ -4,7 +4,7 @@
   "description": "Awesome BR possui um formato aberto a comunidade que deseja compartilhar conteúdo de qualidade frente às tecnologias mais atuais do mercado.",
   "main": "",
   "scripts": {
-    "http-server": "node_modules/http-server/bin/http-server",
+    "http-server": "node node_modules/http-server/bin/http-server",
     "validate": "node tasks/validate.js",
     "test": "node tasks/validate.js",
     "start": "live-server"
