@@ -1,0 +1,44 @@
+[
+{
+	"name": "TypeScript, ame ou nem ligue",
+	"url": "http://clubedosgeeks.com.br/programacao/javascript/typescript-ame-ou-nem-ligue",
+	"type": "artigo",
+	"tags": [
+		"introdução",
+		"tutorial"
+	],
+	"paid": false,
+	"author": {
+		"name": "Jayr Alencar",
+		"url": "https://jayralencar.com.br"
+	}
+},
+{
+	"name": "TypeScript - Orientado a Objetos",
+	"url": "http://clubedosgeeks.com.br/programacao/javascript/typescript-orientado-objetos",
+	"type": "artigo",
+	"tags": [
+		"oo",
+		"tutorial"
+	],
+	"paid": false,
+	"author": {
+		"name": "Jayr Alencar",
+		"url": "https://jayralencar.com.br"
+	}
+},
+{
+	"name": "TypeScript – executando no browser com SystemJS",
+	"url": "http://clubedosgeeks.com.br/programacao/javascript/typescript-executando-com-systemjs",
+	"type": "tutorial",
+	"tags": [
+		"executando",
+		"tutorial"
+	],
+	"paid": false,
+	"author": {
+		"name": "Jayr Alencar",
+		"url": "https://jayralencar.com.br"
+	}
+}
+]
