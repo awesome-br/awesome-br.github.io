@@ -104,4 +104,29 @@
     "name": "Raffael Tancman",
     "url": "http://www.rtancman.com.br/"
   }
+}, {
+  "name": "Docker - Explorando um pouco a Command Line",
+  "url": "http://cauealves.com/docker-explorando-um-pouco-a-command-line",
+  "type": "url",
+  "tags": [
+    "artigo",
+    "dica",
+    "cli"
+  ],
+  "author": {
+    "name": "Cauê Alves",
+    "url": "http://cauealves.com/"
+  }
+}, {
+  "name": "Docker Comandos Úteis",
+  "url": "https://github.com/cauealves/docker-useful-commands/blob/master/pt-BR.md",
+  "type": "url",
+  "tags": [
+    "dica",
+    "cli"
+  ],
+  "author": {
+    "name": "Cauê Alves",
+    "url": "http://cauealves.com/"
+  }
 }]
