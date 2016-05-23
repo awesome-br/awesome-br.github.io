@@ -200,4 +200,16 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
+}, {
+  "name": "Git nosso de cada dia",
+  "url": "http://glaucocustodio.com/2013/03/06/git-nosso-de-cada-dia-git-cheatsheet/",
+  "type": "artigo",
+  "tags": [
+    "git",
+    "cli"
+  ],
+  "author": {
+    "name": "Glauco Custódio",
+    "url": "http://glaucocustodio.com/"
+  }
 }]

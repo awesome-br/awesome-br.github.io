@@ -129,4 +129,18 @@
     "name": "Cauê Alves",
     "url": "http://cauealves.com/"
   }
+}, {
+  "name": "Comandos essenciais do Docker e monitoramento de containers",
+  "url": "http://stefanteixeira.com.br/2015/03/17/comandos-essenciais-docker-monitoramento-containers/",
+  "type": "url",
+  "tags": [
+    "docker",
+    "monitoramento",
+    "dica",
+    "cli"
+  ],
+  "author": {
+    "name": "Stefan Teixeira",
+    "url": "http://stefanteixeira.com.br/"
+  }
 }]

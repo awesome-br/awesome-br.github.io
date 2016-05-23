@@ -11,7 +11,7 @@
     "url": "http://gutocarvalho.net/"
   }
 }, {
-	"name": "Chef ou Puppet? O dilema do DevOps iniciante",
+  "name": "Chef ou Puppet? O dilema do DevOps iniciante",
   "url": "https://www.youtube.com/watch?v=Oq6BvnmGWdw",
   "type": "video",
   "tags": [
@@ -21,6 +21,18 @@
   "author": {
     "name": "Gabriel Gilini e Daniel Naves",
     "url": "http://www.wearebrane.com/"
+  }
+}, {
+	"name": "DevOps Labs, blog legal, com muita coisa bacana para DevOps",
+  "url": "http://devopslab.com.br/",
+  "type": "url",
+  "tags": [
+    "devops",
+    "dicas"
+  ],
+  "author": {
+    "name": "Leonardo Macedo Cerqueira",
+    "url": "https://www.linkedin.com/in/leonardomacedoc"
   }
 }]
 
