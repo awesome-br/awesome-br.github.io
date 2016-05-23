@@ -234,4 +234,19 @@
     "name": "Danilo Renato Silva",
     "url": "http://danilorenatosilva.blogspot.com.br"
   }
-}]
+},
+{
+  "name":"Publicando pacotes no NPM",
+  "url":"http://clubedosgeeks.com.br/artigos/publicando-pacotes-no-npm",
+  "type":"tutorial",
+  "tags":[
+    "npm",
+    "publish",
+    "node"
+  ],
+  "author":{
+    "name":"Jayr Alencar",
+    "url":"http://jayralencar.com.br"
+  }
+}
+]
