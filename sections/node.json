@@ -269,7 +269,7 @@
   "url":"http://clubedosgeeks.com.br/programacao/node-js/criando-aplicativo-com-electron-gerando-executavel",
   "type":"tutorial",
   "tags":[
-    "nwjs",
+    "electron",
     "node",
     "desktop",
     "sqlite"
