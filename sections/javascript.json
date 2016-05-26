@@ -523,4 +523,16 @@
     "name": "David Walsh",
     "url": "http://imasters.com.br/"
   }
+}, {
+  "name": "Meteor.js: um framework além do MVC",
+  "url": "http://imasters.com.br/framework/meteor-js-um-framework-alem-do-mvc/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "meteor"
+  ],
+  "author": {
+    "name": "Kemel Zaidan",
+    "url": "http://imasters.com.br/"
+  }
 }]
