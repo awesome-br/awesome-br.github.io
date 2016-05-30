@@ -1074,4 +1074,20 @@
     "name": "Artesaos",
     "url": "http://artesaos.github.io/howto/"
   }
-}]
+},
+{
+  "name":"API RESTful PHP com Laravel",
+  "url":"http://clubedosgeeks.com.br/programacao/php/api-restful-laravel",
+  "type":"tutorial",
+  "tags":[
+    "RESTful",
+    "api",
+    "laravel"
+  ],
+  "author":{
+    "name":"Jayr Alencar",
+    "url":"http://jayralencar.com.br"
+  }
+}
+
+]

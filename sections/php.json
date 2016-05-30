@@ -298,4 +298,20 @@
     "name": "Patkos Csaba",
     "url": "http://tutsplus.com/authors/patkos-csaba"
   }
-}]
+},
+{
+  "name":"API RESTful com PHP e Slim Framework",
+  "url":"http://clubedosgeeks.com.br/programacao/php/api-restful-com-php-e-slim-framework",
+  "type":"tutorial",
+  "tags":[
+    "api",
+    "RESTful",
+    "slim",
+    "php"
+  ],
+  "author":{
+    "name":"Jayr Alencar",
+    "url":"http://jayralencar.com.br"
+  }
+}
+]

@@ -266,5 +266,20 @@
       "name":"Jayr Alencar",
       "url":"http://jayralencar.com.br"
     }
+  },
+  {
+    "name" : "Usando Services e HTTP em Angular 2",
+    "url" : "http://clubedosgeeks.com.br/programacao/angularjs/angular2-http-services",
+    "type" : "tutorial",
+    "tags" : [
+      "angular2",
+      "angularjs",
+      "http",
+      "services"
+    ],
+    "author":{
+      "name":"Jayr Alencar",
+      "url":"http://jayralencar.com.br"
+    }
   }
 ]
