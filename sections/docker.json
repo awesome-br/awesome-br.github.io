@@ -143,4 +143,18 @@
     "name": "Stefan Teixeira",
     "url": "http://stefanteixeira.com.br/"
   }
+}, {
+  "name": "Docker - Como construir imagens mais leves",
+  "url": "http://cauealves.com/docker-como-construir-imagens-mais-leves",
+  "type": "url",
+  "tags": [
+    "artigo",
+    "docker",
+    "imagens",
+    "dockerfile"
+  ],
+  "author": {
+    "name": "Cauê Alves",
+    "url": "http://cauealves.com/"
+  }
 }]
