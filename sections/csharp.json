@@ -94,4 +94,16 @@
     "name": "Elemar Rodrigues Severo Júnior",
     "url": ""
   }
+}, {
+  "name": "Programação Windows Mobile com C#",
+  "url": "https://www.youtube.com/playlist?list=PLD9B197AC09D2F505",
+  "type": "curso",
+  "tags": [
+    "mobile",
+    "c#"
+  ],
+  "author": {
+    "name": "Welligton - AIED Online",
+    "url": ""
+  }
 }]

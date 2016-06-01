@@ -46,4 +46,16 @@
     "name": "Eduardo Pires",
     "url": "http://eduardopires.net.br"
   }]
+}, {
+  "name": "Programação ASP.NET com C#",
+  "url": "https://www.youtube.com/playlist?list=PL2CA2333C9A91A4F2",
+  "type": "curso",
+  "tags": [
+    "ASP.NET",
+    "Microsoft",
+    "C#"
+  ],
+  "author": [{
+    "name": "Welligton - AIED Online"
+  }]
 }]
