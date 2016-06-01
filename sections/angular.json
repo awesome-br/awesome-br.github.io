@@ -1,19 +1,4 @@
 [{
-    "name": "Angular 2.0",
-    "url": "https://www.youtube.com/watch?v=HAtBLHOI52o",
-    "type": "video",
-    "tags": [
-      "introdução",
-      "video",
-      "beta",
-      "youtube"
-    ],
-    "paid": false,
-    "author": {
-      "name": "Zeu Cxb",
-      "url": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA"
-    }
-  }, {
     "name": "AngularJS na prática",
     "url": "https://leanpub.com/livro-angularJS",
     "type": "livro",
@@ -129,30 +114,6 @@
       "url": "http://matheusazzi.com"
     }
   }, {
-    "name": "AngularJS 2.0 a caminho e o que mudou há exatamente um ano",
-    "url": "http://imasters.com.br/front-end/javascript/angularjs-2-0-a-caminho-e-o-que-mudou-ha-exatamente-um-ano/",
-    "type": "artigo",
-    "tags": [
-      "angularjs",
-      "frontend"
-    ],
-    "author": {
-      "name": "Fernando Monteiro",
-      "url": "http://newaeonweb.com.br/"
-    }
-  }, {
-    "name": "Angular 2 e o futuro do desenvolvimento Front-end",
-    "url": " https://speakerdeck.com/cironunes/angular-2-e-o-futuro-do-desenvolvimento-front-end",
-    "type": "palestra",
-    "tags": [
-      "angularjs",
-      "frontend"
-    ],
-    "author": {
-      "name": "Ciro Nunes",
-      "url": "http://cironunes.com/"
-    }
-  }, {
     "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
     "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
     "type": "tutorial",
@@ -164,19 +125,7 @@
       "name": "Jansen Felipe",
       "url": "http://jansenfelipe.com.br"
     }
-  }, {
-    "name": "Angular 2.0 Novidades",
-    "url": "https://www.youtube.com/watch?v=4rvJuPCVF8w",
-    "type": "video",
-    "tags": [
-      "angular2",
-      "novidades"
-    ],
-    "author": {
-      "name": "Priscila Negreiros",
-      "url": "https://github.com/priscilacng"
-    }
-  }, {
+  },  {
     "name": "SPA usando AngularJS com Web API – Parte 01",
     "url": "http://imasters.com.br/framework/dotnet/single-page-applicationspa-usando-angularjs-com-web-api-parte-01/",
     "type": "tutorial",
@@ -236,50 +185,6 @@
     "author": {
       "name": "Danilo Renato Silva",
       "url": "http://danilorenatosilva.blogspot.com.br"
-    }
-  },
-  {
-    "name" : "Iniciando com Angular 2",
-    "url" : "http://clubedosgeeks.com.br/programacao/angularjs/iniciando-com-angular-2",
-    "type" : "tutorial",
-    "tags" : [
-      "angular2",
-      "angularjs",
-      "javascript"
-    ],
-    "author":{
-      "name":"Jayr Alencar",
-      "url":"http://jayralencar.com.br"
-    }
-  },
-  {
-    "name" : "Usando Rotas em Angular 2",
-    "url" : "http://clubedosgeeks.com.br/programacao/angularjs/usando-rotas-em-angular-2",
-    "type" : "tutorial",
-    "tags" : [
-      "angular2",
-      "angularjs",
-      "javascript",
-      "rotas"
-    ],
-    "author":{
-      "name":"Jayr Alencar",
-      "url":"http://jayralencar.com.br"
-    }
-  },
-  {
-    "name" : "Usando Services e HTTP em Angular 2",
-    "url" : "http://clubedosgeeks.com.br/programacao/angularjs/angular2-http-services",
-    "type" : "tutorial",
-    "tags" : [
-      "angular2",
-      "angularjs",
-      "http",
-      "services"
-    ],
-    "author":{
-      "name":"Jayr Alencar",
-      "url":"http://jayralencar.com.br"
     }
   }
 ]
