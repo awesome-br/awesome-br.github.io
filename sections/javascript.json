@@ -535,4 +535,15 @@
     "name": "Kemel Zaidan",
     "url": "http://imasters.com.br/"
   }
+},{
+  "name":"Por que usar 'use strict'?",
+  "url":"http://clubedosgeeks.com.br/programacao/javascript/por-que-usar-use-strict",
+  "type": "artigo",
+  "tags":[
+    "strict mode"
+  ],
+  "author":{
+    "name":"Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
 }]
