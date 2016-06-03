@@ -1088,6 +1088,15 @@
     "name":"Jayr Alencar",
     "url":"http://jayralencar.com.br"
   }
-}
-
-]
+}, {
+  "name": "Laravel para iniciantes: Refatorando a view com @extends, @yield e @section - Parte 07",
+  "url": "https://jansenfelipe.com.br/2015/10/21/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-07/",
+  "type": "tutorial",
+  "tags": [
+    "iniciante", "extends", "yield", "section"
+  ],
+  "author": {
+    "name": "Jansen Felipe",
+    "url": "http://jansenfelipe.com.br"
+  }
+}]
