@@ -22,4 +22,43 @@
     "name": "Vinícius Baggio Fuentes",
     "url": "http://vinibaggio.net/"
   }
+}, {
+  "name": "Aprendendo TDD: Testando a camada Model [parte 1]",
+  "url": "https://medium.com/@ricardo.b.silva13/aprendendo-tdd-testando-a-camada-model-parte-1-994d71e5c0ad#.747a7oze2",
+  "type": "tutorial",
+  "tags": [
+    "tdd",
+    "rails"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Ricardo Silva",
+    "url": "https://medium.com/@ricardo.b.silva13"
+  }
+}, {
+  "name": "Aprendendo TDD: Testando a camada Model [parte 2]",
+  "url": "https://medium.com/@ricardo.b.silva13/aprendendo-tdd-testando-a-camada-model-parte-2-21b6dcd65e8#.muyq3ittq",
+  "type": "tutorial",
+  "tags": [
+    "tdd",
+    "rails"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Ricardo Silva",
+    "url": "https://medium.com/@ricardo.b.silva13"
+  }
+}, {
+  "name": "Aprendendo TDD: Testando a camada Controller [parte 1]",
+  "url": "https://medium.com/@ricardo.b.silva13/aprendendo-tdd-testando-a-camada-controller-parte-1-7893ea8f6ac9#.4vm5ba47h",
+  "type": "tutorial",
+  "tags": [
+    "tdd",
+    "rails"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Ricardo Silva",
+    "url": "https://medium.com/@ricardo.b.silva13"
+  }
 }]
