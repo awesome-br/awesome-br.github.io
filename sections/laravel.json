@@ -1099,4 +1099,15 @@
     "name": "Jansen Felipe",
     "url": "http://jansenfelipe.com.br"
   }
+}, {
+  "name": "Sistema de gerenciamento para escola opensource - grátis",
+  "url": "https://youtu.be/Z11WPs8AJvY",
+  "type": "screencast",
+  "tags": [
+    "sistema"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
 }]
