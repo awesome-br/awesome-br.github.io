@@ -157,4 +157,31 @@
     "name": "Cauê Alves",
     "url": "http://cauealves.com/"
   }
+}, {
+  "name": "Docker - O que são as camadas e como elas funcionam",
+  "url": "http://cauealves.com/docker-o-que-sao-camadas-e-como-elas-funcionam",
+  "type": "url",
+  "tags": [
+    "artigo",
+    "docker",
+    "imagens",
+    "camadas"
+  ],
+  "author": {
+    "name": "Cauê Alves",
+    "url": "http://cauealves.com/"
+  }
+}, {
+  "name": "Docker - Como utilizar imagens privadas na Amazon Web Services",
+  "url": "http://cauealves.com/docker-utilizar-imagens-privadas-na-amazon-web-services",
+  "type": "url",
+  "tags": [
+    "artigo",
+    "docker",
+    "aws"
+  ],
+  "author": {
+    "name": "Cauê Alves",
+    "url": "http://cauealves.com/"
+  }
 }]
