@@ -4,11 +4,17 @@
   "type": "Plataforma Mobile",
   "tags": []
 }, {
-  "name": "Angular",
+  "name": "AngularJS",
   "url": "#/angular",
   "type": "Framework Javascript",
   "tags": []
-}, {
+},
+  {"name": "Angular 2",
+  "url": "#/angular2",
+  "type": "Framework Javascript",
+  "tags": []
+}, 
+{
   "name": "Atom",
   "url": "#/atom",
   "type": "Editor",

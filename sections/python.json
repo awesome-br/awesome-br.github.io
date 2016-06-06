@@ -119,4 +119,12 @@
     "lambda",
     "intermediário"
   ]
+}, {
+  "name": "Python para Sistemas Operacionais",
+  "url": "https://www.youtube.com/playlist?list=PLzoythjsH3QPd7ZpK2LXWiVrZFa-nZGs7",
+  "type": "curso",
+  "tags": [
+    "python","playlist",
+    "SO"
+  ]
 }]
