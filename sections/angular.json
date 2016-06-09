@@ -186,5 +186,17 @@
       "name": "Danilo Renato Silva",
       "url": "http://danilorenatosilva.blogspot.com.br"
     }
+  }, {
+    "name": "Como criar uma diretiva em AngularJS",
+    "url": "http://clubedosgeeks.com.br/sem-categoria/como-criar-uma-diretiva-em-angularjs",
+    "type": "tutorial",
+    "tags": [
+      "directive",
+      "exemplo"
+    ],
+    "author": {
+      "name": "Jayr Alencar",
+      "url": "http://jayralencar.com.br"
+    }
   }
 ]
