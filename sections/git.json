@@ -212,4 +212,25 @@
     "name": "Glauco Custódio",
     "url": "http://glaucocustodio.com/"
   }
+}, {
+  "name": "Pacote para desenvolvedor estudante - GitHub",
+  "url": "https://education.github.com/pack",
+  "type": "pacote",
+  "paid": false,
+  "tags": [
+    "git",
+    "aws",
+    "CrowdFlower",
+    "DigitalOcean",
+    "Microsoft Azure",
+    "Travis CI",
+    "udacity",
+    "Unreal Engine",
+    "bitnami",
+    "dnSimple"
+  ],
+  "author": {
+    "name": "Celio Rodrigues",
+    "url": "http://github.com/theSkilled"
+  }
 }]
