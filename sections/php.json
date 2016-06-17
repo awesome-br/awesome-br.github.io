@@ -313,5 +313,18 @@
     "name":"Jayr Alencar",
     "url":"http://jayralencar.com.br"
   }
+},
+{
+  "name":"Por que desenvolvedores PHP pensam que MVC é uma arquitetura de aplicação?",
+  "url":"http://imasters.com.br/desenvolvimento/por-que-desenvolvedores-php-pensam-que-mvc-e-uma-arquitetura-de-aplicacao",
+  "type":"artigo",
+  "tags":[
+    "php",
+    "MVC"
+  ],
+  "author":{
+    "name":"Paul M. Jones",
+    "url":"http://imasters.com.br"
+  }
 }
 ]
