@@ -54,4 +54,16 @@
     "name": "Zeu Cxb",
     "url": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA"
   }
+}, {
+  "name": "React.js em projetos pequenos",
+  "url": "http://imasters.com.br/desenvolvimento/react-js-em-projetos-pequenos/",
+  "type": "palestra",
+  "tags": [
+        "artigo",
+        "introdução"
+    ],
+  "author": {
+    "name": "Adam Bard",
+    "url": "http://imasters.com.br/"
+  }
 }]
