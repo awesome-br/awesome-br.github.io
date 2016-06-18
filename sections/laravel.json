@@ -1110,4 +1110,18 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
-}]
+},{
+    "name": "Laravel + AngularJS – sua primeira aplicação",
+    "url": "http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-sua-primeira-aplicacao",
+    "type": "tutorial",
+    "tags": [
+      "laravel",
+      "angular",
+      "exemplo"
+    ],
+    "author": {
+      "name": "Jayr Alencar",
+      "url": "http://jayralencar.com.br"
+    }
+  }
+]
