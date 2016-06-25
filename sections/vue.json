@@ -23,4 +23,42 @@
     "name": "Fabio Vedovelli",
     "url": "http://www.vedovelli.com.br/"
   }
+}, {
+  "name": "Guia Oficial Traduzido",
+  "url": "http://vuejs-br.github.io/vuejs.org/guide/",
+  "type": "tutorial",
+  "tags": [
+    "vue.js"
+  ],
+  "author": {
+    "name": "Vítor Arjol",
+    "url": "https://github.com/vitorarjol"
+  }
+}, {
+  "name": "1º Hangout Vue.js Brasil (Vuex)",
+  "url": "https://www.youtube.com/watch?v=gxiia9lQ3Ac&feature=youtu.be",
+  "type": "hangout",
+  "tags": [
+    "vuex",
+    "eventos"
+  ],
+  "author": {
+    "name": "Fabio Vedovelli",
+    "url": "http://www.vedovelli.com.br/"
+  }
+}, {
+  "name": "eBook Vue.js na prática",
+  "url": "https://leanpub.com/livro-vue",
+  "type": "livro",
+   "paid": true,
+  "tags": [
+    "vue",
+    "vuex",
+    "vue-router",
+    "ebook"
+  ],
+  "author": {
+    "name": "Daniel Pace Schmitz",
+    "url": "https://leanpub.com/u/danielschmitz"
+  }
 }]
