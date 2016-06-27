@@ -1123,17 +1123,5 @@
       "name": "Jayr Alencar",
       "url": "http://jayralencar.com.br"
     }
-  },{
-  "name": "Laravel 4 e 5 Multisites",
-  "url": "https://medium.com/laravel-4/laravel-4-multisites-26cdc75e4810",
-  "type": "tutorial",
-  "tags": [
-    "laravel",
-    "exemplo"
-  ],
-  "author": {
-    "name": "Christopher Pitt",
-    "url": "https://medium.com"
   }
-}
 ]
