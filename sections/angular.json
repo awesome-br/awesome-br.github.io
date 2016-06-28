@@ -224,18 +224,5 @@
       "name": "Jayr Alencar",
       "url": "http://jayralencar.com.br"
     }
-  },{
-    "name": "Laravel + AngularJS – Upload de Arquivos",
-    "url": "http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-upload-de-arquivos",
-    "type": "tutorial",
-    "tags": [
-      "laravel",
-      "angular",
-      "upload"
-    ],
-    "author": {
-      "name": "Jayr Alencar",
-      "url": "http://jayralencar.com.br"
-    }
   }
 ]
