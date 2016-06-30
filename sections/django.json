@@ -1,0 +1,13 @@
+[{
+  "name": "Python 3 na web com Django",
+  "url": "https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/",
+  "type": "curso",
+  "tags": [
+    "introdução", "curso", "básico", "Intermediário"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Gileno Filho",
+    "url": "https://github.com/gileno"
+  }
+}]
