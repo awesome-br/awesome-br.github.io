@@ -210,5 +210,17 @@
       "name": "Jayr Alencar",
       "url": "http://jayralencar.com.br"
     }
+  },{
+    "name": "16 Temas Administrativos para AngularJS",
+    "url": "http://clubedosgeeks.com.br/programacao/angularjs/16-temas-free-angularjs",
+    "type": "artigo",
+    "tags": [
+      "angular",
+      "themes"
+    ],
+    "author": {
+      "name": "Jayr Alencar",
+      "url": "http://jayralencar.com.br"
+    }
   }
 ]
