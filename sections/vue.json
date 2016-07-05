@@ -10,6 +10,18 @@
     "name": "Fábio Vedovelli",
     "url": "http://www.vedcasts.com.br/"
   }
+},{
+  "name": "Reatividade no Vue.js",
+  "url": "https://www.youtube.com/watch?v=BLS6zAkXfNI",
+  "type": "vídeo",
+  "tags": [
+    "introdução",
+    "reactive"
+  ],
+  "author": {
+    "name": "Pedro Borges",
+    "url": "https://www.youtube.com/channel/UCU2P4q_zJmJODexmUyJFgdQ"
+  }
 }, {
   "name": "Paginação avançada com Laravel e Vue.js",
   "url": "https://www.youtube.com/watch?v=-0IFTI4FYDc",
