@@ -1,4 +1,47 @@
-[{
+[
+  {
+  "name": "Usando Spread Operator do ES6",
+  "url": "https://udgwebdev.com/usando-spread-operator-do-es6",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "es6",
+    "javascript"
+  ],
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "https://udgwebdev.com"
+  }
+},
+  {
+  "name": "Escrevendo JavaScript Melhor - Parte 1",
+  "url": "https://udgwebdev.com/escrevendo-javascript-melhor-parte-1",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "es6",
+    "javascript"
+  ],
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "https://udgwebdev.com"
+  }
+},
+  {
+  "name": "Escrevendo JavaScript Melhor - Parte 2",
+  "url": "https://udgwebdev.com/escrevendo-javascript-melhor-parte-2",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "es6",
+    "javascript"
+  ],
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "https://udgwebdev.com"
+  }
+},
+  {
   "name": "Como criar página com mais de um idioma",
   "url": "http://www.lucaslimamuller.com.br/blog/como-criar-pagina-com-mais-de-um-idioma/",
   "type": "artigo",
