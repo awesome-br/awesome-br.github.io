@@ -1,0 +1,29 @@
+[{
+  "name": "Um acumulado de posts sobre Meteor",
+  "url": "https://udgwebdev.com/meteor/",
+  "type": "artigo",
+  "tags": [
+    "Meteor",
+    "Framework",
+    "JS"
+  ],
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "https://udgwebdev.com"
+  }
+},
+{
+  "name": "Meteor - Criando aplicações web realtime com JavaScript",
+  "url": "https://www.casadocodigo.com.br/products/livro-meteor",
+  "type": "livro",
+  "paid": true,
+  "tags": [
+    "Meteor",
+    "Framework",
+    "JS"
+  ],
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "https://crpwebdev.com"
+  }
+}]
