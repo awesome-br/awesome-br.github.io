@@ -1,4 +1,19 @@
-[{
+[
+  {
+  "name": "Construindo APIs REST com Node.js",
+  "url": "https://www.casadocodigo.com.br/products/livro-apis-nodejs",
+  "type": "livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "paid": true,
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "http://crpwebdev.com/"
+  }
+},
+  {
   "name": "Primeiros Passos com Node",
   "url": "http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/",
   "type": "artigo",
