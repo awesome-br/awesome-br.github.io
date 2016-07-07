@@ -59,6 +59,17 @@
     "url": "http://www.vedovelli.com.br/"
   }
 }, {
+  "name": "Tira dúvidas sobre Vue.js no Stackoverflow",
+  "url": "http://pt.stackoverflow.com/questions/tagged/vuejs",
+  "type": "dica",
+  "tags": [
+    "dúviudas"
+  ],
+  "author": {
+    "name": "Stackoverflow",
+    "url": "http://pt.stackoverflow.com"
+  }
+},{
   "name": "eBook Vue.js na prática",
   "url": "https://leanpub.com/livro-vue",
   "type": "livro",
