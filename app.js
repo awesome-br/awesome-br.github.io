@@ -129,6 +129,10 @@
         templateUrl: 'views/home.html',
         controller: 'homeController'
       })
+      .when('/colaboradores', {
+        templateUrl: 'views/collaborators.html',
+        controller: 'collaboratorList'
+      })
       .when('/:sectionName', {
         templateUrl: 'views/section.html',
         controller: 'sectionController'
@@ -180,6 +184,18 @@
     $scope.spinner = true;
 
     init();
+  }]);
+
+  /**
+   * Collaborator list
+   */
+  app.controller('collaboratorList', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
+    var url = 'https://api.github.com/repos/awesome-br/awesome-br.github.io/contributors';
+   $http.get(url).then(function(response){
+     $scope.users = response.data;
+   }, function(err){
+     console.error(err);
+   })
   }]);
 
   /**

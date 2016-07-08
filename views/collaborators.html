@@ -1,0 +1,17 @@
+<div class="container-fluid">
+  <ng-include ng-show="spinner" src="'/views/parts/spinner.html'"></ng-include>
+  <div class="row">
+      <ul class="list-inline center-block text-center">
+          <li ng-repeat="user in users">
+              <div class="panel panel-default">
+                  <div class="panel-body">
+                    <img src="{{user.avatar_url}}" width="140" class="img-responsive center-block">
+                    <a href="{{user.html_url}}" target="_blank">{{user.login}}</a>
+                    <br>
+                    {{user.contributions}} Contribuições
+                 </div>
+              </div>
+          </li>
+      </ul>
+  </div>
+</div>
