@@ -60,7 +60,6 @@
     };
   });
 
-
   /**
    * loop-itens directive
    */
@@ -92,6 +91,26 @@
 
       }]
     };
+  });
+
+  /**
+   * Verifica a existencia da url, caso não exista ele cria um identicons com o nome do usuário no github
+  */
+  app.directive('errSrc', function() {
+  return {
+    link: function(scope, element, attrs) {
+      scope.$watch(function() {
+        return attrs['ngSrc'];
+          }, function (value) {
+            if (!value) {
+              element.attr('src', attrs.errSrc);  
+            }
+        });
+        element.bind('error', function() {
+          element.attr('src', attrs.errSrc);
+        });
+      }
+    }
   });
 
   /**
@@ -191,11 +210,11 @@
    */
   app.controller('collaboratorList', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
     var url = 'https://api.github.com/repos/awesome-br/awesome-br.github.io/contributors';
-   $http.get(url).then(function(response){
-     $scope.users = response.data;
-   }, function(err){
-     console.error(err);
-   })
+    $http.get(url).then(function(response){
+      $scope.users = response.data;
+    }, function(err){
+      console.error(err);
+    });
   }]);
 
   /**
