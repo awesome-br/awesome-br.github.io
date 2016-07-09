@@ -106,4 +106,15 @@
     "name": "Welligton - AIED Online",
     "url": ""
   }
+}, {
+  "name": "Fundamentos em C# com Clean Code",
+  "url": "https://www.youtube.com/playlist?list=PLE4x53a2_eGZLYa7u4YF7Vf9U9PYVDvdq",
+  "type": "curso",
+  "tags": [
+    "c#"
+  ],
+  "author": {
+    "name": "Juliano Sales",
+    "url": "http://juliano-sales.net/"
+  }
 }]
