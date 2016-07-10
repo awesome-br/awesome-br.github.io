@@ -326,5 +326,19 @@
     "name":"Paul M. Jones",
     "url":"http://imasters.com.br"
   }
+},
+{
+  "name":"php# Tratando o resultado da execução de um comando via symfony process",
+  "url":"https://www.youtube.com/watch?v=S_KV1NqoQzM",
+  "type":"screencast",
+  "tags":[
+    "php",
+    "symfony",
+    "process"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
 }
 ]
