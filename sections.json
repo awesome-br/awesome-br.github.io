@@ -99,6 +99,11 @@
   "url": "#/laravel",
   "type": "PHP Framework",
   "tags": []
+},{
+  "name": "Meteor",
+  "url": "#/meteor",
+  "type": "Node Framework",
+  "tags": []
 }, {
   "name": "MongoDb",
   "url": "#/mongodb",

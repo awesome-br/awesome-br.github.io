@@ -441,15 +441,31 @@
     "url": "http://maujor.com/tutorial/guia-definitivo-das-pseudoclasses-e-pseudoelementos-css.php",
     "type": "artigo",
     "tags": [
-        "guia",
-        " artigo",
-        " css",
-        " pseudoclasses",
-        " pseudoelementos"
-      ],
+      "guia",
+      " artigo",
+      " css",
+      " pseudoclasses",
+      " pseudoelementos"
+    ],
     "author": {
       "name": "Maujor",
       "url": "http://maujor.com"
+    }
+  },
+  {
+    "name": "Elevando seu nível no CSS",
+    "url": "https://medium.com/@oieduardorabelo/elevando-seu-n%C3%ADvel-no-css-b2acbb220248#.9sc30ylyv",
+    "type": "artigo",
+    "tags": [
+      [
+        "css",
+        " boas práticas",
+        " guia"
+      ]
+    ],
+    "author": {
+      "name": "Eduardo Rabelo",
+      "url": "https://medium.com/@oieduardorabelo"
     }
   }
 ]

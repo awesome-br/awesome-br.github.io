@@ -54,3 +54,8 @@ body, h1, h2, h3, h4 {
   -moz-border-radius: 0px !important;
   border-radius: 0px !important;
 }
+
+.user-img{
+  width:140px;
+  height:140px;
+}

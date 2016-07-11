@@ -23,20 +23,6 @@
       "name": "DAVI FERREIRA ",
       "url": "http://www.daviferreira.com/blog"
     }
-  },
-
-  {
-    "name": "Guia Definitivo para Aprender AngularJS em Um Dia",
-    "url": "http://javascriptbrasil.com/2013/10/18/guia-definitivo-para-aprender-angularjs-em-um-dia/",
-    "type": "artigo",
-    "tags": [
-      "introdução",
-      "aplicação"
-    ],
-    "author": {
-      "name": "Eric Oliveira",
-      "url": "http://javascriptbrasil.com/author/eric-oliveira/"
-    }
   }, {
     "name": "Melhores práticas no uso do AngularJS",
     "url": "https://www.youtube.com/watch?v=yeaXSGbyYwo",
@@ -219,6 +205,18 @@
       "laravel",
       "angular",
       "upload"
+    ],
+    "author": {
+      "name": "Jayr Alencar",
+      "url": "http://jayralencar.com.br"
+    }
+  },{
+    "name": "16 Temas Administrativos para AngularJS",
+    "url": "http://clubedosgeeks.com.br/programacao/angularjs/16-temas-free-angularjs",
+    "type": "artigo",
+    "tags": [
+      "angular",
+      "themes"
     ],
     "author": {
       "name": "Jayr Alencar",
