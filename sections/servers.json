@@ -1,0 +1,29 @@
+[{
+  "name": "Servers For Hackers",
+  "url": "https://serversforhackers.com/series",
+  "type": "videos",
+  "tags": [
+    "Process Monitoring",
+    "Security",
+    "MySQL",
+    "Discourse With Docker",
+    "SSL Certificates",
+    "Vagrant",
+    "Linux Permissions",
+    "Backup and Recovery",
+    "SSH Usage, Tips, and Tricks",
+    "Ansible",
+    "Deployment",
+    "LAMP",
+    "LEMP",
+    "Package Managers",
+    "HTTP2",
+    "PHP7",
+    "Memcached"
+  ],
+  "paid": false,
+  "author": {
+    "name": "@fideloper",
+    "url": "https://disqus.com/by/fideloper/"
+  }
+}]
