@@ -589,4 +589,16 @@
     "name":"Jayr Alencar",
     "url": "http://jayralencar.com.br"
   }
+},{
+  "name":"Detecção de rosto em fotos com JavaScript",
+  "url":"http://clubedosgeeks.com.br/programacao/javascript/deteccao-de-rosto-em-video-e-foto-com-javascript",
+  "type": "tutorial",
+  "tags":[
+    "tracking.js",
+    "face detection"
+  ],
+  "author":{
+    "name":"Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
 }]
