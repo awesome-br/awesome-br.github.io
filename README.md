@@ -69,7 +69,7 @@ Copie a URL, juntamente com a porta, e abra o site no navegador.
 
 **Dica**: Use `ctrl+shift+r` para atualizar o cache após alterar os arquivos .json.
 
-Alternativamente, você pode executar o script run.sh (ou run.bat, se você tiver usando windows), que se encontra na pasta raiz do projeto. Note que você deve ter o python instalado em sua máquina. A maioria dos S.O's Unix-Like como Mac e Linux já vem com o python pré-instalado. Após executar o script, acesse, pelo navegador, o endereço http://localhost:9001
+Alternativamente, você pode executar o comando ´python -m SimpleHTTPServer 9001´. Note que você deve ter o python instalado em sua máquina. A maioria dos S.O's Unix-Like como Mac e Linux já vem com o python pré-instalado. Após executar o comando, acesse, pelo navegador, o endereço http://localhost:9001
 
 ## Divulgue o Awesome BR
 
