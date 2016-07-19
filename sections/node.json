@@ -1,5 +1,18 @@
 [
   {
+    "name": "Como desinstalar todos os módulos npm de uma vez",
+    "url": "http://www.lucaslimamuller.com.br/blog/como-desinstalar-todos-os-modulos-da-pasta-node_modules-de-uma-vez/",
+    "type": "dica",
+    "tags": [
+      "npm"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Lucas Lima Muller",
+      "url": "http://www.lucaslimamuller.com.br/"
+    }
+  },
+  {
   "name": "Construindo APIs REST com Node.js",
   "url": "https://www.casadocodigo.com.br/products/livro-apis-nodejs",
   "type": "livro",
