@@ -213,7 +213,7 @@
     var api_url = 'https://api.github.com/repos/awesome-br/awesome-br.github.io/contributors';
     function getContributors(page){
       var page = page || 1;
-      var promise = $http({
+      $http({
         method: 'GET',
         url: api_url+ '?page=' + page
       }).then(function success(response){
