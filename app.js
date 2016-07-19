@@ -103,7 +103,7 @@
         return attrs['ngSrc'];
           }, function (value) {
             if (!value) {
-              element.attr('src', attrs.errSrc);  
+              element.attr('src', attrs.errSrc);
             }
         });
         element.bind('error', function() {
@@ -209,12 +209,26 @@
    * Collaborator list
    */
   app.controller('collaboratorList', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
-    var url = 'https://api.github.com/repos/awesome-br/awesome-br.github.io/contributors';
-    $http.get(url).then(function(response){
-      $scope.users = response.data;
-    }, function(err){
-      console.error(err);
-    });
+    $scope.users = [];
+    var api_url = 'https://api.github.com/repos/awesome-br/awesome-br.github.io/contributors';
+    function getContributors(page){
+      var page = page || 1;
+      var promise = $http({
+        method: 'GET',
+        url: api_url+ '?page=' + page
+      }).then(function success(response){
+        angular.forEach(response.data,function(contributor){
+          $scope.users.push(contributor);
+        });
+        if(response.data.length == 30){
+          getContributorPage(page += 1);
+        }
+      },function errorCb(reason){
+        console.error(reason)
+      });
+    }
+    getContributors();
+
   }]);
 
   /**
