@@ -66,4 +66,17 @@
     "name": "Adam Bard",
     "url": "http://imasters.com.br/"
   }
-}]
+}, {
+  "name":"Curso iniciando React com ES6",
+  "url": "http://jscasts.teachable.com/",
+  "type": "curso",
+  "tags": [
+    "curso",
+    "introdução",
+    "ES6"
+  ],
+  "author":{
+    "name": "Matheus Lima",
+    "url": "http://jscasts.teachable.com/"
+  }
+  }]
