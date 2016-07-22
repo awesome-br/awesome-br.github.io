@@ -601,4 +601,19 @@
     "name":"Jayr Alencar",
     "url": "http://jayralencar.com.br"
   }
-}]
+},
+{
+    "name": "Curso de ECMAScript 2015 (ES6)",
+    "url": "https://www.youtube.com/playlist?list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2",
+    "type": "curso",
+    "tags": [
+        "curso",
+        "vídeos",
+        "es6",
+        "boas práticas"
+      ],
+    "author": {
+      "name": "Leonardo Moura Leitão",
+      "url": "https://www.youtube.com/c/aulasdeprogramacao"
+    }
+  }]

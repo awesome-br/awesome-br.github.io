@@ -220,5 +220,10 @@
   "url": "#/django",
   "type":"Python web Framework",
   "tags": ["django", "web framework python", "django framework"]
+}, {
+  "name": "D3.js",
+  "url": "#/d3js",
+  "type": "Biblioteca Javascript",
+  "tags": []
 }
 ]
