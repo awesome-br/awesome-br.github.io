@@ -221,7 +221,7 @@
           $scope.users.push(contributor);
         });
         if(response.data.length == 30){
-          getContributorPage(page += 1);
+          getContributors(page += 1);
         }
       },function errorCb(reason){
         console.error(reason)
