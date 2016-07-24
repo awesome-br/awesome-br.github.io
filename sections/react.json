@@ -70,11 +70,12 @@
   "name": "Aprenda React na prática",
   "url": "https://www.youtube.com/playlist?list=PLXe1Uv1JGlTbrdrcZIZOabEBSpeNeVHD7",
   "type": "curso",
+  "paid": false,
   "tags": [
     "video",
     "curso",
     "youtube"
-    ],
+  ],
   "author": {
     "name": "Vinicius Vinhas",
     "url": "https://www.youtube.com/channel/UCmTJ15e4ORMcLoBf1py2-ag"
