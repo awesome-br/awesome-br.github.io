@@ -81,6 +81,32 @@
     "url": "https://www.youtube.com/channel/UCmTJ15e4ORMcLoBf1py2-ag"
   }
 }, {
+  "name": "Construindo interfaces componentizadas com React",
+  "url": "https://www.infoq.com/br/presentations/construindo-interfaces-componentizadas-com-react",
+  "type": "palestra",
+  "paid": false,
+  "tags": [
+    "video",
+    "palestra"
+  ],
+  "author": {
+    "name": "Sérgio Siqueira",
+    "url": "https://www.infoq.com/br/author/S%C3%A9rgio-Siqueira"
+  }
+}, {
+  "name": "Começando com React.js",
+  "url": "https://rafaell-lycan.com/2015/comecando-com-react",
+  "type": "artigo",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "introdução"
+  ],
+  "author": {
+    "name": "Rafaell Lycan",
+    "url": "https://rafaell-lycan.com/"
+  }
+}, {
   "name":"Curso iniciando React com ES6",
   "url": "http://jscasts.teachable.com/",
   "type": "curso",
