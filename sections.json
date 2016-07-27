@@ -218,13 +218,13 @@
   "name": "Yii Framework",
   "url": "#/yii",
   "type":"PHP Framework",
-  "tags": ["yii", "yiiframework", "yii framework"]
+  "tags": []
 },
 {
   "name": "Django Framework",
   "url": "#/django",
   "type":"Python web Framework",
-  "tags": ["django", "web framework python", "django framework"]
+  "tags": []
 }, {
   "name": "D3.js",
   "url": "#/d3js",
