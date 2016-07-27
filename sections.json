@@ -130,6 +130,11 @@
   "type": "Biblioteca Javascript",
   "tags": []
 }, {
+  "name": "Redux",
+  "url": "#/redux",
+  "type": "Container de estados previsíveis",
+  "tags": []
+}, {
   "name": "Ruby",
   "url": "#/ruby",
   "type": "Linguagem de programação",
