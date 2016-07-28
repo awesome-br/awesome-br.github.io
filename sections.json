@@ -4,11 +4,17 @@
   "type": "Plataforma Mobile",
   "tags": []
 }, {
-  "name": "Angular",
+  "name": "AngularJS",
   "url": "#/angular",
   "type": "Framework Javascript",
   "tags": []
-}, {
+},
+  {"name": "Angular 2",
+  "url": "#/angular2",
+  "type": "Framework Javascript",
+  "tags": []
+},
+{
   "name": "Atom",
   "url": "#/atom",
   "type": "Editor",
@@ -93,6 +99,11 @@
   "url": "#/laravel",
   "type": "PHP Framework",
   "tags": []
+},{
+  "name": "Meteor",
+  "url": "#/meteor",
+  "type": "Node Framework",
+  "tags": []
 }, {
   "name": "MongoDb",
   "url": "#/mongodb",
@@ -117,6 +128,11 @@
   "name": "React",
   "url": "#/react",
   "type": "Biblioteca Javascript",
+  "tags": []
+}, {
+  "name": "Redux",
+  "url": "#/redux",
+  "type": "Container de estados previsíveis",
   "tags": []
 }, {
   "name": "Ruby",
@@ -188,17 +204,31 @@
   "url": "#/devops",
   "type": "Práticas de Desenvolvimento e Infraestrutura",
   "tags": []
-}
-,{
+},{
   "name": "TypeScript",
   "url": "#/typescript",
   "type":"Linguagem de programação",
   "tags": []
-  }
-  ,{
+},{
   "name": "Xamarin",
   "url": "#/xamarin",
   "type":"Framework para desenvolvimento mobile",
   "tags": []
-  }
+},{
+  "name": "Yii Framework",
+  "url": "#/yii",
+  "type":"PHP Framework",
+  "tags": []
+},
+{
+  "name": "Django Framework",
+  "url": "#/django",
+  "type":"Python web Framework",
+  "tags": []
+}, {
+  "name": "D3.js",
+  "url": "#/d3js",
+  "type": "Biblioteca Javascript",
+  "tags": []
+}
 ]

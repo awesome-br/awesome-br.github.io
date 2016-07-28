@@ -200,4 +200,37 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
+}, {
+  "name": "Git nosso de cada dia",
+  "url": "http://glaucocustodio.com/2013/03/06/git-nosso-de-cada-dia-git-cheatsheet/",
+  "type": "artigo",
+  "tags": [
+    "git",
+    "cli"
+  ],
+  "author": {
+    "name": "Glauco Custódio",
+    "url": "http://glaucocustodio.com/"
+  }
+}, {
+  "name": "Pacote para desenvolvedor estudante - GitHub",
+  "url": "https://education.github.com/pack",
+  "type": "pacote",
+  "paid": false,
+  "tags": [
+    "git",
+    "aws",
+    "CrowdFlower",
+    "DigitalOcean",
+    "Microsoft Azure",
+    "Travis CI",
+    "udacity",
+    "Unreal Engine",
+    "bitnami",
+    "dnSimple"
+  ],
+  "author": {
+    "name": "Celio Rodrigues",
+    "url": "http://github.com/theSkilled"
+  }
 }]

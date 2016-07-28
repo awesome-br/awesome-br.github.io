@@ -1074,4 +1074,67 @@
     "name": "Artesaos",
     "url": "http://artesaos.github.io/howto/"
   }
-}]
+},
+{
+  "name":"API RESTful PHP com Laravel",
+  "url":"http://clubedosgeeks.com.br/programacao/php/api-restful-laravel",
+  "type":"tutorial",
+  "tags":[
+    "RESTful",
+    "api",
+    "laravel"
+  ],
+  "author":{
+    "name":"Jayr Alencar",
+    "url":"http://jayralencar.com.br"
+  }
+}, {
+  "name": "Laravel para iniciantes: Refatorando a view com @extends, @yield e @section - Parte 07",
+  "url": "https://jansenfelipe.com.br/2015/10/21/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-07/",
+  "type": "tutorial",
+  "tags": [
+    "iniciante", "extends", "yield", "section"
+  ],
+  "author": {
+    "name": "Jansen Felipe",
+    "url": "http://jansenfelipe.com.br"
+  }
+}, {
+  "name": "Sistema de gerenciamento para escola opensource - grátis",
+  "url": "https://youtu.be/Z11WPs8AJvY",
+  "type": "screencast",
+  "tags": [
+    "sistema"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+},{
+    "name": "Laravel + AngularJS – sua primeira aplicação",
+    "url": "http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-sua-primeira-aplicacao",
+    "type": "tutorial",
+    "tags": [
+      "laravel",
+      "angular",
+      "exemplo"
+    ],
+    "author": {
+      "name": "Jayr Alencar",
+      "url": "http://jayralencar.com.br"
+    }
+  },{
+    "name": "Laravel + AngularJS – Upload de Arquivos",
+    "url": "http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-upload-de-arquivos",
+    "type": "tutorial",
+    "tags": [
+      "laravel",
+      "angular",
+      "upload"
+    ],
+    "author": {
+      "name": "Jayr Alencar",
+      "url": "http://jayralencar.com.br"
+    }
+  }
+]

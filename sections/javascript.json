@@ -1,4 +1,47 @@
-[{
+[
+  {
+  "name": "Usando Spread Operator do ES6",
+  "url": "https://udgwebdev.com/usando-spread-operator-do-es6",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "es6",
+    "javascript"
+  ],
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "https://udgwebdev.com"
+  }
+},
+  {
+  "name": "Escrevendo JavaScript Melhor - Parte 1",
+  "url": "https://udgwebdev.com/escrevendo-javascript-melhor-parte-1",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "es6",
+    "javascript"
+  ],
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "https://udgwebdev.com"
+  }
+},
+  {
+  "name": "Escrevendo JavaScript Melhor - Parte 2",
+  "url": "https://udgwebdev.com/escrevendo-javascript-melhor-parte-2",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "es6",
+    "javascript"
+  ],
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "https://udgwebdev.com"
+  }
+},
+  {
   "name": "Como criar página com mais de um idioma",
   "url": "http://www.lucaslimamuller.com.br/blog/como-criar-pagina-com-mais-de-um-idioma/",
   "type": "artigo",
@@ -523,4 +566,54 @@
     "name": "David Walsh",
     "url": "http://imasters.com.br/"
   }
-}]
+}, {
+  "name": "Meteor.js: um framework além do MVC",
+  "url": "http://imasters.com.br/framework/meteor-js-um-framework-alem-do-mvc/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "meteor"
+  ],
+  "author": {
+    "name": "Kemel Zaidan",
+    "url": "http://imasters.com.br/"
+  }
+},{
+  "name":"Por que usar 'use strict'?",
+  "url":"http://clubedosgeeks.com.br/programacao/javascript/por-que-usar-use-strict",
+  "type": "artigo",
+  "tags":[
+    "strict mode"
+  ],
+  "author":{
+    "name":"Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+},{
+  "name":"Detecção de rosto em fotos com JavaScript",
+  "url":"http://clubedosgeeks.com.br/programacao/javascript/deteccao-de-rosto-em-video-e-foto-com-javascript",
+  "type": "tutorial",
+  "tags":[
+    "tracking.js",
+    "face detection"
+  ],
+  "author":{
+    "name":"Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+},
+{
+    "name": "Curso de ECMAScript 2015 (ES6)",
+    "url": "https://www.youtube.com/playlist?list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2",
+    "type": "curso",
+    "tags": [
+        "curso",
+        "vídeos",
+        "es6",
+        "boas práticas"
+      ],
+    "author": {
+      "name": "Leonardo Moura Leitão",
+      "url": "https://www.youtube.com/c/aulasdeprogramacao"
+    }
+  }]

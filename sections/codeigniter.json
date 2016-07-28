@@ -148,4 +148,70 @@
     "name": "Fábio S. Reszko",
     "url": "http://www.dicascodeigniter.com.br"
   }
+}, {
+  "name": "CodeIgniter - Produtividade na criação de aplicações web em PHP",
+  "url": "https://www.casadocodigo.com.br/products/livro-code-igniter",
+  "type": "livro",
+  "tags": [
+    "boas práticas"
+  ],
+  "paid": true,
+  "author": {
+    "name": "Jonathan Lamim Antunes",
+    "url": "http://www.universidadecodeigniter.com.br/"
+  }
+}, {
+  "name": "CodeIgniter 4 – Um pouco do que está acontecendo",
+  "url": "http://www.universidadecodeigniter.com.br/codeigniter-4-um-pouco-do-esta-acontecendo/",
+  "type": "artigo",
+  "tags": [
+    "CodeIgniter 4",
+    "PHP 7"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Jonathan Lamim Antunes",
+    "url": "http://www.universidadecodeigniter.com.br/"
+  }
+}, {
+  "name": "Benchmarking: calculando o tempo de execução e consumo de memória",
+  "url": "http://www.universidadecodeigniter.com.br/benchmarking-calculando-o-tempo-de-execucao-e-consumo-de-memoria/",
+  "type": "artigo",
+  "tags": [
+    "CodeIgniter",
+    "Benchmarking"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Jonathan Lamim Antunes",
+    "url": "http://www.universidadecodeigniter.com.br/"
+  }
+}, {
+  "name": "Geosan - Crie módulos de forma automática no Codeigniter",
+  "url": "https://georde.github.io/geosan/",
+  "type": "pacote",
+  "tags": [
+    "CodeIgniter",
+    "HMVC",
+    "CLI"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Georde Henrique ",
+    "url": "http://www.apptude.com.br/"
+  }
+}, {
+  "name": "BRDate - Biblioteca de datas para o CodeIgniter",
+  "url": "https://github.com/universidadecodeigniter/codeigniter-library-brdate",
+  "type": "pacote",
+  "tags": [
+    "Data",
+    "Hora",
+    "Biblioteca"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Jonathan Lamim Antunes",
+    "url": "http://www.universidadecodeigniter.com.br/"
+  }
 }]
