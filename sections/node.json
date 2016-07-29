@@ -306,19 +306,5 @@
     "name":"Jayr Alencar",
     "url":"http://jayralencar.com.br"
   }
-},
-{
-    "name": "Título do link",
-    "url": "Url do link",
-    "type": "Tipo",
-    "tags": [
-      "tags",
-      "tags"
-    ],
-    "paid": false,
-    "author": {
-      "name": "Nome do autor",
-      "url": "Url do site do autor"
-    }
-  }
+}
 ]
