@@ -233,4 +233,17 @@
     "name": "Celio Rodrigues",
     "url": "http://github.com/theSkilled"
   }
+}, {
+  "name": "Auto sincronizar repositórios do github/bitbucket",
+  "url": "https://www.youtube.com/watch?v=chhwQruKgM0",
+  "type": "screencast",
+  "tags": [
+    "bitbucket",
+    "github",
+    "git"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
 }]
