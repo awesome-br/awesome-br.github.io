@@ -10,7 +10,7 @@
     "name": "Fábio Vedovelli",
     "url": "http://www.vedcasts.com.br/"
   }
-},{
+}, {
   "name": "Reatividade no Vue.js",
   "url": "https://www.youtube.com/watch?v=BLS6zAkXfNI",
   "type": "vídeo",
@@ -69,11 +69,11 @@
     "name": "Stackoverflow",
     "url": "http://pt.stackoverflow.com"
   }
-},{
+}, {
   "name": "eBook Vue.js na prática",
   "url": "https://leanpub.com/livro-vue",
   "type": "livro",
-   "paid": true,
+  "paid": true,
   "tags": [
     "vue",
     "vuex",

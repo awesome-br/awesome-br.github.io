@@ -298,40 +298,37 @@
     "name": "Patkos Csaba",
     "url": "http://tutsplus.com/authors/patkos-csaba"
   }
-},
-{
-  "name":"API RESTful com PHP e Slim Framework",
-  "url":"http://clubedosgeeks.com.br/programacao/php/api-restful-com-php-e-slim-framework",
-  "type":"tutorial",
-  "tags":[
+}, {
+  "name": "API RESTful com PHP e Slim Framework",
+  "url": "http://clubedosgeeks.com.br/programacao/php/api-restful-com-php-e-slim-framework",
+  "type": "tutorial",
+  "tags": [
     "api",
     "RESTful",
     "slim",
     "php"
   ],
-  "author":{
-    "name":"Jayr Alencar",
-    "url":"http://jayralencar.com.br"
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
   }
-},
-{
-  "name":"Por que desenvolvedores PHP pensam que MVC é uma arquitetura de aplicação?",
-  "url":"http://imasters.com.br/desenvolvimento/por-que-desenvolvedores-php-pensam-que-mvc-e-uma-arquitetura-de-aplicacao",
-  "type":"artigo",
-  "tags":[
+}, {
+  "name": "Por que desenvolvedores PHP pensam que MVC é uma arquitetura de aplicação?",
+  "url": "http://imasters.com.br/desenvolvimento/por-que-desenvolvedores-php-pensam-que-mvc-e-uma-arquitetura-de-aplicacao",
+  "type": "artigo",
+  "tags": [
     "php",
     "MVC"
   ],
-  "author":{
-    "name":"Paul M. Jones",
-    "url":"http://imasters.com.br"
+  "author": {
+    "name": "Paul M. Jones",
+    "url": "http://imasters.com.br"
   }
-},
-{
-  "name":"php# Tratando o resultado da execução de um comando via symfony process",
-  "url":"https://www.youtube.com/watch?v=S_KV1NqoQzM",
-  "type":"screencast",
-  "tags":[
+}, {
+  "name": "php# Tratando o resultado da execução de um comando via symfony process",
+  "url": "https://www.youtube.com/watch?v=S_KV1NqoQzM",
+  "type": "screencast",
+  "tags": [
     "php",
     "symfony",
     "process"
@@ -340,5 +337,4 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
-}
-]
+}]

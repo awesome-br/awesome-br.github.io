@@ -1,106 +1,97 @@
-[
-  {
-    "name": "Angular 2 na prática",
-    "url": "https://leanpub.com/livro-angular2",
-    "type": "livro",
-    "tags": [
-      "ebook",
-      "introdução"
-    ],
-    "paid": true,
-    "author": {
-      "name": "Daniel Schmitz",
-      "url": "https://www.danielschmitz.com.br"
-    }
-  },
-  {
-    "name": "Angular 2.0",
-    "url": "https://www.youtube.com/watch?v=HAtBLHOI52o",
-    "type": "video",
-    "tags": [
-      "introdução",
-      "video",
-      "beta",
-      "youtube"
-    ],
-    "paid": false,
-    "author": {
-      "name": "Zeu Cxb",
-      "url": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA"
-    }
-  },
-  {
-    "name": "Angular 2.0 a caminho e o que mudou há exatamente um ano",
-    "url": "http://imasters.com.br/front-end/javascript/angularjs-2-0-a-caminho-e-o-que-mudou-ha-exatamente-um-ano/",
-    "type": "artigo",
-    "tags": [
-      "frontend"
-    ],
-    "author": {
-      "name": "Fernando Monteiro",
-      "url": "http://newaeonweb.com.br/"
-    }
-  },
-  {
-    "name": "Angular 2 e o futuro do desenvolvimento Front-end",
-    "url": " https://speakerdeck.com/cironunes/angular-2-e-o-futuro-do-desenvolvimento-front-end",
-    "type": "palestra",
-    "tags": [
-      "frontend"
-    ],
-    "author": {
-      "name": "Ciro Nunes",
-      "url": "http://cironunes.com/"
-    }
-  },
-  {
-    "name": "Angular 2.0 Novidades",
-    "url": "https://www.youtube.com/watch?v=4rvJuPCVF8w",
-    "type": "video",
-    "tags": [
-      "novidades"
-    ],
-    "author": {
-      "name": "Priscila Negreiros",
-      "url": "https://github.com/priscilacng"
-    }
-  },
-  {
-    "name": "Iniciando com Angular 2",
-    "url": "http://clubedosgeeks.com.br/programacao/angularjs/iniciando-com-angular-2",
-    "type": "tutorial",
-    "tags": [
-      "javascript"
-    ],
-    "author": {
-      "name": "Jayr Alencar",
-      "url": "http://jayralencar.com.br"
-    }
-  },
-  {
-    "name": "Usando Rotas em Angular 2",
-    "url": "http://clubedosgeeks.com.br/programacao/angularjs/usando-rotas-em-angular-2",
-    "type": "tutorial",
-    "tags": [
-      "javascript",
-      "rotas"
-    ],
-    "author": {
-      "name": "Jayr Alencar",
-      "url": "http://jayralencar.com.br"
-    }
-  },
-  {
-    "name": "Usando Services e HTTP em Angular 2",
-    "url": "http://clubedosgeeks.com.br/programacao/angularjs/angular2-http-services",
-    "type": "tutorial",
-    "tags": [
-      "http",
-      "services"
-    ],
-    "author": {
-      "name": "Jayr Alencar",
-      "url": "http://jayralencar.com.br"
-    }
+[{
+  "name": "Angular 2 na prática",
+  "url": "https://leanpub.com/livro-angular2",
+  "type": "livro",
+  "tags": [
+    "ebook",
+    "introdução"
+  ],
+  "paid": true,
+  "author": {
+    "name": "Daniel Schmitz",
+    "url": "https://www.danielschmitz.com.br"
   }
-]
+}, {
+  "name": "Angular 2.0",
+  "url": "https://www.youtube.com/watch?v=HAtBLHOI52o",
+  "type": "video",
+  "tags": [
+    "introdução",
+    "video",
+    "beta",
+    "youtube"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Zeu Cxb",
+    "url": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA"
+  }
+}, {
+  "name": "Angular 2.0 a caminho e o que mudou há exatamente um ano",
+  "url": "http://imasters.com.br/front-end/javascript/angularjs-2-0-a-caminho-e-o-que-mudou-ha-exatamente-um-ano/",
+  "type": "artigo",
+  "tags": [
+    "frontend"
+  ],
+  "author": {
+    "name": "Fernando Monteiro",
+    "url": "http://newaeonweb.com.br/"
+  }
+}, {
+  "name": "Angular 2 e o futuro do desenvolvimento Front-end",
+  "url": " https://speakerdeck.com/cironunes/angular-2-e-o-futuro-do-desenvolvimento-front-end",
+  "type": "palestra",
+  "tags": [
+    "frontend"
+  ],
+  "author": {
+    "name": "Ciro Nunes",
+    "url": "http://cironunes.com/"
+  }
+}, {
+  "name": "Angular 2.0 Novidades",
+  "url": "https://www.youtube.com/watch?v=4rvJuPCVF8w",
+  "type": "video",
+  "tags": [
+    "novidades"
+  ],
+  "author": {
+    "name": "Priscila Negreiros",
+    "url": "https://github.com/priscilacng"
+  }
+}, {
+  "name": "Iniciando com Angular 2",
+  "url": "http://clubedosgeeks.com.br/programacao/angularjs/iniciando-com-angular-2",
+  "type": "tutorial",
+  "tags": [
+    "javascript"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "Usando Rotas em Angular 2",
+  "url": "http://clubedosgeeks.com.br/programacao/angularjs/usando-rotas-em-angular-2",
+  "type": "tutorial",
+  "tags": [
+    "javascript",
+    "rotas"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "Usando Services e HTTP em Angular 2",
+  "url": "http://clubedosgeeks.com.br/programacao/angularjs/angular2-http-services",
+  "type": "tutorial",
+  "tags": [
+    "http",
+    "services"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}]

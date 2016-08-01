@@ -175,20 +175,20 @@
     "name": "William Oliveira Souza",
     "url": "http://woliveiras.com.br"
   }
-},  {
-    "name": "Git e Github para Iniciantes",
-    "url": "http://willianjusten.teachable.com/courses/git-e-github-para-iniciantes",
-    "type": "curso",
-    "tags": [
-    	"iniciante",
-    	"github",
-    	"git"
-    ],
-    "author": {
-      "name": "Willian Justen",
-      "url": "http://willianjusten.com.br/"
-    }
-  }, {
+}, {
+  "name": "Git e Github para Iniciantes",
+  "url": "http://willianjusten.teachable.com/courses/git-e-github-para-iniciantes",
+  "type": "curso",
+  "tags": [
+    "iniciante",
+    "github",
+    "git"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+}, {
   "name": "Deploy em servidor compartilhado usando git/rsync através do FTP",
   "url": "https://www.youtube.com/watch?v=9TZdTiCKkrk",
   "type": "screencast",

@@ -1,18 +1,16 @@
-[
-  {
-    "name": "Como desinstalar todos os módulos npm de uma vez",
-    "url": "http://www.lucaslimamuller.com.br/blog/como-desinstalar-todos-os-modulos-da-pasta-node_modules-de-uma-vez/",
-    "type": "dica",
-    "tags": [
-      "npm"
-    ],
-    "paid": false,
-    "author": {
-      "name": "Lucas Lima Muller",
-      "url": "http://www.lucaslimamuller.com.br/"
-    }
-  },
-  {
+[{
+  "name": "Como desinstalar todos os módulos npm de uma vez",
+  "url": "http://www.lucaslimamuller.com.br/blog/como-desinstalar-todos-os-modulos-da-pasta-node_modules-de-uma-vez/",
+  "type": "dica",
+  "tags": [
+    "npm"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Lucas Lima Muller",
+    "url": "http://www.lucaslimamuller.com.br/"
+  }
+}, {
   "name": "Construindo APIs REST com Node.js",
   "url": "https://www.casadocodigo.com.br/products/livro-apis-nodejs",
   "type": "livro",
@@ -25,8 +23,7 @@
     "name": "Caio Ribeiro Pereira",
     "url": "http://crpwebdev.com/"
   }
-},
-  {
+}, {
   "name": "Primeiros Passos com Node",
   "url": "http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/",
   "type": "artigo",
@@ -262,49 +259,45 @@
     "name": "Danilo Renato Silva",
     "url": "http://danilorenatosilva.blogspot.com.br"
   }
-},
-{
-  "name":"Publicando pacotes no NPM",
-  "url":"http://clubedosgeeks.com.br/artigos/publicando-pacotes-no-npm",
-  "type":"tutorial",
-  "tags":[
+}, {
+  "name": "Publicando pacotes no NPM",
+  "url": "http://clubedosgeeks.com.br/artigos/publicando-pacotes-no-npm",
+  "type": "tutorial",
+  "tags": [
     "npm",
     "publish",
     "node"
   ],
-  "author":{
-    "name":"Jayr Alencar",
-    "url":"http://jayralencar.com.br"
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
   }
-},
-{
-  "name":"Aplicativo Desktop com Nwjs + AngularJS + Bootstrap + Sqlite",
-  "url":"http://clubedosgeeks.com.br/programacao/node-js/aplicativo-desktop-com-nwjs-angularjs-bootstrap-sqlite",
-  "type":"tutorial",
-  "tags":[
+}, {
+  "name": "Aplicativo Desktop com Nwjs + AngularJS + Bootstrap + Sqlite",
+  "url": "http://clubedosgeeks.com.br/programacao/node-js/aplicativo-desktop-com-nwjs-angularjs-bootstrap-sqlite",
+  "type": "tutorial",
+  "tags": [
     "nwjs",
     "node",
     "desktop",
     "sqlite"
   ],
-  "author":{
-    "name":"Jayr Alencar",
-    "url":"http://jayralencar.com.br"
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
   }
-},
-{
-  "name":"Criando aplicativo com Electron – Gerando executável",
-  "url":"http://clubedosgeeks.com.br/programacao/node-js/criando-aplicativo-com-electron-gerando-executavel",
-  "type":"tutorial",
-  "tags":[
+}, {
+  "name": "Criando aplicativo com Electron – Gerando executável",
+  "url": "http://clubedosgeeks.com.br/programacao/node-js/criando-aplicativo-com-electron-gerando-executavel",
+  "type": "tutorial",
+  "tags": [
     "electron",
     "node",
     "desktop",
     "sqlite"
   ],
-  "author":{
-    "name":"Jayr Alencar",
-    "url":"http://jayralencar.com.br"
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
   }
-}
-]
+}]

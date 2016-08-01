@@ -49,7 +49,7 @@
   "url": "https://www.youtube.com/watch?v=gIGB0061wzM",
   "type": "palestra",
   "tags": ["introdução", "palestra", "vídeo", "youtube"],
-  "paid" : false,
+  "paid": false,
   "author": {
     "name": "Zeu Cxb",
     "url": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA"
@@ -59,9 +59,9 @@
   "url": "http://imasters.com.br/desenvolvimento/react-js-em-projetos-pequenos/",
   "type": "palestra",
   "tags": [
-        "artigo",
-        "introdução"
-    ],
+    "artigo",
+    "introdução"
+  ],
   "author": {
     "name": "Adam Bard",
     "url": "http://imasters.com.br/"
@@ -107,7 +107,7 @@
     "url": "https://rafaell-lycan.com/"
   }
 }, {
-  "name":"Curso iniciando React com ES6",
+  "name": "Curso iniciando React com ES6",
   "url": "http://jscasts.teachable.com/",
   "type": "curso",
   "tags": [
@@ -115,7 +115,7 @@
     "introdução",
     "ES6"
   ],
-  "author":{
+  "author": {
     "name": "Matheus Lima",
     "url": "http://jscasts.teachable.com/"
   }

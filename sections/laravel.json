@@ -997,7 +997,7 @@
     "name": "Fabio Vedovelli",
     "url": "http://www.vedovelli.com.br/"
   }
-} ,{
+}, {
   "name": "Levantando um projeto Laravel com o AZK",
   "url": "http://lucasmacedo.blog.br/levantando-um-projeto-laravel-com-o-azk/",
   "type": "tutorial",
@@ -1074,19 +1074,18 @@
     "name": "Artesaos",
     "url": "http://artesaos.github.io/howto/"
   }
-},
-{
-  "name":"API RESTful PHP com Laravel",
-  "url":"http://clubedosgeeks.com.br/programacao/php/api-restful-laravel",
-  "type":"tutorial",
-  "tags":[
+}, {
+  "name": "API RESTful PHP com Laravel",
+  "url": "http://clubedosgeeks.com.br/programacao/php/api-restful-laravel",
+  "type": "tutorial",
+  "tags": [
     "RESTful",
     "api",
     "laravel"
   ],
-  "author":{
-    "name":"Jayr Alencar",
-    "url":"http://jayralencar.com.br"
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
   }
 }, {
   "name": "Laravel para iniciantes: Refatorando a view com @extends, @yield e @section - Parte 07",
@@ -1110,31 +1109,30 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
-},{
-    "name": "Laravel + AngularJS – sua primeira aplicação",
-    "url": "http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-sua-primeira-aplicacao",
-    "type": "tutorial",
-    "tags": [
-      "laravel",
-      "angular",
-      "exemplo"
-    ],
-    "author": {
-      "name": "Jayr Alencar",
-      "url": "http://jayralencar.com.br"
-    }
-  },{
-    "name": "Laravel + AngularJS – Upload de Arquivos",
-    "url": "http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-upload-de-arquivos",
-    "type": "tutorial",
-    "tags": [
-      "laravel",
-      "angular",
-      "upload"
-    ],
-    "author": {
-      "name": "Jayr Alencar",
-      "url": "http://jayralencar.com.br"
-    }
+}, {
+  "name": "Laravel + AngularJS – sua primeira aplicação",
+  "url": "http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-sua-primeira-aplicacao",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "angular",
+    "exemplo"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
   }
-]
+}, {
+  "name": "Laravel + AngularJS – Upload de Arquivos",
+  "url": "http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-upload-de-arquivos",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "angular",
+    "upload"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}]
