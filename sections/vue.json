@@ -84,4 +84,42 @@
     "name": "Daniel Pace Schmitz",
     "url": "https://leanpub.com/u/danielschmitz"
   }
+}, {
+  "name": "Por que VueJS é uma boa opção?",
+  "url": "http://www.vuejs-brasil.com.br/por-que-vuejs-e-uma-boa-opcao/",
+  "type": "artigo",
+  "tags": [
+    "web components",
+    "conceitos"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
+}, {
+  "name": "Aplicações com VueJS: Pensando em componentes",
+  "url": "http://www.vuejs-brasil.com.br/aplicacoes-com-vuejs-pensando-em-componentes/",
+  "type": "artigo",
+  "tags": [
+    "web components",
+    "flux",
+    "redux"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
+}, {
+  "name": "Imprevistos com libs de terceiros - C3.js",
+  "url": "http://www.vuejs-brasil.com.br/imprevistos-com-libs-de-terceiros-c3-js/",
+  "type": "artigo",
+  "tags": [
+    "c3.js",
+    "d3.js",
+    "third party"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
 }]
