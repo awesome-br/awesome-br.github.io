@@ -306,5 +306,20 @@
     "name":"Jayr Alencar",
     "url":"http://jayralencar.com.br"
   }
+},
+{
+  "name": "Série Construa uma API com o Framework LoopBack.io: Parte 1 — Instalação",
+  "url": "https://medium.com/@dejaneves/s%C3%A9rie-construa-uma-api-com-o-framework-loopback-io-parte-1-instala%C3%A7%C3%A3o-8665826c0181#.9sdytgfz8",
+  "type": "tutorial",
+  "tags": [
+    "nodejs",
+    "javascript",
+    "loopback"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Jaime Neves",
+    "url": "http://jaimeneves.com.br"
+  }
 }
 ]
