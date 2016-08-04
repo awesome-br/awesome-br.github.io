@@ -72,4 +72,17 @@
     "name": "Renato Suero",
     "url": "https://github.com/renatosuero"
   }
+}, {
+  "name": "SSH/RSYNC sem host, usuário e senha",
+  "url": "https://www.youtube.com/watch?v=uLGxEHq5E1Y",
+  "type": "screencast",
+  "tags": [
+    "ssh",
+    "rsync",
+    "backup"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
 }]
