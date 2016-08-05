@@ -1,4 +1,16 @@
 [{
+  "name": "Rocket CMS Open Source",
+  "url": "https://github.com/odirleiborgert/rocket-cms",
+  "type": "site",
+  "tags": [
+    "cms",
+    "rocket"
+  ],
+  "author": {
+    "name": "Odirlei Borgert",
+    "url": "https://github.com/odirleiborgert"
+  }
+}, {
   "name": "Por que facades são um problema seu e não do Laravel?",
   "url": "https://medium.com/@luizvinicius73/por-que-facades-é-um-problema-seu-e-não-do-laravel-8672bb80c74c",
   "type": "artigo",
