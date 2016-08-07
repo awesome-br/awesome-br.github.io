@@ -72,4 +72,33 @@
     "name": "Renato Suero",
     "url": "https://github.com/renatosuero"
   }
+},{
+  "name": " Viva O Linux",
+  "url": "http://vivaolinux.com.br/",
+  "type": "url",
+  "tags": [
+    "linux",
+    "fórum",
+    "artigos",
+    "dúvidas"
+  ]
+},{
+  "name": " Comunidade Sempre Update",
+  "url": "http://sempreupdate.org/",
+  "type": "url",
+  "tags": [
+    "linux",
+    "site",
+    "notícias",
+    "artigos"
+  ]
+},{
+  "name": "O Manual do Administrador Debian",
+  "url": "https://debian-handbook.info/browse/pt-BR/stable/",
+  "type": "livro",
+  "tags": [
+    "linux",
+    "debian",
+    "administrador"
+  ]
 }]
