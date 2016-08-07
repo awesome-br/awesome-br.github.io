@@ -127,4 +127,14 @@
     "python", "playlist",
     "SO"
   ]
+},{
+  "name": " Como Pensar Como um Cientista da Computação, Aprendendo com Python",
+  "url": "https://panda.ime.usp.br/pensepy/static/pensepy/index.html",
+  "type": "livro",
+  "tags": [
+    "python",
+    "tradução ",
+    "livro",
+    "interativo"
+  ]
 }]
