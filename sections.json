@@ -230,5 +230,10 @@
   "url": "#/d3js",
   "type": "Biblioteca Javascript",
   "tags": []
+}, {
+  "name": "Business Intelligence",
+  "url": "#/bi",
+  "type": "Business Intelligence",
+  "tags": []
 }
 ]
