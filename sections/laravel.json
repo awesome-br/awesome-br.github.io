@@ -1156,4 +1156,70 @@
     "comandos",
     "php"
   ]
+}, {
+  "name": "Laravel 5.X do começo ao fim: Instalação",
+  "url": "https://www.youtube.com/watch?v=QtkBgWMz7O8",
+  "type": "screencast",
+  "tags": [
+    "config"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Laravel 5.X do começo ao fim: Migrations",
+  "url": "https://www.youtube.com/watch?v=ydyhrswAxp0",
+  "type": "screencast",
+  "tags": [
+    "config"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Laravel 5.X do começo ao fim: Versionamento com GIT",
+  "url": "https://www.youtube.com/watch?v=braRTLBHK1E",
+  "type": "screencast",
+  "tags": [
+    "config"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Laravel 5.X do começo ao fim: Factories and Fakers",
+  "url": "https://www.youtube.com/watch?v=vhCZ60PsXPA",
+  "type": "screencast",
+  "tags": [
+    "config"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Laravel 5.X do começo ao fim: JWT Auth com TDD",
+  "url": "https://www.youtube.com/watch?v=Rgu0aj38OG4",
+  "type": "screencast",
+  "tags": [
+    "config"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Laravel 5.X do começo ao fim: JWT Auth usando usuário ou email",
+  "url": "https://www.youtube.com/watch?v=OhL0OkdqcSU",
+  "type": "screencast",
+  "tags": [
+    "config"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
 }]
