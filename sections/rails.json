@@ -61,4 +61,29 @@
     "name": "Ricardo Silva",
     "url": "https://medium.com/@ricardo.b.silva13"
   }
+}, {
+  "name": "Akita on Rails",
+  "url": "https://akitaonrails.com",
+  "type": "blog",
+  "tags": [
+    "ruby",
+    "rails"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fábio Akita",
+    "url": "https://github.com/akitaonrails"
+  }
+}, {
+  "name": "Nando Vieira",
+  "url": "https://nandovieira.com.br",
+  "type": "blog",
+  "tags": [
+    "rails"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Nando Vieira",
+    "url": "https://github.com/fnando"
+  }
 }]
