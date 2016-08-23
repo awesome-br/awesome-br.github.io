@@ -1147,4 +1147,13 @@
     "name": "Jayr Alencar",
     "url": "http://jayralencar.com.br"
   }
+}, {
+  "name": "Comandos Laravel",
+  "url": "https://github.com/wellingtongeek/comandos-laravel",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "comandos",
+    "php"
+  ]
 }]
