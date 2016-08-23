@@ -1161,7 +1161,8 @@
   "url": "https://www.youtube.com/watch?v=QtkBgWMz7O8",
   "type": "screencast",
   "tags": [
-    "config"
+    "laravel",
+    "instalação"
   ],
   "author": {
     "name": "Leandro Henrique Reis",
@@ -1172,7 +1173,8 @@
   "url": "https://www.youtube.com/watch?v=ydyhrswAxp0",
   "type": "screencast",
   "tags": [
-    "config"
+    "laravel",
+    "migrations"
   ],
   "author": {
     "name": "Leandro Henrique Reis",
@@ -1183,7 +1185,8 @@
   "url": "https://www.youtube.com/watch?v=braRTLBHK1E",
   "type": "screencast",
   "tags": [
-    "config"
+    "laravel",
+    "git"
   ],
   "author": {
     "name": "Leandro Henrique Reis",
@@ -1194,7 +1197,9 @@
   "url": "https://www.youtube.com/watch?v=vhCZ60PsXPA",
   "type": "screencast",
   "tags": [
-    "config"
+    "laravel",
+    "factories",
+    "fakers"
   ],
   "author": {
     "name": "Leandro Henrique Reis",
@@ -1205,7 +1210,10 @@
   "url": "https://www.youtube.com/watch?v=Rgu0aj38OG4",
   "type": "screencast",
   "tags": [
-    "config"
+    "laravel",
+    "jwt",
+    "tdd",
+    "auth"
   ],
   "author": {
     "name": "Leandro Henrique Reis",
@@ -1216,7 +1224,10 @@
   "url": "https://www.youtube.com/watch?v=OhL0OkdqcSU",
   "type": "screencast",
   "tags": [
-    "config"
+    "laravel",
+    "jwt",
+    "auth",
+    "tdd"
   ],
   "author": {
     "name": "Leandro Henrique Reis",
