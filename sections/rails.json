@@ -64,7 +64,7 @@
 }, {
   "name": "Akita on Rails",
   "url": "https://akitaonrails.com",
-  "type": "blog",
+  "type": "site",
   "tags": [
     "ruby",
     "rails"
@@ -77,7 +77,7 @@
 }, {
   "name": "Nando Vieira",
   "url": "https://nandovieira.com.br",
-  "type": "blog",
+  "type": "site",
   "tags": [
     "rails"
   ],
