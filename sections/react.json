@@ -119,4 +119,19 @@
     "name": "Matheus Lima",
     "url": "http://jscasts.teachable.com/"
   }
-}]
+},
+{
+  "name": "Iniciando um app React em 3 minutos ",
+  "url": "https://willianjusten.com.br/video-iniciando-um-app-react-em-3-minutos/",
+  "type": "video",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "video"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "https://willianjusten.com.br/"
+  }
+}
+]
