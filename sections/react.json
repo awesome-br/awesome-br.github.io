@@ -133,5 +133,20 @@
     "name": "Willian Justen",
     "url": "https://willianjusten.com.br/"
   }
+},
+{
+  "name": "Grupo de discussão",
+  "url": "https://github.com/react-sp/react-sp/",
+  "type": "Forum de suporte",
+  "paid": false,
+  "tags": [
+    "superte",
+    "dúvidas",
+    "forum"
+  ],
+  "author": {
+    "name": "React SP",
+    "url": "https://github.com/react-sp/"
+  }
 }
 ]
