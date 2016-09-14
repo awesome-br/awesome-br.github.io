@@ -133,5 +133,47 @@
     "name": "Willian Justen",
     "url": "https://willianjusten.com.br/"
   }
+},
+{
+  "name": "Sua Linha do Tempo para Aprender React[TRADUÇÃO]",
+  "url": "https://github.com/ericdouglas/traduz-ai/blob/master/react/01-sua-linha-do-tempo-para-aprender-react.md",
+  "type": "artigo",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "introdução"
+  ],
+  "author": {
+    "name": "Eric Douglas",
+    "url": "https://ericdouglas.github.io/"
+  }
+},
+{
+  "name": "Gerenciando rotas com React Router",
+  "url": "https://blog.coderockr.com/gerenciando-rotas-com-react-router-ed44ce1e8753#.4xz3ouqn0",
+  "type": "artigo",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "introdução"
+  ],
+  "author": {
+    "name": "Vinicius Dacal Lopes",
+    "url": "https://github.com/viniciusdacal"
+  }
+},
+{
+  "name": "Recharts, construa gráficos com React e D3",
+  "url": "https://blog.coderockr.com/recharts-construa-gr%C3%A1ficos-com-react-e-d3-31b238bd98a8#.hf6uj2sk4",
+  "type": "artigo",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "introdução"
+  ],
+  "author": {
+    "name": "Vinicius Dacal Lopes",
+    "url": "https://github.com/viniciusdacal"
+  }
 }
 ]
