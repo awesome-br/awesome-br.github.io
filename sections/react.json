@@ -133,6 +133,7 @@
     "name": "Willian Justen",
     "url": "https://willianjusten.com.br/"
   }
+
 },
 {
   "name": "Sua Linha do Tempo para Aprender React (Tradução)",
@@ -174,6 +175,22 @@
   "author": {
     "name": "Vinicius Dacal Lopes",
     "url": "https://github.com/viniciusdacal"
+
+  }
+}, 
+{
+  "name": "Grupo de discussão",
+  "url": "https://github.com/react-sp/react-sp/",
+  "type": "url",
+  "paid": false,
+  "tags": [
+    "dúvidas",
+    "forum"
+  ],
+  "author": {
+    "name": "React Brasil",
+    "url": "https://github.com/react-sp/"
+
   }
 }
 ]
