@@ -611,4 +611,16 @@
     "name": "Leonardo Moura Leitão",
     "url": "https://www.youtube.com/c/aulasdeprogramacao"
   }
+}, {
+  "name": "Prototype JS para PHP Developers",
+  "url": "hhttps://medium.com/@omarkdev/prototype-js-para-php-developers-67ed91bf5434#.vhrzv2fhf",
+  "type": "artigo",
+  "tags": [
+    "prototype",
+    "php to js"
+  ],
+  "author": {
+    "name": "Marcos Felipe",
+    "url": "https://github.com/omarkdev"
+  }
 }]
