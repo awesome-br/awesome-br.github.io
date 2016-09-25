@@ -46,4 +46,75 @@
     "name": "Vinicius Mussak",
     "url": "http://viniciusmussak.net/"
   }
+}, {
+  "name": "Performance com manipulação de Strings",
+  "url": "http://viniciusmussak.net/2015/12/14/performance-manipulacao-string/",
+  "type": "artigo",
+  "tags": [
+    "string",
+    "C#"
+  ],
+  "author": {
+    "name": "Vinicius Mussak",
+    "url": "http://viniciusmussak.net/"
+  }
+}, {
+  "name": "Performance com Coleções",
+  "url": "http://viniciusmussak.net/2015/04/27/performance-colecoes/",
+  "type": "artigo",
+  "tags": [
+    "Colletion",
+    "C#"
+  ],
+  "author": {
+    "name": "Vinicius Mussak",
+    "url": "http://viniciusmussak.net/"
+  }
+}, {
+  "name": "Performance com Conversões",
+  "url": "http://viniciusmussak.net/2015/04/12/performance-conversoes/",
+  "type": "artigo",
+  "tags": [
+    "Cast",
+    "C#"
+  ],
+  "author": {
+    "name": "Vinicius Mussak",
+    "url": "http://viniciusmussak.net/"
+  }
+}, {
+  "name": "Primeiros passos com XNA",
+  "url": "https://msdn.microsoft.com/pt-br/library/hh416748.aspx",
+  "type": "artigo",
+  "tags": [
+    "desenvolvimento de games",
+    "c#"
+  ],
+  "author": {
+    "name": "Elemar Rodrigues Severo Júnior",
+    "url": ""
+  }
+}, {
+  "name": "Programação Windows Mobile com C#",
+  "url": "https://www.youtube.com/playlist?list=PLD9B197AC09D2F505",
+  "type": "curso",
+  "tags": [
+    "mobile",
+    "c#"
+  ],
+  "author": {
+    "name": "Welligton - AIED Online",
+    "url": ""
+  }
+}, {
+  "name": "Fundamentos em C# com Clean Code",
+  "url": "https://www.youtube.com/playlist?list=PLE4x53a2_eGZLYa7u4YF7Vf9U9PYVDvdq",
+  "type": "curso",
+  "tags": [
+    "c#"
+  ],
+  "author": {
+    "name": "Juliano Sales",
+    "url": "http://juliano-sales.net/"
+  }
 }]

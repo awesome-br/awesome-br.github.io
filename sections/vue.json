@@ -1,7 +1,7 @@
 [{
   "name": "Curso completo sobre Vuejs versão 0.12.16",
   "url": "http://www.vedcasts.com.br/series/vuejs",
-  "type": "videos",
+  "type": "vídeo",
   "tags": [
     "introdução",
     "curso", "screencast"
@@ -9,5 +9,117 @@
   "author": {
     "name": "Fábio Vedovelli",
     "url": "http://www.vedcasts.com.br/"
+  }
+}, {
+  "name": "Reatividade no Vue.js",
+  "url": "https://www.youtube.com/watch?v=BLS6zAkXfNI",
+  "type": "vídeo",
+  "tags": [
+    "introdução",
+    "reactive"
+  ],
+  "author": {
+    "name": "Pedro Borges",
+    "url": "https://www.youtube.com/channel/UCU2P4q_zJmJODexmUyJFgdQ"
+  }
+}, {
+  "name": "Paginação avançada com Laravel e Vue.js",
+  "url": "https://www.youtube.com/watch?v=-0IFTI4FYDc",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "vue.js",
+    "paginacao"
+  ],
+  "author": {
+    "name": "Fabio Vedovelli",
+    "url": "http://www.vedovelli.com.br/"
+  }
+}, {
+  "name": "Guia Oficial Traduzido",
+  "url": "http://vuejs-br.github.io/vuejs.org/guide/",
+  "type": "tutorial",
+  "tags": [
+    "vue.js"
+  ],
+  "author": {
+    "name": "Vítor Arjol",
+    "url": "https://github.com/vitorarjol"
+  }
+}, {
+  "name": "1º Hangout Vue.js Brasil (Vuex)",
+  "url": "https://www.youtube.com/watch?v=gxiia9lQ3Ac&feature=youtu.be",
+  "type": "hangout",
+  "tags": [
+    "vuex",
+    "eventos"
+  ],
+  "author": {
+    "name": "Fabio Vedovelli",
+    "url": "http://www.vedovelli.com.br/"
+  }
+}, {
+  "name": "Tira dúvidas sobre Vue.js no Stackoverflow",
+  "url": "http://pt.stackoverflow.com/questions/tagged/vuejs",
+  "type": "dica",
+  "tags": [
+    "dúvidas"
+  ],
+  "author": {
+    "name": "Stackoverflow",
+    "url": "http://pt.stackoverflow.com"
+  }
+}, {
+  "name": "eBook Vue.js na prática",
+  "url": "https://leanpub.com/livro-vue",
+  "type": "livro",
+  "paid": true,
+  "tags": [
+    "vue",
+    "vuex",
+    "vue-router",
+    "ebook"
+  ],
+  "author": {
+    "name": "Daniel Pace Schmitz",
+    "url": "https://leanpub.com/u/danielschmitz"
+  }
+}, {
+  "name": "Por que VueJS é uma boa opção?",
+  "url": "http://www.vuejs-brasil.com.br/por-que-vuejs-e-uma-boa-opcao/",
+  "type": "artigo",
+  "tags": [
+    "web components",
+    "conceitos"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
+}, {
+  "name": "Aplicações com VueJS: Pensando em componentes",
+  "url": "http://www.vuejs-brasil.com.br/aplicacoes-com-vuejs-pensando-em-componentes/",
+  "type": "artigo",
+  "tags": [
+    "web components",
+    "flux",
+    "redux"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
+}, {
+  "name": "Imprevistos com libs de terceiros - C3.js",
+  "url": "http://www.vuejs-brasil.com.br/imprevistos-com-libs-de-terceiros-c3-js/",
+  "type": "artigo",
+  "tags": [
+    "c3.js",
+    "d3.js",
+    "third party"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
   }
 }]

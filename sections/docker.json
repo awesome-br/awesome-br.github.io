@@ -11,6 +11,7 @@
     "livro",
     "ebook"
   ],
+  "paid": true,
   "author": {
     "name": "Daniel Romero",
     "url": "http://infoslack.com"
@@ -26,5 +27,161 @@
   "author": {
     "name": "Diego Garcia",
     "url": "http://www.codeforcloud.info/"
+  }
+}, {
+  "name": "Docker para desenvolvedores",
+  "url": "https://leanpub.com/dockerparadesenvolvedores",
+  "type": "livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Rafael Gomes & Luiz Armando Bianchin",
+    "url": "http://techfree.com.br/"
+  }
+}, {
+  "name": "Uma rápida introdução ao Docker e instalação no Ubuntu",
+  "url": "http://woliveiras.com.br/posts/uma-rapida-introducao-ao-docker-e-instalacao-no-ubuntu/",
+  "type": "url",
+  "tags": [
+    "tutorial",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "William de Oliveira Souza",
+    "url": "http://woliveiras.com.br/"
+  }
+}, {
+  "name": "O que é uma imagem e o que é um container Docker?",
+  "url": "http://woliveiras.com.br/posts/imagem-docker-ou-um-container-docker/",
+  "type": "url",
+  "tags": [
+    "tutorial",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "William de Oliveira Souza",
+    "url": "http://woliveiras.com.br/"
+  }
+}, {
+  "name": "Comandos mais utilizados no Docker",
+  "url": "http://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/",
+  "type": "url",
+  "tags": [
+    "tutorial",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "William de Oliveira Souza",
+    "url": "http://woliveiras.com.br/"
+  }
+}, {
+  "name": "Criando uma imagem Docker personalizada",
+  "url": "http://woliveiras.com.br/posts/Criando-uma-imagem-Docker-personalizada/",
+  "type": "url",
+  "tags": [
+    "tutorial",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "William de Oliveira Souza",
+    "url": "http://woliveiras.com.br/"
+  }
+}, {
+  "name": "dfy - docker for you",
+  "url": "https://github.com/rtancman/dfy",
+  "type": "url",
+  "tags": [
+    "tutorial"
+  ],
+  "author": {
+    "name": "Raffael Tancman",
+    "url": "http://www.rtancman.com.br/"
+  }
+}, {
+  "name": "Docker - Explorando um pouco a Command Line",
+  "url": "http://cauealves.com/docker-explorando-um-pouco-a-command-line",
+  "type": "url",
+  "tags": [
+    "artigo",
+    "dica",
+    "cli"
+  ],
+  "author": {
+    "name": "Cauê Alves",
+    "url": "http://cauealves.com/"
+  }
+}, {
+  "name": "Docker Comandos Úteis",
+  "url": "https://github.com/cauealves/docker-useful-commands/blob/master/pt-BR.md",
+  "type": "url",
+  "tags": [
+    "dica",
+    "cli"
+  ],
+  "author": {
+    "name": "Cauê Alves",
+    "url": "http://cauealves.com/"
+  }
+}, {
+  "name": "Comandos essenciais do Docker e monitoramento de containers",
+  "url": "http://stefanteixeira.com.br/2015/03/17/comandos-essenciais-docker-monitoramento-containers/",
+  "type": "url",
+  "tags": [
+    "docker",
+    "monitoramento",
+    "dica",
+    "cli"
+  ],
+  "author": {
+    "name": "Stefan Teixeira",
+    "url": "http://stefanteixeira.com.br/"
+  }
+}, {
+  "name": "Docker - Como construir imagens mais leves",
+  "url": "http://cauealves.com/docker-como-construir-imagens-mais-leves",
+  "type": "url",
+  "tags": [
+    "artigo",
+    "docker",
+    "imagens",
+    "dockerfile"
+  ],
+  "author": {
+    "name": "Cauê Alves",
+    "url": "http://cauealves.com/"
+  }
+}, {
+  "name": "Docker - O que são as camadas e como elas funcionam",
+  "url": "http://cauealves.com/docker-o-que-sao-camadas-e-como-elas-funcionam",
+  "type": "url",
+  "tags": [
+    "artigo",
+    "docker",
+    "imagens",
+    "camadas"
+  ],
+  "author": {
+    "name": "Cauê Alves",
+    "url": "http://cauealves.com/"
+  }
+}, {
+  "name": "Docker - Como utilizar imagens privadas na Amazon Web Services",
+  "url": "http://cauealves.com/docker-utilizar-imagens-privadas-na-amazon-web-services",
+  "type": "url",
+  "tags": [
+    "artigo",
+    "docker",
+    "aws"
+  ],
+  "author": {
+    "name": "Cauê Alves",
+    "url": "http://cauealves.com/"
   }
 }]

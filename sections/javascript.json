@@ -1,4 +1,56 @@
 [{
+  "name": "Usando Spread Operator do ES6",
+  "url": "https://udgwebdev.com/usando-spread-operator-do-es6",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "es6",
+    "javascript"
+  ],
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "https://udgwebdev.com"
+  }
+}, {
+  "name": "Escrevendo JavaScript Melhor - Parte 1",
+  "url": "https://udgwebdev.com/escrevendo-javascript-melhor-parte-1",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "es6",
+    "javascript"
+  ],
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "https://udgwebdev.com"
+  }
+}, {
+  "name": "Escrevendo JavaScript Melhor - Parte 2",
+  "url": "https://udgwebdev.com/escrevendo-javascript-melhor-parte-2",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "es6",
+    "javascript"
+  ],
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "https://udgwebdev.com"
+  }
+}, {
+  "name": "Como criar página com mais de um idioma",
+  "url": "http://www.lucaslimamuller.com.br/blog/como-criar-pagina-com-mais-de-um-idioma/",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "dica",
+    "javascript"
+  ],
+  "author": {
+    "name": "Lucas Lima Muller",
+    "url": "http://www.lucaslimamuller.com.br/"
+  }
+}, {
   "name": "Informações gerais sobre Javascript",
   "url": "http://pt.stackoverflow.com/tags/javascript/info",
   "type": "documentação",
@@ -58,7 +110,7 @@
 }, {
   "name": "Desvendando a linguagem JavaScript",
   "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc",
-  "type": "video",
+  "type": "vídeo",
   "tags": [
     "javascript",
     "playlist",
@@ -84,7 +136,7 @@
 }, {
   "name": "JavaScript Funcional",
   "url": "https://www.youtube.com/playlist?list=PL77JVjKTJT2iAlBJX3buyljqzfoR9nV_R",
-  "type": "video",
+  "type": "vídeo",
   "tags": [
     "javascript",
     "youtube",
@@ -98,11 +150,10 @@
 }, {
   "name": "O fantástico mundo do JavaScript",
   "url": "https://www.youtube.com/watch?v=Zn7B-X0y5qs",
-  "type": "video",
+  "type": "vídeo",
   "tags": [
     "javascript",
-    "youtube",
-    "video"
+    "youtube"
   ],
   "author": {
     "name": "Jean Carlo Emer",
@@ -203,8 +254,7 @@
     "name": "Vinicius Reis",
     "url": "http://github.com/vinicius73"
   }
-},
-{
+}, {
   "name": "Testando seu front com CasperJs",
   "url": "http://blog.devparana.org/testando-seu-front-com-casperjs/",
   "type": "artigo",
@@ -217,8 +267,7 @@
     "name": "Fernando Fabricio dos Santos",
     "url": "http://blog.devparana.org"
   }
-},
-{
+}, {
   "name": "APIs REST em 1 minuto ",
   "url": "http://jaydson.org/api-s-rest-em-1-minuto/",
   "type": "artigo",
@@ -232,5 +281,346 @@
   "author": {
     "name": "Jaydson Gomes",
     "url": "http://jaydson.org/"
+  }
+}, {
+  "name": "Como criar um projeto Open Source em JavaScript",
+  "url": "https://medium.com/@matheusml/como-criar-um-projeto-open-source-em-javascript-f3a49a4126c8#.v6pumgq8q",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "bower",
+    "gulp",
+    "grunt",
+    "npm",
+    "ferramentas"
+  ],
+  "author": {
+    "name": "Matheus Lima",
+    "url": "http://matheuslima.com/"
+  }
+}, {
+  "name": "Objetos JavaScript em Detalhe",
+  "url": "https://github.com/ericdouglas/traduz-ai/blob/master/javascript/002-objetos-js-em-detalhe.md#objetos-javascript-em-detalhe",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "objeto"
+  ],
+  "author": {
+    "name": "Richard Bovell",
+    "url": "http://javascriptissexy.com/"
+  }
+}, {
+  "name": "Requisição AJAX com Javascript Puro",
+  "url": "http://www.lucaslimamuller.com.br/blog/requisicao-ajax-com-javascript-puro/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "ajax"
+  ],
+  "author": {
+    "name": "Lucas Lima Muller",
+    "url": "http://www.lucaslimamuller.com.br"
+  }
+}, {
+  "name": "Módulos JavaScript: Um Guia Para Iniciantes",
+  "url": "https://medium.com/@dejaneves/m%C3%B3dulos-javascript-um-guia-para-iniciantes-143a8bae6c78#.8ceje0vcc",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "modulos",
+    "reusabilidade"
+  ],
+  "author": {
+    "name": "Jaime Neves",
+    "url": "https://medium.com/@dejaneves"
+  }
+}, {
+  "name": "Exercícios Simples de JavaScript para Entrevista",
+  "url": "http://tableless.com.br/exercicios-simples-de-javascript-para-entrevista/",
+  "type": "artigo",
+  "tags": [
+    "exercicios"
+  ],
+  "author": {
+    "name": "Wendell Adriel",
+    "url": "https://twitter.com/wendell_adriel"
+  }
+}, {
+  "name": "Fluxo de execução assíncrono em JavaScript – Generators e Async Functions",
+  "url": "http://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-generators-e-async-functions/",
+  "type": "artigo",
+  "tags": [
+    "design pattern"
+  ],
+  "author": {
+    "name": "Jean Carlo Emer",
+    "url": "http://jcemer.com/"
+  }
+}, {
+  "name": "Fluxo de execução assíncrono em JavaScript – Callbacks",
+  "url": "http://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-callbacks/",
+  "type": "artigo",
+  "tags": [
+    "design pattern"
+  ],
+  "author": {
+    "name": "Jean Carlo Emer",
+    "url": "http://jcemer.com/"
+  }
+}, {
+  "name": "Fluxo de execução assíncrono em JavaScript – Promises",
+  "url": "http://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-promises/",
+  "type": "artigo",
+  "tags": [
+    "design pattern"
+  ],
+  "author": {
+    "name": "Jean Carlo Emer",
+    "url": "http://jcemer.com/"
+  }
+}, {
+  "name": "Uma visão detalhada sobre instanciação de variaveis no JavaScript",
+  "url": "http://tableless.com.br/uma-visao-detalhada-sobre-instanciacao-de-variaveis-no-javascript/",
+  "type": "artigo",
+  "tags": [
+    "scope",
+    "hoisting",
+    "variaveis"
+  ],
+  "author": {
+    "name": "Alex Miranda",
+    "url": "https://github.com/amwebdesigner"
+  }
+}, {
+  "name": "Módulos no JavaScript moderno",
+  "url": "https://braziljs.org/blog/modulos-no-javascript-moderno/",
+  "type": "artigo",
+  "tags": [
+    "design pattern",
+    "es6"
+  ],
+  "author": {
+    "name": "Jaydson Gomes",
+    "url": "http://jaydson.org/"
+  }
+}, {
+  "name": "Module folding: matando o código morto",
+  "url": "https://braziljs.org/blog/module-folding-matando-o-codigo-morto/",
+  "type": "artigo",
+  "tags": [
+    "design pattern",
+    "es6",
+    "webpack"
+  ],
+  "author": {
+    "name": "Fabrício Matté",
+    "url": "https://twitter.com/Ult_Combo"
+  }
+}, {
+  "name": "Aprenda Call, Apply e Bind em JavaScript Para Sempre e Com Exemplos",
+  "url": "http://programadorobjetivo.co/call-apply-e-bind-em-javascript/",
+  "type": "artigo",
+  "tags": [
+    "design pattern",
+    "this"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
+}, {
+  "name": "Boas Práticas JavaScript - Desacoplamento das Camadas de Usuário",
+  "url": "http://programadorobjetivo.co/boas-praticas-javascript-desacoplamento-das-camadas-de-usuario/",
+  "type": "artigo",
+  "tags": [
+    "arquiteta",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
+}, {
+  "name": "Boas Práticas Javascript - Evite Variáveis Globais",
+  "url": "http://programadorobjetivo.co/boas-praticas-javascript-evite-globais/",
+  "type": "artigo",
+  "tags": [
+    "escopo",
+    "namespace",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
+}, {
+  "name": "Boas Práticas JavaScript - Manipulação de Eventos",
+  "url": "http://programadorobjetivo.co/boas-praticas-javascript-manipulacao-de-eventos/",
+  "type": "artigo",
+  "tags": [
+    "eventos",
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
+}, {
+  "name": "Boas Práticas JavaScript - Saiba Usar typeof, in, instanceof, hasOwnProperty e Evite Comparações com Null",
+  "url": "http://programadorobjetivo.co/boas-praticas-javascript-typeof-instanceof-in-hasownproperty/",
+  "type": "artigo",
+  "tags": [
+    "boas praticas"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
+}, {
+  "name": "Domine JavaScript 'this' com 3 Exemplos",
+  "url": "http://programadorobjetivo.co/domine-javascript-this-com-3-exemplos-simples/",
+  "type": "artigo",
+  "tags": [
+    "this"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
+}, {
+  "name": "O Segredo dos JavaScript Constructors",
+  "url": "http://programadorobjetivo.co/o-segredo-dos-javascript-constructors/",
+  "type": "artigo",
+  "tags": [
+    "this",
+    "constructors"
+  ],
+  "author": {
+    "name": "Johel Carvalho",
+    "url": "http://programadorobjetivo.co/"
+  }
+}, {
+  "name": "Javascript- Estrutura de Dados - Pilha",
+  "url": "http://nomadev.com.br/estrutura-de-dados-pilha/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "estrutura de dados",
+    "pilha"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "Criando Calendário com Jquery",
+  "url": "http://gabrieldeveloper.com.br/javascript/item/10-criando-calendario-com-jquery",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "jquery",
+    "calendario"
+  ],
+  "author": {
+    "name": "Gabriel Gonçalves",
+    "url": "http://gabrieldeveloper.com.br/"
+  }
+}, {
+  "name": "JavaScript- Promises",
+  "url": "http://nomadev.com.br/javascript-promises/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "promisses"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "Entendendo Programação Funcional em JavaScript de uma vez",
+  "url": "http://imasters.com.br/front-end/javascript/entendendo-programacao-funcional-em-javascript-de-uma-vez",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "programacao funcional"
+  ],
+  "author": {
+    "name": "Matheus Lima",
+    "url": "http://imasters.com.br/"
+  }
+}, {
+  "name": "Crie um carregador básico com JavaScript Promises",
+  "url": "http://imasters.com.br/desenvolvimento/crie-um-carregador-basico-com-javascript-promises/?trace=1519021197&source=home",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "promisses"
+  ],
+  "author": {
+    "name": "David Walsh",
+    "url": "http://imasters.com.br/"
+  }
+}, {
+  "name": "Meteor.js: um framework além do MVC",
+  "url": "http://imasters.com.br/framework/meteor-js-um-framework-alem-do-mvc/",
+  "type": "artigo",
+  "tags": [
+    "javascript",
+    "meteor"
+  ],
+  "author": {
+    "name": "Kemel Zaidan",
+    "url": "http://imasters.com.br/"
+  }
+}, {
+  "name": "Por que usar 'use strict'?",
+  "url": "http://clubedosgeeks.com.br/programacao/javascript/por-que-usar-use-strict",
+  "type": "artigo",
+  "tags": [
+    "strict mode"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "Detecção de rosto em fotos com JavaScript",
+  "url": "http://clubedosgeeks.com.br/programacao/javascript/deteccao-de-rosto-em-video-e-foto-com-javascript",
+  "type": "tutorial",
+  "tags": [
+    "tracking.js",
+    "face detection"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "Curso de ECMAScript 2015 (ES6)",
+  "url": "https://www.youtube.com/playlist?list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2",
+  "type": "curso",
+  "tags": [
+    "curso",
+    "vídeos",
+    "es6",
+    "boas práticas"
+  ],
+  "author": {
+    "name": "Leonardo Moura Leitão",
+    "url": "https://www.youtube.com/c/aulasdeprogramacao"
+  }
+}, {
+  "name": "Prototype JS para PHP Developers",
+  "url": "https://medium.com/@omarkdev/prototype-js-para-php-developers-67ed91bf5434#.vhrzv2fhf",
+  "type": "artigo",
+  "tags": [
+    "prototype",
+    "php to js"
+  ],
+  "author": {
+    "name": "Marcos Felipe",
+    "url": "https://github.com/omarkdev"
   }
 }]

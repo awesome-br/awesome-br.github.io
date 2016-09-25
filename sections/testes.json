@@ -1,0 +1,42 @@
+[{
+  "name": "Entendendo Testes de Softwares",
+  "url": "http://willianjusten.com.br/entendendo-testes-de-software/",
+  "type": "artigo",
+  "tags": [
+    "TDD",
+    "BDD",
+    "Mocks",
+    "JS",
+    "Python",
+    "Ruby",
+    "Ferramentas"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "https://github.com/willianjusten/"
+  }
+}, {
+  "name": "A importância do TDD (Desenvolvimento orientado a testes) parte 1",
+  "url": "https://www.youtube.com/watch?v=7l7dMMNdVyI",
+  "type": "screencast",
+  "tags": [
+    "TDD",
+    "Ferramentas"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Segurança como Parte Integral no Ciclo de Desenvolvimento de Software",
+  "url": "https://www.youtube.com/watch?v=Ehl3GyMLD-U",
+  "type": "palestra",
+  "tags": [
+    "Segurança",
+    "TDD"
+  ],
+  "author": {
+    "name": "Vinicius Oliveira Ferreira",
+    "url": "https://br.linkedin.com/in/viniciusoferreira"
+  }
+}]

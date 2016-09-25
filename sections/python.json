@@ -41,7 +41,7 @@
 }, {
   "name": "Curso de Python",
   "url": "https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj",
-  "type": "Curso",
+  "type": "curso",
   "tags": [
     "screencast", "playlist", "curso", "eXcript"
   ]
@@ -51,7 +51,7 @@
   "type": "palestra",
   "tags": [
     "palestra",
-    "video"
+    "vídeo"
   ],
   "author": {
     "name": "Renzo Nuccitelli",
@@ -60,11 +60,12 @@
 }, {
   "name": "Python Escreva seus primeiros programas",
   "url": "http://www.casadocodigo.com.br/products/livro-python-3",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
     "livro",
     "ebook"
   ],
+  "paid": true,
   "author": {
     "name": "Felipe Cruz",
     "url": "https://github.com/felipecruz"
@@ -72,22 +73,58 @@
 }, {
   "name": "Python + Tkinter",
   "url": "https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE",
-  "type": "Playlist",
+  "type": "vídeo",
   "tags": [
     "screencast", "playlist", "curso", "eXcript"
   ]
 }, {
   "name": "Python para Zumbis",
   "url": "https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc",
-  "type": "Curso",
+  "type": "curso",
   "tags": [
     "screencast", "playlist", "curso", "básico"
   ]
 }, {
   "name": "Curso Python + Django",
   "url": "https://osantana.me/curso-de-python-e-django/",
-  "type": "Curso",
+  "type": "curso",
   "tags": [
     "playlist", "curso", "básico"
+  ]
+}, {
+  "name": "Python + Arduino: Comunicação Serial",
+  "url": "http://www.embarcados.com.br/python-e-arduino-comunicacao-serial/",
+  "type": "artigo",
+  "tags": [
+    "arduino",
+    "serial",
+    "robótica"
+  ]
+}, {
+  "name": "Configurando, e monitorando servidores de produção",
+  "url": "http://pythonclub.com.br/configurando-um-servidor-de-producao-para-aplicacoes-python.html",
+  "type": "artigo",
+  "tags": [
+    "servidor",
+    "produção",
+    "wsgi",
+    "virtualenv",
+    "gunicorn"
+  ]
+}, {
+  "name": "Entendendo funções anônimas : Lambda",
+  "url": "http://blog.alienretro.com/entendendo-python-lambda/",
+  "type": "artigo",
+  "tags": [
+    "lambda",
+    "intermediário"
+  ]
+}, {
+  "name": "Python para Sistemas Operacionais",
+  "url": "https://www.youtube.com/playlist?list=PLzoythjsH3QPd7ZpK2LXWiVrZFa-nZGs7",
+  "type": "curso",
+  "tags": [
+    "python", "playlist",
+    "SO"
   ]
 }]

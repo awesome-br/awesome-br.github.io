@@ -1,0 +1,61 @@
+[{
+  "name": "ASP NET MVC - Conceitos Basicos",
+  "url": "https://www.youtube.com/watch?v=PCPQyT5S3Dg",
+  "type": "vídeo",
+  "tags": [
+    "ASP.NET",
+    "MVC"
+  ],
+  "author": {
+    "name": "Jose Carlos Macoratti",
+    "url": "www.macoratti.net"
+  }
+}, {
+  "name": "ASP.NET Cast",
+  "url": "http://www.youtube.com/aspnetcast",
+  "type": "hangout",
+  "tags": [
+    "ASP.NET"
+  ],
+  "author": [{
+    "name": "André Baltieri",
+    "url": "www.andrebaltieri.net"
+  }, {
+    "name": "Eduardo Pires",
+    "url": "www.eduardopires.net.br"
+  }, {
+    "name": "Yan Justino",
+    "url": "http://www.yanjustino.net/"
+  }, {
+    "name": "Victor Cavalcante",
+    "url": "www.cavalcante.net"
+  }, {
+    "name": "Rodrigo Kono",
+    "url": "http://www.rodrigokono.net/"
+  }]
+}, {
+  "name": "Introdução ao ASP.NET Core 1.0",
+  "url": "http://eduardopires.net.br/2016/01/introducao-ao-asp-net-core-1-0/",
+  "type": "dica",
+  "tags": [
+    "ASP.NET",
+    "Microsoft",
+    "Core 1.0"
+  ],
+  "author": [{
+    "name": "Eduardo Pires",
+    "url": "http://eduardopires.net.br"
+  }]
+}, {
+  "name": "Programação ASP.NET com C#",
+  "url": "https://www.youtube.com/playlist?list=PL2CA2333C9A91A4F2",
+  "type": "curso",
+  "tags": [
+    "ASP.NET",
+    "Microsoft",
+    "C#"
+  ],
+  "author": [{
+    "name": "Welligton - AIED Online"
+  }]
+}]

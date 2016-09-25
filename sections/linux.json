@@ -1,51 +1,88 @@
 [{
-    "name": "Introdução a shell script",
-    "url": "http://aurelio.net/shell/apostila-introducao-shell.pdf",
-    "type": "apostilas",
-    "tags": [
-      "linux",
-      "curso",
-      "apostilas"
-    ],
-    "author": {
-      "name": "Aurélio Marinho de Jargas",
-      "url": "http://aurelio.net"
-    }
-  },{
-    "name": "Linux & shell script",
-    "url": "https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf",
-    "type": "apostilas",
-    "tags": [
-      "linux",
-      "curso",
-      "apostilas"
-    ],
-    "author": {
-      "name": "Aurélio Marinho de Jargas",
-      "url": "http://aurelio.net"
-    }
-  },{
-    "name": "Como automatizar a criação de virtual hosts",
-    "url": "http://tableless.com.br/como-automatizar-criacao-de-virtual-hosts/",
-    "type": "Artigo",
-    "tags": [
-      "linux",
-      "tutorial"
-    ],
-    "author": {
-      "name": "Léo WG",
-      "url": "http://tableless.com.br/author/leowgweb/"
-    }
-  },{
-    "name": "Virtualhost script",
-    "url": "https://github.com/RoverWire/virtualhost",
-    "type": "tutorial",
-    "tags": [
-      "linux",
-      "recursos"
-    ],
-    "author": {
-      "name": "Luis Felipe Perez",
-      "url": "https://github.com/RoverWire"
-    }
-  }]
+  "name": "Introdução a shell script",
+  "url": "http://aurelio.net/shell/apostila-introducao-shell.pdf",
+  "type": "apostila",
+  "tags": [
+    "linux",
+    "curso",
+    "apostilas"
+  ],
+  "author": {
+    "name": "Aurélio Marinho de Jargas",
+    "url": "http://aurelio.net"
+  }
+}, {
+  "name": "Linux & shell script",
+  "url": "https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf",
+  "type": "apostila",
+  "tags": [
+    "linux",
+    "curso",
+    "apostilas"
+  ],
+  "author": {
+    "name": "Aurélio Marinho de Jargas",
+    "url": "http://aurelio.net"
+  }
+}, {
+  "name": "Como automatizar a criação de virtual hosts",
+  "url": "http://tableless.com.br/como-automatizar-criacao-de-virtual-hosts/",
+  "type": "artigo",
+  "tags": [
+    "linux",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Léo WG",
+    "url": "http://tableless.com.br/author/leowgweb/"
+  }
+}, {
+  "name": "Conhecendo o Tmux - Parte 1",
+  "url": "https://medium.com/@renatosuero/conhecendo-o-tmux-parte-1-a8edd8669bd8#.x1d3ypewc",
+  "type": "tutorial",
+  "tags": [
+    "linux",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Renato Suero",
+    "url": "https://github.com/renatosuero"
+  }
+}, {
+  "name": "Conhecendo o Tmux - Parte 2",
+  "url": "https://medium.com/@renatosuero/conhecendo-o-tmux-parte-2-14986421294a#.9h52cjo13",
+  "type": "tutorial",
+  "tags": [
+    "linux",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Renato Suero",
+    "url": "https://github.com/renatosuero"
+  }
+}, {
+  "name": "Conhecendo o Tmux - Parte 3",
+  "url": "https://medium.com/@renatosuero/conhecendo-o-tmux-parte-3-52cde47fb233#.854mu7rpx",
+  "type": "tutorial",
+  "tags": [
+    "linux",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Renato Suero",
+    "url": "https://github.com/renatosuero"
+  }
+}, {
+  "name": "SSH/RSYNC sem host, usuário e senha",
+  "url": "https://www.youtube.com/watch?v=uLGxEHq5E1Y",
+  "type": "screencast",
+  "tags": [
+    "ssh",
+    "rsync",
+    "backup"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}]

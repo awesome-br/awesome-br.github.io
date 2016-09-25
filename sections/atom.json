@@ -1,0 +1,26 @@
+[{
+  "name": "Por que usar o editor Atom?",
+  "url": "http://fellipeguimaraes.com.br/por-que-usar-o-editor-atom-js-cby/",
+  "type": "video",
+  "tags": [
+    "introdução",
+    "dicas"
+  ],
+  "author": {
+    "name": "Fellipe Guimarães",
+    "url": "http://fellipeguimaraes.com.br/"
+  }
+}, {
+  "name": "5 pacotes essenciais no Atom",
+  "url": "https://medium.com/@jonatasleon/5-pacotes-essenciais-no-atom-fff172643b94#.nxu0w7iak",
+  "type": "dica",
+  "tags": [
+    "pacotes",
+    "dicas",
+    "plugins"
+  ],
+  "author": {
+    "name": "Jonatas Leon",
+    "url": "http://jonatasleon.com/"
+  }
+}]

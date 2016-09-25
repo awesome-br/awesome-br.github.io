@@ -1,143 +1,105 @@
 [{
-    "name": "AngularJS na prática",
-    "url": "https://leanpub.com/livro-angularJS",
-    "type": "livro",
-    "tags": [
-      "introdução",
-      "ebook"
-    ],
-    "author": {
-      "name": "Daniel Pace Schmitz",
-      "url": "https://leanpub.com/u/danielschmitz"
-    }
-  }, {
-    "name": "Criando uma aplicação simples com AngularJS",
-    "url": "http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/",
-    "type": "artigo",
-    "tags": [
-      "introdução",
-      "aplicação"
-    ],
-    "author": {
-      "name": "DAVI FERREIRA ",
-      "url": "http://www.daviferreira.com/blog"
-    }
-  },
-
-  {
-    "name": "Guia Definitivo para Aprender AngularJS em Um Dia",
-    "url": "http://javascriptbrasil.com/2013/10/18/guia-definitivo-para-aprender-angularjs-em-um-dia/",
-    "type": "artigo",
-    "tags": [
-      "introdução",
-      "aplicação"
-    ],
-    "author": {
-      "name": "Eric Oliveira",
-      "url": "http://javascriptbrasil.com/author/eric-oliveira/"
-    }
-  }, {
-    "name": "Melhores práticas no uso do AngularJS",
-    "url": "https://www.youtube.com/watch?v=yeaXSGbyYwo",
-    "type": "screencast",
-    "tags": [
-      "dicas",
-      "styleguide"
-    ],
-    "author": {
-      "name": "Andre Baltieri",
-      "url": "https://www.youtube.com/user/andrebaltieri/videos"
-    }
-  }, {
-    "name": "Tudo sobre AngularJS",
-    "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb",
-    "type": "screencast",
-    "tags": [
-      "screencast",
-      "playlist"
-    ],
-    "author": {
-      "name": "Rodrigo Branas",
-      "url": "https://www.youtube.com/user/rodrigobranas"
-    }
-  }, {
-    "name": "AngularJS para Zumbis",
-    "url": "https://www.youtube.com/playlist?list=PLr6R3Zglau2nXmZHkcl-0pcU1XChEFzZM",
-    "type": "screencast",
-    "tags": [
-      "introdução",
-      "youtube",
-      "screencast"
-    ],
-    "author": {
-      "name": "Matheus Lima",
-      "url": "video://www.youtube.com/user/matheusml90/videos"
-    }
-  }, {
-    "name": "Material Design simples e rápido com AngularJS",
-    "url": "http://www.infoq.com/br/presentations/material-design-simples-e-rapido-com-angularjs",
-    "type": "screencast",
-    "tags": [
-      "material",
-      "design",
-      "angularjs",
-      "frontend"
-    ],
-    "author": {
-      "name": "Henrique Limas",
-      "url": "http://www.infoq.com/br/"
-    }
-  }, {
-    "name": "Guia de Estilo AngularJS",
-    "url": "https://github.com/johnpapa/angular-styleguide/blob/master/i18n/pt-BR.md",
-    "type": "styleguide",
-    "tags": [
-      "guia de estilo",
-      "guia",
-      "referência"
-    ],
-    "author": {
-      "name": "John Papa",
-      "url": "http://johnpapa.net"
-    }
-  }, {
-    "name": "Single Page Apps com AngularJS",
-    "url": "http://matheusazzi.com/single-page-apps/",
-    "type": "artigo",
-    "tags": [
-      "angularjs",
-      "frontend"
-    ],
-    "author": {
-      "name": "Matheus Azzi",
-      "url": "http://matheusazzi.com"
-    }
-  }, {
-    "name": "AngularJS 2.0 a caminho e o que mudou há exatamente um ano",
-    "url": "http://imasters.com.br/front-end/javascript/angularjs-2-0-a-caminho-e-o-que-mudou-ha-exatamente-um-ano/",
-    "type": "artigo",
-    "tags": [
-      "angularjs",
-      "frontend"
-    ],
-    "author": {
-      "name": "Fernando Monteiro",
-      "url": "http://newaeonweb.com.br/"
-    }
-  }, {
-    "name": "Angular 2 e o futuro do desenvolvimento Front-end",
-    "url": " https://speakerdeck.com/cironunes/angular-2-e-o-futuro-do-desenvolvimento-front-end",
-    "type": "palestra",
-    "tags": [
-      "angularjs",
-      "frontend"
-    ],
-    "author": {
-      "name": "Ciro Nunes",
-      "url": "http://cironunes.com/"
-    }
-  },
-{
+  "name": "AngularJS na prática",
+  "url": "https://leanpub.com/livro-angularJS",
+  "type": "livro",
+  "tags": [
+    "introdução",
+    "ebook"
+  ],
+  "paid": true,
+  "author": {
+    "name": "Daniel Pace Schmitz",
+    "url": "https://leanpub.com/u/danielschmitz"
+  }
+}, {
+  "name": "Criando uma aplicação simples com AngularJS",
+  "url": "http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/",
+  "type": "artigo",
+  "tags": [
+    "introdução",
+    "aplicação"
+  ],
+  "author": {
+    "name": "DAVI FERREIRA ",
+    "url": "http://www.daviferreira.com/blog"
+  }
+}, {
+  "name": "Melhores práticas no uso do AngularJS",
+  "url": "https://www.youtube.com/watch?v=yeaXSGbyYwo",
+  "type": "screencast",
+  "tags": [
+    "dicas",
+    "styleguide"
+  ],
+  "author": {
+    "name": "Andre Baltieri",
+    "url": "https://www.youtube.com/user/andrebaltieri/videos"
+  }
+}, {
+  "name": "Tudo sobre AngularJS",
+  "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb",
+  "type": "screencast",
+  "tags": [
+    "screencast",
+    "playlist"
+  ],
+  "author": {
+    "name": "Rodrigo Branas",
+    "url": "https://www.youtube.com/user/rodrigobranas"
+  }
+}, {
+  "name": "AngularJS para Zumbis",
+  "url": "https://www.youtube.com/playlist?list=PLr6R3Zglau2nXmZHkcl-0pcU1XChEFzZM",
+  "type": "screencast",
+  "tags": [
+    "introdução",
+    "youtube",
+    "screencast"
+  ],
+  "author": {
+    "name": "Matheus Lima",
+    "url": "video://www.youtube.com/user/matheusml90/videos"
+  }
+}, {
+  "name": "Material Design simples e rápido com AngularJS",
+  "url": "http://www.infoq.com/br/presentations/material-design-simples-e-rapido-com-angularjs",
+  "type": "screencast",
+  "tags": [
+    "material",
+    "design",
+    "angularjs",
+    "frontend"
+  ],
+  "author": {
+    "name": "Henrique Limas",
+    "url": "http://www.infoq.com/br/"
+  }
+}, {
+  "name": "Guia de Estilo AngularJS",
+  "url": "https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/pt-BR.md",
+  "type": "styleguide",
+  "tags": [
+    "guia de estilo",
+    "guia",
+    "referência"
+  ],
+  "author": {
+    "name": "John Papa",
+    "url": "http://johnpapa.net"
+  }
+}, {
+  "name": "Single Page Apps com AngularJS",
+  "url": "http://matheusazzi.com/single-page-apps/",
+  "type": "artigo",
+  "tags": [
+    "angularjs",
+    "frontend"
+  ],
+  "author": {
+    "name": "Matheus Azzi",
+    "url": "http://matheusazzi.com"
+  }
+}, {
   "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
   "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
   "type": "tutorial",
@@ -148,5 +110,116 @@
   "author": {
     "name": "Jansen Felipe",
     "url": "http://jansenfelipe.com.br"
+  }
+}, {
+  "name": "SPA usando AngularJS com Web API – Parte 01",
+  "url": "http://imasters.com.br/framework/dotnet/single-page-applicationspa-usando-angularjs-com-web-api-parte-01/",
+  "type": "tutorial",
+  "tags": [
+    "angular",
+    "api"
+  ],
+  "author": {
+    "name": "José Carlos Macoratti",
+    "url": "http://imasters.com.br/"
+  }
+}, {
+  "name": "SPA usando AngularJS com Web API – Parte 02",
+  "url": "http://imasters.com.br/front-end/java/single-page-applicationspa-usando-angularjs-com-web-api-parte-02/",
+  "type": "tutorial",
+  "tags": [
+    "angular",
+    "api"
+  ],
+  "author": {
+    "name": "José Carlos Macoratti",
+    "url": "http://imasters.com.br/"
+  }
+}, {
+  "name": "SPA usando AngularJS com Web API – Parte 03",
+  "url": "http://imasters.com.br/front-end/java/single-page-application-spa-usando-angularjs-com-web-api-parte-03/",
+  "type": "tutorial",
+  "tags": [
+    "angular",
+    "api"
+  ],
+  "author": {
+    "name": "José Carlos Macoratti",
+    "url": "http://imasters.com.br/"
+  }
+}, {
+  "name": "Aumentando a Performance - Parte 1",
+  "url": "https://www.youtube.com/watch?v=6kIorm_gCO4",
+  "type": "video",
+  "tags": [
+    "dicas",
+    "performance"
+  ],
+  "author": {
+    "name": "Rodrigo Branas",
+    "url": "https://www.youtube.com/c/rodrigobranas"
+  }
+}, {
+  "name": "MEAN Stack Tutorial",
+  "url": "http://danilorenatosilva.blogspot.com.br/2016/04/mean-stack-tutorial.html",
+  "type": "tutorial",
+  "tags": [
+    "mean",
+    "aplicação",
+    "javascript"
+  ],
+  "author": {
+    "name": "Danilo Renato Silva",
+    "url": "http://danilorenatosilva.blogspot.com.br"
+  }
+}, {
+  "name": "Como criar uma diretiva em AngularJS",
+  "url": "http://clubedosgeeks.com.br/sem-categoria/como-criar-uma-diretiva-em-angularjs",
+  "type": "tutorial",
+  "tags": [
+    "directive",
+    "exemplo"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "Laravel + AngularJS – sua primeira aplicação",
+  "url": "http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-sua-primeira-aplicacao",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "angular",
+    "exemplo"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "Laravel + AngularJS – Upload de Arquivos",
+  "url": "http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-upload-de-arquivos",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "angular",
+    "upload"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "16 Temas Administrativos para AngularJS",
+  "url": "http://clubedosgeeks.com.br/programacao/angularjs/16-temas-free-angularjs",
+  "type": "artigo",
+  "tags": [
+    "angular",
+    "themes"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
   }
 }]

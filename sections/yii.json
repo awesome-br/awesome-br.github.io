@@ -1,0 +1,231 @@
+[{
+  "name": "Visão geral (Overview)",
+  "url": "http://www.yiiacademy.com.br/2015/09/07/1-yii2-visao-geral-overview",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "visão geral", "overview"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Hello World no Yii2",
+  "url": "http://www.yiiacademy.com.br/2015/09/13/2-yii2-hello-world",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "hello world"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Instalação do Yii2 via Composer",
+  "url": "http://www.yiiacademy.com.br/2015/09/27/3-yii2-instalacao-via-composer/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "install", "instalação"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Trabalhando com Formulários",
+  "url": "http://www.yiiacademy.com.br/2015/09/30/4-yii2-formularios/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "forms", "formularios"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Trabalhando com Banco de Dados",
+  "url": "http://www.yiiacademy.com.br/2015/09/30/4-yii2-formularios/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "database",
+    "banco de dados", "db", "bd"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "O Famoso GII",
+  "url": "http://www.yiiacademy.com.br/2015/10/12/6-yii2-o-famoso-gii/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "gii", "gerador de código"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Estrutura de uma Aplicação",
+  "url": "http://www.yiiacademy.com.br/2015/11/08/7-yii2-estrutura-de-uma-aplicacao/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "app", "application", "aplicação"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Como funciona uma Aplicação no Yii2 ?",
+  "url": "http://www.yiiacademy.com.br/2015/11/15/8-yii2-a-aplicacao",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "app", "application", "aplicação"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Components",
+  "url": "http://www.yiiacademy.com.br/2015/12/20/9-yii2-components/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "components", "componentes"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Controllers e Actions",
+  "url": "http://www.yiiacademy.com.br/2015/12/20/10-yii2-controllers-e-actions/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "controller", "action", "mvc"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Trabalhando com Views",
+  "url": "http://www.yiiacademy.com.br/2016/02/11/11-yii2-views/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "views", "visoes", "visao"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Widgets",
+  "url": "http://www.yiiacademy.com.br/2016/02/19/12-yii2-widgets/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "widgets", "helpers"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Assets e Asset Bundles",
+  "url": "http://www.yiiacademy.com.br/2016/03/29/13-yii2-asset-bundles/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "asset", "asset bundles",
+    "bundle", "asset manager"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Filters",
+  "url": "http://www.yiiacademy.com.br/2016/04/08/14-yii2-filters/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "filtro", "filter", "filters"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Módulos",
+  "url": "http://www.yiiacademy.com.br/2016/06/08/15-yii2-modulos/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "modulo", "module", "modules"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Rest API’s – Parte I",
+  "url": "http://www.yiiacademy.com.br/2016/06/15/16-yii2-rest-apis-parte-i/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "rest", "api", "restful"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Rest API’s – Parte II (Mini Treinamento)",
+  "url": "http://www.yiiacademy.com.br/2016/06/22/16-yii2-rest-apis-parte-ii-mini-treinamento/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "rest", "api", "restful"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Formatters",
+  "url": "http://www.yiiacademy.com.br/2016/06/29/17-yii2-formatters/",
+  "type": "tutorial",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework", "formatter", "formatação"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}, {
+  "name": "Palestra: É possível produzir mais com a mesma qualidade? Conheça o Yii Framework! ",
+  "url": "https://www.youtube.com/watch?v=4b6wIeo_8bE",
+  "type": "palestra",
+  "tags": [
+    "yii", "yii2", "yiiframework", "yii framework"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Kilderson Sena",
+    "url": "http://www.yiiacademy.com.br"
+  }
+}]

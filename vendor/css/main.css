@@ -20,6 +20,7 @@ body, h1, h2, h3, h4 {
   display: block;
   color: #FFF;
   text-decoration: none;
+  padding: 10px 0;
 }
 .widget .title:hover {
   text-decoration: none;
@@ -43,12 +44,18 @@ body, h1, h2, h3, h4 {
 .forkme-ribbon {
   position: absolute;
   top: 0;
-  left: 0;
+  right: 0;
   border: 0;
-  width: 110px;
+  width: 150px;
+  padding-right: 15px;
 }
 .no-radius {
   -webkit-border-radius: 0px !important;
   -moz-border-radius: 0px !important;
   border-radius: 0px !important;
+}
+
+.user-img{
+  width:140px;
+  height:140px;
 }

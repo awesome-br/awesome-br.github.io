@@ -3,7 +3,7 @@
   "url": "http://aurelio.net/regex/apostila-conhecendo-regex.pdf",
   "type": "livro",
   "tags": [
-    "pdf"
+    "pdf", "livro"
   ],
   "author": {
     "name": "Aurélio Marinho Jargas",
@@ -12,7 +12,7 @@
 }, {
   "name": "Como extrair e formatar texto usando Expressões Regulares",
   "url": "https://www.youtube.com/watch?v=LZcTSKIwZqI",
-  "type": "video",
+  "type": "vídeo",
   "tags": [
     "youtube"
   ],
@@ -31,5 +31,17 @@
   "author": {
     "name": "Luiz Otávio Miranda",
     "url": "https://www.todoespacoonline.com/w/author/luizotaviomiranda/"
+  }
+}, {
+  "name": "Expressões Regulares - Guia de Consulta Rápida",
+  "url": "http://aurelio.net/regex/guia/",
+  "type": "livro",
+  "tags": [
+    "guia",
+    "aurelio"
+  ],
+  "author": {
+    "name": "Aurélio Marinho Jargas",
+    "url": "http://aurelio.net/"
   }
 }]

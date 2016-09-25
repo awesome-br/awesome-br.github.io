@@ -1,0 +1,131 @@
+[{
+  "name": "MongoDB - Trabalhando com o terminal - CRUD - Parte 1",
+  "url": "http://nomadev.com.br/mongodb-trabalhando-com-o-terminal-parte-1/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "JS"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "MongoDB - Remodelagem do Relacional para o MongoDb",
+  "url": "http://nomadev.com.br/mongodb-remodelagem-do-relacional-para-o-mongodb/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "JS"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "MongoDb - Como renomear campos",
+  "url": "http://nomadev.com.br/mongodb-como-renomear-campos/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "JS"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "Aprendendo MongoDb a partir do Relacional",
+  "url": "http://nomadev.com.br/aprendendo-mongodb-a-partir-do-relacional/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "JS"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "MongoDb - Como mudar seu jeito relacional de pensar - Parte 1",
+  "url": "http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "JS"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "MongoDb - Como mudar seu jeito relacional de pensar - Parte 2",
+  "url": "http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar-parte-2/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "JS"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "Be MEAN - MongoDB - Como usar Replica",
+  "url": "http://nomadev.com.br/be-mean-mongodb-como-usar-replica/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "Replica"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "Como instalar o MongoDb no Fedora?",
+  "url": "http://nomadev.com.br/como-instalar-o-mongodb-no-fedora/",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "Banco de Dados",
+    "Fedora"
+  ],
+  "author": {
+    "name": "Jean Carlo Nascimento - Suissa",
+    "url": "https://github.com/suissa"
+  }
+}, {
+  "name": "Melhora de desempenho do MongoDB com ‘dex’",
+  "url": "http://imasters.com.br/desenvolvimento/melhora-de-desempenho-do-mongodb-com-dex",
+  "type": "artigo",
+  "tags": [
+    "MongoDb",
+    "desempenho",
+    "dex"
+  ],
+  "author": {
+    "name": "Mattias Geniar",
+    "url": "https://ma.ttias.be/"
+  }
+}, {
+  "name": "MEAN Stack Tutorial",
+  "url": "http://danilorenatosilva.blogspot.com.br/2016/04/mean-stack-tutorial.html",
+  "type": "tutorial",
+  "tags": [
+    "mean",
+    "aplicação",
+    "javascript"
+  ],
+  "author": {
+    "name": "Danilo Renato Silva",
+    "url": "http://danilorenatosilva.blogspot.com.br"
+  }
+}]

@@ -1,4 +1,29 @@
 [{
+  "name": "Como desinstalar todos os módulos npm de uma vez",
+  "url": "http://www.lucaslimamuller.com.br/blog/como-desinstalar-todos-os-modulos-da-pasta-node_modules-de-uma-vez/",
+  "type": "dica",
+  "tags": [
+    "npm"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Lucas Lima Muller",
+    "url": "http://www.lucaslimamuller.com.br/"
+  }
+}, {
+  "name": "Construindo APIs REST com Node.js",
+  "url": "https://www.casadocodigo.com.br/products/livro-apis-nodejs",
+  "type": "livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "paid": true,
+  "author": {
+    "name": "Caio Ribeiro Pereira",
+    "url": "http://crpwebdev.com/"
+  }
+}, {
   "name": "Primeiros Passos com Node",
   "url": "http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/",
   "type": "artigo",
@@ -12,7 +37,7 @@
 }, {
   "name": "Artigos e Tutoriais NodeJs",
   "url": "http://udgwebdev.com/nodejs/",
-  "type": "Url",
+  "type": "url",
   "tags": [
     "introdução", "tutorial", "básico"
   ]
@@ -33,11 +58,12 @@
 }, {
   "name": "Aplicações web real-time com Node.js",
   "url": "http://www.casadocodigo.com.br/products/livro-nodejs",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
     "livro",
     "ebook"
   ],
+  "paid": true,
   "author": {
     "name": "Caio Ribeiro Pereira",
     "url": "http://crpwebdev.com/"
@@ -54,23 +80,22 @@
     "name": "Matheus Azzi",
     "url": "http://matheusazzi.com"
   }
-},
-  {
-    "name": "Gerenciando corretamente dependências em NodeJS - save ou save-dev?",
-    "url": "http://blog.da2k.com.br/2015/03/03/gerenciando-corretamente-dependencias-em-nodejs-save-ou-save-dev-1/",
-    "type": "artigo",
-    "tags": [
-      "nodejs",
-      "dicas"
-    ],
-    "author": {
-      "name": "Fernando Daciuk",
-      "url": "http://blog.da2k.com.br"
-    }
-  }, {
+}, {
+  "name": "Gerenciando corretamente dependências em NodeJS - save ou save-dev?",
+  "url": "http://blog.da2k.com.br/2015/03/03/gerenciando-corretamente-dependencias-em-nodejs-save-ou-save-dev-1/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "dicas"
+  ],
+  "author": {
+    "name": "Fernando Daciuk",
+    "url": "http://blog.da2k.com.br"
+  }
+}, {
   "name": "Curso completo de NodeJS, MongoDB, AngularJS e muito mais - Be MEAN",
   "url": "https://github.com/Webschool-io/be-mean-instagram",
-  "type": "Curso",
+  "type": "curso",
   "tags": [
     "NodeJS",
     "MongoDB",
@@ -83,7 +108,7 @@
 }, {
   "name": "Construindo aplicações com NodeJS",
   "url": "http://wbruno.com.br/livro/construindo-aplicacoes-com-nodejs/",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
     "nodejs",
     "livro"
@@ -103,5 +128,190 @@
   "author": {
     "name": "William Bruno",
     "url": "http://wbruno.com.br/"
+  }
+}, {
+  "name": "Nodejs - Como usar o npm",
+  "url": "http://nomadev.com.br/be-mean-node-js-como-usar-o-npm/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "npm"
+  ],
+  "author": {
+    "name": "Jean Carlos Nascimento",
+    "url": "http://nomadev.com.br"
+  }
+}, {
+  "name": "Nodejs - Como usar o módulo http",
+  "url": "http://nomadev.com.br/be-mean-node-js-http/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "http"
+  ],
+  "author": {
+    "name": "Jean Carlos Nascimento",
+    "url": "http://nomadev.com.br"
+  }
+}, {
+  "name": "Node.js Design Patterns",
+  "url": "http://nomadev.com.br/node-js-design-patterns-fundamentais-padr%C3%B5es-de-projeto/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "design patterns"
+  ],
+  "author": {
+    "name": "Jean Carlos Nascimento",
+    "url": "http://nomadev.com.br"
+  }
+}, {
+  "name": "Node.js - Como mostrar o que está sendo instalado pelo NPM?",
+  "url": "http://nomadev.com.br/node-js-como-mostrar-o-que-est%C3%A1-sendo-instalado-pelo-npm/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "npm"
+  ],
+  "author": {
+    "name": "Jean Carlos Nascimento",
+    "url": "http://nomadev.com.br"
+  }
+}, {
+  "name": "Node.js - Como passar parâmetros para um módulo? Com injeção de dependência.",
+  "url": "http://nomadev.com.br/node-js-como-passar-par%C3%A2metros-para-um-m%C3%B3dulo-inje%C3%A7%C3%A3o-de-dependencia/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "DI"
+  ],
+  "author": {
+    "name": "Jean Carlos Nascimento",
+    "url": "http://nomadev.com.br"
+  }
+}, {
+  "name": "Node não funciona no Ubuntu 14.04",
+  "url": "http://gabrieldeveloper.com.br/javascript/item/16-node-nao-funciona-no-ubuntu-14-04",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "ubuntu"
+  ],
+  "author": {
+    "name": "Gabriel Gonçalves",
+    "url": "http://gabrieldeveloper.com.br/"
+  }
+}, {
+  "name": "Node.js - Dica de performance - tamanho da função",
+  "url": "http://nomadev.com.br/node-js-dica-de-performance-tamanho-da-fun%C3%A7%C3%A3o/",
+  "type": "artigo",
+  "tags": [
+    "nodejs",
+    "performance"
+  ],
+  "author": {
+    "name": "Jean Carlos Nascimento",
+    "url": "http://nomadev.com.br"
+  }
+}, {
+  "name": "Node.js - Playlist de vídeos",
+  "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq",
+  "type": "video",
+  "tags": [
+    "nodejs",
+    "playlist"
+  ],
+  "author": {
+    "name": "Rodrigo Branas",
+    "url": "https://twitter.com/rodrigobranas"
+  }
+}, {
+  "name": "NodeSchool pt-br",
+  "url": "http://nodeschool.io/pt-br/",
+  "type": "tutorial",
+  "tags": [
+    "Iniciante"
+  ],
+  "author": {
+    "name": "Community"
+  }
+}, {
+  "name": "Node.js v6 suporta praticamente toda a especificação ES6/ES2015",
+  "url": "https://braziljs.org/blog/node-js-v6-suporta-93-de-es2015/",
+  "type": "artigo",
+  "tags": [
+    "ES6"
+  ],
+  "author": {
+    "name": "Jaydson Gomes",
+    "url": "http://jaydson.org"
+  }
+}, {
+  "name": "MEAN Stack Tutorial",
+  "url": "http://danilorenatosilva.blogspot.com.br/2016/04/mean-stack-tutorial.html",
+  "type": "tutorial",
+  "tags": [
+    "mean",
+    "aplicação",
+    "javascript"
+  ],
+  "author": {
+    "name": "Danilo Renato Silva",
+    "url": "http://danilorenatosilva.blogspot.com.br"
+  }
+}, {
+  "name": "Publicando pacotes no NPM",
+  "url": "http://clubedosgeeks.com.br/artigos/publicando-pacotes-no-npm",
+  "type": "tutorial",
+  "tags": [
+    "npm",
+    "publish",
+    "node"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "Aplicativo Desktop com Nwjs + AngularJS + Bootstrap + Sqlite",
+  "url": "http://clubedosgeeks.com.br/programacao/node-js/aplicativo-desktop-com-nwjs-angularjs-bootstrap-sqlite",
+  "type": "tutorial",
+  "tags": [
+    "nwjs",
+    "node",
+    "desktop",
+    "sqlite"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "Criando aplicativo com Electron – Gerando executável",
+  "url": "http://clubedosgeeks.com.br/programacao/node-js/criando-aplicativo-com-electron-gerando-executavel",
+  "type": "tutorial",
+  "tags": [
+    "electron",
+    "node",
+    "desktop",
+    "sqlite"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+},{
+  "name": "Série Construa uma API com o Framework LoopBack.io: Parte 1 — Instalação",
+  "url": "https://medium.com/@dejaneves/s%C3%A9rie-construa-uma-api-com-o-framework-loopback-io-parte-1-instala%C3%A7%C3%A3o-8665826c0181#.9sdytgfz8",
+  "type": "tutorial",
+  "tags": [
+    "nodejs",
+    "javascript",
+    "loopback"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Jaime Neves",
+    "url": "http://jaimeneves.com.br"
   }
 }]

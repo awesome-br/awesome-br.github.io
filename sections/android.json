@@ -30,12 +30,12 @@
     "livro",
     "ebook"
   ],
+  "paid": true,
   "author": {
     "name": "João Bosco Monteiro",
     "url": "https://github.com/joaobmonteiro"
   }
-},
-{
+}, {
   "name": "Persistência de Dados Com Realm no Android - Parte 1",
   "url": "http://www.thiengo.com.br/persistencia-de-dados-com-realm-no-android-parte-1",
   "type": "artigo",
@@ -46,8 +46,7 @@
     "name": "Thiengo Calopsita",
     "url": "http://www.thiengo.com.br/"
   }
-},
-{
+}, {
   "name": "Persistência de Dados Com Realm no Android - Parte 2",
   "url": "http://www.thiengo.com.br/persistencia-de-dados-com-realm-no-android-parte-2",
   "type": "artigo",
@@ -58,8 +57,7 @@
     "name": "Thiengo Calopsita",
     "url": "http://www.thiengo.com.br/"
   }
-},
-{
+}, {
   "name": "Persistência de Dados Com Realm no Android - Parte 3",
   "url": "http://www.thiengo.com.br/persistencia-de-dados-com-realm-no-android-parte-3",
   "type": "artigo",
@@ -70,8 +68,7 @@
     "name": "Thiengo Calopsita",
     "url": "http://www.thiengo.com.br/"
   }
-},
-{
+}, {
   "name": "Persistência de Dados Com Realm no Android - Parte 4",
   "url": "http://www.thiengo.com.br/persistencia-de-dados-com-realm-no-android-parte-4",
   "type": "artigo",
@@ -82,8 +79,7 @@
     "name": "Thiengo Calopsita",
     "url": "http://www.thiengo.com.br/"
   }
-},
-{
+}, {
   "name": "Persistência de Dados Com Realm no Android - Parte 5",
   "url": "http://www.thiengo.com.br/persistencia-de-dados-com-realm-no-android-parte-5",
   "type": "artigo",
@@ -94,8 +90,7 @@
     "name": "Thiengo Calopsita",
     "url": "http://www.thiengo.com.br/"
   }
-},
-{
+}, {
   "name": "Migração de Dados. Realm Library no Android - Parte 6",
   "url": "http://www.thiengo.com.br/migracao-de-dados-realm-library-no-android-parte-6",
   "type": "artigo",
@@ -106,8 +101,7 @@
     "name": "Thiengo Calopsita",
     "url": "http://www.thiengo.com.br/"
   }
-},
-{
+}, {
   "name": "Iniciando Base Realm Com Dados JSON - Parte 7",
   "url": "http://www.thiengo.com.br/iniciando-base-realm-com-dados-json-parte-7",
   "type": "artigo",
@@ -117,5 +111,15 @@
   "author": {
     "name": "Thiengo Calopsita",
     "url": "http://www.thiengo.com.br/"
+  }
+}, {
+  "name": "Programação plataforma Android",
+  "url": "https://www.youtube.com/playlist?list=PLFEE82D5D49864E94",
+  "type": "curso",
+  "tags": [
+    "Android", "playlist"
+  ],
+  "author": {
+    "name": "Welligton - AIED Online"
   }
 }]

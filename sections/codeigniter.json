@@ -1,0 +1,217 @@
+[{
+  "name": "Guia do Usuário em PDF",
+  "url": "https://issuu.com/edsonthadeu/docs/guia_do_usu_rio",
+  "type": "url",
+  "tags": [
+    "documentação"
+  ],
+  "paid": false
+}, {
+  "name": "10 principais mudanças no CodeIgniter 3",
+  "url": "http://www.dicascodeigniter.com.br/infografico-as-10-principais-mudancas-no-codeigniter-3-0/",
+  "type": "artigo",
+  "tags": [
+    "infográfico"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fábio S. Reszko",
+    "url": "http://www.dicascodeigniter.com.br"
+  }
+}, {
+  "name": "Como enviar um e-mail autenticado com CodeIgniter",
+  "url": "http://www.dicascodeigniter.com.br/como-enviar-um-e-mail-autenticado-com-codeigniter/",
+  "type": "artigo",
+  "tags": [
+    "email"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fábio S. Reszko",
+    "url": "http://www.dicascodeigniter.com.br"
+  }
+}, {
+  "name": "CodeIgniter PHP com Bootstrap HTML5",
+  "url": "https://www.youtube.com/playlist?list=PLf7vZ02bgXGW0fOSUwWxRxwW6xI2cFuOG",
+  "type": "curso",
+  "tags": [
+    "video",
+    "gratis"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Daniel Correia",
+    "url": "https://www.youtube.com/user/DannyellCorreya"
+  }
+}, {
+  "name": "Curso de CodeIgniter para iniciantes",
+  "url": "https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV",
+  "type": "curso",
+  "tags": [
+    "video",
+    "gratis"
+  ],
+  "paid": false,
+  "author": {
+    "name": "RBtech",
+    "url": "http://rbtech.info"
+  }
+}, {
+  "name": "Curso I'm DevIgniter",
+  "url": "https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV",
+  "type": "curso",
+  "tags": [
+    "video",
+    "gratis"
+  ],
+  "paid": false,
+  "author": {
+    "name": "DevIgniter",
+    "url": "https://www.youtube.com/user/DevIgniter/"
+  }
+}, {
+  "name": "Porque o Codeigniter ainda é uma boa opção",
+  "url": "http://tableless.com.br/porque-codeigniter-ainda-e-uma-boa-opcao/",
+  "type": "artigo",
+  "tags": [
+    "tutorial",
+    "iniciantes"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fernando Vargas",
+    "url": "http://tableless.com.br/"
+  }
+}, {
+  "name": "Criando um CMS em Codeigniter",
+  "url": "https://www.youtube.com/playlist?list=PLPnixNxRVcYHCla_YVv7U1v7CP6HdGxoZ",
+  "type": "curso",
+  "tags": [
+    "video",
+    "gratis"
+  ],
+  "paid": false,
+  "author": {
+    "name": "infohunters brazil",
+    "url": "https://www.youtube.com/user/infohuntersbrazil"
+  }
+}, {
+  "name": "Codeigniter configurado com HMVC",
+  "url": "https://github.com/cybersolucoesweb/CI-HMVC-3.0.4",
+  "type": "pacote",
+  "tags": [
+    "HMVC",
+    "Modulos"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Junior Marquezano",
+    "url": "http://www.cybersolucoesweb.com.br/"
+  }
+}, {
+  "name": "Baixando o Codeigniter via Composer",
+  "url": "https://youtu.be/ndhvo_LGxkI/",
+  "type": "screencast",
+  "tags": [
+    "Composer",
+    "Instalação"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Georde Henrique ",
+    "url": "http://www.apptude.com.br/"
+  }
+}, {
+  "name": "Como usar o Profiler do CodeIgniter",
+  "url": "https://youtu.be/WMbpAep6U8w/",
+  "type": "screencast",
+  "tags": [
+    "debug ",
+    "ferramenta"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fábio S. Reszko",
+    "url": "http://www.dicascodeigniter.com.br"
+  }
+}, {
+  "name": "2 maneiras simples de trabalhar com layouts no CodeIgniter 3",
+  "url": "https://youtu.be/ZQ_6Sv7xxZU/",
+  "type": "screencast",
+  "tags": [
+    "layouts",
+    "view",
+    "dica"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fábio S. Reszko",
+    "url": "http://www.dicascodeigniter.com.br"
+  }
+}, {
+  "name": "CodeIgniter - Produtividade na criação de aplicações web em PHP",
+  "url": "https://www.casadocodigo.com.br/products/livro-code-igniter",
+  "type": "livro",
+  "tags": [
+    "boas práticas"
+  ],
+  "paid": true,
+  "author": {
+    "name": "Jonathan Lamim Antunes",
+    "url": "http://www.universidadecodeigniter.com.br/"
+  }
+}, {
+  "name": "CodeIgniter 4 – Um pouco do que está acontecendo",
+  "url": "http://www.universidadecodeigniter.com.br/codeigniter-4-um-pouco-do-esta-acontecendo/",
+  "type": "artigo",
+  "tags": [
+    "CodeIgniter 4",
+    "PHP 7"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Jonathan Lamim Antunes",
+    "url": "http://www.universidadecodeigniter.com.br/"
+  }
+}, {
+  "name": "Benchmarking: calculando o tempo de execução e consumo de memória",
+  "url": "http://www.universidadecodeigniter.com.br/benchmarking-calculando-o-tempo-de-execucao-e-consumo-de-memoria/",
+  "type": "artigo",
+  "tags": [
+    "CodeIgniter",
+    "Benchmarking"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Jonathan Lamim Antunes",
+    "url": "http://www.universidadecodeigniter.com.br/"
+  }
+}, {
+  "name": "Geosan - Crie módulos de forma automática no Codeigniter",
+  "url": "https://georde.github.io/geosan/",
+  "type": "pacote",
+  "tags": [
+    "CodeIgniter",
+    "HMVC",
+    "CLI"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Georde Henrique ",
+    "url": "http://www.apptude.com.br/"
+  }
+}, {
+  "name": "BRDate - Biblioteca de datas para o CodeIgniter",
+  "url": "https://github.com/universidadecodeigniter/codeigniter-library-brdate",
+  "type": "pacote",
+  "tags": [
+    "Data",
+    "Hora",
+    "Biblioteca"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Jonathan Lamim Antunes",
+    "url": "http://www.universidadecodeigniter.com.br/"
+  }
+}]

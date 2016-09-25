@@ -126,4 +126,124 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
+}, {
+  "name": "Atualizando seu fork",
+  "url": "http://www.raphaelfabeni.com.br/atualizando-seu-fork/",
+  "type": "artigo",
+  "tags": [
+    "git",
+    "fork"
+  ],
+  "author": {
+    "name": "Raphael Fabeni",
+    "url": "http://www.raphaelfabeni.com.br/"
+  }
+}, {
+  "name": "Pro Git",
+  "url": "https://git-scm.com/book/pt-br/v1",
+  "type": "livro",
+  "tags": [
+    "git",
+    "documentação"
+  ],
+  "author": {
+    "name": "Comunidade Git",
+    "url": "https://git-scm.com"
+  }
+}, {
+  "name": "Aulas de git do Rodrigo Branas",
+  "url": "https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1",
+  "type": "curso",
+  "tags": [
+    "git",
+    "introdução"
+  ],
+  "author": {
+    "name": "Rodrigo Branas",
+    "url": "https://twitter.com/rodrigobranas"
+  }
+}, {
+  "name": "Contribuindo para projetos Open Source no GitHub, mesmo sendo iniciante",
+  "url": "http://woliveiras.com.br/posts/contribuindo-para-projetos-open-source-no-github-mesmo-sendo-iniciante/",
+  "type": "artigo",
+  "tags": [
+    "git",
+    "introdução",
+    "github"
+  ],
+  "author": {
+    "name": "William Oliveira Souza",
+    "url": "http://woliveiras.com.br"
+  }
+}, {
+  "name": "Git e Github para Iniciantes",
+  "url": "http://willianjusten.teachable.com/courses/git-e-github-para-iniciantes",
+  "type": "curso",
+  "tags": [
+    "iniciante",
+    "github",
+    "git"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "http://willianjusten.com.br/"
+  }
+}, {
+  "name": "Deploy em servidor compartilhado usando git/rsync através do FTP",
+  "url": "https://www.youtube.com/watch?v=9TZdTiCKkrk",
+  "type": "screencast",
+  "tags": [
+    "git",
+    "deploy"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Git nosso de cada dia",
+  "url": "http://glaucocustodio.com/2013/03/06/git-nosso-de-cada-dia-git-cheatsheet/",
+  "type": "artigo",
+  "tags": [
+    "git",
+    "cli"
+  ],
+  "author": {
+    "name": "Glauco Custódio",
+    "url": "http://glaucocustodio.com/"
+  }
+}, {
+  "name": "Pacote para desenvolvedor estudante - GitHub",
+  "url": "https://education.github.com/pack",
+  "type": "pacote",
+  "paid": false,
+  "tags": [
+    "git",
+    "aws",
+    "CrowdFlower",
+    "DigitalOcean",
+    "Microsoft Azure",
+    "Travis CI",
+    "udacity",
+    "Unreal Engine",
+    "bitnami",
+    "dnSimple"
+  ],
+  "author": {
+    "name": "Celio Rodrigues",
+    "url": "http://github.com/theSkilled"
+  }
+}, {
+  "name": "Auto sincronizar repositórios do github/bitbucket",
+  "url": "https://www.youtube.com/watch?v=chhwQruKgM0",
+  "type": "screencast",
+  "tags": [
+    "bitbucket",
+    "github",
+    "git"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
 }]

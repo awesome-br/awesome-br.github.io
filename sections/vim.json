@@ -10,62 +10,73 @@
     "url": "http://github.com/avelino"
   }
 }, {
-  "name": "Dicas VIM",
-  "url": "http://dalibornasevic.com/posts/43-12-vim-tips",
-  "type": "artigo",
+  "name": "VIM - basico",
+  "url": "http://aurelio.net/vim/vim-basico.txt",
+  "type": "tutorial",
   "tags": [
-    "dicas"
+    "linux",
+    "curso"
   ],
   "author": {
-    "name": "Dalibor Nasevic.",
-    "url": "http://http://dalibornasevic.com/"
+    "name": "NetworkComputing",
+    "url": "http://www.networkcomputing.com/unixworld/tutorial/009/009.part1.html"
   }
 }, {
-    "name": "VIM - basico",
-    "url": "http://aurelio.net/vim/vim-basico.txt",
-    "type": "tutorial",
-    "tags": [
-      "linux",
-      "curso"
-    ],
-    "author": {
-      "name": "NetworkComputing",
-      "url": "http://www.networkcomputing.com/unixworld/tutorial/009/009.part1.html"
-    }
-  },{
-    "name": "VIM - Intermediario",
-    "url": "http://aurelio.net/vim/vim-medio.txt",
-    "type": "tutorial",
-    "tags": [
-      "linux",
-      "curso"
-    ],
-    "author": {
-      "name": "NetworkComputing",
-      "url": "http://www.networkcomputing.com/unixworld/tutorial/009/009.part1.html"
-    }
-  },{
-    "name": "VIM - Avançado",
-    "url": "http://aurelio.net/vim/vim-avancado.txt",
-    "type": "tutorial",
-    "tags": [
-      "linux",
-      "curso"
-    ],
-    "author": {
-      "name": "NetworkComputing",
-      "url": "http://www.networkcomputing.com/unixworld/tutorial/009/009.part1.html"
-    }
-  },{
-    "name": "Editor VI - guia de referência",
-    "url": "http://aurelio.net/curso/material/vim-ref.html",
-    "type": "tutorial",
-    "tags": [
-      "linux",
-      "curso"
-    ],
-    "author": {
-      "name": "Aurélio",
-      "url": "http://aurelio.net/vim/"
-    }
-  }]
+  "name": "VIM - Intermediario",
+  "url": "http://aurelio.net/vim/vim-medio.txt",
+  "type": "tutorial",
+  "tags": [
+    "linux",
+    "curso"
+  ],
+  "author": {
+    "name": "NetworkComputing",
+    "url": "http://www.networkcomputing.com/unixworld/tutorial/009/009.part1.html"
+  }
+}, {
+  "name": "VIM - Avançado",
+  "url": "http://aurelio.net/vim/vim-avancado.txt",
+  "type": "tutorial",
+  "tags": [
+    "linux",
+    "curso"
+  ],
+  "author": {
+    "name": "NetworkComputing",
+    "url": "http://www.networkcomputing.com/unixworld/tutorial/009/009.part1.html"
+  }
+}, {
+  "name": "Editor VI - guia de referência",
+  "url": "http://aurelio.net/curso/material/vim-ref.html",
+  "type": "tutorial",
+  "tags": [
+    "linux",
+    "curso"
+  ],
+  "author": {
+    "name": "Aurélio",
+    "url": "http://aurelio.net/vim/"
+  }
+}, {
+  "name": "Dicas de VIM para Noobs",
+  "url": "http://woliveiras.com.br/vimparanoobs/",
+  "type": "url",
+  "tags": [
+    "artigos", "tutoriais", "dicas"
+  ],
+  "author": {
+    "name": "William Oliveira",
+    "url": "http://woliveiras.com.br/"
+  }
+}, {
+  "name": "VIM. Um editor viciante!",
+  "url": "http://igorcorradi.com/posts/vim-um-editor-viciante",
+  "type": "url",
+  "tags": [
+    "artigos", "tutoriais", "dicas"
+  ],
+  "author": {
+    "name": "Igor Corradi",
+    "url": "http://www.igorcorradi.com"
+  }
+}]

@@ -1,0 +1,87 @@
+[{
+  "name": "Elixir School",
+  "url": "https://elixirschool.com/pt/",
+  "type": "tutorial",
+  "tags": [
+    "introdução",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Sean Callan",
+    "url": "https://github.com/doomspork"
+  }
+}, {
+  "name": "Criando um chat utilizando Elixir e Phoenix",
+  "url": "https://medium.com/@amandasposito/criando-um-chat-utilizando-elixir-e-phoenix-6fbf5d9ed996#.u5vvlqdhb",
+  "type": "tutorial",
+  "tags": [
+    "introdução",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Amanda Sposito",
+    "url": "https://medium.com/@amandasposito"
+  }
+}, {
+  "name": "Phoenix para rubistas - Parte 1",
+  "url": "https://medium.com/@guiceolin/phoenix-para-rubistas-parte-1-4bbb081143ae#.w3mner19b",
+  "type": "tutorial",
+  "tags": [
+    "introdução",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Guilherme Ceolin",
+    "url": "https://medium.com/@guiceolin"
+  }
+}, {
+  "name": "Phoenix para rubistas - Parte 2",
+  "url": "https://medium.com/@guiceolin/phoenix-para-rubistas-parte-2-9271ee0734cc#.7fzbmmoqj",
+  "type": "tutorial",
+  "tags": [
+    "introdução",
+    "tutorial"
+  ],
+  "author": {
+    "name": "Guilherme Ceolin",
+    "url": "https://medium.com/@guiceolin"
+  }
+}, {
+  "name": "Elixir Nativo: e quando já está pronto em C",
+  "url": "https://www.youtube.com/watch?v=ZrBhuP6OrFI",
+  "type": "video",
+  "tags": [
+    "youtube",
+    "eventos"
+  ],
+  "author": {
+    "name": "Guilherme Nirev",
+    "url": "http://www.nirev.org/"
+  }
+}, {
+  "name": "Ecto, você sabe o que é?",
+  "url": "https://www.youtube.com/watch?v=hQM4VdEpz6g",
+  "type": "video",
+  "tags": [
+    "youtube",
+    "eventos"
+  ],
+  "author": {
+    "name": "Amanda Sposito",
+    "url": "https://medium.com/@amandasposito"
+  }
+}, {
+  "name": "Elixir, quem é esse pokemon?",
+  "url": "https://www.youtube.com/watch?v=aA-XHI-EYcM",
+  "type": "tutorial",
+  "type": "video",
+  "tags": [
+    "youtube",
+    "eventos"
+  ],
+  "author": {
+    "name": "Bruno Volcov",
+    "url": "https://twitter.com/brunovolcov"
+  }
+}
+]

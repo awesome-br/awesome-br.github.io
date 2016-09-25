@@ -1,4 +1,18 @@
 [{
+  "name": "Curso SASS",
+  "url": "https://www.youtube.com/watch?v=t-miMAgiRlw&list=PLXFk6ROPeWoCZsq7hk7jJIUFMpLqkPqZv",
+  "type": "video",
+  "tags": [
+    "sass",
+    "video",
+    "youtube",
+    "curso"
+  ],
+  "author": {
+    "name": "Zeu Cxb",
+    "url": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA"
+  }
+}, {
   "name": "O que é SASS",
   "url": "http://tableless.com.br/sass-um-outro-metodo-de-escrever-css/",
   "type": "artigo",
@@ -38,7 +52,9 @@
   "url": "http://www.webplatform.org/",
   "type": "dica",
   "tags": [
-    "html", "css", "javascript"
+    "html",
+    "css",
+    "javascript"
   ],
   "author": {
     "name": "W3C",
@@ -49,7 +65,9 @@
   "url": "http://imasters.com.br/front-end/css/arquitetura-css-usando-smacss-e-oocss-2/",
   "type": "artigo",
   "tags": [
-    "css", "smacss", "oocss"
+    "css",
+    "smacss",
+    "oocss"
   ],
   "author": {
     "name": "Imasters",
@@ -82,7 +100,8 @@
   "url": "http://tableless.com.br/material-design-com-materialize/",
   "type": "tutorial",
   "tags": [
-    "css", "framework"
+    "css",
+    "framework"
   ],
   "author": {
     "name": "Tiago Luiz",
@@ -259,8 +278,7 @@
     "name": "Raphael Fabeni",
     "url": "http://www.raphaelfabeni.com.br"
   }
-},
- {
+}, {
   "name": "Seu CSS é bom ou ruim?",
   "url": "http://edsonjunior.com/css-bom-ruim/",
   "type": "artigo",
@@ -273,8 +291,7 @@
     "name": "Edson S. Junior",
     "url": "http://edsonjunior.com"
   }
-},
- {
+}, {
   "name": "Entendendo float, clear e clearfix de uma vez por todas",
   "url": "http://edsonjunior.com/entendendo-float-clear-clearfix/",
   "type": "artigo",
@@ -287,11 +304,10 @@
     "name": "Edson S. Junior",
     "url": "http://edsonjunior.com"
   }
-},
-{
+}, {
   "name": "Primeiros passos com Sass Pt.1",
   "url": "https://www.youtube.com/watch?v=z1nCtknvX1c",
-  "type": "video",
+  "type": "vídeo",
   "tags": [
     "css",
     "sass"
@@ -300,11 +316,10 @@
     "name": "Ferreira Studio",
     "url": "https://www.youtube.com/channel/UCztMwfGqsnPeGat7Np-bFKg"
   }
-},
-{
+}, {
   "name": "Primeiros passos com Sass Pt.2",
   "url": "https://www.youtube.com/watch?v=FkRjz42oERA",
-  "type": "video-aula",
+  "type": "vídeo",
   "tags": [
     "css",
     "sass"
@@ -313,8 +328,7 @@
     "name": "Ferreira Studio",
     "url": "https://www.youtube.com/channel/UCztMwfGqsnPeGat7Np-bFKg"
   }
-},
-{
+}, {
   "name": "Criando um Switch Button com CSS",
   "url": "http://willianjusten.com.br/criando-um-switch-button-com-css/",
   "type": "artigo",
@@ -326,8 +340,7 @@
     "name": "Willian Justen",
     "url": "http://willianjusten.com.br/"
   }
-},
-{
+}, {
   "name": "Aprenda Flexbox jogando",
   "url": "http://flexboxfroggy.com/#pt-br",
   "type": "tutorial",
@@ -338,5 +351,86 @@
   "author": {
     "name": "Thomas Spark",
     "url": "http://thomaspark.co/"
+  }
+}, {
+  "name": "Como funciona o seletor :nth-something()",
+  "url": "https://medium.com/@filipelinhares/como-funciona-o-seletor-nth-c6e5cf806283#.k985vyffn",
+  "type": "artigo",
+  "tags": [
+    "css",
+    "nth-child()"
+  ],
+  "author": {
+    "name": "Filipe Linhares",
+    "url": "http://filipelinhares.com/"
+  }
+}, {
+  "name": "Bootstrap - Documentação em Português",
+  "url": "http://getbootstrap.com.br/",
+  "type": "documentação",
+  "tags": [
+    "bootstrap",
+    "css",
+    "documentação"
+  ],
+  "author": {
+    "name": "Comunidade Brasileira de Bootstrap",
+    "url": "https://github.com/bootstrapbrasil"
+  }
+}, {
+  "name": "Primeiros passos com Bootstrap",
+  "url": "https://www.youtube.com/watch?v=4S8olUnhOUc",
+  "type": "video",
+  "tags": [
+    "bootstrap",
+    "css",
+    "tekzoom"
+  ],
+  "author": {
+    "name": "Canal TekZoom",
+    "url": "https://twitter.com/tek_zoom"
+  }
+}, {
+  "name": "Fazendo as pazes com o CSS",
+  "url": "https://www.youtube.com/watch?v=kE4DH0s727c",
+  "type": "video",
+  "tags": [
+    "css",
+    "dicas",
+    "boas práticas"
+  ],
+  "author": {
+    "name": "NICbrvideos",
+    "url": "https://www.youtube.com/user/NICbrvideos"
+  }
+}, {
+  "name": "Guia definitivo das pseudoclasses e pseudoelementos das CSS",
+  "url": "http://maujor.com/tutorial/guia-definitivo-das-pseudoclasses-e-pseudoelementos-css.php",
+  "type": "artigo",
+  "tags": [
+    "guia",
+    " artigo",
+    " css",
+    " pseudoclasses",
+    " pseudoelementos"
+  ],
+  "author": {
+    "name": "Maujor",
+    "url": "http://maujor.com"
+  }
+}, {
+  "name": "Elevando seu nível no CSS",
+  "url": "https://medium.com/@oieduardorabelo/elevando-seu-n%C3%ADvel-no-css-b2acbb220248#.9sc30ylyv",
+  "type": "artigo",
+  "tags": [
+    [
+      "css",
+      " boas práticas",
+      " guia"
+    ]
+  ],
+  "author": {
+    "name": "Eduardo Rabelo",
+    "url": "https://medium.com/@oieduardorabelo"
   }
 }]

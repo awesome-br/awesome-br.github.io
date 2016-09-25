@@ -34,15 +34,163 @@
     "name": "Cássio Zen",
     "url": "https://github.com/cassiozen"
   }
- },
-  {
+}, {
   "name": "React: Guia do iniciante",
   "url": "https://leanpub.com/react-guia-do-iniciate",
   "type": "livro",
   "tags": ["introdução", "livro", "básico"],
+  "paid": true,
   "author": {
     "name": "Daniel Schmitz",
     "url": "https://leanpub.com/u/danielschmitz"
+  }
+}, {
+  "name": "Palestra ReactJS (Biblioteca de UI do Facebook) ",
+  "url": "https://www.youtube.com/watch?v=gIGB0061wzM",
+  "type": "palestra",
+  "tags": ["introdução", "palestra", "vídeo", "youtube"],
+  "paid": false,
+  "author": {
+    "name": "Zeu Cxb",
+    "url": "https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA"
+  }
+}, {
+  "name": "React.js em projetos pequenos",
+  "url": "http://imasters.com.br/desenvolvimento/react-js-em-projetos-pequenos/",
+  "type": "palestra",
+  "tags": [
+    "artigo",
+    "introdução"
+  ],
+  "author": {
+    "name": "Adam Bard",
+    "url": "http://imasters.com.br/"
+  }
+}, {
+  "name": "Aprenda React na prática",
+  "url": "https://www.youtube.com/playlist?list=PLXe1Uv1JGlTbrdrcZIZOabEBSpeNeVHD7",
+  "type": "curso",
+  "paid": false,
+  "tags": [
+    "video",
+    "curso",
+    "youtube"
+  ],
+  "author": {
+    "name": "Vinicius Vinhas",
+    "url": "https://www.youtube.com/channel/UCmTJ15e4ORMcLoBf1py2-ag"
+  }
+}, {
+  "name": "Construindo interfaces componentizadas com React",
+  "url": "https://www.infoq.com/br/presentations/construindo-interfaces-componentizadas-com-react",
+  "type": "palestra",
+  "paid": false,
+  "tags": [
+    "video",
+    "palestra"
+  ],
+  "author": {
+    "name": "Sérgio Siqueira",
+    "url": "https://www.infoq.com/br/author/S%C3%A9rgio-Siqueira"
+  }
+}, {
+  "name": "Começando com React.js",
+  "url": "https://rafaell-lycan.com/2015/comecando-com-react",
+  "type": "artigo",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "introdução"
+  ],
+  "author": {
+    "name": "Rafaell Lycan",
+    "url": "https://rafaell-lycan.com/"
+  }
+}, {
+  "name": "Curso iniciando React com ES6",
+  "url": "http://jscasts.teachable.com/",
+  "type": "curso",
+  "tags": [
+    "curso",
+    "introdução",
+    "ES6"
+  ],
+  "author": {
+    "name": "Matheus Lima",
+    "url": "http://jscasts.teachable.com/"
+  }
+},
+{
+  "name": "Iniciando um app React em 3 minutos ",
+  "url": "https://willianjusten.com.br/video-iniciando-um-app-react-em-3-minutos/",
+  "type": "video",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "video"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "https://willianjusten.com.br/"
+  }
+
+},
+{
+  "name": "Sua Linha do Tempo para Aprender React (Tradução)",
+  "url": "https://github.com/ericdouglas/traduz-ai/blob/master/react/01-sua-linha-do-tempo-para-aprender-react.md",
+  "type": "artigo",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "introdução"
+  ],
+  "author": {
+    "name": "Eric Douglas",
+    "url": "https://ericdouglas.github.io/"
+  }
+},
+{
+  "name": "Gerenciando rotas com React Router",
+  "url": "https://blog.coderockr.com/gerenciando-rotas-com-react-router-ed44ce1e8753#.4xz3ouqn0",
+  "type": "artigo",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "introdução"
+  ],
+  "author": {
+    "name": "Vinicius Dacal Lopes",
+    "url": "https://github.com/viniciusdacal"
+  }
+},
+{
+  "name": "Recharts, construa gráficos com React e D3",
+  "url": "https://blog.coderockr.com/recharts-construa-gr%C3%A1ficos-com-react-e-d3-31b238bd98a8#.hf6uj2sk4",
+  "type": "artigo",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "introdução"
+  ],
+  "author": {
+    "name": "Vinicius Dacal Lopes",
+    "url": "https://github.com/viniciusdacal"
+
+  }
+}, 
+{
+  "name": "Grupo de discussão",
+  "url": "https://github.com/react-sp/react-sp/",
+  "type": "url",
+  "paid": false,
+  "tags": [
+    "dúvidas",
+    "forum"
+  ],
+  "author": {
+    "name": "React Brasil",
+    "url": "https://github.com/react-sp/"
+
   }
 }
 ]

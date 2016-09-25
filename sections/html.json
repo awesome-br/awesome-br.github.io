@@ -46,13 +46,38 @@
 }, {
   "name": "HTML5 e CSS3 Domine a web do futuro",
   "url": "http://www.casadocodigo.com.br/products/livro-html-css",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
     "livro",
     "ebook"
   ],
+  "paid": true,
   "author": {
     "name": "Lucas Mazza",
     "url": "https://github.com/lucasmazza"
+  }
+}, {
+  "name": "O elemento input[type=\"file\"]",
+  "url": "https://medium.com/the-codeland-post/elemento-input-type-file-a186e68b4271#.z7olps19u",
+  "type": "artigo",
+  "tags": [
+    "html5"
+  ],
+  "author": {
+    "name": "Filipe Linhares",
+    "url": "https://medium.com/@filipelinhares"
+  }
+}, {
+  "name": "Curso HTML 5",
+  "url": "http://www.cursoemvideo.com/course/curso-de-html5/",
+  "type": "curso",
+  "tags": [
+    "html5",
+    "introdução",
+    "básico"
+  ],
+  "author": {
+    "name": "Gustavo Guanabara",
+    "url": "http://www.cursoemvideo.com/profile/pradmin/"
   }
 }]

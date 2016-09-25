@@ -2,7 +2,9 @@
 
   // jQuery commands
   $(function () {
-    $('[data-toggle="tooltip"]').tooltip();
+    if ( $(window).width() > 768 ) {
+      $('[data-toggle="tooltip"]').tooltip();
+    };
   });
 
   var app = angular.module('awesome', ['iso.directives', 'ngRoute']);
@@ -22,14 +24,34 @@
   });
 
   /**
+   * Evaluates if only free content can be displayed
+   */
+  app.filter('filterPaidContent', [function () {
+    return function( items, onlyFree) {
+      var filtered = [];
+      if(onlyFree) {
+        angular.forEach(items, function(item) {
+          if(item.paid == false || item.paid == undefined) {
+            filtered.push(item);
+          }
+        });
+      } else {
+        filtered = items;
+      }
+
+      return filtered;
+    };
+  }]);
+
+  /**
    * target attribute directive
    */
-  app.directive("target", function() {
+  app.directive("targeter", function() {
     return {
       restrict: 'A',
       link: function(scope, element, attrs) {
-        var href = String(attrs.href);
-        if (!href.match(/#\//)) {
+        var href = scope.item.url;
+        if (!href.match(/^#\//)) {
           element.attr("target", "_blank");
         } else {
           element.attr("target", "_self");
@@ -37,7 +59,6 @@
       }
     };
   });
-
 
   /**
    * loop-itens directive
@@ -51,21 +72,45 @@
         itens: '=',
         query: '='
       },
-      controller: ['$scope', '$timeout', function($scope, $timeout) {
+      controller: ['$scope', '$timeout', '$rootScope', function($scope, $timeout, $rootScope) {
         $scope.setFilter = function(_value) {
           $scope.query = _value;
         };
 
-        $scope.$watch('query', function(a) {
+        var emitIsoMethod = function(a) {
           $timeout(function() {
             $scope.$emit('iso-method', {
               name: 'arrange',
               params: null
             });
           }, 600);
-        });
+        };
+
+        $scope.$watch('query', emitIsoMethod);
+        $rootScope.$watch('onlyFree', emitIsoMethod);
+
       }]
     };
+  });
+
+  /**
+   * Verifica a existencia da url, caso não exista ele cria um identicons com o nome do usuário no github
+  */
+  app.directive('errSrc', function() {
+  return {
+    link: function(scope, element, attrs) {
+      scope.$watch(function() {
+        return attrs['ngSrc'];
+          }, function (value) {
+            if (!value) {
+              element.attr('src', attrs.errSrc);
+            }
+        });
+        element.bind('error', function() {
+          element.attr('src', attrs.errSrc);
+        });
+      }
+    }
   });
 
   /**
@@ -103,6 +148,10 @@
         templateUrl: 'views/home.html',
         controller: 'homeController'
       })
+      .when('/colaboradores', {
+        templateUrl: 'views/collaborators.html',
+        controller: 'collaboratorList'
+      })
       .when('/:sectionName', {
         templateUrl: 'views/section.html',
         controller: 'sectionController'
@@ -112,17 +161,24 @@
   /**
    * Run (events)
    */
-  app.run(['$rootScope', function($rootScope) {
+  app.run(['$window', '$location', '$rootScope', function($window, $location, $rootScope) {
     $rootScope.$on('$routeChangeSuccess', function(scope, data) {
       $rootScope.currentController = data.controller;
     });
+
+    var track = function() {
+        $window.ga('send', 'pageview', {
+            page: $location.path()
+        });
+    };
+    $rootScope.$on('$viewContentLoaded', track);
   }]);
 
   /**
    * Main Controller
    */
-  app.controller('mainController', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
-
+  app.controller('mainController', ['$rootScope', '$http', '$timeout', function($rootScope, $http, $timeout) {
+    $rootScope.onlyFree = false;
   }]);
 
   /**
@@ -147,6 +203,32 @@
     $scope.spinner = true;
 
     init();
+  }]);
+
+  /**
+   * Collaborator list
+   */
+  app.controller('collaboratorList', ['$scope', '$http', '$timeout', function($scope, $http, $timeout) {
+    $scope.users = [];
+    var api_url = 'https://api.github.com/repos/awesome-br/awesome-br.github.io/contributors';
+    function getContributors(page){
+      var page = page || 1;
+      $http({
+        method: 'GET',
+        url: api_url+ '?page=' + page
+      }).then(function success(response){
+        angular.forEach(response.data,function(contributor){
+          $scope.users.push(contributor);
+        });
+        if(response.data.length == 30){
+          getContributors(page += 1);
+        }
+      },function errorCb(reason){
+        console.error(reason)
+      });
+    }
+    getContributors();
+
   }]);
 
   /**

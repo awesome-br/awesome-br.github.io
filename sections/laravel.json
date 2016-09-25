@@ -1,4 +1,16 @@
 [{
+  "name": "Rocket CMS Open Source",
+  "url": "https://github.com/odirleiborgert/rocket-cms",
+  "type": "site",
+  "tags": [
+    "cms",
+    "rocket"
+  ],
+  "author": {
+    "name": "Odirlei Borgert",
+    "url": "https://github.com/odirleiborgert"
+  }
+}, {
   "name": "Por que facades são um problema seu e não do Laravel?",
   "url": "https://medium.com/@luizvinicius73/por-que-facades-é-um-problema-seu-e-não-do-laravel-8672bb80c74c",
   "type": "artigo",
@@ -328,11 +340,12 @@
 }, {
   "name": "Laravel + AngularJS",
   "url": "https://leanpub.com/laravelangular_pt",
-  "type": "livros",
+  "type": "livro",
   "tags": [
     "books",
     "angular"
   ],
+  "paid": true,
   "author": {
     "name": "Daniel Schmitz",
     "url": "https://github.com/danielschmitz"
@@ -541,6 +554,29 @@
     "url": "laravel.com.br"
   }
 }, {
+  "name": "Hangout Laravel Brasil 17",
+  "url": "https://www.youtube.com/watch?v=s6x0MDZuO_s",
+  "type": "hangout",
+  "tags": [
+    "comentários"
+  ],
+  "author": {
+    "name": "Laravel Brasil",
+    "url": "laravel.com.br"
+  }
+}, {
+  "name": "Hangout Laravel Brasil 18",
+  "url": "https://www.youtube.com/watch?v=yFd7IGSd-s4",
+  "type": "hangout",
+  "tags": [
+    "infraestrutura",
+    "escabilidade"
+  ],
+  "author": {
+    "name": "Laravel Brasil",
+    "url": "laravel.com.br"
+  }
+}, {
   "name": "Laravel Brasil - Hands on Code 01",
   "url": "https://www.youtube.com/watch?v=YhBCKiN1JGM",
   "type": "hangout",
@@ -615,7 +651,7 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
-},{
+}, {
   "name": "Model factory em pt_BR",
   "url": "http://www.laravel.com.br/model-factory-em-pt_br-laravel-5-1/",
   "type": "dica",
@@ -796,17 +832,16 @@
 }, {
   "name": "Php e Laravel Crie aplicações web como um verdadeiro artesão",
   "url": "http://www.casadocodigo.com.br/products/livro-laravel-php",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
-    "livro",
-    "ebook"
+    "livro"
   ],
+  "paid": true,
   "author": {
     "name": "Rodrigo Turini",
     "url": "https://github.com/Turini"
   }
-},
-{
+}, {
   "name": "Criando uma lista de registros com Laravel e AngularJS Material Design",
   "url": "http://jansenfelipe.com.br/2015/12/03/criando-uma-lista-de-registros-com-laravel-e-angularjs-material-design/",
   "type": "tutorial",
@@ -817,5 +852,385 @@
   "author": {
     "name": "Jansen Felipe",
     "url": "http://jansenfelipe.com.br"
+  }
+}, {
+  "name": "Configurando seu Apache para trabalhar com subdominios no Laravel (Local)",
+  "url": "https://medium.com/@dlimars/configura%C3%A7%C3%A3o-de-subdom%C3%ADnios-local-apache-dnsmasq-laravel-6fcdcbea5bb6",
+  "type": "tutorial",
+  "tags": [
+    "apache",
+    "linux",
+    "laravel",
+    "subdominio",
+    "multi-tenant"
+  ],
+  "author": {
+    "name": "Daniel Lima",
+    "url": "https://github.com/dlimars"
+  }
+}, {
+  "name": "Decimal Mutators",
+  "url": "https://packagist.org/packages/giordanolima/decimal-mutators",
+  "type": "pacote",
+  "tags": [
+    "laravel",
+    "mutators",
+    "accessors",
+    "eloquent"
+  ],
+  "author": {
+    "name": "Giordano Lima",
+    "url": "https://github.com/giordanolima"
+  }
+}, {
+  "name": "Integração com o paypal",
+  "url": "https://packagist.org/packages/resultsystems/laravel-paypal",
+  "type": "pacote",
+  "tags": [
+    "laravel",
+    "package"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Referências de Conteúdo Para Aprendizado Sobre Laravel",
+  "url": "https://medium.com/@cbcaio/intro-refer%C3%AAncias-de-conte%C3%BAdo-66485ecdadf8#.2gbq8f2td",
+  "type": "artigo",
+  "tags": [
+    "laravel",
+    "podcasts",
+    "twitter",
+    "introducao"
+  ],
+  "author": {
+    "name": "Caio Ceccon Bolognani",
+    "url": "https://github.com/CbCaio"
+  }
+}, {
+  "name": "Organizando Rotas no Laravel",
+  "url": "https://medium.com/@cbcaio/pt-br-organiza%C3%A7%C3%A3o-de-rotas-no-laravel-e2e89b5c3d8b#.gq43ddl47",
+  "type": "artigo",
+  "tags": [
+    "laravel",
+    "rotas",
+    "organizacao"
+  ],
+  "author": {
+    "name": "Caio Ceccon Bolognani",
+    "url": "https://github.com/CbCaio"
+  }
+}, {
+  "name": "Controle de Estoque com Laravel 5 1 do começo ao fim Parte 01",
+  "url": "https://www.youtube.com/watch?v=u9hSMixPau0",
+  "type": "hangout",
+  "tags": [
+    "laravel 5.1",
+    "introducao"
+  ],
+  "author": {
+    "name": "Laracoders Group",
+    "url": "https://www.youtube.com/channel/UCi-fQjr76bUs2yWYa6pFKVQ"
+  }
+}, {
+  "name": "Criando Packages com Migrations no Laravel 5",
+  "url": "https://medium.com/@f.h.ferreira/criando-packages-com-migrations-no-laravel-5-aa0a1922f365",
+  "type": "artigo",
+  "tags": [
+    "laravel 5",
+    "packages",
+    "migrations"
+  ],
+  "author": {
+    "name": "Flávio Ferreira",
+    "url": "https://github.com/fhferreira"
+  }
+}, {
+  "name": "Controle de Estoque com Laravel 5 1 do começo ao fim Parte 02",
+  "url": "https://www.youtube.com/watch?v=CiKSriUraug",
+  "type": "hangout",
+  "tags": [
+    "laravel 5.1",
+    "introducao"
+  ],
+  "author": {
+    "name": "Laracoders Group",
+    "url": "https://www.youtube.com/channel/UCi-fQjr76bUs2yWYa6pFKVQ"
+  }
+}, {
+  "name": "Controle de Estoque com Laravel 5 1 do começo ao fim Parte 03",
+  "url": "https://www.youtube.com/watch?v=XL9che13_yI",
+  "type": "hangout",
+  "tags": [
+    "laravel 5.1",
+    "introducao"
+  ],
+  "author": {
+    "name": "Laracoders Group",
+    "url": "https://www.youtube.com/channel/UCi-fQjr76bUs2yWYa6pFKVQ"
+  }
+}, {
+  "name": "Paginação avançada com Laravel e Vue.js",
+  "url": "https://www.youtube.com/watch?v=-0IFTI4FYDc",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "vue.js",
+    "paginacao"
+  ],
+  "author": {
+    "name": "Fabio Vedovelli",
+    "url": "http://www.vedovelli.com.br/"
+  }
+}, {
+  "name": "Autenticando sua API via TOKEN no Laravel 5.2",
+  "url": "http://lucasmacedo.blog.br/autenticacao-sua-api-via-token-no-laravel-5-2/",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "token",
+    "api"
+  ],
+  "author": {
+    "name": "Lucas Macedo",
+    "url": "http://lucasmacedo.blog.br/"
+  }
+}, {
+  "name": "Laravel e Presenter",
+  "url": "https://www.youtube.com/watch?v=pfPFYO7CAZs",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "presenter",
+    "design patterns"
+  ],
+  "author": {
+    "name": "Fabio Vedovelli",
+    "url": "http://www.vedovelli.com.br/"
+  }
+}, {
+  "name": "Levantando um projeto Laravel com o AZK",
+  "url": "http://lucasmacedo.blog.br/levantando-um-projeto-laravel-com-o-azk/",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "docker",
+    "azk",
+    "virtualizacao"
+  ],
+  "author": {
+    "name": "Lucas Macedo",
+    "url": "http://lucasmacedo.blog.br/"
+  }
+}, {
+  "name": "COMO INJETAR SERVIÇOS EM UM TEMPLATE NO LARAVEL ",
+  "url": "http://mguimaraes.co/como-injetar-servicos-em-um-template-no-laravel/",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "servicos",
+    "template"
+  ],
+  "author": {
+    "name": "Mateus Guimarães",
+    "url": "http://mguimaraes.co/"
+  }
+}, {
+  "name": "USANDO REPOSITÓRIOS COM LARAVEL",
+  "url": "http://mguimaraes.co/usando-repositorios-no-laravel-(portugues)/",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "repositorios"
+  ],
+  "author": {
+    "name": "Mateus Guimarães",
+    "url": "http://mguimaraes.co/"
+  }
+}, {
+  "name": "IMPLEMENTANDO UMA INTERFACE E UTILIZANDO O CONTAINER",
+  "url": "http://mguimaraes.co/trabalhando-com-repositorios-no-laravel-implementando-uma-interface/",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "repositorios",
+    "container"
+  ],
+  "author": {
+    "name": "Mateus Guimarães",
+    "url": "http://mguimaraes.co/"
+  }
+}, {
+  "name": "INDIANA JONES E OS MÉTODOS ESQUECIDOS DO ELOQUENT",
+  "url": "http://mguimaraes.co/indiana-jones-e-os-metodos-esquecidos-do-eloquent/",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "eloquent"
+  ],
+  "author": {
+    "name": "Mateus Guimarães",
+    "url": "http://mguimaraes.co/"
+  }
+}, {
+  "name": "Eloquent ManyToMany - Relacionamentos Muitos para Muitos",
+  "url": "http://artesaos.github.io/howto/eloquent-many-to-may/",
+  "type": "artigo",
+  "tags": [
+    "laravel",
+    "eloquent",
+    "ManyToMany"
+  ],
+  "author": {
+    "name": "Artesaos",
+    "url": "http://artesaos.github.io/howto/"
+  }
+}, {
+  "name": "API RESTful PHP com Laravel",
+  "url": "http://clubedosgeeks.com.br/programacao/php/api-restful-laravel",
+  "type": "tutorial",
+  "tags": [
+    "RESTful",
+    "api",
+    "laravel"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "Laravel para iniciantes: Refatorando a view com @extends, @yield e @section - Parte 07",
+  "url": "https://jansenfelipe.com.br/2015/10/21/laravel-iniciantes-tutorial-criando-um-formulario-de-contato-parte-07/",
+  "type": "tutorial",
+  "tags": [
+    "iniciante", "extends", "yield", "section"
+  ],
+  "author": {
+    "name": "Jansen Felipe",
+    "url": "http://jansenfelipe.com.br"
+  }
+}, {
+  "name": "Sistema de gerenciamento para escola opensource - grátis",
+  "url": "https://youtu.be/Z11WPs8AJvY",
+  "type": "screencast",
+  "tags": [
+    "sistema"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Laravel + AngularJS – sua primeira aplicação",
+  "url": "http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-sua-primeira-aplicacao",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "angular",
+    "exemplo"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "Laravel + AngularJS – Upload de Arquivos",
+  "url": "http://clubedosgeeks.com.br/programacao/php/laravel-angularjs-upload-de-arquivos",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "angular",
+    "upload"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "Comandos Laravel",
+  "url": "https://github.com/wellingtongeek/comandos-laravel",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "comandos",
+    "php"
+  ]
+}, {
+  "name": "Laravel 5.X do começo ao fim: Instalação",
+  "url": "https://www.youtube.com/watch?v=QtkBgWMz7O8",
+  "type": "screencast",
+  "tags": [
+    "laravel",
+    "instalação"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Laravel 5.X do começo ao fim: Migrations",
+  "url": "https://www.youtube.com/watch?v=ydyhrswAxp0",
+  "type": "screencast",
+  "tags": [
+    "laravel",
+    "migrations"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Laravel 5.X do começo ao fim: Versionamento com GIT",
+  "url": "https://www.youtube.com/watch?v=braRTLBHK1E",
+  "type": "screencast",
+  "tags": [
+    "laravel",
+    "git"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Laravel 5.X do começo ao fim: Factories and Fakers",
+  "url": "https://www.youtube.com/watch?v=vhCZ60PsXPA",
+  "type": "screencast",
+  "tags": [
+    "laravel",
+    "factories",
+    "fakers"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Laravel 5.X do começo ao fim: JWT Auth com TDD",
+  "url": "https://www.youtube.com/watch?v=Rgu0aj38OG4",
+  "type": "screencast",
+  "tags": [
+    "laravel",
+    "jwt",
+    "tdd",
+    "auth"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Laravel 5.X do começo ao fim: JWT Auth usando usuário ou email",
+  "url": "https://www.youtube.com/watch?v=OhL0OkdqcSU",
+  "type": "screencast",
+  "tags": [
+    "laravel",
+    "jwt",
+    "auth",
+    "tdd"
+  ],
+  "author": {
+    "name": "Leandro Henrique Reis",
+    "url": "https://github.com/emtudo"
   }
 }]

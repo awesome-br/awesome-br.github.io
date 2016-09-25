@@ -12,13 +12,40 @@
 }, {
   "name": "Ruby Aprenda a programar na linguagem mais divertida",
   "url": "http://www.casadocodigo.com.br/products/livro-ruby",
-  "type": "Livro",
+  "type": "livro",
   "tags": [
     "livro",
     "ebook"
   ],
+  "paid": true,
   "author": {
     "name": "Lucas Souza",
     "url": "https://github.com/lucasas"
+  }
+}, {
+  "name": "Conhecendo Ruby",
+  "url": "https://leanpub.com/conhecendo-ruby",
+  "type": "livro",
+  "tags": [
+    "livro",
+    "ebook",
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Eustáquio Rangel",
+    "url": "http://eustaquiorangel.com/"
+  }
+}, {
+  "name": "RSpec Guidelines with Ruby",
+  "url": "http://betterspecs.org/br/",
+  "type": "tutorial",
+  "tags": [
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Andrea Reginato",
+    "url": "https://twitter.com/andreareginato"
   }
 }]

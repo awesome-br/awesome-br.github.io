@@ -4,8 +4,24 @@
   "type": "Plataforma Mobile",
   "tags": []
 }, {
-  "name": "Angular",
+  "name": "AngularJS",
   "url": "#/angular",
+  "type": "Framework Javascript",
+  "tags": []
+},
+  {"name": "Angular 2",
+  "url": "#/angular2",
+  "type": "Framework Javascript",
+  "tags": []
+},
+{
+  "name": "Atom",
+  "url": "#/atom",
+  "type": "Editor",
+  "tags": []
+}, {
+  "name": "Backbone",
+  "url": "#/backbone",
   "type": "Framework Javascript",
   "tags": []
 }, {
@@ -14,14 +30,24 @@
   "type": "Folha de Estilo",
   "tags": []
 }, {
-  "name" : "C#",
-  "url" : "#/csharp",
-  "type" : "Linguagem de programação",
-  "tags" : []
+  "name": "C#",
+  "url": "#/csharp",
+  "type": "Linguagem de programação",
+  "tags": []
 }, {
   "name": "Docker",
   "url": "#/docker",
   "type": "Virtualização",
+  "tags": []
+}, {
+  "name": "Design",
+  "url": "#/design",
+  "type": "design",
+  "tags": []
+}, {
+  "name": "Elixir",
+  "url": "#/elixir",
+  "type": "Linguagem de programação",
   "tags": []
 }, {
   "name": "Ember.JS",
@@ -73,6 +99,16 @@
   "url": "#/laravel",
   "type": "PHP Framework",
   "tags": []
+},{
+  "name": "Meteor",
+  "url": "#/meteor",
+  "type": "Node Framework",
+  "tags": []
+}, {
+  "name": "MongoDb",
+  "url": "#/mongodb",
+  "type": "Banco de Dados",
+  "tags": []
 }, {
   "name": "Node",
   "url": "#/node",
@@ -94,6 +130,11 @@
   "type": "Biblioteca Javascript",
   "tags": []
 }, {
+  "name": "Redux",
+  "url": "#/redux",
+  "type": "Container de estados previsíveis",
+  "tags": []
+}, {
   "name": "Ruby",
   "url": "#/ruby",
   "type": "Linguagem de programação",
@@ -104,10 +145,10 @@
   "type": "Ruby Framework",
   "tags": []
 }, {
-  "name" : "Segurança",
-  "url" : "#/seguranca",
-  "type" : "Segurança e Certificados digitais",
-  "tags" : []
+  "name": "Segurança",
+  "url": "#/seguranca",
+  "type": "Segurança e Certificados digitais",
+  "tags": []
 }, {
   "name": "Sublime Text",
   "url": "#/sublime",
@@ -128,9 +169,71 @@
   "url": "#/vue",
   "type": "Framework Javascript",
   "tags": []
-},{
+}, {
   "name": "Linux",
   "url": "#/linux",
   "type": "Sistema Operacional",
   "tags": []
-}]
+}, {
+  "name": "Regex",
+  "url": "#/regex",
+  "type": "Expressão regular",
+  "tags": []
+}, {
+  "name": "WordPress",
+  "url": "#/wordpress",
+  "type": "CMS PHP",
+  "tags": []
+}, {
+  "name": "ASP.NET",
+  "url": "#/asp.net",
+  "type": "Framework Web",
+  "tags": []
+}, {
+  "name": "Testes de Softwares",
+  "url": "#/testes",
+  "type": "Testes",
+  "tags": []
+}, {
+  "name": "Codeigniter",
+  "url": "#/codeigniter",
+  "type": "PHP Framework",
+  "tags": []
+},{
+  "name": "DevOps",
+  "url": "#/devops",
+  "type": "Práticas de Desenvolvimento e Infraestrutura",
+  "tags": []
+},{
+  "name": "TypeScript",
+  "url": "#/typescript",
+  "type":"Linguagem de programação",
+  "tags": []
+},{
+  "name": "Xamarin",
+  "url": "#/xamarin",
+  "type":"Framework para desenvolvimento mobile",
+  "tags": []
+},{
+  "name": "Yii Framework",
+  "url": "#/yii",
+  "type":"PHP Framework",
+  "tags": []
+},
+{
+  "name": "Django Framework",
+  "url": "#/django",
+  "type":"Python web Framework",
+  "tags": []
+}, {
+  "name": "D3.js",
+  "url": "#/d3js",
+  "type": "Biblioteca Javascript",
+  "tags": []
+}, {
+  "name": "Business Intelligence",
+  "url": "#/bi",
+  "type": "Business Intelligence",
+  "tags": []
+}
+]

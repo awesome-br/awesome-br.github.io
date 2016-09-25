@@ -1,0 +1,82 @@
+[{
+  "name": "Aprenda como criar plugins no WordPress",
+  "url": "https://claudiosmweb.com/wordpress/aprenda-como-criar-plugins-wordpress/",
+  "type": "artigo",
+  "tags": [
+    "debug", "plugin", "tutorial"
+  ],
+  "author": {
+    "name": "Claudio Sanches",
+    "url": "https://twitter.com/claudiosmweb"
+  }
+}, {
+  "name": "Otimizando a performance do WordPress (InterCon Dev Wordpress)",
+  "url": "https://www.youtube.com/watch?v=7v9ve3mnyec",
+  "type": "video",
+  "tags": [
+    "devops", "otimização", "performance", "server"
+  ],
+  "author": {
+    "name": "Hugo Cisneiros",
+    "url": "http://www.devin.com.br/"
+  }
+}, {
+  "name": "Segurança em WordPress (InterCon Dev Wordpress)",
+  "url": "https://www.youtube.com/watch?v=oTGNbpwj2g8",
+  "type": "video",
+  "tags": [
+    "segurança", "firewall"
+  ],
+  "author": {
+    "name": "Eric Tedeschi",
+    "url": "https://twitter.com/ericktedeschi"
+  }
+}, {
+  "name": "Tudo sobre utilizar Permalinks no WordPress",
+  "url": "http://leocaseiro.com.br/permalinks-wordpress/",
+  "type": "artigo",
+  "tags": [
+    "configuração", "ferramentas", "iniciante", "permalink"
+  ],
+  "author": {
+    "name": "Leo Caseiro",
+    "url": "https://twitter.com/leocaseiro"
+  }
+}, {
+  "name": "Ferramentas livres para desenvolvimento WordPress",
+  "url": "https://2012.curitiba.wordcamp.org/files/2012/06/Ferramentas-livres-para-desenvolvimento-WordPress.pdf",
+  "type": "guia",
+  "tags": [
+    "softwares",
+    "open source"
+  ],
+  "author": {
+    "name": "Daniel Kossmann Ferraz",
+    "url": "https://spirallab.com.br/"
+  }
+}, {
+  "name": "Temas Responsáveis",
+  "url": "http://pt.slideshare.net/jacksonfdam/responsive-wordpress-24196120",
+  "type": "slideshare",
+  "tags": [
+    "webdesign",
+    "responsivo"
+  ],
+  "author": {
+    "name": "Jackson Ferreira de Andrade Mafra",
+    "url": "https://twitter.com/jacksonfdam"
+  }
+}, {
+  "name": "Entenda os privilégios de cada função de usuários",
+  "url": "https://www.mxcursos.com/blog/wordpress-entenda-os-privilegios-de-cada-funcao-de-usuarios/",
+  "type": "artigo",
+  "tags": [
+    "privilégios",
+    "permissões",
+    "usuários"
+  ],
+  "author": {
+    "name": "Felipe Cardozo",
+    "url": "https://www.mxcursos.com/blog/author/felipe-cardozo/"
+  }
+}]
