@@ -1,0 +1,101 @@
+[{
+  "name": "O que há de novo no Rails 5",
+  "url": "http://tableless.com.br/novidades-do-rails-5/",
+  "type": "artigo",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "João Almeida",
+    "url": "http://twitter.com/joaorsalmeida"
+  }
+}, {
+  "name": "Ruby on Rails coloque sua aplicação web nos trilhos",
+  "url": "http://www.casadocodigo.com.br/products/livro-ruby-on-rails",
+  "type": "livro",
+  "tags": [
+    "livro",
+    "ebook"
+  ],
+  "paid": true,
+  "author": {
+    "name": "Vinícius Baggio Fuentes",
+    "url": "http://vinibaggio.net/"
+  }
+}, {
+  "name": "Aprendendo TDD: Testando a camada Model [parte 1]",
+  "url": "https://medium.com/@ricardo.b.silva13/aprendendo-tdd-testando-a-camada-model-parte-1-994d71e5c0ad#.747a7oze2",
+  "type": "tutorial",
+  "tags": [
+    "tdd",
+    "rails"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Ricardo Silva",
+    "url": "https://medium.com/@ricardo.b.silva13"
+  }
+}, {
+  "name": "Aprendendo TDD: Testando a camada Model [parte 2]",
+  "url": "https://medium.com/@ricardo.b.silva13/aprendendo-tdd-testando-a-camada-model-parte-2-21b6dcd65e8#.muyq3ittq",
+  "type": "tutorial",
+  "tags": [
+    "tdd",
+    "rails"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Ricardo Silva",
+    "url": "https://medium.com/@ricardo.b.silva13"
+  }
+}, {
+  "name": "Aprendendo TDD: Testando a camada Controller [parte 1]",
+  "url": "https://medium.com/@ricardo.b.silva13/aprendendo-tdd-testando-a-camada-controller-parte-1-7893ea8f6ac9#.4vm5ba47h",
+  "type": "tutorial",
+  "tags": [
+    "tdd",
+    "rails"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Ricardo Silva",
+    "url": "https://medium.com/@ricardo.b.silva13"
+  }
+}, {
+  "name": "Akita on Rails",
+  "url": "https://akitaonrails.com",
+  "type": "site",
+  "tags": [
+    "ruby",
+    "rails"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fábio Akita",
+    "url": "https://github.com/akitaonrails"
+  }
+}, {
+  "name": "Nando Vieira",
+  "url": "https://nandovieira.com.br",
+  "type": "site",
+  "tags": [
+    "rails"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Nando Vieira",
+    "url": "https://github.com/fnando"
+  }
+}, {
+  "name": "Aprenda Rails jogando",
+  "url": "http://spacerails.com.br/",
+  "type": "curso",
+  "tags": [
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Space Rails",
+    "url": "http://spacerails.com.br/"
+  }
+}]
