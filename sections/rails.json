@@ -21,4 +21,16 @@
     "name": "Vinícius Baggio Fuentes",
     "url": "http://vinibaggio.net/"
   }
+},
+{
+  "name": "Aprenda Rails jogando",
+  "url": "http://spacerails.com.br/",
+  "type": "curso",
+  "tags": [
+    "iniciante"
+  ],
+  "author": {
+    "name": "Space Rails",
+    "url": "http://spacerails.com.br/"
+  }
 }]
