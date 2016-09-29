@@ -1233,4 +1233,17 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
+}, {
+  "name": "Laravel: usando o ORM Eloquent",
+  "url": "http://clubedosgeeks.com.br/programacao/php/laravel-usando-o-orm-eloquent",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "eloquent",
+    "ORM"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
 }]
