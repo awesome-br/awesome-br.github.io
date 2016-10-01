@@ -231,4 +231,15 @@
     "name": "Vedovelli",
     "url": "http://www.vedovelli.com.br/"
   }
+}, {
+  "name": "Vue.js, Typescript e futuro",
+  "url": "http://www.vuejs-brasil.com.br/vue-js-typescript-e-futuro/",
+  "type": "artigo",
+  "tags": [
+    "typescript"
+  ],
+  "author": {
+    "name": "Daniel Schmitz",
+    "url": "http://www.vuejs-brasil.com.br/author/daniel-schmitz/"
+  }
 }]
