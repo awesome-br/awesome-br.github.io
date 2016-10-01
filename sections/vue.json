@@ -206,4 +206,16 @@
     "name": "Vinicius Reis",
     "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
   }
+}, {
+  "name": "Como é a popularidade do Vue.JS no mercado?",
+  "url": "http://www.vuejs-brasil.com.br/como-e-a-popularidade-do-vue-js-no-mercado/",
+  "type": "artigo",
+  "tags": [
+    "mercado",
+    "tradução"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
 }]
