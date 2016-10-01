@@ -242,4 +242,16 @@
     "name": "Daniel Schmitz",
     "url": "http://www.vuejs-brasil.com.br/author/daniel-schmitz/"
   }
+}, {
+  "name": "Aplicando transições com Vue 2",
+  "url": "http://www.vuejs-brasil.com.br/aplicando-transicoes-com-vue-2/",
+  "type": "artigo",
+  "tags": [
+    "animation",
+    "transição"
+  ],
+  "author": {
+    "name": "Daniel Schmitz",
+    "url": "http://www.vuejs-brasil.com.br/author/daniel-schmitz/"
+  }
 }]
