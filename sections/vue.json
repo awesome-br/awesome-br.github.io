@@ -137,4 +137,17 @@
     "name": "Vinicius Reis",
     "url": "https://blog.codecasts.com.br/@luizvinicius73"
   }
+}, {
+  "name": "Vue.js não é um Angular simplificado",
+  "url": "https://blog.codecasts.com.br/vue-js-nao-e-um-angular-simplificado-6394c18cc689",
+  "type": "artigo",
+  "tags": [
+    "angular",
+    "di",
+    "services"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://blog.codecasts.com.br/@luizvinicius73"
+  }
 }]
