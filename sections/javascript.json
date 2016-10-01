@@ -664,4 +664,16 @@
     "name": "Vinicius Reis",
     "url": "https://medium.com/@luizvinicius73"
   }
+}, {
+  "name": "Trabalhando com serviços no Javascript",
+  "url": "https://medium.com/by-vinicius-reis/trabalhando-com-servicos-no-javascript-864310cf386c",
+  "type": "artigo",
+  "tags": [
+    "services",
+    "design pattern"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://medium.com/@luizvinicius73"
+  }
 }]
