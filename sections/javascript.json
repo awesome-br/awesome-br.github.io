@@ -652,4 +652,16 @@
     "name": "Vinicius Reis",
     "url": "https://medium.com/@luizvinicius73"
   }
+}, {
+  "name": "Single Page Applications: Onde vivem e o que comem",
+  "url": "https://blog.codecasts.com.br/single-page-applications-onde-vivem-e-o-que-comem-4fc9a44f3de",
+  "type": "artigo",
+  "tags": [
+    "frameworks",
+    "spa"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://medium.com/@luizvinicius73"
+  }
 }]
