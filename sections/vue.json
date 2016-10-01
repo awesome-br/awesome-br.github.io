@@ -150,4 +150,20 @@
     "name": "Vinicius Reis",
     "url": "https://blog.codecasts.com.br/@luizvinicius73"
   }
+}, {
+  "name": "Vue.js 2 - Filtros em Listas",
+  "url": "http://www.vuejs-brasil.com.br/vue-js-2-filtros-em-listas/",
+  "type": "artigo",
+  "tags": [
+    "axios",
+    "filter",
+    "lists",
+    "collections",
+    "lodash",
+    "third party"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
 }]
