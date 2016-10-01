@@ -166,4 +166,18 @@
     "name": "Vinicius Reis",
     "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
   }
+}, {
+  "name": "Vue.js em projetos não SPA",
+  "url": "http://www.vuejs-brasil.com.br/vue-js-em-projetos-nao-spa/",
+  "type": "artigo",
+  "tags": [
+    "spa",
+    "angular",
+    "web components",
+    "root"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
 }]
