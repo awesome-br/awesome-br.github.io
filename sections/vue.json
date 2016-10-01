@@ -218,4 +218,17 @@
     "name": "Vinicius Reis",
     "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
   }
+}, {
+  "name": "Vuex 2.0 - screencast",
+  "url": "https://www.youtube.com/watch?v=BT1kKaZwPRs",
+  "type": "screencast",
+  "tags": [
+    "vuex",
+    "codecasts",
+    "vue2"
+  ],
+  "author": {
+    "name": "Vedovelli",
+    "url": "http://www.vedovelli.com.br/"
+  }
 }]
