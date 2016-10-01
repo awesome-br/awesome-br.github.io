@@ -636,4 +636,20 @@
     "name": "Jaime Neves",
     "url": "http://jaimeneves.com.br"
   }
+}, {
+  "name": "Entenda de uma vez por todas o que é React.JS, Angular 2, Aurelia e Vue.JS",
+  "url": "https://medium.com/by-vinicius-reis/o-que-e-react-ng2-auleria-vue-e34b0c77b5a1",
+  "type": "artigo",
+  "tags": [
+    "frameworks",
+    "aurelia",
+    "react",
+    "angular",
+    "vue.js",
+    "vue"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://medium.com/@luizvinicius73"
+  }
 }]
