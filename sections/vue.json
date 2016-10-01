@@ -192,4 +192,18 @@
     "name": "Codecasts",
     "url": "https://codecasts.com.br/"
   }
+}, {
+  "name": "Maneiras de 'montar' uma instância de componente",
+  "url": "http://www.vuejs-brasil.com.br/maneiras-de-montar-uma-instancia-de-componente/",
+  "type": "artigo",
+  "tags": [
+    "component",
+    "root",
+    "web components",
+    "angular"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
 }]
