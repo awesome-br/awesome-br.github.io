@@ -122,4 +122,19 @@
     "name": "Vinicius Reis",
     "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
   }
+}, {
+  "name": "Vue.js e Serviços",
+  "url": "https://blog.codecasts.com.br/vue-js-e-servicos-4d4439320a2",
+  "type": "artigo",
+  "tags": [
+    "services",
+    "http",
+    "axios",
+    "pligins",
+    "third party"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://blog.codecasts.com.br/@luizvinicius73"
+  }
 }]
