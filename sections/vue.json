@@ -180,4 +180,16 @@
     "name": "Vinicius Reis",
     "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
   }
+}, {
+  "name": "#2 - Falando sobre VueJS e Web Components",
+  "url": "https://codecasts.com.br/podcast/2-falando-sobre-vuejs-e-web-components",
+  "type": "podcast",
+  "tags": [
+    "web components",
+    "react"
+  ],
+  "author": {
+    "name": "Codecasts",
+    "url": "https://codecasts.com.br/"
+  }
 }]
