@@ -254,4 +254,15 @@
     "name": "Daniel Schmitz",
     "url": "http://www.vuejs-brasil.com.br/author/daniel-schmitz/"
   }
+}, {
+  "name": "Filtros no Vue.js 2.0",
+  "url": "http://www.vuejs-brasil.com.br/filtros-no-vue-js-2-0/",
+  "type": "artigo",
+  "tags": [
+    "filter"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
 }]
