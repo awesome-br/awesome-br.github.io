@@ -1,22 +1,21 @@
 <template>
-  <div id="app">
-    <img src="./assets/logo.png">
-    <h1>{{ msg }}</h1>
-  </div>
+  <RootHeader></RootHeader>
 </template>
 
 <script>
+import RootHeader from './components/root/header.vue'
+
 export default {
+  components: { RootHeader },
   data () {
-    return {
-      msg: 'Hello Vue!'
-    }
+    return { }
   }
 }
 </script>
 
+
 <style>
-body {
-  font-family: Helvetica, sans-serif;
+body, h1, h2, h3, h4 {
+  font-family: 'Ubuntu', sans-serif;
 }
 </style>
