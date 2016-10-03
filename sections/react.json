@@ -177,7 +177,7 @@
     "url": "https://github.com/viniciusdacal"
 
   }
-}, 
+},
 {
   "name": "Grupo de discussão",
   "url": "https://github.com/react-sp/react-sp/",
@@ -191,6 +191,20 @@
     "name": "React Brasil",
     "url": "https://github.com/react-sp/"
 
+  }
+},
+{
+  "name": "Começando com ReactJs",
+  "url": "https://blog.mywork.art.br/come%C3%A7ando-com-reactjs/",
+  "type": "artigo",
+  "tags": [
+    "iniciante",
+    "JSX",
+    "VirtualDOM"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
   }
 }
 ]
