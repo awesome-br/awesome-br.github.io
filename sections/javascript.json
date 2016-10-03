@@ -687,4 +687,16 @@
     "name": "Igor Luíz",
     "url": "http://igorluiz.me/"
   }
+}, {
+  "name": "Entendendo o Constructor Pattern no Javascript",
+  "url": "https://blog.mywork.art.br/constructor-pattern/",
+  "type": "artigo",
+  "tags": [
+    "design patterns",
+    "constructor pattern"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
 }]
