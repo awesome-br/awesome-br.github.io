@@ -327,4 +327,16 @@
     "name": "Igor Luíz",
     "url": "http://igorluiz.me/"
   }
+}, {
+  "name": "Criando CLI com NodeJs",
+  "url": "https://blog.mywork.art.br/criando-cli-com-nodejs/",
+  "type": "artigo",
+  "tags": [
+    "CLI",
+    "terminal"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
 }]
