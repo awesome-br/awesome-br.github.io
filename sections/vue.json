@@ -278,4 +278,16 @@
       "name": "Igor Luíz",
       "url": "http://igorluiz.me/"
     }
-  }]
+}, {
+    "name": "Render Functions no Vue.js 2.0",
+    "url": "http://www.vuejs-brasil.com.br/render-functions-no-vue-js-2-0/",
+    "type": "artigo",
+    "tags": [
+      "render functions"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}]
