@@ -676,4 +676,15 @@
     "name": "Vinicius Reis",
     "url": "https://medium.com/@luizvinicius73"
   }
+}, {
+  "name": "Serie sobre Design Patterns com Javascript",
+  "url": "https://blog.mywork.art.br/javascript-design-patterns/",
+  "type": "artigo",
+  "tags": [
+    "design patterns"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
 }]
