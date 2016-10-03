@@ -328,4 +328,16 @@
       "name": "Igor Luíz",
       "url": "http://igorluiz.me/"
     }
+}, {
+    "name": "Criando plugins para Vue.js",
+    "url": "http://www.vuejs-brasil.com.br/criando-plugins-para-o-vue-js/",
+    "type": "artigo",
+    "tags": [
+      "plugins"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
 }]
