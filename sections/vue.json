@@ -316,4 +316,16 @@
       "name": "Igor Luíz",
       "url": "http://igorluiz.me/"
     }
+}, {
+    "name": "Diretivas no Vue.js #2",
+    "url": "http://www.vuejs-brasil.com.br/diretivas-no-vue-js-2/",
+    "type": "artigo",
+    "tags": [
+      "diretivas"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
 }]
