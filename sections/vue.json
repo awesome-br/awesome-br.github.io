@@ -265,4 +265,17 @@
     "name": "Igor Luíz",
     "url": "http://igorluiz.me/"
   }
-}]
+}, {
+    "name": "Curso completo sobre Vue.js 2.0",
+    "url": "http://www.vuejs-brasil.com.br/serie-de-videos-sobre-o-vue-js-2-0-2/",
+    "type": "video",
+    "tags": [
+      "curso",
+      "screencast"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+  }]
