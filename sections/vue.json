@@ -290,4 +290,18 @@
       "name": "Igor Luíz",
       "url": "http://igorluiz.me/"
     }
+}, {
+    "name": "Testando sua aplicação Vue.js",
+    "url": "http://www.vuejs-brasil.com.br/testando-sua-aplicacao-vue-js/",
+    "type": "artigo",
+    "tags": [
+      "testes",
+      "TDD",
+      "BDD"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
 }]
