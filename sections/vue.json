@@ -340,4 +340,17 @@
       "name": "Igor Luíz",
       "url": "http://igorluiz.me/"
     }
+}, {
+    "name": "Como funciona a reatividade no Vue.js",
+    "url": "http://www.vuejs-brasil.com.br/como-funciona-a-reatividade-no-vue-js/",
+    "type": "artigo",
+    "tags": [
+      "reatividade",
+      "data-binding"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
 }]
