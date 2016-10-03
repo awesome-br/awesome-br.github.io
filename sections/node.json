@@ -314,4 +314,17 @@
     "name": "Jaime Neves",
     "url": "http://jaimeneves.com.br"
   }
+}, {
+  "name": "Escalonando aplicações NodeJs",
+  "url": "https://www.youtube.com/watch?v=BLS6zAkXfNI",
+  "type": "artigo",
+  "tags": [
+    "processos",
+    "load balancer",
+    "reverse proxy"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
 }]
