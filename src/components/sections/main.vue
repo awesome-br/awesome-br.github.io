@@ -1,18 +1,24 @@
 <script>
-// import { mapActions } from 'vuex'
-
+import { mapActions, mapState } from 'vuex'
+import List from './section-list.vue'
 export default {
+  components: { List },
   mounted () {
     this.loadSections()
   },
   methods: {
-    loadSections () {
-      this.$store.dispatch('loadSections')
-    }
+    ...mapActions(['loadSections'])
+  },
+  computed: {
+    ...mapState({
+      sections: ({ sections }) => sections.list
+    })
   }
 }
 </script>
 
 <template>
-  <h1>Home</h1>
+  <div class="container-fluid">
+    <List :list="sections" />
+  </div>
 </template>
