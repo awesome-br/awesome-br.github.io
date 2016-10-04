@@ -82,11 +82,13 @@
 }, {
   "name": "setRobot é um tema base para auxiliar no desenvolvimento ágil de temas para WordPress.",
   "url": "https://github.com/3runoDesign/setRobot",
-  "type": "Dica",
+  "type": "dica",
   "tags": [
-    "privilégios",
-    "permissões",
-    "usuários"
+    "Framework",
+    "Wordpress",
+    "gulp",
+    "Blade",
+    "sass",
   ],
   "author": {
     "name": "Bruno Fernando",
