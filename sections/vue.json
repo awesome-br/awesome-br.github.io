@@ -265,4 +265,92 @@
     "name": "Igor Luíz",
     "url": "http://igorluiz.me/"
   }
+}, {
+    "name": "Curso completo sobre Vue.js 2.0",
+    "url": "http://www.vuejs-brasil.com.br/serie-de-videos-sobre-o-vue-js-2-0-2/",
+    "type": "video",
+    "tags": [
+      "curso",
+      "screencast"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Render Functions no Vue.js 2.0",
+    "url": "http://www.vuejs-brasil.com.br/render-functions-no-vue-js-2-0/",
+    "type": "artigo",
+    "tags": [
+      "render functions"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Testando sua aplicação Vue.js",
+    "url": "http://www.vuejs-brasil.com.br/testando-sua-aplicacao-vue-js/",
+    "type": "artigo",
+    "tags": [
+      "testes",
+      "TDD",
+      "BDD"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Diretivas no Vue.js #1",
+    "url": "http://www.vuejs-brasil.com.br/diretivas-no-vue-js-1-2/",
+    "type": "artigo",
+    "tags": [
+      "diretivas"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Diretivas no Vue.js #2",
+    "url": "http://www.vuejs-brasil.com.br/diretivas-no-vue-js-2/",
+    "type": "artigo",
+    "tags": [
+      "diretivas"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Criando plugins para Vue.js",
+    "url": "http://www.vuejs-brasil.com.br/criando-plugins-para-o-vue-js/",
+    "type": "artigo",
+    "tags": [
+      "plugins"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Como funciona a reatividade no Vue.js",
+    "url": "http://www.vuejs-brasil.com.br/como-funciona-a-reatividade-no-vue-js/",
+    "type": "artigo",
+    "tags": [
+      "reatividade",
+      "data-binding"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
 }]
