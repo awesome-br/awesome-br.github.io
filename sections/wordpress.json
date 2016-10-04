@@ -79,4 +79,17 @@
     "name": "Felipe Cardozo",
     "url": "https://www.mxcursos.com/blog/author/felipe-cardozo/"
   }
+}, {
+  "name": "setRobot é um tema base para auxiliar no desenvolvimento ágil de temas para WordPress.",
+  "url": "https://github.com/3runoDesign/setRobot",
+  "type": "Framework",
+  "tags": [
+    "privilégios",
+    "permissões",
+    "usuários"
+  ],
+  "author": {
+    "name": "Bruno Fernando",
+    "url": "https://github.com/3runoDesign"
+  }
 }]
