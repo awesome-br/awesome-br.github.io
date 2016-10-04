@@ -18,7 +18,7 @@ export default {
 </script>
 
 <template>
-  <div class="container-fluid">
+  <div class="container">
     <List :list="sections" />
   </div>
 </template>

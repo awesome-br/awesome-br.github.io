@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.14.0",
+    "geopattern": "^1.2.3",
     "vue": "^2.0.1",
     "vue-router": "^2.0.0",
     "vuex": "^2.0.0"
