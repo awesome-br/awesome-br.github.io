@@ -8,12 +8,12 @@ export default {
 
 <template>
   <div class="row">
-    <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3" v-for="section in list">
+    <router-link :to="{ path: section.url }" class="col-xs-12 col-sm-4 col-md-4 col-lg-3" v-for="section in list">
       <div class="item" v-geopattern="section.name">
         <span class="badge">{{ section.type }}</span>
         <h3>{{ section.name }}</h3>
       </div>
-    </div>
+    </router-link>
   </div>
 </template>
 
