@@ -1,3 +1,5 @@
 export default {
-  list: []
+  list: [],
+  links: [],
+  current: ''
 }
