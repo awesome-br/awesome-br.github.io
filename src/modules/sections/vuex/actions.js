@@ -15,3 +15,8 @@ export const setCurrent = ({ commit, getters }, key) => {
     ? run()
     : loadSections({ commit }).then(() => run())
 }
+
+export const cleanCurrent = ({ commit }) => {
+  commit(types.SET_LINKS, [])
+  commit(types.SET_CURRENT, '')
+}
