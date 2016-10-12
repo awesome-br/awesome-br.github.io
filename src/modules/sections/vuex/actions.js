@@ -6,9 +6,12 @@ export const loadSections = ({ commit }) => {
     .then(data => commit(types.SET_LIST, data))
 }
 
-export const setCurrent = ({ commit }, key) => {
+export const setCurrent = ({ commit, getters }, key) => {
   commit(types.SET_CURRENT, key)
 
-  return getLinks(key)
-    .then(data => commit(types.SET_LINKS, data))
+  const run = () => getLinks(key).then(data => commit(types.SET_LINKS, data))
+
+  return getters.hasList
+    ? run()
+    : loadSections({ commit }).then(() => run())
 }
