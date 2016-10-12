@@ -1,9 +1,8 @@
 <script>
 import RootHeader from './components/root/header.vue'
-import SectionsHome from './components/sections/main.vue'
 
 export default {
-  components: { RootHeader, SectionsHome },
+  components: { RootHeader },
   data () {
     return { }
   }
@@ -13,7 +12,7 @@ export default {
 <template>
   <div>
     <root-header></root-header>
-    <sections-home></sections-home>
+    <router-view></router-view>
   </div>
 </template>
 

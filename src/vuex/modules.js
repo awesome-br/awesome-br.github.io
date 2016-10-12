@@ -1,3 +1,3 @@
-import sections from '../components/sections/vuex'
+import { vuex as sections } from '../modules/sections'
 
 export default { sections }
