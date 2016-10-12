@@ -1,9 +1,9 @@
 <template>
-  <h1>Single</h1>
+  <h1>{{ section.name }}</h1>
 </template>
 
 <script>
-import { mapActions } from 'vuex'
+import { mapActions, mapGetters } from 'vuex'
 
 export default {
   beforeRouteEnter (to, from, next) {
@@ -11,6 +11,9 @@ export default {
   },
   methods: {
     ...mapActions(['setCurrent'])
+  },
+  computed: {
+    ...mapGetters({section: 'sectionData'})
   }
 }
 </script>
