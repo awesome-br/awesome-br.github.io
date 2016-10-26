@@ -1246,4 +1246,19 @@
     "name": "Jayr Alencar",
     "url": "http://jayralencar.com.br"
   }
+}, {
+  "name": "InfyOm Laravel Generator",
+  "url": "http://labs.infyom.com/laravelgenerator/",
+  "type": "dica",
+  "tags": [
+    "laravel",
+    "CRUD",
+    "Generator",
+    "Test Cases",
+    "ORM"
+  ],
+  "author": {
+    "name": "InfyOm Technologies",
+    "url": "http://infyom.com"
+  }
 }]
