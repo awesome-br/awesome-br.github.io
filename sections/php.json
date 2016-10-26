@@ -336,5 +336,18 @@
   "author": {
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
-  }
-}]
+  },
+}, {
+    "name": "Iniciando Com API do Facebook",
+    "url": "https://www.youtube.com/playlist?list=PLjnUBzvAbOCJWseWxMX_WbvDpqYIdv9qE",
+    "type": "curso",
+    "tags": [
+      "API Facebook",
+      "DSK PHP",
+      "PHP"
+    ],
+    "author": {
+      "name": "Alex Nascimento",
+      "url": "http://alexnascimento.com.br/"
+    }
+  }]
