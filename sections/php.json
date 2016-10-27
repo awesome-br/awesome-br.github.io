@@ -352,7 +352,8 @@
   "author": {
     "name": "Marcos Felipe",
     "url": "https://github.com/omarkdev"
-  }, {
+    }
+}, {
     "name": "Iniciando Com API do Facebook",
     "url": "https://www.youtube.com/playlist?list=PLjnUBzvAbOCJWseWxMX_WbvDpqYIdv9qE",
     "type": "curso",
