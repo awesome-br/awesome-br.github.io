@@ -126,4 +126,16 @@
     "name": "Vinicius Reis",
     "url": "http://github.com/vinicius73"
   }
+}, {
+  "name": "Usando ES6 no gulpfile",
+  "url": "https://blog.mywork.art.br/usando-es6-com-gulpjs/",
+  "type": "dica",
+  "tags": [
+    "es6",
+    "gulpfile"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
 }]

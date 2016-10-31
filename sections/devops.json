@@ -34,4 +34,15 @@
     "name": "Leonardo Macedo Cerqueira",
     "url": "https://www.linkedin.com/in/leonardomacedoc"
   }
+}, {
+    "name": "Integração Contínua com Travis CI — Parte 01",
+    "url": "https://medium.com/@dejaneves/integra%C3%A7%C3%A3o-cont%C3%ADnua-com-travis-ci-parte-01-5a934a13c37b#.s3goy6tox",
+    "type": "artigo",
+    "tags": [
+      "devops"
+    ],
+    "author": {
+      "name": "Jaime Neves",
+      "url": "http://jaimeneves.com.br"
+    }
 }]

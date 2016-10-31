@@ -337,4 +337,20 @@
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
   }
+},
+{
+  "name": "Criando sistema de permissões modular com bitwise",
+  "url": "https://medium.com/@omarkdev/criando-sistema-de-permiss%C3%B5es-modular-com-bitwise-54314522148a#.d3hqg5wf5",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "laravel",
+    "bitwise",
+    "permissões",
+    "modular"
+  ],
+  "author": {
+    "name": "Marcos Felipe",
+    "url": "https://github.com/omarkdev"
+  }
 }]
