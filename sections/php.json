@@ -113,7 +113,7 @@
   }
 }, {
   "name": "Iniciando com o AWS SDK no Symfony",
-  "url": "https://merorafael.wordpress.com/2016/03/25/iniciando-com-o-aws-sdk-no-symfony/",
+  "url": "https://medium.com/@merorafael/iniciando-com-o-aws-sdk-no-symfony-55316eeb709d",
   "type": "artigo",
   "tags": [
     "php",
@@ -122,11 +122,11 @@
   ],
   "author": {
     "name": "Rafael Mello",
-    "url": "https://merorafael.wordpress.com/"
+    "url": "https://br.linkedin.com/in/merorafael"
   }
 }, {
   "name": "Armazenando sessão do Symfony no AWS DynamoDB",
-  "url": "https://merorafael.wordpress.com/2016/03/30/armazenando-sessao-do-symfony-no-aws-dynamodb/",
+  "url": "https://medium.com/@merorafael/armazenando-sessão-do-symfony-no-aws-dynamodb-7bdf4ea94925",
   "type": "artigo",
   "tags": [
     "php",
@@ -136,7 +136,90 @@
   ],
   "author": {
     "name": "Rafael Mello",
-    "url": "https://merorafael.wordpress.com/"
+    "url": "https://br.linkedin.com/in/merorafael"
+  }
+}, {
+  "name": "Introdução ao Twig",
+  "url": "https://medium.com/@merorafael/introdução-ao-twig-415b0ede920c",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "twig",
+    "symfony",
+    "laravel",
+    "zend"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://br.linkedin.com/in/merorafael"
+  }
+}, {
+  "name": "Doctrine ORM",
+  "url": "https://speakerdeck.com/merorafael/doctrine-orm",
+  "type": "slide",
+  "tags": [
+    "php",
+    "doctrine"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://br.linkedin.com/in/merorafael"
+  }
+}, {
+  "name": "Doctrine ORM - parte 1",
+  "url": "https://medium.com/@merorafael/doctrine-orm-parte-1-d7b83fc5951a",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "doctrine",
+    "symfony",
+    "zend"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://br.linkedin.com/in/merorafael"
+  }
+}, {
+  "name": "Doctrine ORM - parte 2",
+  "url": "https://medium.com/@merorafael/doctrine-orm-parte-2-3a9b6d8be3f",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "doctrine",
+    "symfony",
+    "zend"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://br.linkedin.com/in/merorafael"
+  }
+}, {
+  "name": "Doctrine ORM - parte 3",
+  "url": "https://medium.com/@merorafael/doctrine-orm-parte-3-9645531da7f8",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "doctrine",
+    "symfony",
+    "zend"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://br.linkedin.com/in/merorafael"
+  }
+}, {
+  "name": "Doctrine naming strategy",
+  "url": "https://medium.com/@merorafael/doctrine-naming-strategy-5bd0f46d8510",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "doctrine",
+    "symfony",
+    "zend"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://br.linkedin.com/in/merorafael"
   }
 }, {
   "name": "OMR (Optical Mark Recognition) com o PHP",
