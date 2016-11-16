@@ -79,4 +79,15 @@
     "name": "Igor Corradi",
     "url": "http://www.igorcorradi.com"
   }
+}, {
+  "name": "Sendo produtivo com Vim-GO",
+  "url": "https://medium.com/@renatosuero/sendo-produtivo-com-vim-go-4c18db8e5d8f#.apoywhrja",
+  "type": "tutorial",
+  "tags": [
+    "tutoriais", "dicas"
+  ],
+  "author": {
+    "name": "Renato Suero",
+    "url": "http://www.twitter.com/@renatosuero"
+  }
 }]
