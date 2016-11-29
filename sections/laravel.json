@@ -1246,4 +1246,18 @@
     "name": "Jayr Alencar",
     "url": "http://jayralencar.com.br"
   }
+}, {
+  "name": "Laravel – Usando Blade Templates",
+  "url": "http://clubedosgeeks.com.br/programacao/php/laravel-usando-blade-templates",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "blade",
+    "templating",
+    "views"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
 }]
