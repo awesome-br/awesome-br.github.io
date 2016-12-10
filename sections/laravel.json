@@ -1,6 +1,6 @@
 [{
-  "name": "Rocket CMS Open Source",
-  "url": "https://github.com/odirleiborgert/rocket-cms",
+  "name": "Borgert CMS Open Source",
+  "url": "https://github.com/odirleiborgert/borgert-cms",
   "type": "site",
   "tags": [
     "cms",
@@ -1232,5 +1232,32 @@
   "author": {
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
+  }
+}, {
+  "name": "Laravel: usando o ORM Eloquent",
+  "url": "http://clubedosgeeks.com.br/programacao/php/laravel-usando-o-orm-eloquent",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "eloquent",
+    "ORM"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
+  }
+}, {
+  "name": "Laravel – Usando Blade Templates",
+  "url": "http://clubedosgeeks.com.br/programacao/php/laravel-usando-blade-templates",
+  "type": "tutorial",
+  "tags": [
+    "laravel",
+    "blade",
+    "templating",
+    "views"
+  ],
+  "author": {
+    "name": "Jayr Alencar",
+    "url": "http://jayralencar.com.br"
   }
 }]

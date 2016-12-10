@@ -86,4 +86,28 @@
     "name": "Nando Vieira",
     "url": "https://github.com/fnando"
   }
+}, {
+  "name": "Aprenda Rails jogando",
+  "url": "http://spacerails.com.br/",
+  "type": "curso",
+  "tags": [
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Space Rails",
+    "url": "http://spacerails.com.br/"
+  }
+}, {
+  "name": "Rails for Zombies",
+  "url": "https://www.codeschool.com/courses/rails-for-zombies-redux",
+  "type": "curso",
+  "tags": [
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Code School",
+    "url": "https://www.codeschool.com"
+  }
 }]

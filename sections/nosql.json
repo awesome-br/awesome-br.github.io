@@ -12,4 +12,16 @@
     "name": "Felipe Vieira",
     "url": "http://imasters.com.br/perfil/felipe_vieira/?trace=3182418120&source=single"
   }
+}, {
+  "name": "Começando com o Redis",
+  "url": "https://blog.mywork.art.br/redisdb/",
+  "type": "artigo",
+  "tags": [
+    "iniciante",
+    "nodejs"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
 }]
