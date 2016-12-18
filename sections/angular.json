@@ -222,4 +222,17 @@
     "name": "Jayr Alencar",
     "url": "http://jayralencar.com.br"
   }
+}, {
+  "name": "Be MEAN: AngularJS",
+  "url": "https://www.youtube.com/playlist?list=PL77JVjKTJT2hfviaP9JV_ZyJWSD4je7Df",
+  "type": "screencast",
+  "tags": [
+    "angular",
+    "curso",
+    "playlist"
+  ],
+  "author": {
+    "name": "WebSchool.io",
+    "url": "http://webschool.io/bemean"
+  }
 }]
