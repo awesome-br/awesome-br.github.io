@@ -83,6 +83,19 @@
     "url": "http://jayralencar.com.br"
   }
 }, {
+  "name": "Curso de Angular 2 ",
+  "url": "https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G",
+  "type": "curso",
+  "tags": [
+    "curso",
+    "video",
+    "gratis"
+  ],
+  "author": {
+    "name": "Loiane Groner",
+    "url": "http://loiane.training/"
+  }
+}, {
   "name": "Usando Services e HTTP em Angular 2",
   "url": "http://clubedosgeeks.com.br/programacao/angularjs/angular2-http-services",
   "type": "tutorial",
