@@ -235,5 +235,10 @@
   "url": "#/bi",
   "type": "Business Intelligence",
   "tags": []
+}, {
+  "name": "Spring Boot",
+  "url": "#/springboot",
+  "type": "Spring Framework",
+  "tags": []
 }
 ]
