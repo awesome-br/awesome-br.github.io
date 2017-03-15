@@ -110,4 +110,18 @@
     "name": "Code School",
     "url": "https://www.codeschool.com"
   }
+}, {
+  "name": "Building REST APIs with Rails",
+  "url": "http://apionrails.icalialabs.com/book",
+  "type": "livro",
+  "tags": [
+    "api",
+    "rails",
+    "ebook"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Abraham Kuri",
+    "url": "http://apionrails.icalialabs.com/book"
+  }
 }]
