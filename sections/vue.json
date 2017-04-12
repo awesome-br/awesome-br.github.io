@@ -384,7 +384,7 @@
 }, {
     "name": "ACL no Vue 2",
     "url": "http://www.vuejs-brasil.com.br/acl-vue/",
-    "type": "repositório",
+    "type": "pacote",
     "tags": [
       "acl",
       "segurança",
