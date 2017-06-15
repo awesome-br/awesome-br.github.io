@@ -6,6 +6,30 @@
     "documentação"
   ]
 }, {
+  "name": "Implementando o AdminLTE no Laravel 5.4",
+  "url": "https://medium.com/trainingcenter/php-implementando-o-adminlte-no-laravel-5-4-c283228d8c0f",
+  "type": "artigo",
+  "tags": [
+    "laravel",
+    "adminLTE"
+  ],
+  "author": {
+    "name": "Victor Hugo I. Rocha",
+    "url": "http://victorhugorocha.tk"
+  }
+}, {
+  "name": "Criando um CRUD Básico com Laravel 5.4",
+  "url": "https://medium.com/trainingcenter/php-criando-um-crud-b%C3%A1sico-com-laravel-5-4-f17afe11c66e",
+  "type": "artigo",
+  "tags": [
+    "laravel",
+    "crud"
+  ],
+  "author": {
+    "name": "Victor Hugo I. Rocha",
+    "url": "http://victorhugorocha.tk"
+  }
+}, {
   "name": "7 funções essenciais do PHP que você deve conhecer",
   "url": "http://tableless.com.br/7-funcoes-essenciais-php-que-voce-deve-conhecer/",
   "type": "artigo",
