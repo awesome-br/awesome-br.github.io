@@ -214,4 +214,17 @@
     "name": "Jonathan Lamim Antunes",
     "url": "http://www.universidadecodeigniter.com.br/"
   }
+}, {
+  "name": "Guia do Usuário do CodeIgniter",
+  "url": "https://cibr.github.io/User-Guide-CodeIgniter-PtBr/",
+  "type": "documentação",
+  "tags": [
+    "documentação",
+    "guia"
+  ],
+  "paid": false,
+  "author": {
+    "name": "comunidade",
+    "url": "https://github.com/CIBr"
+  }
 }]
