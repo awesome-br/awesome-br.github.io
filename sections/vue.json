@@ -353,4 +353,60 @@
       "name": "Igor Luíz",
       "url": "http://igorluiz.me/"
     }
+}, {
+    "name": "Testes automatizados com Avoriaz",
+    "url": "http://www.vuejs-brasil.com.br/vue-avoriaz/",
+    "type": "artigo",
+    "tags": [
+      "testes",
+      "unidade",
+      "testes automatizados"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Leonardo Vilarinho",
+      "url": "http://github.com/leonardovilarinho"
+    }
+}, {
+    "name": "Vue 2 no mundo mobile com Quasar",
+    "url": "http://www.vuejs-brasil.com.br/vue-quasar/",
+    "type": "artigo",
+    "tags": [
+      "mobile",
+      "quasar",
+      "hibrido"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Leonardo Vilarinho",
+      "url": "http://github.com/leonardovilarinho"
+    }
+}, {
+    "name": "ACL no Vue 2",
+    "url": "http://www.vuejs-brasil.com.br/acl-vue/",
+    "type": "artigo",
+    "tags": [
+      "acl",
+      "segurança",
+      "multi-usuários"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Leonardo Vilarinho",
+      "url": "http://github.com/leonardovilarinho"
+    }
+}, {
+    "name": "Plugin de multi idiomas",
+    "url": "https://github.com/leonardovilarinho/vue-multilanguage/",
+    "type": "pacote",
+    "tags": [
+      "internacionalização",
+      "plugin",
+      "github"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Leonardo Vilarinho",
+      "url": "http://github.com/leonardovilarinho"
+    }
 }]
