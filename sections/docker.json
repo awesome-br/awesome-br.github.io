@@ -3,6 +3,19 @@
   "url": "http://www.mundodocker.com.br/",
   "type": "url",
   "tags": []
+},{
+  "name": "Dockerhub, pull e push nas suas imagens",
+  "url": "https://medium.com/tableless/docker-dockerhub-pull-e-push-nas-suas-imagens-57dffa0232ad",
+  "type": "artigo",
+  "tags": [
+    "dockerhub",
+    "git"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Victor Hugo I. Rocha",
+    "url": "http://victorhugorocha.tk/"
+  }
 }, {
   "name": "Containers com Docker",
   "url": "http://www.casadocodigo.com.br/products/livro-docker",
