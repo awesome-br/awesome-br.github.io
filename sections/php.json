@@ -472,5 +472,17 @@
       "name": "Alex Nascimento",
       "url": "http://alexnascimento.com.br/"
     }
-  }]
+  }, {
+    "name": "PHP “like a boss” [2]: Crie seu QueryBuilder",
+    "url": "https://phpzm.rocks/php-like-a-boss-2-crie-seu-querybuilder-af430b4125f9",
+    "type": "artigo",
+    "tags": [      
+      "PHP"
+    ],
+    "author": {
+      "name": "William Correa",
+      "url": "https://phpzm.rocks"
+    }
+  }
+]
 
