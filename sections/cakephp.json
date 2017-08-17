@@ -23,4 +23,16 @@
     "name": "Maicon Pinto",
     "url": "https://maiconpinto.com.br"
   }
+},
+{
+  "name": "Ei, Dev Cakephp. Por que você não contribui?",
+  "url": "http://www.cakephpbrasil.com.br/documentacao/2017/04/10/ei-dev-cakephp-por-que-voce-nao-contribui/",
+  "type": "url",
+  "tags": [
+    "cakephp", "dicas", "documentacao"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Alan Lira"
+  }
 }]
