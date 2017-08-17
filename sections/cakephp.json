@@ -10,4 +10,17 @@
     "name": "Flaviano Honorato",
     "url": "https://flaviano.com.br"
   }
+},
+{
+  "name": "CakePHP / Rotas - Transformar /users em /usuarios",
+  "url": "http://www.cakephpbrasil.com.br/rotas/2017/03/02/rotas-transformar-users-em-usuarios/",
+  "type": "tutorial",
+  "tags": [
+    "tutorial", "cakephp", "dicas", "rotas"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Maicon Pinto",
+    "url": "https://maiconpinto.com.br"
+  }
 }]
