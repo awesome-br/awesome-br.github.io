@@ -24,6 +24,12 @@
   "url": "#/backbone",
   "type": "Framework Javascript",
   "tags": []
+},
+{
+  "name": "CakePHP",
+  "url": "#/cakephp",
+  "type": "PHP Framework",
+  "tags": []
 }, {
   "name": "CSS",
   "url": "#/css",
