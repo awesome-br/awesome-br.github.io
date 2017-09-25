@@ -25,6 +25,11 @@
   "type": "Framework Javascript",
   "tags": []
 }, {
+  "name": "C",
+  "url": "#/c",
+  "type": "Linguagem de programação",
+  "tags": []
+}, {
   "name": "CSS",
   "url": "#/css",
   "type": "Folha de Estilo",
