@@ -1,0 +1,38 @@
+[{
+  "name": "Criando Componentes no CakePHP3",
+  "url": "http://www.cakephpbrasil.com.br/tutorial/2017/03/07/criando-components-no-cakephp-3/",
+  "type": "tutorial",
+  "tags": [
+    "tutorial", "cakephp", "dicas", "componentes"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Flaviano Honorato",
+    "url": "https://flaviano.com.br"
+  }
+},
+{
+  "name": "CakePHP / Rotas - Transformar /users em /usuarios",
+  "url": "http://www.cakephpbrasil.com.br/rotas/2017/03/02/rotas-transformar-users-em-usuarios/",
+  "type": "tutorial",
+  "tags": [
+    "tutorial", "cakephp", "dicas", "rotas"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Maicon Pinto",
+    "url": "https://maiconpinto.com.br"
+  }
+},
+{
+  "name": "Ei, Dev Cakephp. Por que você não contribui?",
+  "url": "http://www.cakephpbrasil.com.br/documentacao/2017/04/10/ei-dev-cakephp-por-que-voce-nao-contribui/",
+  "type": "url",
+  "tags": [
+    "cakephp", "dicas", "documentacao"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Alan Lira"
+  }
+}]
