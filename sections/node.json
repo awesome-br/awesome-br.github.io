@@ -314,4 +314,29 @@
     "name": "Jaime Neves",
     "url": "http://jaimeneves.com.br"
   }
+}, {
+  "name": "Escalonando aplicações NodeJs",
+  "url": "https://www.youtube.com/watch?v=BLS6zAkXfNI",
+  "type": "artigo",
+  "tags": [
+    "processos",
+    "load balancer",
+    "reverse proxy"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
+}, {
+  "name": "Criando CLI com NodeJs",
+  "url": "https://blog.mywork.art.br/criando-cli-com-nodejs/",
+  "type": "artigo",
+  "tags": [
+    "CLI",
+    "terminal"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
 }]

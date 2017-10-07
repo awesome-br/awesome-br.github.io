@@ -222,4 +222,56 @@
     "name": "Jayr Alencar",
     "url": "http://jayralencar.com.br"
   }
+}, {
+  "name": "Be MEAN: AngularJS",
+  "url": "https://www.youtube.com/playlist?list=PL77JVjKTJT2hfviaP9JV_ZyJWSD4je7Df",
+  "type": "screencast",
+  "tags": [
+    "angular",
+    "curso",
+    "playlist"
+  ],
+  "author": {
+    "name": "WebSchool.io",
+    "url": "http://webschool.io/bemean"
+  }
+}, {
+  "name": "CodeAM: AngularJS",
+  "url": "https://www.youtube.com/playlist?list=PLpiDhdp8I8VkJKhccdzppdReaD4tbH__C",
+  "type": "screencast",
+  "tags": [
+    "angular",
+    "curso",
+    "playlist"
+  ],
+  "author": {
+    "name": "CodeAM",
+    "url": "https://www.youtube.com/channel/UC0dYA7YTPBCEdjp4qnNnixQ"
+  }
+}, {
+  "name": "Autenticação com Tokens em uma aplicação AngularJS",
+  "url": "https://rafaell-lycan.com/2016/autenticacao-jwt-angular-app/",
+  "type": "artigo",
+  "tags": [
+    "angular",
+    "jwt",
+    "autenticação"
+  ],
+  "author": {
+    "name": "Rafaell Lycan",
+    "url": "https://rafaell-lycan.com/"
+  }
+}, {
+  "name": "Services, Factories e Providers",
+  "url": "https://rafaell-lycan.com/2015/angular-services-factories-providers/",
+  "type": "artigo",
+  "tags": [
+    "factories",
+    "services",
+    "providers"
+  ],
+  "author": {
+    "name": "Rafaell Lycan",
+    "url": "https://rafaell-lycan.com/"
+  }
 }]

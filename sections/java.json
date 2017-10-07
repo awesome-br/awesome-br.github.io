@@ -63,4 +63,13 @@
   "url": "https://www.caelum.com.br/apostila-java-estrutura-dados/",
   "type": "apostila",
   "tags": ["java", "algoritmos", "estrutura de dados"]
+}, {
+  "name": "Construindo uma página com login no JSF",
+  "url": "http://jcdourado.github.io/fases-login-jsf/",
+  "type": "tutorial",
+  "tags": ["java", "jsf", "login","fases jsf"],
+  "author": {
+    "name": "Julio Cezar Dourado",
+    "url": "http://jcdourado.github.io/"
+  }
 }]

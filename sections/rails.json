@@ -61,4 +61,67 @@
     "name": "Ricardo Silva",
     "url": "https://medium.com/@ricardo.b.silva13"
   }
+}, {
+  "name": "Akita on Rails",
+  "url": "https://akitaonrails.com",
+  "type": "site",
+  "tags": [
+    "ruby",
+    "rails"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fábio Akita",
+    "url": "https://github.com/akitaonrails"
+  }
+}, {
+  "name": "Nando Vieira",
+  "url": "https://nandovieira.com.br",
+  "type": "site",
+  "tags": [
+    "rails"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Nando Vieira",
+    "url": "https://github.com/fnando"
+  }
+}, {
+  "name": "Aprenda Rails jogando",
+  "url": "http://spacerails.com.br/",
+  "type": "curso",
+  "tags": [
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Space Rails",
+    "url": "http://spacerails.com.br/"
+  }
+}, {
+  "name": "Rails for Zombies",
+  "url": "https://www.codeschool.com/courses/rails-for-zombies-redux",
+  "type": "curso",
+  "tags": [
+    "iniciante"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Code School",
+    "url": "https://www.codeschool.com"
+  }
+}, {
+  "name": "Building REST APIs with Rails",
+  "url": "http://apionrails.icalialabs.com/book",
+  "type": "livro",
+  "tags": [
+    "api",
+    "rails",
+    "ebook"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Abraham Kuri",
+    "url": "http://apionrails.icalialabs.com/book"
+  }
 }]

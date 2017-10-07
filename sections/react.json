@@ -119,4 +119,145 @@
     "name": "Matheus Lima",
     "url": "http://jscasts.teachable.com/"
   }
+},
+{
+  "name": "Iniciando um app React em 3 minutos ",
+  "url": "https://willianjusten.com.br/video-iniciando-um-app-react-em-3-minutos/",
+  "type": "video",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "video"
+  ],
+  "author": {
+    "name": "Willian Justen",
+    "url": "https://willianjusten.com.br/"
+  }
+
+},
+{
+  "name": "Sua Linha do Tempo para Aprender React (Tradução)",
+  "url": "https://github.com/ericdouglas/traduz-ai/blob/master/react/01-sua-linha-do-tempo-para-aprender-react.md",
+  "type": "artigo",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "introdução"
+  ],
+  "author": {
+    "name": "Eric Douglas",
+    "url": "https://ericdouglas.github.io/"
+  }
+},
+{
+  "name": "Gerenciando rotas com React Router",
+  "url": "https://blog.coderockr.com/gerenciando-rotas-com-react-router-ed44ce1e8753#.4xz3ouqn0",
+  "type": "artigo",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "introdução"
+  ],
+  "author": {
+    "name": "Vinicius Dacal Lopes",
+    "url": "https://github.com/viniciusdacal"
+  }
+},
+{
+  "name": "Recharts, construa gráficos com React e D3",
+  "url": "https://blog.coderockr.com/recharts-construa-gr%C3%A1ficos-com-react-e-d3-31b238bd98a8#.hf6uj2sk4",
+  "type": "artigo",
+  "paid": false,
+  "tags": [
+    "artigo",
+    "introdução"
+  ],
+  "author": {
+    "name": "Vinicius Dacal Lopes",
+    "url": "https://github.com/viniciusdacal"
+
+  }
+},
+{
+  "name": "Grupo de discussão",
+  "url": "https://github.com/react-sp/react-sp/",
+  "type": "url",
+  "paid": false,
+  "tags": [
+    "dúvidas",
+    "forum"
+  ],
+  "author": {
+    "name": "React Brasil",
+    "url": "https://github.com/react-sp/"
+
+  }
+}, {
+  "name": "Começando com ReactJs",
+  "url": "https://blog.mywork.art.br/come%C3%A7ando-com-reactjs/",
+  "type": "artigo",
+  "tags": [
+    "iniciante",
+    "JSX",
+    "VirtualDOM"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
+}, {
+  "name": "ES6: Usando o novo Javascript hoje",
+  "url": "https://www.infoq.com/br/presentations/ecmascript-6-novidades",
+  "type": "palestra",
+  "tags": [
+    "javascript",
+    "es6",
+    "ecmascript6",
+    "palestra"
+  ],
+  "author": {
+    "name": "Pedro Nauck",
+    "url": "http://github.com/pedronauck"
+  }
+}, {
+  "name": "Flux: Arquitetura de projetos para React",
+  "url": "https://www.infoq.com/br/presentations/flux-simple-architecture-model",
+  "type": "palestra",
+  "tags": [
+    "flux",
+    "react",
+    "javascript",
+    "arquitetura"
+  ],
+  "author": {
+    "name": "Pedro Nauck",
+    "url": "http://github.com/pedronauck"
+  }
+}, {
+  "name": "Construíndo apps escaláveis com React",
+  "url": "https://speakerdeck.com/pedronauck/reactjs-from-upside-down-to-right-side-up",
+  "type": "palestra",
+  "tags": [
+    "react",
+    "redux",
+    "javascript",
+    "arquitetura"
+  ],
+  "author": {
+    "name": "Pedro Nauck",
+    "url": "http://github.com/pedronauck"
+  }
+}, {
+  "name": "Palestra de introdução ao ReactJS",
+  "url": "https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component",
+  "type": "palestra",
+  "tags": [
+    "react",
+    "javascript",
+    "arquitetura"
+  ],
+  "author": {
+    "name": "Pedro Nauck",
+    "url": "http://github.com/pedronauck"
+  }
 }]

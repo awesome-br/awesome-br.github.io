@@ -24,6 +24,17 @@
   "url": "#/backbone",
   "type": "Framework Javascript",
   "tags": []
+},
+{
+  "name": "CakePHP",
+  "url": "#/cakephp",
+  "type": "PHP Framework",
+  "tags": []
+}, {
+  "name": "C",
+  "url": "#/c",
+  "type": "Linguagem de programação",
+  "tags": []
 }, {
   "name": "CSS",
   "url": "#/css",
@@ -229,6 +240,16 @@
   "name": "D3.js",
   "url": "#/d3js",
   "type": "Biblioteca Javascript",
+  "tags": []
+}, {
+  "name": "Business Intelligence",
+  "url": "#/bi",
+  "type": "Business Intelligence",
+  "tags": []
+}, {
+  "name": "Spring Boot",
+  "url": "#/springboot",
+  "type": "Spring Framework",
   "tags": []
 }
 ]

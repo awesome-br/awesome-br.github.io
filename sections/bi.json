@@ -1,0 +1,25 @@
+[{
+  "name": "A Busca do BI Perfeito - 3 Passos Indispensáveis",
+  "url": "http://www.binapratica.com.br/#!busca-bi-perfeito/cov8",
+  "type": "artigo",
+  "tags": [
+    "introdução"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Grimaldo Oliveira",
+    "url": "https://br.linkedin.com/in/grimaldo"
+  }
+},{
+  "name": "Entendendo o processo de ETL",
+  "url": "https://corporate.canaltech.com.br/noticia/business-intelligence/entendendo-o-processo-de-etl-22850/",
+  "type": "artigo",
+  "tags": [
+    "introdução"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Canaltech",
+    "url": "https://corporate.canaltech.com.br"
+  }
+}]

@@ -59,7 +59,7 @@
     "url": "http://www.vedovelli.com.br/"
   }
 }, {
-  "name": "Tira dúvidas sobre Vue.js no Stackoverflow",
+  "name": "Tire dúvidas sobre Vue.js no Stackoverflow",
   "url": "http://pt.stackoverflow.com/questions/tagged/vuejs",
   "type": "dica",
   "tags": [
@@ -122,4 +122,291 @@
     "name": "Vinicius Reis",
     "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
   }
+}, {
+  "name": "Vue.js e Serviços",
+  "url": "https://blog.codecasts.com.br/vue-js-e-servicos-4d4439320a2",
+  "type": "artigo",
+  "tags": [
+    "services",
+    "http",
+    "axios",
+    "pligins",
+    "third party"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://blog.codecasts.com.br/@luizvinicius73"
+  }
+}, {
+  "name": "Vue.js não é um Angular simplificado",
+  "url": "https://blog.codecasts.com.br/vue-js-nao-e-um-angular-simplificado-6394c18cc689",
+  "type": "artigo",
+  "tags": [
+    "angular",
+    "di",
+    "services"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://blog.codecasts.com.br/@luizvinicius73"
+  }
+}, {
+  "name": "Vue.js 2 - Filtros em Listas",
+  "url": "http://www.vuejs-brasil.com.br/vue-js-2-filtros-em-listas/",
+  "type": "artigo",
+  "tags": [
+    "axios",
+    "filter",
+    "lists",
+    "collections",
+    "lodash",
+    "third party"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
+}, {
+  "name": "Vue.js em projetos não SPA",
+  "url": "http://www.vuejs-brasil.com.br/vue-js-em-projetos-nao-spa/",
+  "type": "artigo",
+  "tags": [
+    "spa",
+    "angular",
+    "web components",
+    "root"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
+}, {
+  "name": "#2 - Falando sobre VueJS e Web Components",
+  "url": "https://codecasts.com.br/podcast/2-falando-sobre-vuejs-e-web-components",
+  "type": "podcast",
+  "tags": [
+    "web components",
+    "react"
+  ],
+  "author": {
+    "name": "Codecasts",
+    "url": "https://codecasts.com.br/"
+  }
+}, {
+  "name": "Maneiras de 'montar' uma instância de componente",
+  "url": "http://www.vuejs-brasil.com.br/maneiras-de-montar-uma-instancia-de-componente/",
+  "type": "artigo",
+  "tags": [
+    "component",
+    "root",
+    "web components",
+    "angular"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
+}, {
+  "name": "Como é a popularidade do Vue.JS no mercado?",
+  "url": "http://www.vuejs-brasil.com.br/como-e-a-popularidade-do-vue-js-no-mercado/",
+  "type": "artigo",
+  "tags": [
+    "mercado",
+    "tradução"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
+  }
+}, {
+  "name": "Vuex 2.0 - screencast",
+  "url": "https://www.youtube.com/watch?v=BT1kKaZwPRs",
+  "type": "screencast",
+  "tags": [
+    "vuex",
+    "codecasts",
+    "vue2"
+  ],
+  "author": {
+    "name": "Vedovelli",
+    "url": "http://www.vedovelli.com.br/"
+  }
+}, {
+  "name": "Vue.js, Typescript e futuro",
+  "url": "http://www.vuejs-brasil.com.br/vue-js-typescript-e-futuro/",
+  "type": "artigo",
+  "tags": [
+    "typescript"
+  ],
+  "author": {
+    "name": "Daniel Schmitz",
+    "url": "http://www.vuejs-brasil.com.br/author/daniel-schmitz/"
+  }
+}, {
+  "name": "Aplicando transições com Vue 2",
+  "url": "http://www.vuejs-brasil.com.br/aplicando-transicoes-com-vue-2/",
+  "type": "artigo",
+  "tags": [
+    "animation",
+    "transição"
+  ],
+  "author": {
+    "name": "Daniel Schmitz",
+    "url": "http://www.vuejs-brasil.com.br/author/daniel-schmitz/"
+  }
+}, {
+  "name": "Filtros no Vue.js 2.0",
+  "url": "http://www.vuejs-brasil.com.br/filtros-no-vue-js-2-0/",
+  "type": "artigo",
+  "tags": [
+    "filter"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
+}, {
+    "name": "Curso completo sobre Vue.js 2.0",
+    "url": "http://www.vuejs-brasil.com.br/serie-de-videos-sobre-o-vue-js-2-0-2/",
+    "type": "video",
+    "tags": [
+      "curso",
+      "screencast"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Render Functions no Vue.js 2.0",
+    "url": "http://www.vuejs-brasil.com.br/render-functions-no-vue-js-2-0/",
+    "type": "artigo",
+    "tags": [
+      "render functions"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Testando sua aplicação Vue.js",
+    "url": "http://www.vuejs-brasil.com.br/testando-sua-aplicacao-vue-js/",
+    "type": "artigo",
+    "tags": [
+      "testes",
+      "TDD",
+      "BDD"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Diretivas no Vue.js #1",
+    "url": "http://www.vuejs-brasil.com.br/diretivas-no-vue-js-1-2/",
+    "type": "artigo",
+    "tags": [
+      "diretivas"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Diretivas no Vue.js #2",
+    "url": "http://www.vuejs-brasil.com.br/diretivas-no-vue-js-2/",
+    "type": "artigo",
+    "tags": [
+      "diretivas"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Criando plugins para Vue.js",
+    "url": "http://www.vuejs-brasil.com.br/criando-plugins-para-o-vue-js/",
+    "type": "artigo",
+    "tags": [
+      "plugins"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Como funciona a reatividade no Vue.js",
+    "url": "http://www.vuejs-brasil.com.br/como-funciona-a-reatividade-no-vue-js/",
+    "type": "artigo",
+    "tags": [
+      "reatividade",
+      "data-binding"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Igor Luíz",
+      "url": "http://igorluiz.me/"
+    }
+}, {
+    "name": "Testes automatizados com Avoriaz",
+    "url": "http://www.vuejs-brasil.com.br/vue-avoriaz/",
+    "type": "artigo",
+    "tags": [
+      "testes",
+      "unidade",
+      "testes automatizados"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Leonardo Vilarinho",
+      "url": "http://github.com/leonardovilarinho"
+    }
+}, {
+    "name": "Vue 2 no mundo mobile com Quasar",
+    "url": "http://www.vuejs-brasil.com.br/vue-quasar/",
+    "type": "artigo",
+    "tags": [
+      "mobile",
+      "quasar",
+      "hibrido"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Leonardo Vilarinho",
+      "url": "http://github.com/leonardovilarinho"
+    }
+}, {
+    "name": "ACL no Vue 2",
+    "url": "http://www.vuejs-brasil.com.br/acl-vue/",
+    "type": "artigo",
+    "tags": [
+      "acl",
+      "segurança",
+      "multi-usuários"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Leonardo Vilarinho",
+      "url": "http://github.com/leonardovilarinho"
+    }
+}, {
+    "name": "Plugin de multi idiomas",
+    "url": "https://github.com/leonardovilarinho/vue-multilanguage/",
+    "type": "pacote",
+    "tags": [
+      "internacionalização",
+      "plugin",
+      "github"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Leonardo Vilarinho",
+      "url": "http://github.com/leonardovilarinho"
+    }
 }]

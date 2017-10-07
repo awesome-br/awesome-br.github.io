@@ -1,4 +1,17 @@
 [{
+  "name": "Você utiliza will-change property?",
+  "url": "https://medium.com/@gabrielferreiraa/voc%C3%AA-utiliza-will-change-property-fea4e7a33305#.rqcx4bm2v",
+  "type": "dica",
+  "tags": [
+    "css",
+    "animacao",
+    "performance"
+  ],
+  "author": {
+    "name": "Gabriel Ferreira",
+    "url": "https://github.com/gabrielferreiraa"
+  }
+}, {
   "name": "Curso SASS",
   "url": "https://www.youtube.com/watch?v=t-miMAgiRlw&list=PLXFk6ROPeWoCZsq7hk7jJIUFMpLqkPqZv",
   "type": "video",
@@ -432,5 +445,18 @@
   "author": {
     "name": "Eduardo Rabelo",
     "url": "https://medium.com/@oieduardorabelo"
+  }
+}, {
+  "name": "PostCSS",
+  "url": "https://blog.mywork.art.br/postcss/",
+  "type": "video",
+  "tags": [
+    "iniciante",
+    "pós-processador",
+    "gulpfile"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
   }
 }]

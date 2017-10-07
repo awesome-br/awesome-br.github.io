@@ -127,4 +127,19 @@
     "python", "playlist",
     "SO"
   ]
-}]
+},
+{
+  "name": "A História do Python",
+  "url": "https://www.youtube.com/watch?v=G4AxB-I86Hk",
+  "type": "vídeo",
+  "tags": [
+    "introdução",
+    "história",
+    "python"
+  ],
+  "author": {
+    "name": "Vinicius Mesel",
+    "url": "https://www.zonadedados.com"
+  }
+}
+]

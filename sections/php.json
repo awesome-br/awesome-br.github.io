@@ -6,6 +6,30 @@
     "documentação"
   ]
 }, {
+  "name": "Implementando o AdminLTE no Laravel 5.4",
+  "url": "https://medium.com/trainingcenter/php-implementando-o-adminlte-no-laravel-5-4-c283228d8c0f",
+  "type": "artigo",
+  "tags": [
+    "laravel",
+    "adminLTE"
+  ],
+  "author": {
+    "name": "Victor Hugo I. Rocha",
+    "url": "http://victorhugorocha.tk"
+  }
+}, {
+  "name": "Criando um CRUD Básico com Laravel 5.4",
+  "url": "https://medium.com/trainingcenter/php-criando-um-crud-b%C3%A1sico-com-laravel-5-4-f17afe11c66e",
+  "type": "artigo",
+  "tags": [
+    "laravel",
+    "crud"
+  ],
+  "author": {
+    "name": "Victor Hugo I. Rocha",
+    "url": "http://victorhugorocha.tk"
+  }
+}, {
   "name": "7 funções essenciais do PHP que você deve conhecer",
   "url": "http://tableless.com.br/7-funcoes-essenciais-php-que-voce-deve-conhecer/",
   "type": "artigo",
@@ -113,7 +137,7 @@
   }
 }, {
   "name": "Iniciando com o AWS SDK no Symfony",
-  "url": "https://merorafael.wordpress.com/2016/03/25/iniciando-com-o-aws-sdk-no-symfony/",
+  "url": "https://medium.com/@merorafael/iniciando-com-o-aws-sdk-no-symfony-55316eeb709d",
   "type": "artigo",
   "tags": [
     "php",
@@ -122,11 +146,11 @@
   ],
   "author": {
     "name": "Rafael Mello",
-    "url": "https://merorafael.wordpress.com/"
+    "url": "https://br.linkedin.com/in/merorafael"
   }
 }, {
   "name": "Armazenando sessão do Symfony no AWS DynamoDB",
-  "url": "https://merorafael.wordpress.com/2016/03/30/armazenando-sessao-do-symfony-no-aws-dynamodb/",
+  "url": "https://medium.com/@merorafael/armazenando-sessão-do-symfony-no-aws-dynamodb-7bdf4ea94925",
   "type": "artigo",
   "tags": [
     "php",
@@ -136,7 +160,90 @@
   ],
   "author": {
     "name": "Rafael Mello",
-    "url": "https://merorafael.wordpress.com/"
+    "url": "https://br.linkedin.com/in/merorafael"
+  }
+}, {
+  "name": "Introdução ao Twig",
+  "url": "https://medium.com/@merorafael/introdução-ao-twig-415b0ede920c",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "twig",
+    "symfony",
+    "laravel",
+    "zend"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://br.linkedin.com/in/merorafael"
+  }
+}, {
+  "name": "Doctrine ORM",
+  "url": "https://speakerdeck.com/merorafael/doctrine-orm",
+  "type": "slide",
+  "tags": [
+    "php",
+    "doctrine"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://br.linkedin.com/in/merorafael"
+  }
+}, {
+  "name": "Doctrine ORM - parte 1",
+  "url": "https://medium.com/@merorafael/doctrine-orm-parte-1-d7b83fc5951a",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "doctrine",
+    "symfony",
+    "zend"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://br.linkedin.com/in/merorafael"
+  }
+}, {
+  "name": "Doctrine ORM - parte 2",
+  "url": "https://medium.com/@merorafael/doctrine-orm-parte-2-3a9b6d8be3f",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "doctrine",
+    "symfony",
+    "zend"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://br.linkedin.com/in/merorafael"
+  }
+}, {
+  "name": "Doctrine ORM - parte 3",
+  "url": "https://medium.com/@merorafael/doctrine-orm-parte-3-9645531da7f8",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "doctrine",
+    "symfony",
+    "zend"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://br.linkedin.com/in/merorafael"
+  }
+}, {
+  "name": "Doctrine naming strategy",
+  "url": "https://medium.com/@merorafael/doctrine-naming-strategy-5bd0f46d8510",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "doctrine",
+    "symfony",
+    "zend"
+  ],
+  "author": {
+    "name": "Rafael Mello",
+    "url": "https://br.linkedin.com/in/merorafael"
   }
 }, {
   "name": "OMR (Optical Mark Recognition) com o PHP",
@@ -336,5 +443,46 @@
   "author": {
     "name": "Leandro Henrique Reis",
     "url": "https://github.com/emtudo"
+    }
+},{
+  "name": "Criando sistema de permissões modular com bitwise",
+  "url": "https://medium.com/@omarkdev/criando-sistema-de-permiss%C3%B5es-modular-com-bitwise-54314522148a#.d3hqg5wf5",
+  "type": "artigo",
+  "tags": [
+    "php",
+    "laravel",
+    "bitwise",
+    "permissões",
+    "modular"
+  ],
+  "author": {
+    "name": "Marcos Felipe",
+    "url": "https://github.com/omarkdev"
+    }
+}, {
+    "name": "Iniciando Com API do Facebook",
+    "url": "https://www.youtube.com/playlist?list=PLjnUBzvAbOCJWseWxMX_WbvDpqYIdv9qE",
+    "type": "curso",
+    "tags": [
+      "API Facebook",
+      "DSK PHP",
+      "PHP"
+    ],
+    "author": {
+      "name": "Alex Nascimento",
+      "url": "http://alexnascimento.com.br/"
+    }
+  }, {
+    "name": "PHP “like a boss” [2]: Crie seu QueryBuilder",
+    "url": "https://phpzm.rocks/php-like-a-boss-2-crie-seu-querybuilder-af430b4125f9",
+    "type": "artigo",
+    "tags": [      
+      "PHP"
+    ],
+    "author": {
+      "name": "William Correa",
+      "url": "https://phpzm.rocks"
+    }
   }
-}]
+]
+

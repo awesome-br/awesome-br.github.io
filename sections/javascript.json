@@ -611,4 +611,92 @@
     "name": "Leonardo Moura Leitão",
     "url": "https://www.youtube.com/c/aulasdeprogramacao"
   }
+}, {
+  "name": "Prototype JS para PHP Developers",
+  "url": "https://medium.com/@omarkdev/prototype-js-para-php-developers-67ed91bf5434#.vhrzv2fhf",
+  "type": "artigo",
+  "tags": [
+    "prototype",
+    "php to js"
+  ],
+  "author": {
+    "name": "Marcos Felipe",
+    "url": "https://github.com/omarkdev"
+  }
+}, {
+  "name": "Módulos JavaScript: Um Guia Para Iniciantes",
+  "url": "https://medium.com/@dejaneves/m%C3%B3dulos-javascript-um-guia-para-iniciantes-143a8bae6c78#.6e7114yhx",
+  "type": "artigo",
+  "tags": [
+    "boas práticas",
+    "módulos javascript",
+    "padrão de módulos"
+  ],
+  "author": {
+    "name": "Jaime Neves",
+    "url": "http://jaimeneves.com.br"
+  }
+}, {
+  "name": "Entenda de uma vez por todas o que é React.JS, Angular 2, Aurelia e Vue.JS",
+  "url": "https://medium.com/by-vinicius-reis/o-que-e-react-ng2-auleria-vue-e34b0c77b5a1",
+  "type": "artigo",
+  "tags": [
+    "frameworks",
+    "aurelia",
+    "react",
+    "angular",
+    "vue.js",
+    "vue"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://medium.com/@luizvinicius73"
+  }
+}, {
+  "name": "Single Page Applications: Onde vivem e o que comem",
+  "url": "https://blog.codecasts.com.br/single-page-applications-onde-vivem-e-o-que-comem-4fc9a44f3de",
+  "type": "artigo",
+  "tags": [
+    "frameworks",
+    "spa"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://medium.com/@luizvinicius73"
+  }
+}, {
+  "name": "Trabalhando com serviços no Javascript",
+  "url": "https://medium.com/by-vinicius-reis/trabalhando-com-servicos-no-javascript-864310cf386c",
+  "type": "artigo",
+  "tags": [
+    "services",
+    "design pattern"
+  ],
+  "author": {
+    "name": "Vinicius Reis",
+    "url": "https://medium.com/@luizvinicius73"
+  }
+}, {
+  "name": "Serie sobre Design Patterns com Javascript",
+  "url": "https://blog.mywork.art.br/javascript-design-patterns/",
+  "type": "artigo",
+  "tags": [
+    "design patterns"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
+}, {
+  "name": "Entendendo o Constructor Pattern no Javascript",
+  "url": "https://blog.mywork.art.br/constructor-pattern/",
+  "type": "artigo",
+  "tags": [
+    "design patterns",
+    "constructor pattern"
+  ],
+  "author": {
+    "name": "Igor Luíz",
+    "url": "http://igorluiz.me/"
+  }
 }]
