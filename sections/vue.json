@@ -37,7 +37,7 @@
   }
 }, {
   "name": "Guia Oficial Traduzido",
-  "url": "http://vuejs-br.github.io/vuejs.org/guide/",
+  "url": "https://br.vuejs.org/v2/guide/",
   "type": "tutorial",
   "tags": [
     "vue.js"
