@@ -39,4 +39,20 @@
     "name": "Vinicius Oliveira Ferreira",
     "url": "https://br.linkedin.com/in/viniciusoferreira"
   }
+}, {
+  "name": "CI - Integração Contínua Sem Desculpa",
+  "url": "https://ci.mrprompt.com.br",
+  "type": "livro",
+  "tags": [
+    "CI",
+    "CD",
+    "Ferramentas",
+    "Integração",
+    "Entrega",
+    "Contínua"
+  ],
+  "author": {
+    "name": "Thiago Paes",
+    "url": "https://www.mrprompt.com.br"
+  }
 }]
