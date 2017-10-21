@@ -20,4 +20,18 @@
     "name": "Fabio Vedovelli",
     "url": "https://www.youtube.com/user/vedovelli/videos"
   }
+}, {
+  "name": "Ember.js Conheça o framework para aplicações web ambiciosas",
+  "url": "https://www.casadocodigo.com.br/products/livro-ember-js",
+  "type": "livro",
+  "paid": true,
+  "tags": [
+    "EmberJS",
+    "Javascript",
+    "ebook"
+  ],
+  "author": {
+    "name": "Clairton Rodrigo",
+    "url": "http://clairton.eti.br/"
+  }
 }]
