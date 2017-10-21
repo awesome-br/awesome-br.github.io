@@ -83,5 +83,18 @@
     "name": "Bruno Volcov",
     "url": "https://twitter.com/brunovolcov"
   }
+},{
+  "name": "Elixir Do zero à concorrência ",
+  "url": "https://www.casadocodigo.com.br/products/livro-elixir",
+  "type": "livro",
+  "tags": [
+    "introdução",
+    "ebook"
+  ],
+  "paid": true,
+  "author": {
+    "name": "Tiago Davi",
+    "url": "https://tiagodavi.github.io/"
+  }
 }
 ]
