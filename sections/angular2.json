@@ -107,4 +107,18 @@
     "name": "Jayr Alencar",
     "url": "http://jayralencar.com.br"
   }
+}, {
+  "name": "Crie aplicações com Angular O novo framework do Google",
+  "url": "https://www.casadocodigo.com.br/products/livro-angular",
+  "type": "livro",
+  "paid": true,
+  "tags": [
+    "Angular",
+    "Javascript",
+    "ebook"
+  ],
+  "author": {
+    "name": "Thiago Guedes",
+    "url": "https://github.com/thiagoguedes99"
+  }
 }]
