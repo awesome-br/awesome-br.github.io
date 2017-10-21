@@ -106,6 +106,11 @@
   "type": "Marcação de texto",
   "tags": []
 }, {
+  "name": "Ionic",
+  "url": "#/ionic",
+  "type": "Desenvolvimento Híbrido",
+  "tags": []
+}, {
   "name": "Laravel",
   "url": "#/laravel",
   "type": "PHP Framework",
