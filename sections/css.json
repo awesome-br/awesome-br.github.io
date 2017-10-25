@@ -459,4 +459,17 @@
     "name": "Igor Luíz",
     "url": "http://igorluiz.me/"
   }
+}, {
+  "name": "O que é Design Atômico?",
+  "url": "https://tableless.com.br/o-que-e-design-atomic/",
+  "type": "artigo",
+  "tags": [
+    "design",
+    "atomico",
+    "css"
+  ],
+  "author": {
+    "name": "Dani Guerrato",
+    "url": "https://tableless.com.br/author/dani-guerrato/"
+  }
 }]
