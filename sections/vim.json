@@ -90,4 +90,15 @@
     "name": "Renato Suero",
     "url": "http://www.twitter.com/@renatosuero"
   }
+}, {
+  "name": "Vimux - Integrando o Tmux no vim",
+  "url": "https://medium.com/@renatosuero/vimux-integrando-o-tmux-no-vim-15719b9f3be",
+  "type": "tutorial",
+  "tags": [
+    "tutoriais", "dicas"
+  ],
+  "author": {
+    "name": "Renato Suero",
+    "url": "http://www.twitter.com/@renatosuero"
+  }
 }]
