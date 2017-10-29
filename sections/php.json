@@ -476,13 +476,48 @@
     "name": "PHP “like a boss” [2]: Crie seu QueryBuilder",
     "url": "https://phpzm.rocks/php-like-a-boss-2-crie-seu-querybuilder-af430b4125f9",
     "type": "artigo",
-    "tags": [      
+    "tags": [
       "PHP"
     ],
     "author": {
       "name": "William Correa",
       "url": "https://phpzm.rocks"
     }
+  },
+  {
+    "name": "Verificando código duplicado em PHP com PHPCPD",
+    "url": "https://medium.com/@mayronceccon/verificando-c%C3%B3digo-duplicado-em-php-com-phpcpd-c30fbc482b9b",
+    "type": "artigo",
+    "tags": [
+      "PHP"
+    ],
+    "author": {
+      "name": "Mayron Ceccon",
+      "url": "https://github.com/mayronceccon"
+    }
+  },
+  {
+    "name": "Detectando potenciais problemas em códigos PHP com PHPMD",
+    "url": "https://medium.com/@mayronceccon/detectando-potenciais-problemas-em-c%C3%B3digos-php-com-phpmd-52a879553cea",
+    "type": "artigo",
+    "tags": [
+      "PHP"
+    ],
+    "author": {
+      "name": "Mayron Ceccon",
+      "url": "https://github.com/mayronceccon"
+    }
+  },
+  {
+    "name": "Inconsistências em códigos PHP de acordo com um padrão definido — PHPCS",
+    "url": "https://medium.com/@mayronceccon/inconsist%C3%AAncias-em-c%C3%B3digos-php-de-acordo-com-um-padr%C3%A3o-definido-phpcs-f3c5c358b561",
+    "type": "artigo",
+    "tags": [
+      "PHP"
+    ],
+    "author": {
+      "name": "Mayron Ceccon",
+      "url": "https://github.com/mayronceccon"
+    }
   }
 ]
-
