@@ -10,4 +10,33 @@
     "name": "Gileno Filho",
     "url": "https://github.com/gileno"
   }
-}]
+},
+{
+  "name": "Class Based Views no Django",
+  "url": "https://medium.com/nossa-coletividad/class-based-views-no-django-d76b01ed644e",
+  "type": "artigo",
+  "tags": [
+    "django"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Leticia Portella",
+    "url": "http://leportella.com/"
+  }
+},
+{
+  "name": "Guia para Deploy Django Python 3",
+  "url": "https://fernandofreitasalves.com/guia-para-deploy-django-python/",
+  "type": "artigo",
+  "tags": [
+    "python",
+    "django",
+    "virtualenv"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Fernando Alves",
+    "url": "https://fernandofreitasalves.com/"
+  }
+}
+]

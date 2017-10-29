@@ -141,5 +141,18 @@
     "name": "Vinicius Mesel",
     "url": "https://www.zonadedados.com"
   }
+},
+{
+  "name": "Transformando dicionários em tuplas nomeadas",
+  "url": "https://medium.com/@csantosmachado/transformando-dicion%C3%A1rios-em-tuplas-nomeadas-6a25da093c6a",
+  "type": "artigo",
+  "tags": [
+    "python"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Andre Machado",
+    "url": "https://andresmachado.github.io/"
+  }
 }
 ]
