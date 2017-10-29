@@ -409,4 +409,19 @@
       "name": "Leonardo Vilarinho",
       "url": "http://github.com/leonardovilarinho"
     }
+}, {
+  "name": "Vue.js Construa aplicações incríveis",
+  "url": "https://www.casadocodigo.com.br/products/livro-vue",
+  "type": "livro",
+  "paid": true,
+  "tags": [
+    "vue",
+    "vuex",
+    "vue-router",
+    "ebook"
+  ],
+  "author": {
+    "name": "Caio Incau",
+    "url": "https://twitter.com/icaioincau"
+  }
 }]
