@@ -123,7 +123,7 @@
     "url": "http://www.vuejs-brasil.com.br/author/vinicius/"
   }
 }, {
-  "name": "Vue.js e Serviços",
+  "name": "Vue.js: Trabalhando com Serviços",
   "url": "https://blog.codecasts.com.br/vue-js-e-servicos-4d4439320a2",
   "type": "artigo",
   "tags": [
@@ -424,4 +424,43 @@
     "name": "Caio Incau",
     "url": "https://twitter.com/icaioincau"
   }
+}, {
+    "name": "Arquitetura de projetos Vue.js com DDD",
+    "url": "https://blog.codecasts.com.br/arquitetura-de-projetos-vue-js-com-ddd-a2bc26817793",
+    "type": "artigo",
+    "tags": [
+      "projetos",
+      "architecture"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Vinicius Reis",
+      "url": "https://medium.com/@luizvinicius73"
+    }
+}, {
+    "name": "Por que Vue.js e não React?",
+    "url": "https://blog.codecasts.com.br/por-que-vue-js-e-nao-react-d5b58c09d193",
+    "type": "artigo",
+    "tags": [
+      "react",
+      "comparacao"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Vinicius Reis",
+      "url": "https://medium.com/@luizvinicius73"
+    }
+}, {
+    "name": "E se o Vue.js fosse descontinuado?",
+    "url": "https://blog.codecasts.com.br/e-se-o-vue-js-fosse-descontinuado-6ba56eb5a751",
+    "type": "artigo",
+    "tags": [
+      "comunidade",
+      "open-source"
+    ],
+    "paid": false,
+    "author": {
+      "name": "Vinicius Reis",
+      "url": "https://medium.com/@luizvinicius73"
+    }
 }]
