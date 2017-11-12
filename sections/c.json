@@ -8,4 +8,16 @@
   "author": {
     "name": "Mente Binária - mentebinaria.com.br"
   }
-}]
+},
+{
+  "name": "Programar em C",
+  "url": "https://www.youtube.com/watch?v=VnH7OVFj_pA&list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW",
+  "type": "curso",
+  "tags": [
+    "C", "playlist"
+  ],
+  "author": {
+    "name": "De aluno para aluno - https://dealunoparaaluno.wordpress.com/"
+  }
+}
+]
