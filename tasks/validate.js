@@ -15,8 +15,8 @@ var validateTypes = function(json, file) {
 
   var message;
   var types = _.chain(json)
-    .pluck('type')
-    .unique()
+    .map('type')
+    .uniq()
     .value();
 
   types.forEach(function (type) {
