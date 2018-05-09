@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/awesome-br/awesome-br.github.io#readme",
   "dependencies": {
-    "http-server": "^0.8.5"
+    "http-server": "^0.11.1"
   },
   "devDependencies": {
     "jlint": "^3.0.2",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.10",
     "pretty-log": "^0.1.0"
   }
 }
