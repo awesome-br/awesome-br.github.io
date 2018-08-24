@@ -35,4 +35,16 @@
   "author": {
     "name": "Alan Lira"
   }
+},
+{
+  "name": "Autenticação JWT com CakePHP 3",
+  "url": "https://medium.com/@guilhermerodriguestb/https-medium-com-guilhermerodriguestb-jwt-cakephp-33fe10fb99f4",
+  "type": "tutorial",
+  "tags": [
+    "cakephp", "dicas", "documentacao", "jwt", "autenticação"
+  ],
+  "paid": false,
+  "author": {
+    "name": "Guilherme Henrique Rodrigues"
+  }
 }]
