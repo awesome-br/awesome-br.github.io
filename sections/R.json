@@ -1,7 +1,7 @@
 [{
     "name": "Introduction to R",
     "url": "https://www.datacamp.com/courses/free-introduction-to-r",
-    "type": "Curso",
+    "type": "curso",
     "tags": [
       "RStudio",
       "R",
