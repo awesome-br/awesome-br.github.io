@@ -146,6 +146,11 @@
   "type": "Linguagem de programação",
   "tags": []
 }, {
+  "name": "R",
+  "url": "#/R",
+  "type": "Linguagem de programação",
+  "tags": []
+}, {
   "name": "React",
   "url": "#/react",
   "type": "Biblioteca Javascript",
