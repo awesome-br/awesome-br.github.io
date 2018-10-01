@@ -154,5 +154,13 @@
     "name": "Andre Machado",
     "url": "https://andresmachado.github.io/"
   }
+},
+{
+  "name": "Aulas Python",
+  "url": "https://www.youtube.com/watch?v=lJjR906426o&list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe",
+  "type": "playlist",
+  "tags": [
+    "python"
+  ]
 }
 ]
