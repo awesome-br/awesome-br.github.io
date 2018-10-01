@@ -158,9 +158,9 @@
 {
   "name": "Aulas Python",
   "url": "https://www.youtube.com/watch?v=lJjR906426o&list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe",
-  "type": "playlist",
+  "type": "curso",
   "tags": [
-    "python"
+    "python", "playlist"
   ]
 }
 ]
