@@ -23,6 +23,7 @@ module.exports = Object.freeze({
       "hangout",
       "slideshare",
       "apostila",
-      "site"
+      "site",
+      "ferramenta"
     ]
 });

@@ -263,7 +263,7 @@
 }, {
   "name": "Docusaurus - Ferramenta open source do facebook para documentação",
   "url": "https://docusaurus.io/en/",
-  "type": "documentação",
+  "type": "ferramenta",
   "tags": [
     "react",
     "documentação",
@@ -271,6 +271,6 @@
   ],
   "author": {
     "name": "facebook",
-    "url": "https://github.com/facebook"
+    "url": "https://github.com/facebook/Docusaurus"
   }
 }]
