@@ -56,7 +56,7 @@ Após instalar o `node` e o `npm`, instale as dependências (`http-server`) atra
 
 A resposta que terá é algo semelhante a:
 
-```
+```bash
 Starting up http-server, serving ./
 Available on:
   http:127.0.0.1:8081
