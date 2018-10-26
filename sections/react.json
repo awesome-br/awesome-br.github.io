@@ -260,4 +260,17 @@
     "name": "Pedro Nauck",
     "url": "http://github.com/pedronauck"
   }
+}, {
+  "name": "Docusaurus - Ferramenta open source do facebook para documentação",
+  "url": "https://docusaurus.io/en/",
+  "type": "ferramenta",
+  "tags": [
+    "react",
+    "documentação",
+    "open source"
+  ],
+  "author": {
+    "name": "facebook",
+    "url": "https://github.com/facebook/Docusaurus"
+  }
 }]
