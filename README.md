@@ -1,7 +1,7 @@
 
-# [awesome-br.com](http://awesome-br.com)
+# [awesome-br.github.io](http://awesome-br.github.io)
 
-![](http://awesome-br.com/screenshot.png?new)
+![](http://awesome-br.github.io/screenshot.png?new)
 
 [![Build Status](https://travis-ci.org/awesome-br/awesome-br.github.io.svg?branch=master)](https://travis-ci.org/awesome-br/awesome-br.github.io)
 
@@ -10,7 +10,7 @@
   - [Como Participar](#como-participar)
   - [Como testar o awesome no seu computador](#como-testar-o-awesome-no-seu-computador)
   - [Como usar a CLI](https://github.com/welksonramos/awesome-br-cli)
-  - [Conheça os colaboradores](http://awesome-br.com/#/colaboradores)
+  - [Conheça os colaboradores](http://awesome-br.github.io/#/colaboradores)
 
 ## Nossa Proposta
 
@@ -85,5 +85,5 @@ Markdown:
 HTML:
 
 ```
-<a href="http://awesome-br.com/#/laravel"><img src="https://img.shields.io/badge/awesome--br.com-laravel-red.svg" alt="Awesome BR - Laravel" /></a>
+<a href="http://awesome-br.github.io/#/laravel"><img src="https://img.shields.io/badge/awesome--br.com-laravel-red.svg" alt="Awesome BR - Laravel" /></a>
 ```
