@@ -1,4 +1,25 @@
 [{
+  "name": "Curso de JavaScript fundamentos",
+  "url": "https://www.youtube.com/watch?v=vrSEt5J4q2Y&list=PLbA-jMwv0cuWbas947cygrzfzHIc7esmp",
+  "type": "curso",
+  "paid": false,
+  "tags": [
+    "curso",
+    "conceitos",
+    "youtube",
+    "2019",
+    "tutorial",
+    "es6",
+    "js",
+    "javascript",
+    "screencast"
+  ],
+  "author": {
+    "name": "Ayrton Teshima",
+    "url": "https://youtube.com/c/programadorabordo"
+  }
+},
+  {
   "name": "Usando Spread Operator do ES6",
   "url": "https://udgwebdev.com/usando-spread-operator-do-es6",
   "type": "artigo",
