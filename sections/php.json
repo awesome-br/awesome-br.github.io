@@ -519,5 +519,17 @@
       "name": "Mayron Ceccon",
       "url": "https://github.com/mayronceccon"
     }
+  },
+  {
+    "name": "Como aumentar o desempenho na busca de objetos",
+    "url": "http://www.dalloglio.net/139?banco-de-dados-em-memoria-nao-cache-de-objetos",
+    "type": "artigo",
+    "tags": [
+      "PHP"
+    ],
+    "author": {
+      "name": "Pablo Dall'Oglio",
+      "url": "http://www.dalloglio.net/"
+    }
   }
 ]
