@@ -780,7 +780,7 @@
   },
   {
     "name": "Entendendo Javascript",
-    "url": "https://rocketseat.com.br/",
+    "url": "https://rocketseat.com.br/starter/curso-gratuito-javascript",
     "type": "curso",
     "tags": [
       "introdução",
@@ -789,6 +789,24 @@
       "2019",
       "js",
       "javascript"
+    ],
+    "author": {
+      "name": "Jair Anderson Souza",
+      "url": "https://www.github.com/jass2125/"
+    }
+  },
+  {
+    "name": "Entendendo Ecmascript6",
+    "url": "https://rocketseat.com.br/starter/curso-gratuito-javascript-es6",
+    "type": "curso",
+    "tags": [
+      "introdução",
+      "curso",
+      "conceitos",
+      "2019",
+      "js",
+      "javascript",
+      "es6"
     ],
     "author": {
       "name": "Jair Anderson Souza",
