@@ -162,5 +162,17 @@
   "tags": [
     "python", "playlist"
   ]
+},
+{
+  "name": "Curso Intensivo de Python: Uma introdução prática e baseada em projetos à programação",
+  "url": "https://novatec.com.br/livros/curso-intensivo-python/",
+  "type": "livro",
+  "tags": [
+    "introdução", "curso", "básico", "livro", "ebook"
+  ],
+  "author": {
+    "name": "Eric Matthes",
+    "url": "https://peak5390.wordpress.com/about/"
+  }
 }
 ]
