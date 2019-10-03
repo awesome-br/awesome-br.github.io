@@ -71,5 +71,14 @@
   "author": {
     "name": "Julio Cezar Dourado",
     "url": "http://jcdourado.github.io/"
-  }
+    }
+  }, {
+    "name": "Curso de Java para Iniciantes - Grátis, Completo e com Certificado",
+    "url": "https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR",
+    "type": "vídeo",
+    "tags": ["java", "playlist", "curso em video"],
+    "author": {
+      "name": "Curso em Video",
+      "url": "https://www.youtube.com/user/cursosemvideo/playlists"
+    }
 }]
