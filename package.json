@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "jlint": "^3.0.2",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "pretty-log": "^0.1.0"
   }
 }
