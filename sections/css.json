@@ -471,5 +471,16 @@
   "author": {
     "name": "Dani Guerrato",
     "url": "https://tableless.com.br/author/dani-guerrato/"
+  }, {
+  "name": "Torne-se um Ninja em CSS",
+  "url": "https://biancapereira.github.io/ninja-em-css/",
+  "type": "guia",
+  "tags": [
+    "trilha-de-estudos",
+    "css"
+  ],
+  "author": {
+    "name": "Bianca Pereira",
+    "url": "https://github.com/BiancaPereira"
   }
 }]
